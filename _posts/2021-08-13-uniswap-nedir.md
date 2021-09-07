@@ -52,7 +52,7 @@ Likiditeyi anlamak için bir örnek üzerinden gidelim: Bir sokak pazarında bir
 	<li>İşlemin bir ön izleme penceresi görünecek ve ERC-20 cüzdanınızda işlemi onaylamanız gerekecektir.</li>
 	<li>İşlemin Ethereum blok zincirine eklenmesini bekleyin. İşlem kimliğini kopyalayıp <a href="https://etherscan.io/">https://etherscan.io/</a> adresine yapıştırarak ilerlemesini kontrol edebilirsiniz. İşlem kimliği, gönderilen işlem geçmişinizde işlemi bularak cüzdanınızda mevcut olacaktır.</li>
 </ol>
-	<picture>
+<picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-3.jpg">
   <img src="/assets/img/posts-img/uni/uniswap3.jpg" style="width:auto;">
 </picture>
