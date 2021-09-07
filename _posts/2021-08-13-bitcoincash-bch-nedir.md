@@ -23,6 +23,7 @@ paginate: true
 		<li style="padding: 2px;"><a href="#bch6">3. Acil Zorluk Ayarı (EDA)</a></li>
 	</ul>
 	<li style="padding: 2px;"><a href="#bch7">Nasıl Bitcoin Cash Alınır?</a></li>
+</ol>
 <h1 id="bch1">Bitcoin Cash (BCH) Nedir?</h1>
 <blockquote cite="https://bitcoincash.org/">Bitcoin Cash, Bitcoin'in "Eşler Arası Elektronik Nakit" olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor. Tüccarlar ve kullanıcılar, düşük ücretler ve güvenilir onaylarla desteklenir. Sınırsız büyüme, küresel benimseme, izinsiz yenilik ve merkezi olmayan geliştirme ile gelecek parlak bir şekilde parlıyor.</blockquote> 
 <p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan hard fork sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p> 

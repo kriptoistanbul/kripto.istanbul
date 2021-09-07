@@ -31,6 +31,7 @@ paginate: true
 			<li style="padding: 2px;"><a href="#15">Market Riski</a></li>
 		</ul>
 	<li style="padding: 2px;"><a href="#16">Bitcoin SSS</a></li>
+</ol>
 
 <h1 id="1">Bitcoin Nedir?</h1>
   <blockquote cite="bitcoin.org">Bitcoin, yeni bir ödeme sistemi ve tamamen dijital bir para sağlayan bir fikir birliği ağıdır. Merkezi otorite veya aracı olmadan kullanıcıları tarafından desteklenen ilk merkezi olmayan eşler arası ödeme ağıdır. Kullanıcı açısından bakıldığında, Bitcoin internet için nakit paraya çok benzer. Bitcoin ayrıca var olan en belirgin üçlü girişli defter tutma sistemi olarak da görülebilir.</blockquote>

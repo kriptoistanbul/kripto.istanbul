@@ -30,6 +30,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#dot14">Polkadot ATM'leri</a></li>
 	<li style="padding: 2px;"><a href="#dot15">Polkadot'a Son Bir Bakış</a></li>
 	<li style="padding: 2px;"><a href="#dot16">Polkadot SSS</a></li>
+</ol>
 <h1 id="dot1">Polkadot (DOT) Nedir?</h1>
 <blockquote cite="https://polkadot.network/">Polkadot, çeşitli blok zincirlerinin mesajlarını güvenden bağımsız bir şekilde iletmesine izin veren bir platformdur. Blok zincirlerin güvenliklerini bir araya getirirken benzersiz özelliklerini paylaşır. Kısaca Polkadot, ölçeklenebilir, heterojen, çok zincirli bir teknolojidir.</blockquote> 
 <p>Polkadot, özel veya önceden oluşturulmuş bileşenlerden oluşan uyumlu ve amaca yönelik blok zincirlerinin oluşturulmasını sağlayan bir çerçeve olan Substrate kullanılarak oluşturulmuş, sonraki web için ölçeklenebilir, güvenli ve merkezi olmayan bir çok zincirli ağdır.</p> 

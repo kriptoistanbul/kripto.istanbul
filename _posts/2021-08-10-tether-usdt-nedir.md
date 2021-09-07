@@ -19,6 +19,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#usdt3">Tether ile Amerikan Doları Takas Edilebilir Mi?</a></li>
 	<li style="padding: 2px;"><a href="#usdt4">Tether Konusundaki İhtilaf</a></li>
 	<li style="padding: 2px;"><a href="#usdt5">Tether Hakkında Sıkça Sorulan Sorular(SSS)</a></li>
+</ol>
 <h1 id="usdt1">Tether (USDT) Nedir?</h1>
 <blockquote cite="https://tether.to/">2014 yılında piyasaya sürülen Tether, fiat para birimlerinin dijital bir şekilde kullanımını kolaylaştırmak için tasarlanmış blok zinciri etkin bir platformdur.</blockquote>
 <p>Tether, dolaşımdaki kripto paraları, belirlenmiş bir banka hesabında tutulan dolar, euro veya Japon yeni gibi eşdeğer miktarda geleneksel fiat para birimleri ile desteklenen blok zinciri tabanlı bir kripto para birimidir. Tether ağının yerel jetonları olan Tether jetonları, USDT sembolü altında işlem görür.</p> 

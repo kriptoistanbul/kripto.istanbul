@@ -30,6 +30,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#eth14">Ethereum Ağı Güvenli Mi?</a></li>
 	<li style="padding: 2px;"><a href="#eth15">Ethereum'a Son Bir Bakış</a></li>
 	<li style="padding: 2px;"><a href="#eth16">Ethereum SSS</a></li>
+</ol>
 <h1 id="eth1">Ethereum (ETH) Nedir?</h1>
 <blockquote cite="https://ethereum.org">Ethereum, kripto para birimine, ethere (ETH) ve binlerce merkezi olmayan uygulamaya güç sağlayan topluluk tarafından işletilen bir teknolojidir.</blockquote>
 <p>Ethereum, küçük bir ücret karşılığında herkese kripto para göndermenizi sağlayan bir teknolojidir. Ayrıca, herkesin kullanabileceği ve kimsenin kaldıramayacağı uygulamalara güç verir. Ayrıca Ethereum, dünyanın programlanabilir blok zinciridir. </p>

@@ -20,6 +20,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#usdc4">USDC USD'ye Çevrilebilir Mi?</a></li>
 	<li style="padding: 2px;"><a href="#usdc5">USD Coin (USDC) Nasıl Kullanılır?</a></li>
 	<li style="padding: 2px;"><a href="#usdc6">USD Coin'i Diğer Stabil Coinlerden Farklı Kılan Şey Nedir?</a></li>
+</ol>
 <h1 id="usdc1">USD Coin (USDC) Nedir?</h1>
 <blockquote cite="https://www.circle.com/en/usdc">USDC, dünyanın en hızlı büyüyen, tamamen düzenlenmiş dolar dijital sabit parasıdır.</blockquote> 
 <p>USD Coin (USDC), ABD dolarına sabitlenmiş nispeten taze bir stabilcoindir. 26 Eylül 2018'de Circle ve Coinbase işbirliği ile başlatılmıştır. USDC, Tether (USDT) veya TrueUSD (TUSD) gibi USD destekli diğer kripto para birimlerine bir alternatiftir.</p>	

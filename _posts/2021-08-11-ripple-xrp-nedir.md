@@ -25,6 +25,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#xrp9">Ripple'a Teknik Bir Bakış: Açık Kaynak Alt Yapısı</a></li>
 	<li style="padding: 2px;"><a href="#xrp10">Güvenlik Açığı, Merkezileştirme ve Rekabet</a></li>
 	<li style="padding: 2px;"><a href="#xrp11">Ripple -XRP- Hakkında Sıkça Sorulan Sorular(SSS)</a></li>
+</ol>
 <h1 id="xrp1">Ripple (XRP) Nedir?</h1>
 <blockquote cite="https://ripple.com/xrp">XRP, ödemeler için oluşturulmuş dijital bir varlıktır. İşlemleri 3-5 saniyede halledebilen açık kaynaklı, izinsiz ve merkezi olmayan bir blok zinciri teknolojisi olan XRP Defterindeki yerel dijital varlıktır.</blockquote>
 <p>Ripple ya da kısaltılmış adıyla XRP, kâr amacı gütmeyen bir teknoloji platformudur ve ayrıca Ripple Labs tarafından geliştirilen bir kripto para birimidir. Şirket, bankalar ve ödeme işlemcileri gibi finans kurumlarına gerçek zamanlı ödeme düzenlemeleri ve döviz bozdurma hizmetleri sağlamaya odaklanmaktadır. Dünya çapında 100'den fazla şirket, hızlı ve sorunsuz işlemleri garanti etmek için Ripple yazılımını benimsemiştir.</p> 

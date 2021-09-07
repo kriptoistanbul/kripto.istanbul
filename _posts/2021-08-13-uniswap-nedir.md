@@ -23,6 +23,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#uni7">Uniswap'in Otomatik Likidite Protokolü</a></li>
 	<li style="padding: 2px;"><a href="#uni8">Uniswap'teToken Fiyatı Nasıl Belirlenir?</a></li>
 	<li style="padding: 2px;"><a href="#uni9">Uniswap'te Arbitraj</a></li>
+</ol>
 <h1 id="uni1">Uniswap (UNI) Nedir?</h1>
 <blockquote cite="https://uniswap.org">Uniswap, likidite oluşturmak ve Ethereum'da ERC-20 token ticareti yapmak için bir protokoldür. Güvenilir aracıları ve gereksiz masraf çıkarma biçimlerini ortadan kaldırarak hızlı ve verimli ticarete olanak tanır. Takas yaptığı yerlerde - ademi merkeziyetçilik, sansür direnci ve güvenliğe öncelik verilir. Uniswap, GPL kapsamında lisanslanan açık kaynaklı bir yazılımdır.</blockquote>
 <p>Uniswap, kısaca söylemek gerekirse, Ethereum blok zinciri üzerinde çalışan ve merkezi olmayan bir kripto para borsasıdır.</p>

@@ -32,6 +32,7 @@ paginate: true
 			<li style="padding: 2px;"><a href="#sol15">Arşivleyiciler → Dağıtılmış Defter Depolama</a></li>
 		</ul>
 	<li style="padding: 2px;"><a href="#sol16">Solana'ya Son Bir Bakış</a></li>
+</ol>
 <h1 id="sol1">Solana (SOL) Nedir?</h1>
 <blockquote cite="https://docs.solana.com/introduction">Solana, yeni, yüksek performanslı, izinsiz bir blok zinciri uygulayan açık kaynaklı bir projedir. Solana Vakfı, merkezi Cenevre, İsviçre'dedir ve açık kaynak projesini sürdürmektedir.</blockquote> 
 <p>Solana, hızlı, güvenli, ölçeklenebilir, merkezi olmayan uygulamalar ve pazarlar sağlayan web ölçekli bir blok zinciridir.</p> 

@@ -22,6 +22,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#doge6">Dogecoin'ler Nerede Saklanır?</a></li>
 	<li style="padding: 2px;"><a href="#doge7">Dogecoin İyi Bir Yatırım mı?</a></li>
 	<li style="padding: 2px;"><a href="#doge8">Dogecoin Satın Almak Mantıklı Mı?</a></li>
+</ol>
 <h1 id="doge1">Dogecoin (DOGE) Nedir? </h1>
 <blockquote cite="https://www.wikiwand.com/en/Dogecoin">Dogecoin, bir ödeme sistemi oluşturmaya karar veren yazılım mühendisleri Billy Markus ve Jackson Palmer tarafından şaka amaçlı yaratılan bir kripto para birimidir.</blockquote>
 <p>Kripto para piyasasına bir şaka olarak giriş yapan ancak şimdi ''Halkın Kripto Parası'' olan Dogecoin, piyasadaki birçok yatırımcının aklını karıştırmaya devam ediyor. Peki nedir bu Dogecoin?</p>

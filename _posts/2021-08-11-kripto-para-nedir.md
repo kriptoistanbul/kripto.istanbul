@@ -35,6 +35,7 @@ paginate: true
 		</ul>
 	<li style="padding: 2px;"><a href="#kp17">Kripto Para Birimlerini Anlamak: Yeni Bir Ekonominin Doğuşu</a></li>
 	<li style="padding: 2px;"><a href="#kp18">Kripto Paralara Son Bir Bakış</a></li>
+</ol>
 <h1 id="kp1">Kripto Para Nedir?</h1>
 <p>Kripto para, finansal işlemleri yürütmek için kriptografik işlevleri kullanan İnternet tabanlı bir değişim aracıdır. Kripto para birimleri, merkeziyetsizlik, şeffaflık ve değişmezlik elde etmek için blok zinciri teknolojisinden yararlanır. Bir kripto para biriminin en önemli özelliği, herhangi bir merkezi otorite tarafından kontrol edilmemesidir: Blok zincirinin merkezi olmayan yapısı, kripto para birimlerini teorik olarak eski hükümet kontrol ve müdahalelerinin dışında bırakacak şekilde serbest piyasa modeline uygun hale getirir. Kripto para birimleri, özel ve genel anahtarlar kullanılarak doğrudan iki taraf arasında gönderilebilir. Bu transferler, kullanıcıların geleneksel finans kurumları tarafından talep edilen yüksek ücretlerden kaçınmasına olanak tanıyan minimum işlem ücreti ile yapılabilir. Bugün kripto para birimleri çoğu insan tarafından bilinen küresel bir fenomen haline geldi. Bu kılavuzda, kripto para birimleri ve bunların küresel ekonomik sisteme katabilecekleri hakkında bilmeniz gereken her şeyi size anlatacağız.</p> 
 <picture>

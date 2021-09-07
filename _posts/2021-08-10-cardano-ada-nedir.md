@@ -25,6 +25,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#ada9">Cardano İçin Kripto Cüzdan Nasıl Seçilir?</a></li>
 	<li style="padding: 2px;"><a href="#ada10">Cardano'ya Son Bir Bakış</a></li>
 	<li style="padding: 2px;"><a href="#ada11">Cardano -ADA- Hakkında Sıkça Sorulan Sorular(SSS)</a></li>
+</ol>
 <h1 id="ada1">Cardano (ADA) Nedir?</h1>
 <blockquote cite="https://cardano.org/what-is-ada/">ADA dijital bir para birimidir. Dünyanın herhangi bir yerinde bulunan herhangi bir kullanıcı, ADA'yı, üçüncü bir tarafın değişime aracılık etmesine gerek kalmadan, güvenli bir değer değişimi olarak kullanabilir. Her işlem kalıcı, güvenli ve şeffaf bir şekilde Cardano blok zincirine kaydedilir.</blockquote>
 <p>Cardano, Proof of Stake (PoS) genel amaçlı bir blockchain projesidir. "Üçüncü nesil" bir blok zinciri olarak bilinen Cardano, "ikinci nesil" blok zincirlerinin çoğunu (Ethereum ve giderek artan gaz ücretleri gibi) rahatsız eden yaygın ölçeklenebilirlik sorunlarını çözmeye karar veren bir projedir.</p>

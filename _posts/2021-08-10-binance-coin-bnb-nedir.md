@@ -30,6 +30,7 @@ paginate: true
 			<li style="padding: 2px;"><a href="#bnb13">ICO'lara/IEO'lara Katılım</a></li>
 		</ul>
 	<li style="padding: 2px;"><a href="#bnb14">Binance Coin SSS</a></li>
+</ol>
 	
 <h1 id="bnb1">BNB (Binance Coin) Nedir?</h1>
 <blockquote cite="https://www.binance.com/tr/bnb">BNB, Binance ekosistemine güç veren kripto paradır. Dünyanın en popüler hizmet tokenlerinden biri olan BNB'nin, diğer kripto paralar gibi alım satım imkanının yanı sıra çeşitli kullanım alanları ve avantajları da vardır.</blockquote>
