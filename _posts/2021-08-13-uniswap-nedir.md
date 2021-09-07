@@ -24,8 +24,8 @@ paginate: true
 	<li style="padding: 2px;"><a href="#uni8">Uniswap'teToken Fiyatı Nasıl Belirlenir?</a></li>
 	<li style="padding: 2px;"><a href="#uni9">Uniswap'te Arbitraj</a></li>
 <h1 id="uni1">Uniswap (UNI) Nedir?</h1>
-<blockquote cite="https://uniswap.org">Uniswap, likidite oluşturmak ve Ethereum'da ERC-20 token ticareti yapmak için bir protokoldür. Güvenilir aracıları ve gereksiz masraf çıkarma biçimlerini ortadan kaldırarak hızlı ve verimli ticarete olanak tanır. Takas yaptığı yerlerde - ademi merkeziyetçilik, sansür direnci ve güvenliğe öncelik verilir. Uniswap, GPL kapsamında lisanslanan açık kaynaklı bir yazılımdır.</blockquote> 
-<p>Uniswap, kısaca söylemek gerekirse, Ethereum blok zinciri üzerinde çalışan ve merkezi olmayan bir kripto para borsasıdır.</p> 
+<blockquote cite="https://uniswap.org">Uniswap, likidite oluşturmak ve Ethereum'da ERC-20 token ticareti yapmak için bir protokoldür. Güvenilir aracıları ve gereksiz masraf çıkarma biçimlerini ortadan kaldırarak hızlı ve verimli ticarete olanak tanır. Takas yaptığı yerlerde - ademi merkeziyetçilik, sansür direnci ve güvenliğe öncelik verilir. Uniswap, GPL kapsamında lisanslanan açık kaynaklı bir yazılımdır.</blockquote>
+<p>Uniswap, kısaca söylemek gerekirse, Ethereum blok zinciri üzerinde çalışan ve merkezi olmayan bir kripto para borsasıdır.</p>
 <p>Kripto ticaretinin büyük çoğunluğu Coinbase ve Binance gibi merkezi borsalarda gerçekleşir. Bu platformlar tek bir otorite (borsayı işleten şirket) tarafından yönetilir, kullanıcılardan fonları kendi kontrollerine koymalarını ve ticareti kolaylaştırmak için geleneksel bir emir defteri sistemini kullanmalarını ister. Emir defterine dayalı ticaret, alış ve satış emirlerinin her bir siparişte verilen toplam miktarla birlikte bir listede sunulduğu yerdir. Bir varlığın açık alım ve satım emirlerinin miktarı "piyasa derinliği" olarak bilinir. Bu sistemi kullanarak başarılı bir işlem yapmak için, bir satın alma emrinin, bir varlığın aynı tutar ve fiyatı için emir defterinin karşı tarafındaki bir satış emri ile eşleştirilmesi gerekir ve bunun tersi de geçerlidir.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-1.jpg">
@@ -50,6 +50,7 @@ Likiditeyi anlamak için bir örnek üzerinden gidelim: Bir sokak pazarında bir
 	<li>Değiştirmek istediğiniz jetonu seçin, tutarı girin ve "değiştir" i tıklayın.</li>
 	<li>İşlemin bir ön izleme penceresi görünecek ve ERC-20 cüzdanınızda işlemi onaylamanız gerekecektir.</li>
 	<li>İşlemin Ethereum blok zincirine eklenmesini bekleyin. İşlem kimliğini kopyalayıp <a href="https://etherscan.io/">https://etherscan.io/</a> adresine yapıştırarak ilerlemesini kontrol edebilirsiniz. İşlem kimliği, gönderilen işlem geçmişinizde işlemi bularak cüzdanınızda mevcut olacaktır.</li>
+</ol>
 	<picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-3.jpg">
   <img src="/assets/img/posts-img/uni/uniswap3.jpg" style="width:auto;">
@@ -72,4 +73,3 @@ Likiditeyi anlamak için bir örnek üzerinden gidelim: Bir sokak pazarında bir
 <h4 id="uni9">Uniswap'te Arbitraj</h4>
 <p>Arbitraj tüccarları, Uniswap ekosisteminin önemli bir bileşenidir. Bunlar, birden fazla borsada fiyat farklılıkları bulmada uzmanlaşmış ve bunları kar elde etmek için kullanan tüccarlardır. Örneğin, Bitcoin Kraken'da 35.500 $ ve Binance 35.450 $ 'dan işlem yapıyorsa, Binance üzerinden bitcoin satın alabilir ve kolay kar elde etmek için Kraken'da satabilirsiniz. Büyük hacimlerle yapılırsa, nispeten düşük riskle hatırı sayılır bir kâr elde etmek mümkündür.</p>
 <p>Arbitraj tüccarlarının Uniswap'te yaptığı şey, ortalama piyasa fiyatlarının - büyük alım satımların havuzda dengesizlikler yaratması ve fiyatı düşürmesi veya yükseltmesi sonucunda -  üzerinde veya altında işlem gören tokenleri bulmak ve bunları buna göre alıp satmaktır. Bunu, token fiyatı diğer borsalardaki fiyat ile aynı doğrultuda yeniden dengelenene ve elde edilecek kar kalmayana kadar yaparlar. Otomatik piyasa yapıcı sistemi ile arbitraj tüccarları arasındaki bu uyumlu ilişki, Uniswap token fiyatlarını piyasanın geri kalanıyla uyumlu tutan şeydir.</p>
-
