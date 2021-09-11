@@ -1,5 +1,5 @@
 ---
-date: 2021-09-07 12:26:40
+date: 2021-09-11 12:26:40
 layout: post
 title: Bitcoin Nedir?
 subtitle: Bitcoin Nedir? Bitcoin'e Yatırım Yapmak Güvenli Mi? Satoshi Nakamoto Kimdir?
