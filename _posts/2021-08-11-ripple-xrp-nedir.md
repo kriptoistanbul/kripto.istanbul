@@ -32,7 +32,7 @@ paginate: true
 <p>Bu güçlü finans sektörünün benimsenmesinin bir sonucu olarak, Ripple kripto para birimi XRP, Mayıs 2021'de piyasa değeri bakımından dördüncü kripto para birimidir. SEC davası öncesinde üçüncü iken dava sonrasında bir miktar kan kaybetmişlerdir. Bir çok kripto para borsası üzerinden XRP satın alabilirsiniz, ancak XRP tüketici kullanımı için tasarlanmamıştır. Bunun yerine, sınır ötesi transferleri kolaylaştırdıklarından bankalara likidite sağlayan bir belirteçtir.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xrp/xrp-1.jpg">
-  <img src="/assets/img/posts-img/xrp/xrp1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/xrp/xrp1.jpg" alt="xrp yorum" style="width:auto;">
 </picture>
 <h2 id="xrp2">Ripple Sistemi Nasıl Çalışır?</h2>
 <p>Ripple, geçmişi orta çağlara kadar uzanan çok eski bir fikrin yeniden tahayyülüdür. O günlerde banka yoktu, bu yüzden şehirden şehre para göndermek istiyorsanız, parayı göndermenize yardımcı olacak bir ödeme acentesini ziyaret etmeniz gerekiyordu. İşlem şu şekilde işlerdi: Başka bir şehirdeki arkadaşınıza para göndereceğinizi bildirirsiniz ve parayı çekmesi için ona bir şifre verirsiniz. Parayı, parola ile birlikte ödeme aracısına götürürsünüz. Kasabanızdaki ajan, arkadaşınızın kasabasındaki başka bir ajanla iletişim kurar ve ona parayı parolayı söyleyebilecek birine belirlenen miktardaki parayı vermesini söyler. İşlemin sonucunda para transferi gerçekleşmiş olur ve bu işlem esnasında komisyon alan kurum da dahil olmak üzere herkes bu transferden memnun olur. Burada temel bir gereklilik, ödeme aracılarının birbirlerine güvenmesidir. Temsilciniz arkadaşınızın temsilcisine güvenmiyorsa, şansınız kalmaz. </p>
@@ -43,7 +43,7 @@ Washington DC, 22 Aralık 2020 </blockquote>
 <p>SEC'in şikayetine göre Ripple; şirketin kurucu ortağı, yönetim kurulu başkanı ve eski CEO'su Christian Larsen; ve şirketin şu anki CEO'su Bradley Garlinghouse, şirketin işini finanse etmek için sermaye artırdı. Şikayet, Ripple'ın 2013'ten başlayarak XRP olarak bilinen dijital varlıkların ABD'deki ve dünya çapındaki yatırımcılara kayıtsız bir menkul kıymet teklifinde satışı yoluyla fon topladığını iddia ediyor. Ripple'ın ayrıca, emek ve piyasa yapıcı hizmetler gibi nakit olmayan bedeller karşılığında milyarlarca XRP dağıttığı iddia ediliyor. Şikayete göre, Larsen ve Garlinghouse, şirketin işini finanse etmek için kullanılan XRP satışlarını yapılandırmanın ve teşvik etmenin yanı sıra, toplamda yaklaşık 600 milyon dolarlık kişisel kayıt dışı XRP satışını da gerçekleştirdi. Şikayet, sanıkların, federal menkul kıymetler yasalarının kayıt hükümlerini ihlal ederek XRP tekliflerini ve satışlarını kaydetmediklerini veya kayıttan herhangi bir muafiyeti yerine getirmediklerini iddia ediyor.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xrp/xrp-2.jpg">
-  <img src="/assets/img/posts-img/xrp/xrp2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/xrp/xrp2.jpg" alt="xrp usd" style="width:auto;">
 </picture>
 <p>Avukat Jeremy Hogan kısa süre önce SEC - Ripple davası için her bir avukat stratejisini analiz etti, SEC kanattan saldırmayı ve Ripple'ın XRP'yi menkul kıymet olarak pazarladığını iddia etmeyi hedefliyor, bu nedenle şirket ve bireysel sanıklar kayıtsız bir menkul kıymet arzı gerçekleştirdi.</p>
 <p>Şu anda kripto varlık alanı için düzenleyici bir netlik olmadığını açıkça belirten SEC Komiseri Peirce, yakın zamanda bir röportajda bir varlığın SEC tarafından dava edilebilmesi için menkul kıymet olması gerekmediğini söyledi.</p>
@@ -57,7 +57,7 @@ Washington DC, 22 Aralık 2020 </blockquote>
 <p>Ripple'ın özel bir şirket olduğuna dikkat etmek önemlidir. Kurumsal yatırımcılar ve risk sermayesi aracılığıyla fon sağladılar ve gelir modelleri profesyonel hizmetlere dayanıyor ve finansal kurumlar için RippleNet'e entegrasyonlar oluşturuyorlar.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xrp/xrp-3.jpg">
-  <img src="/assets/img/posts-img/xrp/xrp3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/xrp/xrp3.jpg" alt="ripple xrp nedir" style="width:auto;">
 </picture>
 <h3 id="xrp6">Ripple Hangi Sorunu Çözüyor?</h3>
 <p>Sürekli, anlık bağlantı çağında, finans kurumları ödemeleri çözmek için 1970'lerde geliştirilen teknolojileri kullanmaya devam ediyor. Sınır ötesi işlemler için 155 trilyon dolarlık bir piyasa, bankalar ve ödeme işlemcileri yüksek ücretler alıyor ve ödemeleri işleme koymak günler alıyor. Sonuç olarak, küresel ticaret ve sınır ötesi tüketici davranışı, teknoloji ile aynı hızda ilerlemedi. Ücretlerin ve işlem sürelerinin kısaltılması, özellikle daha önce ücretler ve döviz kurlarıyla mümkün olmayan küçük işlemler için küreselleşme ve sınır ötesi işbirliğinde bir patlamaya neden olabilir. </p>
@@ -73,7 +73,7 @@ Washington DC, 22 Aralık 2020 </blockquote>
 <p>xVia, şirketlerin, bankaların ve ödeme işlemcilerinin ödemeleri göndermek için RippleNet ile entegre olmasına izin veren bir API'dir. Gönderenler, bu ödemelerin yanı sıra faturalar veya destekleyici belgeler gibi zengin bilgiler de ekleyebilir. xVia, her türden ödeyen için para ve bilgi arasındaki bağlantıdır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xrp/xrp-4.jpg">
-  <img src="/assets/img/posts-img/xrp/xrp4.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/xrp/xrp4.jpg" alt="xrp davası" style="width:auto;">
 </picture>
 <h4 id="xrp9">Ripple'a Teknik Bir Bakış: Açık Kaynak Alt Yapısı</h4>
 <p>RippleNet açık kaynaklı bir projedir ve kriptografisi diğer kripto projelerinden farklıdır. Diğer blockchain projelerinin aksine Ripple, ağını işletmek için kurumlara güveniyor. Herkes Ripple ağının bir düğümünü çalıştırabilirken, bu güvenilir ağ geçitleri (bankalar ve diğer kurumlar gibi) Ripple üzerindeki işlemleri kolaylaştıran, döviz bozdurma, itibari para yatırma ve diğer transfer yöntemleri sağlayan kişilerdir. Ağ geçitleri, bireylerden veya kurumlardan gelen mevduatları kabul eder ve Ripple defterinde bakiye yayınlar. Ağ geçitlerinin, işlemlere dahil olan kişiler hakkında tanımlanabilir bilgiler gerektiren Müşterinizi Tanıyın (KYC) ve Kara Para Aklamayı Önleme (AML) süreçleri gibi kendi gereksinimleri de olabilir. RippleNet, bu kurumların altında, ödemeleri çözmek ve para transfer etmek için onları birbirine bağlayan altyapı olarak çalışır.  Ağdaki ağ geçitleri, Ripple'larını benimsemez veya riske atmaz. Aslında, 100 milyar XRP'nin tamamı önceden piyasaya sürülmüştür. </p>

@@ -39,7 +39,7 @@ paginate: true
 <p>Sistem şu anda 65.000 TPS (Saniyede İşlem) ve 400 ms Blok Süresini desteklemektedir. Solana yazılımının genel amacı, bir blok zinciri oluşturmak için kombinasyonu kullanan olası bir yazılım algoritmaları seti olduğunu göstermektir. Bu, işlem hacminin, bir blok zincirinin tüm özelliklerini karşılayan ağ bant genişliğiyle orantılı olarak ölçeklenmesini sağlar: ölçeklenebilirlik, güvenlik ve ademi merkeziyet. Ayrıca, sistem standart bir gigabit ağda 710.000 TPS ve 40 gigabit ağda 28.4 milyon tps üst sınırını destekleyebilir.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-1.png">
-  <img src="/assets/img/posts-img/sol/solana1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/sol/solana1.jpg" alt="solana coin nedir" style="width:auto;">
 </picture>
 <h2 id="sol2">Solana’ya (SOL) Genel Bir Bakış</h2>
 <p>Solana (SOL) platformu, Anatoly Yakovenko tarafından 2017 yılında kuruldu. Yakovenko, Solana'yı kurmadan önce Qualcomm'da çalışıyordu. Dropbox'ta bir yazılım mühendisi olarak önceki deneyiminden sonra sıkıştırma algoritmaları konusunda geniş bir deneyime sahipti. Eric Williams ve Solana’nın CTO'su Greg Fitzgerald ile birlikte, Bitcoin ve Ethereum blok zincirlerinde var olan geleneksel verim sorunlarıyla başa çıkmak için yeni bir süreç yarattılar.</p>
@@ -54,7 +54,7 @@ paginate: true
 </ol>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-2.jpg">
-  <img src="/assets/img/posts-img/sol/solana2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/sol/solana2.jpg" alt="sol coin nedir" style="width:auto;">
 </picture>
 <h3 id="sol4">Solana Nasıl Çalışır?</h3>
 <ul>
@@ -74,7 +74,7 @@ paginate: true
 <p>Teknolojinin bazı kullanım örnekleri, kümenin çalışır durumda kalması açısından anlamlı olan, hangi bilgisayarların çalıştığını izlemektir. Bir diğeri, gerçek dünya varlıklarının sahipliğini izlemek olabilir. Bununla ilgili iyi bir şey, birisi defterin bir kopyasına sahip olduğu sürece, programlarının çıktısının her zaman yeniden üretilebilmesi ve onu yayınlayan kuruluştan bağımsız olmasıdır.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-3.jpg">
-  <img src="/assets/img/posts-img/sol/solana3.png" style="width:auto;">
+  <img src="/assets/img/posts-img/sol/solana3.png" alt="solana yorum" style="width:auto;">
 </picture>
 <h3 id="sol7">Solana’nın 8 Temel Yeniliği</h3>
 <h4 id="sol8">1.Tarih Kanıtı (PoH) → Doğrulanabilir Gecikme Fonksiyonu</h4> 

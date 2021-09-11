@@ -34,7 +34,7 @@ paginate: true
 <p>Tether, özellikle fiat teminatlı stabilcoinler kategorisine aittir. Bu, ABD doları, euro veya yen gibi bir fiat para biriminin dolaşımdaki her kripto parayı desteklediği anlamına gelir. Diğer stabilcoin kategorileri arasında teminat olarak kripto para birimi rezervlerini kullanan kripto-teminatlı sabit paralar veya teminatlandırılmamış sabit paralar bulunur. Teminatsız stabilcoinlerin herhangi bir teminatı yoktur, ancak ekonomik duruma bağlı olarak gerekli token arzını sürdürmek için bir yedek bankanınkine benzer bir şekilde çalışır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-1.jpg">
-  <img src="/assets/img/posts-img/usdt/tether1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/usdt/tether1.jpg" alt="usdt" style="width:auto;">
 </picture>
 <h2 id="usdt3">Tether ile Amerikan Doları Takas Edilebilir Mi?</h2>
 <p>Tether, özellikle itibari para birimleri ve kripto para birimleri arasında gerekli köprüyü kurmak ve kullanıcılara istikrar, şeffaflık ve minimum işlem ücretleri sunmak için tasarlandı. ABD dolarına karşı sabitlenmiştir ve değer olarak ABD doları ile 1'e 1 oranını korumaktadır. Bununla birlikte, Tether Ltd. tarafından Tether'lerin gerçek parayla kullanılması veya takas edilmesi için herhangi bir garanti verilmemektedir - yani, Tether'ler ABD doları ile takas edilemez.</p> 
@@ -42,7 +42,7 @@ paginate: true
 <p>Tether, Temmuz 2014'te RealCoin olarak piyasaya sürüldü ve Kasım ayında, fiat para biriminin rezerv tutarlarının korunmasından sorumlu şirket olan Tether Ltd. tarafından Tether olarak yeniden markalandı. Şubat 2015'te ticarete başladı. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-2.jpg">
-  <img src="/assets/img/posts-img/usdt/tether2.png" style="width:auto;">
+  <img src="/assets/img/posts-img/usdt/tether2.png" alt="tether nedir" style="width:auto;">
 </picture>
 <h3 id="usdt4">Tether Konusundaki İhtilaf</h3>
 <p>Kasım 2017'de, Tether'in hacklendiği ve 31 milyon dolarlık Tether tokeni çalındığı ve ardından bir hard fork gerçekleştirildiği iddia edildi. Ocak 2018'de, gerçek dünya rezervinin korunmasını sağlamak için gerekli denetim hiçbir zaman gerçekleşmediğinden başka bir engelle karşılaştı. Bunun yerine, denetim firması ile yollarını ayırdığını duyurdu ve ardından düzenleyiciler tarafından bir mahkeme celbi yayınlandı. Şeffaflık eksikliği ile suçlanan şirketin tokeni desteklemek için yeterli rezervi olup olmadığı konusundaki endişeler yaygınlaştı. </p>
@@ -50,7 +50,7 @@ paginate: true
 <p>Şirketlerden yapılan açıklamada, şirket dosyalarının "kötü niyetle yazıldığını ve yanlış iddialarla dolu olduğunu'' söylediler. Aksine, bu ''Kripto Sermaye tutarlarının kaybedilmediği, aslında el konulup koruma altına alındığı'' bildirildi ve ''haklarımızı ve çarelerimizi kullanmak ve bu fonları serbest bırakmak için aktif olarak çalışıyoruz ve halen çalışıyoruz. Ne yazık ki, New York Başsavcılığı'nın bu çabaları müşterilerimizin aleyhine baltalamaya niyetli olduğu görülüyor.'' denildi. </p> 
 <p>Tether jetonları,<a href="https://www.binance.com/"> Binance</a>,<a href="https://www.coinspot.com.au/"> CoinSpot</a>,<a href="https://www.bitfinex.com/"> BitFinex</a> ve <a href="https://www.kraken.com/"> Kraken</a> gibi popüler kripto para borsalarında işlem görebilir.</p><picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-3.jpg">
-  <img src="/assets/img/posts-img/usdt/tether3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/usdt/tether3.jpg" alt="usdt ne kadar" style="width:auto;">
 </picture>
 <h2 id="usdt5">Tether Hakkında Sıkça Sorulan Sorular(SSS)</h2> 
 <h3>Tether Ne İçin Kullanılır?</h3> 

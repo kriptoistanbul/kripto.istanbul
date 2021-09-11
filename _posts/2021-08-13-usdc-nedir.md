@@ -27,14 +27,14 @@ paginate: true
 <p>Özetle, USD Coin, ABD dolarını belirtmek ve internet ve halka açık blok zincirleri üzerinden kullanımlarını kolaylaştırmak için bir hizmettir. Ayrıca, USDC jetonları herhangi bir zamanda USD'ye geri çevrilebilir. USDC belirteçlerinin çıkarılması ve kullanılması, ERC-20 akıllı sözleşmesi ile sağlanır. Blok zincirine ABD doları getirmek, onları dakikalar içinde dünyanın herhangi bir yerine taşımaya izin verir ve kripto para birimlerine çok ihtiyaç duyulan istikrarı getirir. Ayrıca ticaret, borç verme, riskten korunma ve daha fazlası için yeni fırsatlar sunar. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdc/usdc-1.jpg">
-  <img src="/assets/img/posts-img/usdc/usdc1.png" style="width:auto;">
+  <img src="/assets/img/posts-img/usdc/usdc1.png" alt="usdc coin nedir" style="width:auto;">
 </picture>
 <h2 id="usdc2">USD Coin (USDC) Kimin?</h2>
 <p>USD Coin, Circle ve Coinbase arasındaki bir ortaklık olan Merkez konsorsiyumu tarafından geliştirilmiştir. Teknoloji ve yönetim çerçevesi Center tarafından geliştirilirken, Circle ve Coinbase USDC'nin ilk ticari ihraççılarıdır. </p>
 <p>Circle, girişimciler Jeremy Allaire ve Sean Neville tarafından 2013 yılında kuruldu. Circle, şirketi açık bir finansal kitap haline getiren resmi bir Para Transferi Kuruluşu'dur. Para Transferi Kuruluşları, federal yasa ve yönetmeliklere uyması gereken ABD para hizmeti işletmeleridir. USDC'nin verilmesinden önce, USD'nin eşdeğer miktarı Circle’ın akredite ortaklarından birindedir. Sonuç olarak, tüm USDC jetonları düzenlenir, şeffaftır ve doğrulanabilir. Ayrıca Circle, Goldman Sachs tarafından desteklenen kripto başlangıcı olarak biliniyor. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdc/usdc-2.jpg">
-  <img src="/assets/img/posts-img/usdc/usdc2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/usdc/usdc2.jpg" alt="circle usdc" style="width:auto;">
 </picture>
 <h2 id="usdc3">USDC Nasıl Çalışır?</h2>
 <p>USD coin sadece havadan basılmıyor. Circle, her USDC belirtecinin tek bir ABD doları ile desteklendiğini garanti eder. ABD dolarını USDC belirteçlerine dönüştürme sürecine tokenleştirme denir. </p>
@@ -53,7 +53,7 @@ paginate: true
 </ol> 
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdc/usdc-3.jpg">
-  <img src="/assets/img/posts-img/usdc/usdc3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/usdc/usdc3.jpg" alt="usdt vs usdc" style="width:auto;">
 </picture>
 <p>En popüler stabilcoin Tether'in (USDT) aksine, USD Coin'nin yaratıcıları tam şeffaflık sağlamak ve eşdeğer itibari para biriminin tam rezervlerini korumak için bir dizi finansal kurumla çalışmakla yükümlüdür. Tüm USDC ihraççılarının, daha sonra Grant Thornton LLP tarafından yayınlanan USD varlıklarını düzenli olarak rapor etmeleri gerekmektedir. Tüm aylık tasdik raporları https://www.centre.io/usdc-transparency adresinden bulunabilir. </p>
 <h3 id="usdc5">USD Coin (USDC) Nasıl Kullanılır?</h3>

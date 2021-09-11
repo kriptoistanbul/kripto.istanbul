@@ -39,7 +39,7 @@ paginate: true
 <p>Ethereum, esasen devasa, merkezi olmayan bir devlet makinesi gibi çalışır. Bu, istediğiniz zaman Ethereum blok zincirindeki her adresin (hesabın) anlık görüntüsünü alabileceğiniz ve mevcut durumunu belirleyebileceğiniz anlamına gelir. Blok zinciri boyunca gerçekleşen eylemler durumların değişmesine neden olur ve her düğüm anlık görüntüsünü bu değişiklikleri yansıtacak şekilde günceller. Ethereum'un geçiş yaptığı her satır, milyonlarca işlemin sonucudur. Bu işlemler "bloklar" adı verilenler altında gruplandırılır. Bir bloğu büyük bir işlem grubu olarak düşünün ve her blok bir önceki bloğuyla birbirine zincirlenir - blok zinciri olarak bildiğimiz şeyi yaratır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/eth/ethereum-bitcoin-fark.jpg">
-  <img src="/assets/img/posts-img/eth/ethereum-bitcoin-fark2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/eth/ethereum-bitcoin-fark2.jpg" alt="Ethereumun Bitcoinden Farkı Nedir" style="width:auto;">
 </picture>
 <h2 id="eth3">Ethereum ve Bitcoin Arasındaki Fark Nedir?</h2>
 <p>Bitcoin ve Ethereum arasındaki en büyük fark, ETH'nin deflasyonist olmamasıdır. Bitcoin, kodunda yalnızca 21 milyon BTC'nin çıkarılmasına izin verecek sabit bir limite sahipken, ETH'nin toplam arz üzerinde bir sınırı yok ve her yıl büyümeye devam ediyor. Bununla ilgili çelişkili düşünceler olsa ve bazıları bir tedarik sınırı uygulamayı önermiş olsa da, Ethereum'un geliştiricileri mevcut sistemi "sabit bir güvenlik bütçesine" sahip olmak istememekle gerekçelendiriyor. ETH’nin ihraç oranını fikir birliği yoluyla ayarlayabilmek, Ethereum pazarının arz üzerinde sabit bir sınır olmadan güvenliğini korumasına olanak tanır. </p>
@@ -50,7 +50,7 @@ paginate: true
 <p>ETH 2.0 veya kod adı "Serenity" olarak da bilinen Ethereum 2.0, mevcut Ethereum blok zincirine yönelik büyük, çok parçalı bir yükseltmedir. ETH 2.0 için üzerinde çalışılan özellikler tamamen Ethereum ağının hızını, verimliliğini ve ölçeklenebilirliğini artırmak için tasarlanmıştır. Nihai amaç, ağı katlanarak daha hızlı bir oranda daha fazla işlemi işleyebileceği bir noktaya kadar desteklemek, böylece mevcut sorunları birçok Ethereum tabanlı projenin ve kullanıcılarının karşılaştığı düzensiz ve maliyet kısıtlayıcı ücretlerle çözmektir.</p>
 <picture> 
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/eth/ethereum2.jpg">
-  <img src="/assets/img/posts-img/eth/ethereum-2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/eth/ethereum-2.jpg" alt="ethereum fiyatı" style="width:auto;">
 </picture>
 <h3 id="eth6">Ethereum Madenciliği Nedir ve Staking</h3> 
 <p>Beacon Chain yayınlandıktan sonra, Ethereum 2.0 ağında stake etmeye başlamak mümkün hale geldi. Ethereum 2.0'da stake etmek, yatırmak istediğiniz ETH'yi bir akıllı depozito sözleşmesine göndermeyi, sizi etkili bir şekilde bir node / madenciye dönüştürmeyi ve ağı güvence altına almayı içerir.</p> 
@@ -64,7 +64,7 @@ paginate: true
 <p>Ether dağıtılmış bir şekilde çalıştığından, çalıştırılan merkezi olmayan uygulamalar (dApps) insan müdahalesi riski taşımaz. Ethereum'un blok zincirine eklenirler ve kodun kalıcı ve değiştirilemez olması için tasarlanabilirler. Şeffaflık burada büyük bir avantajdır - blok zinciri herkes tarafından görülebilir ve keşfedilmesi kolaydır, bu nedenle pazara katılan herhangi bir kullanıcı, kodla etkileşime girmeden önce kodu doğrulayabilir. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/eth/ethereum3.jpg">
-  <img src="/assets/img/posts-img/eth/ethereum-3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/eth/ethereum-3.jpg" alt="ethereum tl" style="width:auto;">
 </picture>
 <h3 id="eth9">Ethereum Ağı: Yeni Bir Dünya İçin Yeni Bir İnternet</h3>
 <p>Merkezi olmayan finans (DeFi) ve dijital para birimi ile aşılanmış yeni, Ether destekli internet kavramı dünya çapında giderek daha fazla ilgi görüyor ve bu gerçekten şaşırtıcı mı? Ethereum blok zinciri, yalnızca geleneksel internet uygulamalarını rahatsız eden sansüre direnmek için bir yol sağlamakla kalmaz, aynı zamanda geliştiricilere gerçek dünya değeri yaratma veya üretme araçlarını da sunar.</p> 
@@ -84,7 +84,7 @@ Joseph Lubin: Ethereum'un erken gelişimini finanse etmeye yardımcı oldu ve ET
 Jeffrey Wilcke: Go programlama dilini kullanarak ilk geliştirmeyi destekledi.
 <picture> 
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/eth/ethereum-defi1.jpg">
-  <img src="/assets/img/posts-img/eth/ethereum-defi.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/eth/ethereum-defi.jpg" alt="ethereum yorum" style="width:auto;">
 </picture>
 <h4 id="eth12">Tüm Durumlar İçin Kullanılabilir Jetonlar Nedir?</h4>
 <p>Akıllı sözleşmelere ek olarak, Ethereum blockchain, "token" ya da ''jeton'' adı verilen diğer kripto para birimlerini barındırabilir. ERC-20 belirteç standardı, geliştiricilerin Ethereum'un gücüyle desteklenen tamamen yeni para birimleri oluşturmasına olanak tanır. Kendinizi NFT'lerin hayranı olarak görüyor musunuz? ERC-721 ve daha modern ERC-1155 token standartları, bu yeni varlık sınıfını gerçeğe dönüştüren şeydir ve Ethereum, bunların hepsinin gerçekleşmesi için güç ve güvenlik sağlar. </p>

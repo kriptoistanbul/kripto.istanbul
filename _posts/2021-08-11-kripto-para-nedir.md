@@ -40,7 +40,7 @@ paginate: true
 <p>Kripto para, finansal işlemleri yürütmek için kriptografik işlevleri kullanan İnternet tabanlı bir değişim aracıdır. Kripto para birimleri, merkeziyetsizlik, şeffaflık ve değişmezlik elde etmek için blok zinciri teknolojisinden yararlanır. Bir kripto para biriminin en önemli özelliği, herhangi bir merkezi otorite tarafından kontrol edilmemesidir: Blok zincirinin merkezi olmayan yapısı, kripto para birimlerini teorik olarak eski hükümet kontrol ve müdahalelerinin dışında bırakacak şekilde serbest piyasa modeline uygun hale getirir. Kripto para birimleri, özel ve genel anahtarlar kullanılarak doğrudan iki taraf arasında gönderilebilir. Bu transferler, kullanıcıların geleneksel finans kurumları tarafından talep edilen yüksek ücretlerden kaçınmasına olanak tanıyan minimum işlem ücreti ile yapılabilir. Bugün kripto para birimleri çoğu insan tarafından bilinen küresel bir fenomen haline geldi. Bu kılavuzda, kripto para birimleri ve bunların küresel ekonomik sisteme katabilecekleri hakkında bilmeniz gereken her şeyi size anlatacağız.</p> 
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/kp/kripto-para-1.jpg">
-  <img src="/assets/img/posts-img/kp/kripto-para1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/kp/kripto-para1.jpg" alt="kripto para nedir" style="width:auto;">
 </picture>
 <blockquote>"Sanal para birimleri, belki de en önemlisi Bitcoin, bazılarının hayal gücünü yakaladı, diğerlerinin arasında korku yarattı ve geri kalanımızın kafasını karıştırdı."<br>-Thomas Carper, ABD Senatörü</blockquote>
 <p>Günümüzde, büyük bir banka, büyük bir muhasebe firması, önde gelen bir yazılım şirketi veya kripto para birimlerini araştırmamış, bununla ilgili bir makale yayınlamamış veya sözde bir blok zinciri projesi başlatmamış bir hükümet bulmakta zorlanacaksınız. Ancak alım-satım gürültüsü ve sınırlı bilgi veren basının ötesinde insanların çoğunluğu - hatta bankacılar, danışmanlar, bilim adamları ve geliştiriciler bile- kripto para birimleri hakkında çok sınırlı bilgiye sahiptirler. Hatta çoğu zaman temel kavramları bile anlamakta zorlanırlar. Öyleyse tüm hikayeyi birlikte gözden geçirelim. Nedir bu kripto para?</p>
@@ -50,7 +50,7 @@ paginate: true
 <p>“Çifte harcamayı önlemek için eşler arası bir ağ kullanan yeni bir elektronik nakit sistemi olan Bitcoin'in ilk sürümünü duyuruyorum. Hiçbir sunucu veya merkezi otoriteye bağlı olmayan tamamen merkeziyetsiz bir sistemdir.” </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/kp/kripto-para-2.jpg">
-  <img src="/assets/img/posts-img/kp/kripto-para2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/kp/kripto-para2.jpg" alt="kripto para borsası" style="width:auto;">
 </picture>
 <p>Satoshi'nin icadının en önemli parçası, merkezi olmayan bir dijital nakit sistemi kurmanın bir yolunu bulmasıydı. Doksanlı yıllarda, dijital para yaratmak için birçok girişimde bulunuldu, ancak hepsi başarısız oldu. Tüm merkezi girişimlerin başarısız olduğunu gördükten sonra Satoshi, merkezi bir varlık olmadan dijital bir nakit sistemi kurmaya çalıştı. Dosya paylaşımı için Eşler Arası bir ağ gibi çalışan sistem.  Bu karar kripto para biriminin doğuşu oldu. Satoshi'nin dijital parayı gerçekleştirmek için bulduğu eksik parça buydu. Nedeni biraz teknik ve karmaşıktır, ancak anlarsanız, kripto para birimleri hakkında çoğu insandan daha fazla bilgi sahibi olacaksınız. Öyleyse, bunu olabildiğince kolaylaştırmaya çalışalım.</p>
 <h2 id="kp3">Kripto para birimi nedir?</h2> 
@@ -63,7 +63,7 @@ paginate: true
 <p>İşlemleri yalnızca madenciler onaylayabilir. Bu onların kripto para birimi ağındaki işidir. İşlemleri alıp, yasal olarak damgaladıktan sonra ağa yayarlar. Bir işlem bir madenci tarafından onaylandıktan sonra, her düğüm onu veritabanına eklemelidir. Böylece işlem Blockchain'in bir parçası haline gelmiş olur. Bu iş için madenciler, Bitcoin gibi bir kripto para belirteci ile ödüllendiriliyor. Madencinin faaliyeti kripto para birimi sisteminin tek ve en önemli parçası olduğundan, bu konuyu biraz daha detaylı incelememiz gerektiği kanısındayım.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/kp/kripto-para-3.jpg">
-  <img src="/assets/img/posts-img/kp/kripto-para3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/kp/kripto-para3.jpg" alt="kripto para haber" style="width:auto;">
 </picture>
 <blockquote>Önümüzdeki birkaç yıl içinde, ulusal hükümetlerin, insanların merkezi dijital para birimleri kullanarak işlem yaptıkları nakitsiz bir toplum kurma yönünde büyük adımlar attığını göreceğiz. Eşzamanlı olarak, merkezi olmayan kripto para birimleri - hatta bazılarının daha zor para olarak gördüğü - tüm sektörlerden artan kullanım görecek."<br>-Caleb Chen London Trust Media</blockquote>
 <h3 id="kp5">Kripto Paralar Nasıl Kazanılır?</h3>
@@ -75,7 +75,7 @@ paginate: true
 <p>Ağı paylaşanlar tek bir küçük bakiye konusunda bile aynı fikirde değilse, her şey bozulur. Mutlak bir fikir birliğine ihtiyaçları vardır. Genellikle, dengelerin doğru durumunu bildirmek için merkezi bir otoriteye danışırsınız. Fakat merkezi bir otorite olmadan nasıl fikir birliğine varabilirsiniz? Satoshi bir anda ortaya çıkana kadar kimse bu sorunun cevabını bilmiyordu. Aslında kimse bunun mümkün olabileceğine bile inanmıyordu. Satoshi bunun olabileceğini kanıtladı. En büyük yeniliği, merkezi bir otorite olmadan fikir birliğine varmaktı. Kripto para birimleri bu çözümün bir parçasıdır - çözümü heyecan verici, büyüleyici kılan ve tüm dünyada yayılmasına yardımcı olan kısım.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/kp/kripto-para-4.jpg">
-  <img src="/assets/img/posts-img/kp/kripto-para4.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/kp/kripto-para4.jpg" alt="kripto para piyasası" style="width:auto;">
 </picture>
 <blockquote>"Şu anda altında savaşacak başka kavgalarımızın olduğu bu insani gelişme anlatısıdır ve Bitcoin aleminde temelde para ve devletin ayrılması olduğunu söyleyebilirim."<br>-Erik Voorhees, Kripto Para Girişimcisi</blockquote> 
 <h3 id="kp7">Kripto Paralardaki Devrimci Özellikler</h3> 
@@ -94,7 +94,7 @@ paginate: true
 <p>Kimseden kripto para birimi kullanmasını istemenize gerek yok. Herkesin ücretsiz olarak indirebileceği bir yazılımdır. Kurduktan sonra, Bitcoin veya diğer kripto para birimlerini alıp gönderebilirsiniz. Seni kimse engelleyemez. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/kp/kripto-para-5.jpg">
-  <img src="/assets/img/posts-img/kp/kripto-para5.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/kp/kripto-para5.jpg" alt="kripto para fiyatları" style="width:auto;">
 </picture>
 <blockquote>Altın standardına göre hala oldukça yeni ve istikrarsız olsa da, kripto para birimi kesinlikle çekiş kazanıyor ve kesinlikle önümüzdeki birkaç yıl içinde daha normalleştirilmiş kullanımlara sahip olacak. Şu anda, özellikle, seçim sonrası piyasadaki belirsizlikle birlikte popülaritesi artıyor. Anahtar, alıcılar / yatırımcılar için koruma önlemleri ve korumalar geliştirmek de dahil olmak üzere (kripto içeren her şeyde olduğu gibi) büyük ölçekli benimsemeyi kolaylaştırmak olacaktır. İki yıl içinde insanların paralarını kripto para ile sanal yatağın altına sokabilecekleri bir yerde olacağımızı ve nereye giderse gitsinler paranın orada olacağını bileceklerini umuyorum."<br>-Sarah Granger, Yazar ve Konuşmacı</blockquote> 
 <h3 id="kp14">Kripto Para Birimlerinin Parasal Özellikleri Nelerdir?</h3>

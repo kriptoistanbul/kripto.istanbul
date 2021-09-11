@@ -33,7 +33,7 @@ paginate: true
 <p>Cardano (ADA), Charles Hoskinson tarafından kurulan bir teknoloji şirketi olan Input Output Hong Kong (IOHK) tarafından geliştirilmiştir. Hoskinson, Ethereum'un (ETH) ve Ethereum Vakfı'nın erken gelişiminde rol oynayan kripto para birimi sektöründeki güçlü köklerden geliyor. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-1.jpg">
-  <img src="/assets/img/posts-img/ada/ada1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/ada/ada1.jpg" alt="ada coin" style="width:auto;">
 </picture>
 <p>Cardano’nun gelişimi, bol miktarda akademik araştırma ve hakem incelemesinin yanı sıra titiz bir bilimsel felsefeyle tanımlanmaktadır. Cardano projesi, beş ana aşamadan oluşan derinlemesine bir geliştirme yol haritası oluşturdu:</p>
 <ol> 
@@ -50,7 +50,7 @@ paginate: true
 <p>Cardano ayrıca başka bir benzersiz özelliğe de sahiptir - Hard Fork Combinator. Esasen, bu yenilik, ağın blok zincirinde herhangi bir gerçek kesinti olmadan hard fork yapmasına izin veriyor. Bu, son Shelley aşaması güncellemesiyle test edildi ve kusursuz bir şekilde çalıştı.</p> 
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-2.png">
-  <img src="/assets/img/posts-img/ada/ada2.png" style="width:auto;">
+  <img src="/assets/img/posts-img/ada/ada2.png" alt="ada coin ne olur" style="width:auto;">
 </picture>
 <h2 id="ada3">Cardano Nasıl Kullanılır?</h2> 
 <p>Cardano’nun yerel ADA jetonu, nakit paranın şu anda kullanıldığına benzer şekilde bir değer aktarımı olarak kullanılabilir. Birçok kripto para birimi bu özelliğe sahip olsa da, ADA'nın tasarımında yerleşik başka kullanımları da vardır. </p>
@@ -65,7 +65,7 @@ paginate: true
 <p>Cardano'nun geliştiricileri, geliştirilen tüm teknolojinin titiz bir araştırma sürecine ve meslektaş incelemesine tabi tutulmasını sağlamaktan gurur duyuyorlar, yani ağla ilgili her türlü fikre açıklar ve her türlü fikir üzerinde araştırma yapıp üzerine tartışıyorlar. Bu düzeydeki akademik titizlik, Cardano blok zincirinin hem dayanıklılığında hem de istikrarında yardımcı olur - gelecekteki olası birçok sorunun gerçek bir sorun haline gelmeden önce tanımlanmasını sağlar. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-3.jpg">
-  <img src="/assets/img/posts-img/ada/ada3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/ada/ada3.jpg" alt="ada coin yorum" style="width:auto;">
 </picture>
 <h3 id="ada6">Cardano'ya (ADA) Değerini Veren Nedir?</h3> 
 <p>ADA, Cardano ağının yerel simgesidir ve adını 19. yüzyıl matematikçisi Ada Lovelace'den almıştır. Toplam ADA arzının% 57,6'sı, Cardano'nun 62,2 milyon ABD doları topladığı İlk Para Teklifinde (ICO) yatırımcılara dağıtıldı. </p>

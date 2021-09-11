@@ -30,7 +30,7 @@ paginate: true
 <p>2021'in başlarında Dogecoin, Reddit'in WallStreetBets mesaj panosunda kült statüsü kazandı - Ocak ayındaki GameStop olayının arkasındaki ana kışkırtıcı - meraklıların değerini "aya" getirme sözü verdiler. Bugün Dogecoin şaka değil, değeri patladı ve 2021'de% 5.000'den fazla değer kazandı. Destekleyiciler arasında, Dogecoin'i en sevdiği kripto para birimi olarak adlandıran Tesla CEO'su Elon Musk da var. Musk ayrıca Dogecoin'i "halkın kripto parası" olarak adlandırdı ve aya fiziksel bir Dogecoin jetonu yerleştirme sözü verdi. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/doge/dogecoin-1.jpg">
-  <img src="/assets/img/posts-img/doge/dogecoin1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/doge/dogecoin1.jpg" alt="doge try" style="width:auto;">
 </picture>
 <h2 id="doge2">Dogecoin Nasıl Çalışır?</h2> 
 <p>Dogecoin, Bitcoin ve Ethereum'a benzer şekilde blockchain teknolojisi üzerinde çalışan bir kripto para birimidir. Blockchain, merkezi olmayan bir dijital para birimi kullanılarak yapılan tüm işlemleri depolayan, dağıtılmış, güvenli bir dijital defterdir. Tüm sahipler, kripto para birimindeki tüm yeni işlemlerle sık sık güncellenen Dogecoin blok zinciri defterinin aynı bir kopyasını taşır. Diğer kripto para birimleri gibi Dogecoin'in blok zinciri ağı da tüm işlemlerin güvenliğini sağlamak için kriptografi kullanır. </p>
@@ -41,7 +41,7 @@ paginate: true
 <p>Bir diğer önemli fark, yukarıda belirttiğimiz gibi, yaratılabilecek Dogecoin sayısında ömür boyu sınırın olmamasıdır. Yaratılabilecek mümkün olan maksimum coin sayısını sınırlayan 21 milyon Bitcoin'lik ömür boyu bir sınır vardır. Bu, madencilerin yeni Bitcoin kazanmak için zamanla daha çok ve daha uzun süre çalışmak zorunda kaldıkları anlamına gelir ve bir dereceye kadar Bitcoin'in zaman içinde değerini tutma ve büyütme yeteneğini garanti etmeye yardımcı olur. Ancak benzeri bir durum Dogecoin için geçerli değildir. Yani sınırsız sayıda Dogecoin jetonu vardır, bu da Dogecoin'in fiyat artışını sınırlamaktadır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/doge/dogecoin-2.jpg">
-  <img src="/assets/img/posts-img/doge/dogecoin2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/doge/dogecoin2.jpg" alt="doge ne olur" style="width:auto;">
 </picture>
 <h3 id="doge4">Dogecoin İle Alım Satım Yapılabilir Mi?<h3>
 <p>Dogecoin ödemeler ve satın alımlar için dünyanın birçok yerinde kullanılabilir. Ülkemizde kripto paralar aracılığı ile alış-veriş yapmak yasaklanmıştır. Her ne kadar DOGE ile alım satımyapılabilse de çok etkili bir değer deposu değildir. Bunun başlıca nedeni, madencilikle yaratılabilecek Dogecoinlerin sayısında ömür boyu sınır olmaması, yani kripto para biriminin tasarım gereği yüksek oranda enflasyona sahip olmasıdır. Blok zinciri, madencileri her gün milyonlarca yeni Dogecoin yaratarak ödüllendiriyor, bu da Dogecoin'deki spekülatif fiyat artışlarının zamanla ayakta kalmasını çok zorlaştırıyor. </p>
@@ -53,7 +53,7 @@ paginate: true
 <p>Dogecoin ana akıma girmeden ve fiyatı yükselmeden önce, çevrimiçi temel görevleri yaparak ücretsiz jeton kazanabiliyordunuz. Duane Morris LLP'deki fintech uygulama alanlarında ortak olan C. Neil Gray, “Uzun yıllar Dogecoin 'musluklarında' satın almak yerine Dogecoin kazanmak için görevler yapabilirsiniz. Görevler, bir reklamı izlemek veya bir ankete katılmak gibi şeyleri içeriyor. Ancak yakın zamanlarda, bu işe yarayan herhangi birini bulmak zorlaştı.” dedi.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/doge/dogecoin-3.jpg">
-  <img src="/assets/img/posts-img/doge/dogecoin3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/doge/dogecoin3.jpg" alt="doge coin yorum" style="width:auto;">
 </picture>
 <h4 id="doge7">Dogecoin İyi Bir Yatırım mı?</h4> 
 <p>Var olabilecek Dogecoin sayısında ömür boyu bir sınır olmadığından ve her gün milyonlarca yeni Dogecoin piyasaya sürüldüğünden, kripto para birimini uzun vadede tutmak için çok az sebep var. Bitcoin, sistemin ömür boyu yaratılabilecek coin sayısındaki sınırı nedeniyle değer kazanmaya devam ediyor. Bitwave CEO'su Pat White "Doge gerçekte Bitcoin'e daha az benziyor ve daha çok DASH veya Bitcoin Cash'e benziyor, bu nedenle ekspres hedef bir harcama para birimi." dedi.</p>

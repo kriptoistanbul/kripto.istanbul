@@ -29,7 +29,7 @@ paginate: true
 <p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan hard fork sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p> 
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-1.jpg">
-  <img src="/assets/img/posts-img/bch/bch1.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/bch/bch1.jpg" alt="bch nedir" style="width:auto;">
 </picture>
 <h2 id="bch2">Bitcoin ve Bitcoin Cash Aynı Şey Mi?</h2>
 <p>Bitcoin ve diğer kripto para birimleri içindeki çatallar nadir değildir, ancak genellikle hangi blok zincirinin kullanılacağı konusunda ortak bir fikir birliğine varılır. Fikir birliğine varılamadığında ve her iki blockchain de kaldığında, yeni bir token veya coin oluşturulur. 2017’de de bu görüş ayrılığının oluştuğu durumda, Bitcoin Cash ortaya çıkmış oldu.</p>
@@ -37,7 +37,7 @@ paginate: true
 <p>Piyasaya sürüldüğünden bu yana, bitcoin cash, en başarılı bitcoin satışlarından biri haline geldi. Önde gelen bir yatırımcı ve erken bitcoin benimseyen Roger Ver, daha önce bunu 'gerçek bitcoin' olarak tanımlayan bir bitcoin cash savunucusudur. Yaygın olarak 'bitcoin Jesus' olarak anılan Ver, ekonomik özgürlüğü teşvik etmenin bir yolu olarak 2011'in başlarında bitcoin'in önde gelen bir destekçisiydi. O zamandan beri, daha düşük işlem maliyetlerini ve sürelerini destekleyerek Bitcoin Cash'i desteklemek için harekete geçti. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-2.jpg">
-  <img src="/assets/img/posts-img/bch/bch2.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/bch/bch2.jpg" alt="bch coin" style="width:auto;">
 </picture>
 <h2 id="bch3">Bitcoin ve Bitcoin Cash Arasındaki Farklılıklar Nelerdir?</h2>
 <p>Gördüğümüz gibi bitcoin cash, bitcoin ile hard forkun bir sonucu olarak yaratıldı. Bu, benzerlikler olsa da, kripto para birimleri arasında bazı önemli farklılıklar olduğu anlamına gelir.</p>
@@ -48,7 +48,7 @@ paginate: true
 <p>Bitcoin cash, bitcoin'den farklı bir hash algoritmasına sahiptir. Bu, iki blok zinciri arasında tekrarın artık mümkün olmadığı anlamına gelir. Gelecekte bitcoin nakit bölünürse, yerinde bir yeniden oynatma ve silme koruma planı vardır. Bununla birlikte, bir çatal oluşursa, her iki zincirin de dahil olan herkes için minimum kesinti ile bir arada var olabileceği düşünülmüştür.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-3.jpg">
-  <img src="/assets/img/posts-img/bch/bch3.jpg" style="width:auto;">
+  <img src="/assets/img/posts-img/bch/bch3.jpg" alt="bitcoin cash bch coin kaç tl" style="width:auto;">
 </picture>
 <h3 id="bch6">3. Acil Zorluk Ayarı (EDA)</h3>
 <p>Bitcoin cash, madencilerin sayısı önemli ölçüde değiştiğinde blok zincirinin normal şekilde işlev görmesini sağlamaya yardımcı olan yeni bir algoritma kullanır. Kripto para birimine ek bir istikrar sağlamaya yardımcı olur.</p>
