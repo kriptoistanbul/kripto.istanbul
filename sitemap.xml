@@ -1,34 +1,117 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            {% if page.layout == 'main' %}
-                <changefreq>weekly</changefreq>
-                <priority>1</priority>
-                <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-            {% else %}
-                <changefreq>monthly</changefreq>
-                <priority>0.5</priority>
-            {% endif %}
-        </url>
-    {% endfor %}
-    {% for post in site.posts %}
-        <url>
-            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
-        </url>
-    {% endfor %}
-    {% for author in site.authors %}
-        <url>
-            <loc>{{ author.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>monthly</changefreq>
-            <priority>0.5</priority>
-        </url>
-    {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://kripto.istanbul/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/about/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/contact/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/terra-luna-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/chainlink-link-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/tags/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/internet-computer-icp-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/bitcoin-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/usdc-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/bitcoincash-bch-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/uniswap-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/solana-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/polkadot-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/kripto-para-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/dogecoin-doge-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/ripple-xrp-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/cardano-ada-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/tether-usdt-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/binance-coin-bnb-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/ethereum-nedir/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kripto.istanbul/authors/kriptoistanbul/</loc>
+  <lastmod>2021-09-19T12:11:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
