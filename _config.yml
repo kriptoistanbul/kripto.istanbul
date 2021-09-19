@@ -39,8 +39,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "https://kripto.istanbul/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://kripto.istanbul" # the base hostname & protocol for your site
 google_analytics: "G-H4CYSWRWJH"
 language: "tr"
 categories_folder: category
