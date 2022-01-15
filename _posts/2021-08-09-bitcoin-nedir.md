@@ -94,7 +94,7 @@ paginate: true
 <p>Serbest meslek sahipleri, Bitcoin ile ilgili bir iş için ödeme alabilirler. Bunu başarmanın, herhangi bir internet hizmeti oluşturmak ve Bitcoin cüzdan adresinizi siteye ödeme şekli olarak eklemek gibi çeşitli yolları vardır. Dijital para birimlerine adanmış birkaç web sitesi ve iş ilanı da vardır: </p>
 <ul>
 	<li>Cryptogrind, web sitesi aracılığıyla iş arayanları ve potansiyel işverenleri bir araya getiriyor</li>
-	<li>Coinality, Bitcoin ile ödeme sunan serbest, yarı zamanlı ve tam zamanlı işler ile Dogecoin ve Litecoin gibi diğer kripto para birimlerini içerir.</li>
+	<li>Coinality, Bitcoin ile ödeme sunan serbest, yarı zamanlı ve tam zamanlı işler ile Dogecoin ve <a href="https://kripto.istanbul/litecoin-ltc-nedir/" title="Litecoin LTC Nedir?" target="_blank">Litecoin</a> gibi diğer kripto para birimlerini içerir.</li>
 	<li>Jobs4Bitcoins, reddit.com'un bir parçası</li>
 	<li>BitGigs Bitwage, Bitcoin'e dönüştürülecek ve Bitcoin adresinize gönderilecek iş maaşınızın bir yüzdesini seçmeniz için bir yol sunar.</li>
 </ul>
