@@ -13,5 +13,7 @@ layout: compress
             </section>
         {% include footer.html %}
     </body>
+    {% if page.faq %}<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{% for item in page.faq %}{"@type":"Question","name":"{{item.question}}","acceptedAnswer":{"@type":"Answer","text":"{{item.answer}}"}}{% if forloop.last == false %},{% else %}]}</script>{% endif %}{% endfor %}{% endif %}
+    
 </html>
 
