@@ -110,3 +110,16 @@ Ethereum'u Değerli Kılan Şey Nedir?
 <p>GAS ücreti, Ethereum blok zinciri platformunda bir işlemi başarılı bir şekilde yürütmek veya bir sözleşmeyi yürütmek için gereken ücret veya fiyatlandırma değerini ifade eder. </p>
 <h4>Ethereum Dolar Fiyatı Neden Bu Kadar Değişken?</h4>
 <p>Yine Bitcoin'dekine benzer bir cevap burada da geçerli. Ethereum, önemli gelişmeler kaydetmiş bile olsa henüz çok yeni bir teknoloji. Ayrıca kripto para piyasası henüz düzenlemelerden uzak bir piyasa. Dolayısıyla fiyatlar da itibari paralar karşısında çok fazla oynaklık göstermekte.</p>
+---
+faq: 
+- question: "Ethereum Ağını Kim Kontrol Ediyor?"
+  answer: "Bu sorunun cevabı Bitcoin'deki gibidir: "Hiç kimse ve herkes." Ethereum ağı kullanıcıların kararları doğrultusunda ilerler ve ademimerkeziyetçidir."
+- question: "Ethereum'a Yatım Yaparak Zengin Olunur Mu?"
+  answer: "Yeni çıkan teknolojilere yatırım yapmak her zaman riskli bir işlemdir. Özellikle kripto paralar gibi gündelik hayatı fazlasıyla ilgilendiren yeni bir teknolojiye yatırım yaparken bu konuda detaylı bir araştırma yapmak gerekir."
+- question: "Ethereum Nasıl Alınır?"
+  answer: "Ethereum yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance<a/>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz."
+- question: "Ethereum GAS Ücreti Nedir?"
+  answer: "GAS ücreti, Ethereum blok zinciri platformunda bir işlemi başarılı bir şekilde yürütmek veya bir sözleşmeyi yürütmek için gereken ücret veya fiyatlandırma değerini ifade eder."
+- question: "Ethereum Dolar Fiyatı Neden Bu Kadar Değişken?"
+  answer: "Yine Bitcoin'dekine benzer bir cevap burada da geçerli. Ethereum, önemli gelişmeler kaydetmiş bile olsa henüz çok yeni bir teknoloji. Ayrıca kripto para piyasası henüz düzenlemelerden uzak bir piyasa. Dolayısıyla fiyatlar da itibari paralar karşısında çok fazla oynaklık göstermekte."
+---
