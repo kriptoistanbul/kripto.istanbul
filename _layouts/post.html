@@ -30,6 +30,9 @@
                 {% include toc.html %}
 
                 {{ content }}
+                    {% if page.faq %}
+                    {% include faq-schema-content.html %}
+                    {% endif %}
 
                 {% include pagination-post.html %}
             </article>
