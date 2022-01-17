@@ -6,6 +6,9 @@ layout: default
 
   <article class="post-content fullwidth">
     {{ content }}
+      {% if page.faq %}
+      {% include faq-schema-content.html %}
+      {% endif %}
   </article>
 
 </div>
