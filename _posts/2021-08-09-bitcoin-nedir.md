@@ -122,13 +122,39 @@ paginate: true
   <img src="/assets/img/posts-img/btc/bitcoin-fun.jpg" alt="Bitcoin nasıl alınır" style="width:auto;">
 </picture>
 <h2 id="16"> Bitcoin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
-<h4>Bitcoin Ağını Kim Kontrol Ediyor?</h4>
-<p>Geliştiriciler yazılımı geliştirirken, Bitcoin protokolünde bir değişiklik yapmaya zorlayamazlar çünkü tüm kullanıcılar hangi yazılımı ve sürümü kullanacaklarını seçmekte özgürdürler. Yani Bitcoin ağını kimse kontrol etmiyor ya da diğer bir deyişle ağdaki herkes kontrol ediyor.</p>
-<h4>Bitcoin Yatırımı Nasıl Yapılır Ya da Halk Arasındaki Tabiriyle Bitcoin Nasıl Oynanır?</h4>
-<p>Bitcoin yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance<a/>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
-<h4>Bitcoin'e Yatırım Yaparak Zengin Olunur Mu?</h4>
-<p>Yeni çıkan bir teknolojiye yatırım yapmak her zaman kendi risklerini barındırır. Bitcoin kendi iş imkanlarını bulundurur ve hızlı büyüyen bir topluluğa sahiptir. Ancak devlet düzenlemeleriyle bütün bunlar yok olabilir. </p>
-<h4>Bitcoin-Dolar Fiyatı Neden Bu Kadar Değişken?</h4>
-<p>Çevrenizde de sıkça "Bitcoin neden düşüyor?" ya da "Bitcoin neden yükseliyor?" gibi sorular duyarsınız. Bitcoin'in fiyatının (hatta kripto para piyasasındaki her şeyin) bu kadar değişken olmasının önemli bir sebebi henüz gelişmekte oluşundan kaynaklanıyor. Gelecekte bu paralar itibari para birimlerinin yerini alacak mı yoksa ikisi bir arada mı gidecek henüz bir şey söylemek için erken. Dolayısı ile öngörülemeyen durumları söz konusu olduğu için fiyatı da henüz yüksek değişkenliğini koruyor.</p>
-<h4>Bitcoin Balon Mu?</h4>
-<p>Bitcoin, blok zincir teknolojisini kullanan ilk kripto para birimi. Bir para birimi olarak devam etmesi engellense dahi blok zincir teknolojisinin bizimle kalacağı artık neredeyse kesin bir şey. Dolayısıyla Bitcoin bir balon değil, bir teknolojik gelişme.</p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Bitcoin Ağını Kim Kontrol Ediyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Geliştiriciler yazılımı geliştirirken, Bitcoin protokolünde bir değişiklik yapmaya zorlayamazlar çünkü tüm kullanıcılar hangi yazılımı ve sürümü kullanacaklarını seçmekte özgürdürler. Yani Bitcoin ağını kimse kontrol etmiyor ya da diğer bir deyişle ağdaki herkes kontrol ediyor.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Bitcoin Yatırımı Nasıl Yapılır Ya da Halk Arasındaki Tabiriyle Bitcoin Nasıl Oynanır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Bitcoin yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance</a><a></a>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Bitcoin'e Yatırım Yaparak Zengin Olunur Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yeni çıkan bir teknolojiye yatırım yapmak her zaman kendi risklerini barındırır. Bitcoin kendi iş imkanlarını bulundurur ve hızlı büyüyen bir topluluğa sahiptir. Ancak devlet düzenlemeleriyle bütün bunlar yok olabilir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Bitcoin-Dolar Fiyatı Neden Bu Kadar Değişken?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Çevrenizde de sıkça "Bitcoin neden düşüyor?" ya da "Bitcoin neden yükseliyor?" gibi sorular duyarsınız. Bitcoin'in fiyatının (hatta kripto para piyasasındaki her şeyin) bu kadar değişken olmasının önemli bir sebebi henüz gelişmekte oluşundan kaynaklanıyor. Gelecekte bu paralar itibari para birimlerinin yerini alacak mı yoksa ikisi bir arada mı gidecek henüz bir şey söylemek için erken. Dolayısı ile öngörülemeyen durumları söz konusu olduğu için fiyatı da henüz yüksek değişkenliğini koruyor.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Bitcoin Balon Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Bitcoin, blok zincir teknolojisini kullanan ilk kripto para birimi. Bir para birimi olarak devam etmesi engellense dahi blok zincir teknolojisinin bizimle kalacağı artık neredeyse kesin bir şey. Dolayısıyla Bitcoin bir balon değil, bir teknolojik gelişme.</p>
+        </div>
+    </div>
+</div>
