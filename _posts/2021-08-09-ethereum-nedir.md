@@ -136,3 +136,4 @@ Ethereum'u Değerli Kılan Şey Nedir?
         </div>
     </div>
 </div>
+<p><a href="https://kripto.istanbul/polkadot-nedir/" title="Polkadot DOT coin nedir?" target="_blank">Polkadot, kısa adıyla DOT coin nedir?</a></p>
