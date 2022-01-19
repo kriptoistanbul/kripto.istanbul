@@ -55,7 +55,7 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdc/usdc-3.jpg">
   <img src="/assets/img/posts-img/usdc/usdc3.jpg" alt="usdt vs usdc" style="width:auto;">
 </picture>
-<p>En popüler stabilcoin Tether'in (USDT) aksine, USD Coin'nin yaratıcıları tam şeffaflık sağlamak ve eşdeğer itibari para biriminin tam rezervlerini korumak için bir dizi finansal kurumla çalışmakla yükümlüdür. Tüm USDC ihraççılarının, daha sonra Grant Thornton LLP tarafından yayınlanan USD varlıklarını düzenli olarak rapor etmeleri gerekmektedir. Tüm aylık tasdik raporları https://www.centre.io/usdc-transparency adresinden bulunabilir. </p>
+<p>En popüler stabilcoin <a href="https://kripto.istanbul/tether-usdt-nedir/" title="Tether Coin nedir?" target="_blank">Tether</a>'in (USDT) aksine, USD Coin'nin yaratıcıları tam şeffaflık sağlamak ve eşdeğer itibari para biriminin tam rezervlerini korumak için bir dizi finansal kurumla çalışmakla yükümlüdür. Tüm USDC ihraççılarının, daha sonra Grant Thornton LLP tarafından yayınlanan USD varlıklarını düzenli olarak rapor etmeleri gerekmektedir. Tüm aylık tasdik raporları https://www.centre.io/usdc-transparency adresinden bulunabilir. </p>
 <h3 id="usdc5">USD Coin (USDC) Nasıl Kullanılır?</h3>
 <p>USD Coin (USDC), Ethereum blok zincirinde bir ABD dolarının 1: 1 temsilidir. Bu bir ERC-20 belirtecidir ve standardı destekleyen her uygulamayla kullanılabilir. USDC'yi Circle ile belirtmek veya kullanmak için bir hesap kaydetmeniz, kimliğinizi doğrulamanız ve yasal bir banka hesabı bağlamanız gerekir. Circle USD platformu, kullanıcıların dört temel eylemi gerçekleştirmesine izin verir: </p>
 <ul>
