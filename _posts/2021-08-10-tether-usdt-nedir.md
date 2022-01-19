@@ -53,13 +53,39 @@ paginate: true
   <img src="/assets/img/posts-img/usdt/tether3.jpg" alt="usdt ne kadar" style="width:auto;">
 </picture>
 <h2 id="usdt5">Tether Hakkında Sıkça Sorulan Sorular(SSS)</h2> 
-<h3>Tether Ne İçin Kullanılır?</h3> 
-<p>Tether, kripto yatırımcıları için yararlıdır çünkü diğer kripto para birimlerinin aşırı oynaklığından kaçınmanın bir yolunu sunar. Ayrıca, USDT'ye sahip olmak (ABD dolarının aksine), işlem maliyetlerini ortadan kaldırır ve kripto piyasasında ticaretin yürütülmesini bozan gecikmeleri ortadan kaldırır. </p>
-<h3>USDT'yi Nasıl Satın Alırım?</h3>
-<p>Tether tokenleri, <a href="https://www.binance.com/">Binance</a>,<a href="https://www.coinspot.com.au/"> CoinSpot</a>, <a href="https://www.bitfinex.com/">BitFinex</a> ve<a href="https://www.kraken.com/"> Kraken</a> gibi popüler kripto para borsalarından satın alınabilir. </p>
-<h3>Tether Token'in Amacı Nedir?</h3> 
-<p>Tether (USDT), yatırımcılara diğer kripto para birimlerinin aşırı oynaklığından kaçınmanın bir yolunu sunar. Değeri USDT'ye taşıyarak, bir tüccar kripto para birimlerinin fiyatında ani bir düşüşe maruz kalma riskini azaltabilir. BTC'yi ABD doları yerine Tether'e aktarmak da çok daha hızlı ve daha ucuzdur. </p> 
-<h3>Tether Bir Stablecoin mi?</h3> 
-<p>Evet, Tether, kripto dünyasındaki ilk ve en çok bilinen stabilcoin'dir. Diğer sabit paralar arasında True USD (TUSD), Pazos Standard (PAX) ve USD Coin (USD) gibi coin'ler bulunur. </p>
-<h3>Tether 1 Dolarda Sabit Bir Şekilde Nasıl Kalır? 
-<p>Tether daha önce 1 doların altına düşmüş olsa da, stabilcoin değerini koruyabiliyor çünkü eşleşen bir fiat para birimine sabitlenmiş ve %100 Tether'in rezervleriyle destekleniyor. </p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Tether Ne İçin Kullanılır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Tether, kripto yatırımcıları için yararlıdır çünkü diğer kripto para birimlerinin aşırı oynaklığından kaçınmanın bir yolunu sunar. Ayrıca, USDT'ye sahip olmak (ABD dolarının aksine), işlem maliyetlerini ortadan kaldırır ve kripto piyasasında ticaretin yürütülmesini bozan gecikmeleri ortadan kaldırır.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">USDT'yi Nasıl Satın Alırım?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Tether tokenleri, <a href="https://www.binance.com/">Binance</a>,<a href="https://www.coinspot.com.au/"> CoinSpot</a>, <a href="https://www.bitfinex.com/">BitFinex</a> ve<a href="https://www.kraken.com/"> Kraken</a> gibi popüler kripto para borsalarından satın alınabilir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Tether Token'in Amacı Nedir?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Tether (USDT), yatırımcılara diğer kripto para birimlerinin aşırı oynaklığından kaçınmanın bir yolunu sunar. Değeri USDT'ye taşıyarak, bir tüccar kripto para birimlerinin fiyatında ani bir düşüşe maruz kalma riskini azaltabilir. BTC'yi ABD doları yerine Tether'e aktarmak da çok daha hızlı ve daha ucuzdur.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Tether Bir Stablecoin mi?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Evet, Tether, kripto dünyasındaki ilk ve en çok bilinen stabilcoin'dir. Diğer sabit paralar arasında True USD (TUSD), Pazos Standard (PAX) ve USD Coin (USD) gibi coin'ler bulunur.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Tether 1 Dolarda Sabit Bir Şekilde Nasıl Kalır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Tether daha önce 1 doların altına düşmüş olsa da, stabilcoin değerini koruyabiliyor çünkü eşleşen bir fiat para birimine sabitlenmiş ve %100 Tether'in rezervleriyle destekleniyor.</p>
+        </div>
+    </div>
+</div>
