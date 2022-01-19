@@ -94,4 +94,4 @@ paginate: true
 <h4 id="sol15">8.Arşivleyiciler → Dağıtılmış Defter Depolama</h4> <p>Doğrulayıcılardan Arşivciler olarak bilinen düğüm ağına veri depolamak için Arşivcilerin kullanılmasıdır. Bu düğümler hafif olabilir (örn: dizüstü bilgisayarlar) ve doğru verileri depoladıklarından emin olmak için arada bir kontrole tabi tutulurlar. </p>
 <h4 id="sol16">Solana’ya (SOL) Son Bir Bakış</h4>
 <p>Solana, daha önceki blockchain teknolojisinin deneyimlediği birçok geleneksel sorunu çözüme kavuşturmaya çalışıyor. Solana, işlemleri doğrulamak için yeni bir yapı ve daha verimli bir fikir birliği algoritması gösterir. Platform kesinlikle Bitcoin ve Ethereum ile güçlü bir rakip olacak gibi durmaktadır. Solana, kripto endüstrisindeki hızlı gelişmeleri sadece 10 yıl içinde gösteriyor. Platform, gelişmeye devam ederken kesinlikle dikkat edilmesi gereken bir şey olacak! </p>
-
+<p><a href="https://kripto.istanbul/uniswap-nedir/" title="Uniswap UNI coin nedir?" target="_blank">Uniswap, kısa adıyla UNI coin nedir?</a></p>
