@@ -101,4 +101,40 @@
     <script>
         document.querySelector('html').classList.remove('no-js');
     </script>
+    <head>
+  <meta http-equiv="..." content="...">
+  <meta name="..." content="...">
+  <script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    }{% if layout.type == "category" %},{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}/{{ page.title }}"
+    }{% endif %}{% if layout.type == "post" %},{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.category }}",
+      "item": "{{ site.url }}/{{ page.category }}"
+    },{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ page.title }}",
+      "item": "{{ site.url }}/{{ page.url }}"
+    }{% endif %}]
+  }</script>
+  <title>
+    {% if layout.type == "category" %}
+        Posts tagged in #{{ page.title }}
+    {% else %}
+        {{ page.title }}
+    {% endif %} | {{ site.title }}</title>
+</head>
 </head>
