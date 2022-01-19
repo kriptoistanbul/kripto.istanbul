@@ -89,3 +89,4 @@ paginate: true
         </div>
     </div>
 </div>
+<p><a href="https://kripto.istanbul/usdc-nedir/" title="USD Coin USDC nedir?" target="_blank">USD Coin, kısa adıyla USDC nedir?</a></p>
