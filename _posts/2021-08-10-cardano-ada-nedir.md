@@ -82,11 +82,32 @@ paginate: true
 <p>Cardano, birçok yeni teknolojik ve matematiksel kavramın faydalarını birleştiren yeni bir blok zinciri altyapısı biçimi sağlamayı amaçlayan yenilikçi ve benzersiz bir projedir. Bu üçüncü nesil blockchain projesi, sektörde baskın bir akıllı sözleşme platformu olma potansiyeline sahip, ancak yine de gelişiminin çoğunu önünde bulunduruyor. </p>
 <p>Gerçekten iddialı bir proje. Cardano'nun kripto dünyası ve genel olarak dünya üzerindeki kalıcı etkilerinin ne olacağını yalnızca zaman gösterecek - ancak gelecek kesinlikle parlak görünüyor.</p>
 <h2 id="ada11">Cardano -ADA- Hakkında Sıkça Sorulan Sorular(SSS)</h2>
-<h4> ADA Nereden Alınır?</h4>
-<p>ADA yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance<a/>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.
-<h4>ADA Güvenli Bir Yatırım Aracı Mıdır?</h4>
-<p>Yeni çıkan bir teknolojiye yatırım yapmak her zaman kendi risklerini barındırır. ADA, geliştirdiği teknoloji ve takımının problem çözme yeteneği sayesinde ileride de adından sıkça bahsettirecek gibi duruyor. Ancak kripto paralar gibi yeni ve gelecekte ne olacağına dair kesinlik içermeyen yatırımlar kendilerine özel riskleri de barındırmaktadır. Bu nedenle yatırım yaparken bütün riskleri göz önünde bulundurduğunuzdan emin olun.</p>
-<h4>ADA'ya Yatırım Yaparak Zengin Olunur Mu?</h4>
-<p>Kripto para piyasaları kendi dinamiklerini barındıran ve fiyat değişkenliğinin bol olduğu yerlerdir. Dolayısı ile kripto para piyasalarında yatırımlar zengin olmak için değil, gelişen teknolojileri desteklemek amacıyla yapılmalıdır. Bütün birikiminizi kaybedebileceğinizi de her zaman hatırlamakta fayda var.</p>
-<h4>Cardano Ağını Kim Kontrol Ediyor?</h4>
-<p>Cardano ağı ADA sahipleri tarafından kontrol edilmektedir. Yani, elinde ADA belirteci bulunan herkes ağın geleceği için karar verir.</p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">ADA Nereden Alınır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">DA yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance</a><a></a>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">ADA Güvenli Bir Yatırım Aracı Mıdır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yeni çıkan bir teknolojiye yatırım yapmak her zaman kendi risklerini barındırır. ADA, geliştirdiği teknoloji ve takımının problem çözme yeteneği sayesinde ileride de adından sıkça bahsettirecek gibi duruyor. Ancak kripto paralar gibi yeni ve gelecekte ne olacağına dair kesinlik içermeyen yatırımlar kendilerine özel riskleri de barındırmaktadır. Bu nedenle yatırım yaparken bütün riskleri göz önünde bulundurduğunuzdan emin olun.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">ADA'ya Yatırım Yaparak Zengin Olunur Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kripto para piyasaları kendi dinamiklerini barındıran ve fiyat değişkenliğinin bol olduğu yerlerdir. Dolayısı ile kripto para piyasalarında yatırımlar zengin olmak için değil, gelişen teknolojileri desteklemek amacıyla yapılmalıdır. Bütün birikiminizi kaybedebileceğinizi de her zaman hatırlamakta fayda var.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Cardano Ağını Kim Kontrol Ediyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Cardano ağı ADA sahipleri tarafından kontrol edilmektedir. Yani, elinde ADA belirteci bulunan herkes ağın geleceği için karar verir.</p>
+        </div>
+    </div>
+</div>
