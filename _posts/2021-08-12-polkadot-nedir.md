@@ -120,13 +120,39 @@ paginate: true
 <p>Yeni nesil blok zinciri, teşvik edilmiş paydaşlardan oluşan kullanıcı tabanı, NPoS mutabakatı ve zincir içi yönetişim tarafından kontrol edilen tamamen merkezi olmayan bir web sunma yeteneğine sahiptir. Paralel işleme, havuzlanmış güvenlik, uyumlu çerçeveler, zincirler arası mesajlaşma ve köprülü bağlantı kullanarak yeni kullanım durumlarını ateşleyerek özel zincirleri, genel ağları, oracle'ları ve uygulamaları birbirine bağlar. </p>
 <p>Polkadot, "bir sonraki Ethereum", bir "Ethereum katili" veya diğer ağların rakibi olmaktan uzak, yalnızca bir blok zinciri olması gerektiği fikrini reddediyor. Daha önce gelen bağımsız protokoller dizisinden ziyade, daha geniş kripto ekosistemini bir merkez kullanarak tamamlayan yeni bir çapraz zincirler birlikte çalışabilirlik dönemi sunar ve daha önce gelen bağımsız protokoller dizisi yerine web3'ün faydasını artıran stil mimarisi, artan sayıda proje ve Polkadot ekosistemini oluşturan geliştiriciler için uygun bir ortam sunar.</p>
 <h2 id="dot16">Polkadot Hakkında Sıkça Sorulan Sorular(SSS)</h2>
-<h4>Polkadot'a Yatırım Yapmak Güvenli Mi?</h4>
-<p>Polkadot da diğer birçok kripto para gibi yeni nesil bir teknolojidir ve kendi risklerini barındırır. Ayrıca bu tip ağlar genellikle bir kişi veya kuruluşa bağlı olmadan, kullanıcıların yön vermesiyle geleceğini belirler. Dolayısıyla iyi seçilmemiş bir yöne ağın kayması bütün yatırımınızın gidebileceği anlamına gelebilir.</p>
-<h4>Uzun Vadeli DOT Yatırımcısı Olmak Mantıklı Mı?</h4>
-<p>DOT belirteci, ağ içerisindeki işlemler sonucunda kazanılan ve ağ ile ilgili kararlarda tercih yapmanızı sağlayan bir belirteçtir. DOT belirtecinin yıllık bazda enflasyonist yapısı (birçok kripto parada olduğu gibi) pasif yatırımcılar için bir sorun teşkil edebilir. Gerek DOT belirtecine gerekse diğer kripto paralara yatırım yaparken dikkat edilecek en önemli şeylerden birisi sizin de bunun bir parçası olmak isteyip istemediğinizdir. Dolayısıyla ardında yatan teknolojiye yatırım yapmak ve o teknolojii de gündelik hayatta kullanmak en mantıklı seçim olacaktır.</p>
-<h4>DOT Yatırımcısı Olarak Zengin Olunur Mu?</h4>
-<p>Kripto para piyasalarının kendine göre dinamikleri ve değişimleri vardır. Ayrıca bu teknolojinin gelecekte kabul görüp görmeyeceği ise henüz birçok kripto para çeşidi için belirsizdir. Kripto para yatırımı riskli bir yatırımdır. Bu nedenle yatırım belirtecin kendisine değil ardında yatan teknolojiye yapılmalıdır.</p>
-<h4>W3 Vakfı Nedir?</h4>
-<p>Merkezi olmayan web yazılım protokolleri için son teknoloji uygulamaları beslemek amacıyla kurulan bir vakıftır. Kullanıcıların kendi verilerini, kimliklerini ve kaderlerini kontrol ettiği merkezi olmayan ve adil bir internet olan Web 3.0'ı sunmak için çalışmalarını yürütürler.</p>
-<h4>Polkadot Adına Kim Çalışıyor?</h4>
-<p>Polkadot açık kaynaklı bir projedir ve herkes platformun gelişimine katkıda bulunmakta özgürdür.</p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Polkadot'a Yatırım Yapmak Güvenli Mi?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Polkadot da diğer birçok kripto para gibi yeni nesil bir teknolojidir ve kendi risklerini barındırır. Ayrıca bu tip ağlar genellikle bir kişi veya kuruluşa bağlı olmadan, kullanıcıların yön vermesiyle geleceğini belirler. Dolayısıyla iyi seçilmemiş bir yöne ağın kayması bütün yatırımınızın gidebileceği anlamına gelebilir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Uzun Vadeli DOT Yatırımcısı Olmak Mantıklı Mı?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">DOT belirteci, ağ içerisindeki işlemler sonucunda kazanılan ve ağ ile ilgili kararlarda tercih yapmanızı sağlayan bir belirteçtir. DOT belirtecinin yıllık bazda enflasyonist yapısı (birçok kripto parada olduğu gibi) pasif yatırımcılar için bir sorun teşkil edebilir. Gerek DOT belirtecine gerekse diğer kripto paralara yatırım yaparken dikkat edilecek en önemli şeylerden birisi sizin de bunun bir parçası olmak isteyip istemediğinizdir. Dolayısıyla ardında yatan teknolojiye yatırım yapmak ve o teknolojii de gündelik hayatta kullanmak en mantıklı seçim olacaktır.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">DOT Yatırımcısı Olarak Zengin Olunur Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kripto para piyasalarının kendine göre dinamikleri ve değişimleri vardır. Ayrıca bu teknolojinin gelecekte kabul görüp görmeyeceği ise henüz birçok kripto para çeşidi için belirsizdir. Kripto para yatırımı riskli bir yatırımdır. Bu nedenle yatırım belirtecin kendisine değil ardında yatan teknolojiye yapılmalıdır.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">W3 Vakfı Nedir?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Merkezi olmayan web yazılım protokolleri için son teknoloji uygulamaları beslemek amacıyla kurulan bir vakıftır. Kullanıcıların kendi verilerini, kimliklerini ve kaderlerini kontrol ettiği merkezi olmayan ve adil bir internet olan Web 3.0'ı sunmak için çalışmalarını yürütürler.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Polkadot Adına Kim Çalışıyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Polkadot açık kaynaklı bir projedir ve herkes platformun gelişimine katkıda bulunmakta özgürdür.</p>
+        </div>
+    </div>
+</div>
