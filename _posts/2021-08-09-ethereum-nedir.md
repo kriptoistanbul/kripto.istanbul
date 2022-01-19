@@ -110,3 +110,17 @@ Ethereum'u Değerli Kılan Şey Nedir?
 <p>GAS ücreti, Ethereum blok zinciri platformunda bir işlemi başarılı bir şekilde yürütmek veya bir sözleşmeyi yürütmek için gereken ücret veya fiyatlandırma değerini ifade eder. </p>
 <h4>Ethereum Dolar Fiyatı Neden Bu Kadar Değişken?</h4>
 <p>Yine Bitcoin'dekine benzer bir cevap burada da geçerli. Ethereum, önemli gelişmeler kaydetmiş bile olsa henüz çok yeni bir teknoloji. Ayrıca kripto para piyasası henüz düzenlemelerden uzak bir piyasa. Dolayısıyla fiyatlar da itibari paralar karşısında çok fazla oynaklık göstermekte.</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": {
+    "@type": "Question",
+    "name": "Ethereum Ağını Kim Kontrol Ediyor?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Bu sorunun cevabı Bitcoin'deki gibidir: \"Hiç kimse ve herkes.\" Ethereum ağı kullanıcıların kararları doğrultusunda ilerler ve ademimerkeziyetçidir."
+    }
+  }
+}
+</script>
