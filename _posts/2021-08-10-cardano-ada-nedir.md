@@ -111,3 +111,4 @@ paginate: true
         </div>
     </div>
 </div>
+<p><a href="https://kripto.istanbul/kripto-para-nedir/" title="Kripto para nedir?" target="_blank">Kripto para nedir?</a></p>
