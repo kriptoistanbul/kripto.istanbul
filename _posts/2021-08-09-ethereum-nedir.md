@@ -100,21 +100,39 @@ Ethereum'u Değerli Kılan Şey Nedir?
 <h4 id="eth15">Ethereum'a Son Bir Bakış</h4>
 <p>Ethereum'un her geçen gün daha belirgin hale gelen büyük bir ihtiyacı - sansür ve manipülasyondan arınmış yeni, açık kaynaklı bir internet ihtiyacı - karşıladığı açıktır. Kripto para birimi olarak Ether, uygulamaları çalıştırma ve tamamen yeni projeleri barındırma becerisinin yanı sıra bu yeni internetin ayrılmaz bir parçası olarak merkezi olmayan finansmanı sağlamak için tasarlanmış özelliklerle dolu bir platformdan yararlanıyor. Ethereum, çalışma şeklini elden geçirmenin tam ortasındadır. Ağ, ademi merkeziyetin hepimizin bildiği ve sevdiği yönlerini korurken, önümüzdeki birkaç yıl içinde kademeli olarak büyümeye devam edecek gibi görünüyor.</p>
 <h2 id="eth16">Ethereum Sıkça Sorulan Sorular(SSS)</h2>
-<h4>Ethereum Ağını Kim Kontrol Ediyor?</h4>
-<p>Bu sorunun cevabı Bitcoin'deki gibidir: "Hiç kimse ve herkes." Ethereum ağı kullanıcıların kararları doğrultusunda ilerler ve ademimerkeziyetçidir.</p>
-<h4>Ethereum'a Yatım Yaparak Zengin Olunur Mu?</h4>
-<p>Yeni çıkan teknolojilere yatırım yapmak her zaman riskli bir işlemdir. Özellikle kripto paralar gibi gündelik hayatı fazlasıyla ilgilendiren yeni bir teknolojiye yatırım yaparken bu konuda detaylı bir araştırma yapmak gerekir.</p>
-<h4>Ethereum Nasıl Alınır?</h4>
-<p>Ethereum yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance<a/>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
-<h4>Ethereum GAS Ücreti Nedir?</h4>
-<p>GAS ücreti, Ethereum blok zinciri platformunda bir işlemi başarılı bir şekilde yürütmek veya bir sözleşmeyi yürütmek için gereken ücret veya fiyatlandırma değerini ifade eder. </p>
-<h4>Ethereum Dolar Fiyatı Neden Bu Kadar Değişken?</h4>
-<p>Yine Bitcoin'dekine benzer bir cevap burada da geçerli. Ethereum, önemli gelişmeler kaydetmiş bile olsa henüz çok yeni bir teknoloji. Ayrıca kripto para piyasası henüz düzenlemelerden uzak bir piyasa. Dolayısıyla fiyatlar da itibari paralar karşısında çok fazla oynaklık göstermekte.</p>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ethereum Ağını Kim Kontrol Ediyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Bu sorunun cevabı Bitcoin'deki gibidir: "Hiç kimse ve herkes." Ethereum ağı kullanıcıların kararları doğrultusunda ilerler ve ademimerkeziyetçidir.</p><p></p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ethereum Nasıl Alınır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Ethereum yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance</a><a></a>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ethereum GAS Ücreti Nedir?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">GAS ücreti, Ethereum blok zinciri platformunda bir işlemi başarılı bir şekilde yürütmek veya bir sözleşmeyi yürütmek için gereken ücret veya fiyatlandırma değerini ifade eder.</p>
+        </div>
+    </div>
+
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h3 itemprop="name" class="faq-q">Ethereum Dolar Fiyatı Neden Bu Kadar Değişken?</h3>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Yine Bitcoin'dekine benzer bir cevap burada da geçerli. Ethereum, önemli gelişmeler kaydetmiş bile olsa henüz çok yeni bir teknoloji. Ayrıca kripto para piyasası henüz düzenlemelerden uzak bir piyasa. Dolayısıyla fiyatlar da itibari paralar karşısında çok fazla oynaklık göstermekte.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ethereum'a Yatım Yaparak Zengin Olunur Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yeni çıkan teknolojilere yatırım yapmak her zaman riskli bir işlemdir. Özellikle kripto paralar gibi gündelik hayatı fazlasıyla ilgilendiren yeni bir teknolojiye yatırım yaparken bu konuda detaylı bir araştırma yapmak gerekir.</p>
         </div>
     </div>
 </div>
