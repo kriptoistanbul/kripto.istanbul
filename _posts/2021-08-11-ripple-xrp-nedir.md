@@ -84,13 +84,39 @@ Washington DC, 22 Aralık 2020 </blockquote>
 <p>Diğer bir endişe de Ripple’ın özel bir şirket olarak statüsüdür. Ağın kendisi açık kaynak olsa da, ağı yöneten şirketin proje için finansal hedefleri vardır ve bu şirketin ortalama bir kullanıcının endişeleri üzerinden finans kurumlarının (şirketin müşterileri) ihtiyaçlarını dinlemesini bekleyebiliriz. </p>
 <p>Ripple hakkında beğenilecek çok şey var ve başka hiçbir kripto para biriminin bulunmadığı finans sektöründe genel kabul gördü. Küresel ödeme endüstrisini çok iyi bir şekilde dönüştürebilir. Ancak yine de Ripple'ın ya da daha doğrusu RippleNet'in daha alacak yolu var gibi görünüyor.</p>
 <h2 id="xrp11">Ripple -XRP- Hakkında Sıkça Sorulan Sorular(SSS)</h2>
-<h4>Ripple İyi Bir Yatırım Aracı Mıdır?</h4>
-<p>Kripto paralar gibi yeni teknolojilere yatırım yapmak her zaman kendi risklerini barındırır. Ripple özelinde ise SEC davası sonuçlanmadan yapılacak yatırımların ekstra bir risk barındırdığını da göz önünde bulundurmak gerekir.</p>
-<h4>Ripple Alınarak Zengin Olunur Mu?</h4>
-<p>Kripto paralara yapılacak yatırımlar zengin olmak için değil, gelişen teknolojiyi benimseyerek yapılmalıdır. Blok zincir ve diğer teknolojiler geleceğe yönelik atılımlardır. Dolayısıyla yapılacak yatırımlar kripto paraların ardında yatan teknolojiler ve problem çözme yeteneklerine göre seçilmelidir.</p>
-<h4>Ripple Hangi Soruna Çözüm Buluyor</h4>
-<p>Ripple, bir ödeme aracı olarak Bitcoin ve Ethereum gibi kripto paraların ağ yavaşlığına çözüm bulmaktadır.</p>
-<h4>Ripple Nereden Alınır?</h4>
-<p>XRP yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance<a/>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
-<h4>Ripple-SEC Davası Nasıl Sonuçlanır?</h4>
-<p>Henüz sonuç belli olmasa da göstergeler Ripple'ın davada olumlu sonuç alabileceğini gösteriyor. Yine de dava sonuçlanmadan net bir şey söylemek imkansızdır.</p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ripple İyi Bir Yatırım Aracı Mıdır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kripto paralar gibi yeni teknolojilere yatırım yapmak her zaman kendi risklerini barındırır. Ripple özelinde ise SEC davası sonuçlanmadan yapılacak yatırımların ekstra bir risk barındırdığını da göz önünde bulundurmak gerekir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ripple Alınarak Zengin Olunur Mu?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kripto paralara yapılacak yatırımlar zengin olmak için değil, gelişen teknolojiyi benimseyerek yapılmalıdır. Blok zincir ve diğer teknolojiler geleceğe yönelik atılımlardır. Dolayısıyla yapılacak yatırımlar kripto paraların ardında yatan teknolojiler ve problem çözme yeteneklerine göre seçilmelidir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ripple Hangi Soruna Çözüm Buluyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Ripple, bir ödeme aracı olarak Bitcoin ve Ethereum gibi kripto paraların ağ yavaşlığına çözüm bulmaktadır.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ripple Nereden Alınır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">XRP yatırımı yapabilmek için Türk kripto para platformlarını ya da global kripto para platformlarını (örn;<a href="https://www.binance.com"> Binance</a><a></a>,<a href="https://www.gate.io"> gate.io</a>... gibi) kullanabilirsiniz. Bir kripto para cüzdanına sahipseniz elinizde olan kripto paralarla merkeziyetsiz borsalarda da alım satım işlemlerinizi gerçekleştirebilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Ripple-SEC Davası Nasıl Sonuçlanır?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Henüz sonuç belli olmasa da göstergeler Ripple'ın davada olumlu sonuç alabileceğini gösteriyor. Yine de dava sonuçlanmadan net bir şey söylemek imkansızdır.</p>
+        </div>
+    </div>
+</div>
