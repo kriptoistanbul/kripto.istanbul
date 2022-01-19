@@ -84,17 +84,46 @@ paginate: true
 <h4 id="bnb13">ICO'lara/IEO'lara Katılım</h4> 
 <p>Binance Launchpad ayrıca yeni ve yaklaşan bir para biriminde hisse satın almak için BNB tokenlerinizi kullanabileceğiniz yeni token satışlarına da ev sahipliği yapıyor. Daha sonra, bu yeni dijital para birimleri, bunları takas edebileceğiniz ve eksiksiz ve sorunsuz bir deneyim sunabileceğiniz Binance borsasına eklenir. </p>
 <h2 id="bnb14">Binance Coin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
-<h4>BNB Fiyatı Neden Bu Kadar Artıyor?</h4>
-<p>BNB, en büyük kripto para platformlarından birisinin resmi tokeni olduğu için ve işlemlerde komisyon indirimi sağladığı için çokça tercih edilen bir coin. Yalnızca kripto para platformuyla da sınırlı kalmamak istemesi halihazırda fiyatını önemli ölçüde yükseltiyor.</p>
-<h4>Binance Coin Ne Kadar Güvenli?</h4> 
-<p>BNB, veri ihlallerini ve müdahaleyi önlemek için kriptografik şifreleme kullanan Ethereum blok zinciri üzerine inşa edilmiştir. Blok zincir, merkezi olmayan bir yapıya sahip olduğundan, verileri tehlikeye atmak için hacklenebilecek tek bir merkezi hub yoktur. Bunun dışında Binance kripto para borsası, kişisel bilgilerinizi ve fonlarınızı güvende tutmak için güvenlik katmanları ekleyen güvenlik özellikleri ile kripto alanında güvenilir bir isimdir. Bunlar, iki faktörlü kimlik doğrulama ve SSL sertifikalı şifrelemeyi içerir. BNB'nizi güvende tutmak için sıcak veya soğuk cüzdanları da kullanabilirsiniz. </p>
-<h4>Binance Coin Geliştirme Üzerinde Hangi Takımlar Çalışıyor?</h4> 
-<p>Binance, Çin merkezli ve OKCoin'in CTO'su Changpeng Zhao tarafından kuruldu. Lansmandan sonra OKCoin'in kurucularından biri olan Yi He, Binance ekibine de katıldı. Her ikisi de o zamandan beri katlanarak büyüdü ve şu anda ticaret hacmine göre dünyanın en büyük ikinci borsası. BNB, önceden mayınlanmış bir türev kripto para birimi olduğundan ve artık arzı sınırlamak için büyük miktarlarda yakıldığından, tokenin kendisinin geliştirilmesi üzerinde çalışan mevcut ekipler yoktur. </p>
-Binance Coin'e Hangi Finans Kuruluşları Yatırım Yapılıyor? 
-<p>Yatırımcıları çekmek söz konusu olduğunda Binance her zaman çok çabaladılar; çünkü kurucular zaten tamamen işlevsel, başarılı bir kripto platformu yaratma yeteneğini gösterdiler. Bu nedenle Binance ve BNB ICO, Vertex Ventures, Plutus21, Black Hole Capital, Funcity Capital, Sequoia Capital, Limitless Crypto Investments, Fundamental Labs ve daha fazlası dahil olmak üzere birçok önde gelen yatırımcı ve finans kurumunu cezbetti. Ancak bugün Binance, daha fazla fon elde etme yolunu engelleyebilecek daha fazla rekabetle yüzleşmek zorunda.</p> 
-<p>Bunun dışında, kullanıcılarının küçükten büyüğe alışveriş yapmak için BNB tokenlerini kullanabilmelerini sağlamak için birçok satıcı, servis sağlayıcı ve tüccar ile ilişkiler kurmayı başardı. Şu anda Binance, seyahat, otelcilik, emlak ve yemek markaları dahil olmak üzere 100'den fazla farklı hizmet sağlayıcıyla ortaklığa sahiptir. </p>
-<h4>Binance Coin Cüzdanı Nedir?</h4>
-<p>BNB tokenlerinizi güvenli bir şekilde saklamak istiyorsanız, bunu yapmak için donanım veya yazılım cüzdanlarını kullanabilirsiniz. BNB coinlerini saklamak için kullanılan resmi cüzdan Trust Wallet'tır. Bununla birlikte, Binance tokenlerini Enjin Wallet, Ledger Wallet, Trezor Wallet, Jaxx, CoolWallet S, Metal Vault, BRD, Gifto, Request Wallet, Ethos Universal Wallet, WinQ, Atomic Wallet, Clay, Coinomi ve Blox.io Wallet üzerinde de saklayabilirsiniz. </p>
-<h4>Binance Coin İyi Bir Yatırım Aracı Mı?</h4>
-<p>Binance Coin tokenleri ile ilgili en umut verici şeylerden biri, onu geçerli bir para birimi alternatifi olmasa bile başarısının sadece buna bağlı olmamasıdır. İşlemleri ve dijital varlık ticaretini güçlendirmek için Binance Borsası ekosisteminde hala kullanılabilir ve platform kullanıcılarına sorunsuz bir deneyim sağlar. Doğası gereği kullanımı olan tokenlerden biridir. </p>
-<p>Bununla birlikte, kripto para birimi alanı, özellikle fiyat dalgalanmaları söz konusu olduğunda oldukça öngörülemez olabilir. BNB'ye veya başka bir kripto para birimine yatırım yapmak istiyorsanız, yatırım sermayenizin güvende kalmasını sağlamak için bunu büyük bir dikkatle ve dikkatle yapın. Risk azaltmanın önemini küçümsememelisiniz. </p>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">BNB Fiyatı Neden Bu Kadar Artıyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">BNB, en büyük kripto para platformlarından birisinin resmi tokeni olduğu için ve işlemlerde komisyon indirimi sağladığı için çokça tercih edilen bir coin. Yalnızca kripto para platformuyla da sınırlı kalmamak istemesi halihazırda fiyatını önemli ölçüde yükseltiyor.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Binance Coin Ne Kadar Güvenli?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">BNB, veri ihlallerini ve müdahaleyi önlemek için kriptografik şifreleme kullanan Ethereum blok zinciri üzerine inşa edilmiştir. Blok zincir, merkezi olmayan bir yapıya sahip olduğundan, verileri tehlikeye atmak için hacklenebilecek tek bir merkezi hub yoktur. Bunun dışında Binance kripto para borsası, kişisel bilgilerinizi ve fonlarınızı güvende tutmak için güvenlik katmanları ekleyen güvenlik özellikleri ile kripto alanında güvenilir bir isimdir. Bunlar, iki faktörlü kimlik doğrulama ve SSL sertifikalı şifrelemeyi içerir. BNB'nizi güvende tutmak için sıcak veya soğuk cüzdanları da kullanabilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Binance Coin Geliştirme Üzerinde Hangi Takımlar Çalışıyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Binance, Çin merkezli ve OKCoin'in CTO'su Changpeng Zhao tarafından kuruldu. Lansmandan sonra OKCoin'in kurucularından biri olan Yi He, Binance ekibine de katıldı. Her ikisi de o zamandan beri katlanarak büyüdü ve şu anda ticaret hacmine göre dünyanın en büyük ikinci borsası. BNB, önceden mayınlanmış bir türev kripto para birimi olduğundan ve artık arzı sınırlamak için büyük miktarlarda yakıldığından, tokenin kendisinin geliştirilmesi üzerinde çalışan mevcut ekipler yoktur.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Binance Coin'e Hangi Finans Kuruluşları Yatırım Yapılıyor?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yatırımcıları çekmek söz konusu olduğunda Binance her zaman çok çabaladılar; çünkü kurucular zaten tamamen işlevsel, başarılı bir kripto platformu yaratma yeteneğini gösterdiler. Bu nedenle Binance ve BNB ICO, Vertex Ventures, Plutus21, Black Hole Capital, Funcity Capital, Sequoia Capital, Limitless Crypto Investments, Fundamental Labs ve daha fazlası dahil olmak üzere birçok önde gelen yatırımcı ve finans kurumunu cezbetti. Ancak bugün Binance, daha fazla fon elde etme yolunu engelleyebilecek daha fazla rekabetle yüzleşmek zorunda. Bunun dışında, kullanıcılarının küçükten büyüğe alışveriş yapmak için BNB tokenlerini kullanabilmelerini sağlamak için birçok satıcı, servis sağlayıcı ve tüccar ile ilişkiler kurmayı başardı. Şu anda Binance, seyahat, otelcilik, emlak ve yemek markaları dahil olmak üzere 100'den fazla farklı hizmet sağlayıcıyla ortaklığa sahiptir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Binance Coin Cüzdanı Nedir?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">BNB tokenlerinizi güvenli bir şekilde saklamak istiyorsanız, bunu yapmak için donanım veya yazılım cüzdanlarını kullanabilirsiniz. BNB coinlerini saklamak için kullanılan resmi cüzdan Trust Wallet'tır. Bununla birlikte, Binance tokenlerini Enjin Wallet, Ledger Wallet, Trezor Wallet, Jaxx, CoolWallet S, Metal Vault, BRD, Gifto, Request Wallet, Ethos Universal Wallet, WinQ, Atomic Wallet, Clay, Coinomi ve Blox.io Wallet üzerinde de saklayabilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h3 itemprop="name" class="faq-q">Binance Coin İyi Bir Yatırım Aracı Mı?</h3>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Binance Coin tokenleri ile ilgili en umut verici şeylerden biri, onu geçerli bir para birimi alternatifi olmasa bile başarısının sadece buna bağlı olmamasıdır. İşlemleri ve dijital varlık ticaretini güçlendirmek için Binance Borsası ekosisteminde hala kullanılabilir ve platform kullanıcılarına sorunsuz bir deneyim sağlar. Doğası gereği kullanımı olan tokenlerden biridir. Bununla birlikte, kripto para birimi alanı, özellikle fiyat dalgalanmaları söz konusu olduğunda oldukça öngörülemez olabilir. BNB'ye veya başka bir kripto para birimine yatırım yapmak istiyorsanız, yatırım sermayenizin güvende kalmasını sağlamak için bunu büyük bir dikkatle ve dikkatle yapın. Risk azaltmanın önemini küçümsememelisiniz.</p>
+        </div>
+    </div>
+</div>
