@@ -120,3 +120,4 @@ Washington DC, 22 Aralık 2020 </blockquote>
         </div>
     </div>
 </div>
+<p><a href="https://kripto.istanbul/dogecoin-doge-nedir/" title="Doge coin nedir?" target="_blank">Doge coin nedir?</a></p>
