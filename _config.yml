@@ -87,7 +87,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jemoji
+  
 
 # Exclude my node related stuff
 exclude: [
