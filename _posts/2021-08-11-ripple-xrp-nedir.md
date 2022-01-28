@@ -73,7 +73,7 @@ Washington DC, 22 Aralık 2020 </blockquote>
 <p>xVia, şirketlerin, bankaların ve ödeme işlemcilerinin ödemeleri göndermek için RippleNet ile entegre olmasına izin veren bir API'dir. Gönderenler, bu ödemelerin yanı sıra faturalar veya destekleyici belgeler gibi zengin bilgiler de ekleyebilir. xVia, her türden ödeyen için para ve bilgi arasındaki bağlantıdır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xrp/xrp-4.jpg">
-  <img src="/assets/img/posts-img/xrp/xrp4.jpg" alt="xrp davası" style="width:auto;">
+  <data-src="/assets/img/posts-img/xrp/xrp4.jpg" class="lazyload" class alt="xrp davası" style="width:auto;">
 </picture>
 <h4 id="xrp9">Ripple'a Teknik Bir Bakış: Açık Kaynak Alt Yapısı</h4>
 <p>RippleNet açık kaynaklı bir projedir ve kriptografisi diğer kripto projelerinden farklıdır. Diğer blockchain projelerinin aksine Ripple, ağını işletmek için kurumlara güveniyor. Herkes Ripple ağının bir düğümünü çalıştırabilirken, bu güvenilir ağ geçitleri (bankalar ve diğer kurumlar gibi) Ripple üzerindeki işlemleri kolaylaştıran, döviz bozdurma, itibari para yatırma ve diğer transfer yöntemleri sağlayan kişilerdir. Ağ geçitleri, bireylerden veya kurumlardan gelen mevduatları kabul eder ve Ripple defterinde bakiye yayınlar. Ağ geçitlerinin, işlemlere dahil olan kişiler hakkında tanımlanabilir bilgiler gerektiren Müşterinizi Tanıyın (KYC) ve Kara Para Aklamayı Önleme (AML) süreçleri gibi kendi gereksinimleri de olabilir. RippleNet, bu kurumların altında, ödemeleri çözmek ve para transfer etmek için onları birbirine bağlayan altyapı olarak çalışır.  Ağdaki ağ geçitleri, Ripple'larını benimsemez veya riske atmaz. Aslında, 100 milyar XRP'nin tamamı önceden piyasaya sürülmüştür. </p>
