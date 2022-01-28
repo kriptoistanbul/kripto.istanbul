@@ -65,7 +65,7 @@ paginate: true
 <p>Cardano'nun geliştiricileri, geliştirilen tüm teknolojinin titiz bir araştırma sürecine ve meslektaş incelemesine tabi tutulmasını sağlamaktan gurur duyuyorlar, yani ağla ilgili her türlü fikre açıklar ve her türlü fikir üzerinde araştırma yapıp üzerine tartışıyorlar. Bu düzeydeki akademik titizlik, Cardano blok zincirinin hem dayanıklılığında hem de istikrarında yardımcı olur - gelecekteki olası birçok sorunun gerçek bir sorun haline gelmeden önce tanımlanmasını sağlar. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-3.jpg">
-  <img src="/assets/img/posts-img/ada/ada3.jpg" alt="ada coin yorum" style="width:auto;">
+  <img src="/assets/img/posts-img/ada/ada3.jpg" loading:"lazy" alt="ada coin yorum" style="width:auto;">
 </picture>
 <h3 id="ada6">Cardano'ya (ADA) Değerini Veren Nedir?</h3> 
 <p>ADA, Cardano ağının yerel simgesidir ve adını 19. yüzyıl matematikçisi Ada Lovelace'den almıştır. Toplam ADA arzının% 57,6'sı, Cardano'nun 62,2 milyon ABD doları topladığı İlk Para Teklifinde (ICO) yatırımcılara dağıtıldı. </p>
