@@ -49,7 +49,7 @@ paginate: true
 <p>Önceki nesil blok zincirlerinin, tasarımlarındaki belirli sınırlamaların bir sonucu olarak yüksek işlem ücretlerine ve düşük TPS'ye (saniye başına işlem) sahip olduğu noktalarda, Cardano, gerçekten merkezi olmayan, düşük ücretli, yüksek TPS Kanıtı sağlamak için sıfırdan inşa ediliyor. Cardano, ağının hızını ve genel kapasitesini çeşitli yollarla geliştirmeyi hedefliyor. Ön planda, ADA’nın Ouroboros adlı kendi Proof of Stake (PoS) konsensüs protokolü yer alıyor. Verimlilik göz önünde bulundurularak tasarlanan Ouroboros, ağın enerji maliyetini - özellikle bir Proof of Work (PoW) mekanizmasıyla karşılaştırıldığında - güvenlikten ödün vermeden büyük ölçüde azaltır. Cardano projesi için yakın dönemde çıkmış olan 2. katman çözümü Hydra olarak biliniyor. Teorik olarak sonsuz ölçeklenebilirliği sağlamak için tasarlanan Hydra, her yeni düğüm ağa katıldığında verimde artışa izin verir. </p>
 <p>Cardano ayrıca başka bir benzersiz özelliğe de sahiptir - Hard Fork Combinator. Esasen, bu yenilik, ağın blok zincirinde herhangi bir gerçek kesinti olmadan hard fork yapmasına izin veriyor. Bu, son Shelley aşaması güncellemesiyle test edildi ve kusursuz bir şekilde çalıştı.</p> 
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-2.png">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-2.webp">
   <img src="/assets/img/posts-img/ada/ada2.png" alt="ada coin ne olur" style="width:auto;">
 </picture>
 <h2 id="ada3">Cardano Nasıl Kullanılır?</h2> 
