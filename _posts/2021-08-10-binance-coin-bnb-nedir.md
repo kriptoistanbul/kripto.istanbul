@@ -70,7 +70,7 @@ paginate: true
 <p>Dahası, BNB kullanan herhangi bir dijital aktivite, Binance'in kendisi, hükümet ve herhangi bir yetkili bilgisayar korsanı tarafından izlenebilir. Gerçek şu ki, geride dijital bir ayak izi bırakıyorsanız, sizi bulmak isteyen insanların sizi bulma şansı her zaman vardır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-3.jpg">
-  <img src="/assets/img/posts-img/bnb/bnb3.jpg" alt="bnb coin kaç dolar" style="width:auto;">
+  <img src="/assets/img/posts-img/bnb/bnb3.jpg" class="lazyload" alt="bnb coin kaç dolar" style="width:auto;">
 </picture>
 <h3 id="bnb8">Binance Coin'in Faydaları Nelerdir?</h3> 
 <h4 id="bnb9">Hızlı İşlem</h4>
