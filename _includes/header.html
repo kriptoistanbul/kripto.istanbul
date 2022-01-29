@@ -2,15 +2,15 @@
     <a id="menu" role="button">
         <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
     </a>
-    <h2 class="logo">
+    <p class="logo">
         <a href="{{ site.baseurl }}/">
             {% if site.use_logo %}
                 {% include logo.html %}
             {% else %}
-                {{ site.name }}
+                <b>{{ site.name }}</b>
             {% endif %}
         </a>
-    </h2>
+    </p>
     <a id="search" class="dosearch" role="button">
         <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
     </a>
