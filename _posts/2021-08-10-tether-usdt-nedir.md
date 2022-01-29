@@ -4,7 +4,7 @@ layout: post
 title: Tether -USDT- Nedir?
 subtitle: Tether Nedir? Stabil Coin Ne Demektir? Tether Dolar Mı?
 description: Tether ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/usdt/tether-ana.jpg
+image: /assets/img/posts-img/usdt/usdt-coin-tether-nedir.webp
 category: Kripto Paralar
 tags:
   - usdt
@@ -33,24 +33,24 @@ paginate: true
 <p>Tether, Bitcoin ve Ethereum gibi diğer popüler kripto para birimlerinin fiyatlarında gözlemlenen geniş dalgalanmaların aksine, kripto para birimi değerlemelerini sabit tutmayı amaçlayan stabilcoin adı verilen bir kripto para cinsine aittir. Bu, spekülatif yatırımlar için bir araç olarak kullanılmak yerine, bir değişim aracı ve bir değer saklama modu olarak kullanılmasına izin verir.</p>
 <p>Tether, özellikle fiat teminatlı stabilcoinler kategorisine aittir. Bu, ABD doları, euro veya yen gibi bir fiat para biriminin dolaşımdaki her kripto parayı desteklediği anlamına gelir. Diğer stabilcoin kategorileri arasında teminat olarak kripto para birimi rezervlerini kullanan kripto-teminatlı sabit paralar veya teminatlandırılmamış sabit paralar bulunur. Teminatsız stabilcoinlerin herhangi bir teminatı yoktur, ancak ekonomik duruma bağlı olarak gerekli token arzını sürdürmek için bir yedek bankanınkine benzer bir şekilde çalışır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-1.jpg">
-  <img src="/assets/img/posts-img/usdt/tether1.jpg" alt="usdt" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/binance-tl-dolar-çevirme.webp">
+  <img src="/assets/img/posts-img/usdt/usdt-stable-coin.webp" alt="usdt" style="width:auto;">
 </picture>
 <h2 id="usdt3">Tether ile Amerikan Doları Takas Edilebilir Mi?</h2>
 <p>Tether, özellikle itibari para birimleri ve kripto para birimleri arasında gerekli köprüyü kurmak ve kullanıcılara istikrar, şeffaflık ve minimum işlem ücretleri sunmak için tasarlandı. ABD dolarına karşı sabitlenmiştir ve değer olarak ABD doları ile 1'e 1 oranını korumaktadır. Bununla birlikte, Tether Ltd. tarafından Tether'lerin gerçek parayla kullanılması veya takas edilmesi için herhangi bir garanti verilmemektedir - yani, Tether'ler ABD doları ile takas edilemez.</p>
 <p>Küresel bir kripto para birimi piyasa veri sağlayıcısı olan CryptoCompare tarafından yapılan bir araştırmaya göre, Tether ile Bitcoin ticareti hala fiat veya stablecoin'e işlem gören BTC'nin çoğunu temsil ediyor. Şubat 2021'de, tüm Bitcoin ticaretinin% 57'si USDT cinsinden yapıldı. Tether, kripto para piyasası için önemli bir likidite kaynağı olmaya devam ediyor. </p>
 <p>Tether, Temmuz 2014'te RealCoin olarak piyasaya sürüldü ve Kasım ayında, fiat para biriminin rezerv tutarlarının korunmasından sorumlu şirket olan Tether Ltd. tarafından Tether olarak yeniden markalandı. Şubat 2015'te ticarete başladı. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-2.jpg">
-  <img src="/assets/img/posts-img/usdt/tether2.png" alt="tether nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-token-nedir.webp">
+  <img src="/assets/img/posts-img/usdt/tether-usdt.webp" alt="tether nedir" style="width:auto;">
 </picture>
 <h3 id="usdt4">Tether Konusundaki İhtilaf</h3>
 <p>Kasım 2017'de, Tether'in hacklendiği ve 31 milyon dolarlık Tether tokeni çalındığı ve ardından bir hard fork gerçekleştirildiği iddia edildi. Ocak 2018'de, gerçek dünya rezervinin korunmasını sağlamak için gerekli denetim hiçbir zaman gerçekleşmediğinden başka bir engelle karşılaştı. Bunun yerine, denetim firması ile yollarını ayırdığını duyurdu ve ardından düzenleyiciler tarafından bir mahkeme celbi yayınlandı. Şeffaflık eksikliği ile suçlanan şirketin tokeni desteklemek için yeterli rezervi olup olmadığı konusundaki endişeler yaygınlaştı. </p>
 <p>Nisan 2019'da New York Başsavcısı Letitia James, Tether Ltd.'nin ana şirketi ve kripto para birimi borsası Bitfinex'in işletmecisi olan iFinex Inc.'i yatırımcılardan 850 milyon dolarlık birleşik müşteri ve kurumsal fon kaybını gizlemekle suçladı. Mahkeme kayıtları, bu fonların Crypto Capital Corp. adlı bir Panama kuruluşuna, müşterilerin para çekme taleplerini yerine getirmek için bir sözleşme veya anlaşma olmaksızın verildiğini söylüyor. Bitfinex'in, para kaybolduktan sonra boşluğu gizlemek için Tether'in nakit rezervlerinden en az 700 milyon dolar aldığı iddia ediliyor. </p>
 <p>Şirketlerden yapılan açıklamada, şirket dosyalarının "kötü niyetle yazıldığını ve yanlış iddialarla dolu olduğunu'' söylediler. Aksine, bu ''Kripto Sermaye tutarlarının kaybedilmediği, aslında el konulup koruma altına alındığı'' bildirildi ve ''haklarımızı ve çarelerimizi kullanmak ve bu fonları serbest bırakmak için aktif olarak çalışıyoruz ve halen çalışıyoruz. Ne yazık ki, New York Başsavcılığı'nın bu çabaları müşterilerimizin aleyhine baltalamaya niyetli olduğu görülüyor.'' denildi. </p>
 <p>Tether jetonları,<a href="https://www.binance.com/"> Binance</a>,<a href="https://www.coinspot.com.au/"> CoinSpot</a>,<a href="https://www.bitfinex.com/"> BitFinex</a> ve <a href="https://www.kraken.com/"> Kraken</a> gibi popüler kripto para borsalarında işlem görebilir.</p><picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/tether-3.jpg">
-  <img src="/assets/img/posts-img/usdt/tether3.jpg" alt="usdt ne kadar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/1-tether-usdt-kaç-dolar-usd.webp">
+  <img src="/assets/img/posts-img/usdt/tether-token.webp" alt="usdt ne kadar" style="width:auto;">
 </picture>
 <h2 id="usdt5">Tether Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
