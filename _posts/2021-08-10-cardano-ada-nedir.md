@@ -64,7 +64,7 @@ paginate: true
 <p>Ethereum ile kıyaslandığında ise Ethereum, diğer projeler tarafından kullanılmasının beraberinde getirdiği doğal faydalar etkin bir şekilde kullanılmak amacıyla PoS'e yükseltme sürecindedir. Ancak Ethereum’un geçişi zaman içinde gerçekleşecek ve her aşamada zorluklarla karşılaşabilir. Cardano zaten tam teşekküllü bir PoS ağı çalıştırıyor. </p>
 <p>Cardano'nun geliştiricileri, geliştirilen tüm teknolojinin titiz bir araştırma sürecine ve meslektaş incelemesine tabi tutulmasını sağlamaktan gurur duyuyorlar, yani ağla ilgili her türlü fikre açıklar ve her türlü fikir üzerinde araştırma yapıp üzerine tartışıyorlar. Bu düzeydeki akademik titizlik, Cardano blok zincirinin hem dayanıklılığında hem de istikrarında yardımcı olur - gelecekteki olası birçok sorunun gerçek bir sorun haline gelmeden önce tanımlanmasını sağlar. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-coin-yorum.webp">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/ada-coin-yorum.webp" width="720" height="479">
   <img src="/assets/img/posts-img/ada/cardano-blockchain.webp" alt="ada coin yorum" style="width:auto;">
 </picture>
 <h3 id="ada6">Cardano'ya (ADA) Değerini Veren Nedir?</h3>
