@@ -29,7 +29,7 @@ layout: main
                         {{ featured.date | date: site.date_format }}
                     {% endif %}
                 </time>
-                <h1 class="title">{{ featured.title }}</h1>
+                <h2 class="title">{{ featured.title }}</h2>
                 <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
@@ -74,9 +74,9 @@ layout: main
                             {% include date.html date=post.date %}
                         </time>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <h2 class="post-title">
+                            <h3 class="post-title">
                                 {{ post.title }}
-                            </h2>
+                            </h3>
                         </a>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                             <p class="description">{{ post.description }}</p>
