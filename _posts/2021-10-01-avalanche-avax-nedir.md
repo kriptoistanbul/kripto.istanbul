@@ -4,7 +4,7 @@ layout: post
 title: Avalanche -AVAX- Nedir?
 subtitle: Avalanche -AVAX- Nedir? AVAX, Ethereum Katilleri Listesinde İlk Sıraya Çıkabilir Mi?
 description: AVAX ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/avax/avalanche avax coin nedir.webp
+image: /assets/img/posts-img/avax/avalanche-avax-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - avax
@@ -26,7 +26,7 @@ paginate: true
 <p>Avalanche, Ava Labs tarafından geliştirilen ve herkesin kendi çok işlevli blok zincirlerini ve merkezi olmayan uygulamalarını (dApps) kolayca üretmesine olanak tanıyan yeni bir platformdur. </p>
 <p>Yavaş işlem hızları, merkezileştirme ve ölçeklenebilirlik gibi eski blok zinciri platformlarının bazı sınırlamalarını ele almak için tasarlanmıştır ve bunu yapmak için çeşitli yenilikler kullanır. Bu, düşük gecikme süresi, yüksek verim yetenekleri ve saldırılara karşı direnç vaat eden benzersiz Avalanche %51 fikir birliği protokolünü içerir. Avalanche, beş saatten kısa bir sürede tükenen bir token satışında 42 milyon dolar topladıktan sadece iki ay sonra, Eylül 2020'de ana ağını başlatmıştır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/avax/avalanche coin.webp">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/avax/avalanche-coin.webp">
   <img src="/assets/img/posts-img/avax/avalanche.webp" alt="avax nedir" style="width:auto;">
 </picture>
 <h2 id="avax2">Avalanche (AVAX) Nasıl Çalışır?</h2>
@@ -40,7 +40,7 @@ paginate: true
 <p>Avalanche, son derece ölçeklenebilir olmasının yanı sıra, günümüzde blockchain tabanlı sistemlerin karşılaştığı bir başka büyük sorunu çözmek için de inşa edildi: birlikte çalışabilirlik. Bunu, hem bir alt ağ içinde hem de alt ağlar arasında blok zincirlerinin birbirleriyle iletişim kurmasını sağlayarak, birbirlerini tamamlamalarına ve zincirler arası değer aktarımlarını desteklemelerine olanak sağlayarak başarır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/avax/avaks.webp">
-  <img src="/assets/img/posts-img/avax/avax coin.webp" alt="avaxa nasıl yatırım yapılır" style="width:auto;">
+  <img src="/assets/img/posts-img/avax/avax-coin.webp" alt="avaxa nasıl yatırım yapılır" style="width:auto;">
 </picture>
 <p>Aynı zamanda oldukça kapsayıcıdır. Pek çok Proof of Stake (PoS) blockchain'i yalnızca belirli sayıda doğrulayıcının fikir birliğine varmaya katılmasına izin verirken, Avalanche en az 2.000 AVAX hissesine sahip olan herkesin katılmasına izin veriyor. </p>
 <p>2021 yılı itibariyle, Avalance'ın en büyük rakibi, şu anda DeFi alanına hakim olan blockchain platformu Ethereum olmaya devam ediyor. Avalanche, Ethereum Sanal Makinesini (EVM) desteklese de, ağı güvence altına almak için farklı bir fikir birliği mekanizması kullanır ve ayrıca köprülere ihtiyaç duymadan çapraz zincir değer transferlerini destekler. </p>
@@ -50,8 +50,8 @@ paginate: true
 <p>Ethereum araç seti ile uyumlu olan geliştiriciler, Ethereum dApp'lerini Avalanche'a kolayca taşıyabilir ve platformda çeşitli merkezi olmayan uygulamaları (dApps) kolayca başlatabilirler. Bu uygulamalar, kendi bağımsız Avalanche blockchain'inde çalışabilir ve geliştiricilere nasıl güvenli hale getirildikleri ve çalıştıkları ve bunlara kimin erişebileceği konusunda büyük bir kontrol sağlar. </p>
 <p>Bu yetenekler, kısa tarihinde Avalanche'de geliştirme faaliyeti gördü ve artık özel menkul kıymetler (Securitize), tahmin piyasaları (Prosper) ve stablecoin'ler (Bilira - Türk Lirası değerine sabitlenen kripto para) dahil olmak üzere Avalanche teknolojisini kullanan çok çeşitli uygulamalar vardır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/avax/avax coin yorum.webp">
-  <img src="/assets/img/posts-img/avax/avax coin kaç tl.webp" alt="avax güvenli mi" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/avax/avax-coin-yorum.webp">
+  <img src="/assets/img/posts-img/avax/avax-coin-kac-tl.webp" alt="avax güvenli mi" style="width:auto;">
 </picture>
 <h3 id="avax5">Pangolin DEX Nedir?</h3>
 <p>Pangolin, Ava laboratuvarları tarafından desteklenen, topluluk tarafından yönetilen, merkezi olmayan bir değişim (DEX) platformudur. Otomatik piyasa yapıcı (AMM) olarak bilinen bir DEX türüdür - bu, sipariş defterlerini değil algoritmaları kullandığı anlamına gelir. fiyatları ayarlamak için. Pangolin, Avalanche'ın gelişen merkezi olmayan finans (DeFi) ekosisteminin önemli bir parçasıdır ve Avalanche platformunun yeteneklerini göstermek için inşa edilmiştir. </p>
