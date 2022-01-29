@@ -83,6 +83,7 @@ paginate: true
 <p>BNB ayrıca işlem ücretinde %50 indirim almanıza izin verir. 10.000$ değerinde token satın alıyorsanız, geleneksel ödeme modları ile 10$ ücretlendirileceksiniz. Ancak, BNB kullanırsanız, işlem ücreti yarı yarıya azalır, yani yalnızca 5$ ödemeniz gerekir. </p>
 <h4 id="bnb13">ICO'lara/IEO'lara Katılım</h4>
 <p>Binance Launchpad ayrıca yeni ve yaklaşan bir para biriminde hisse satın almak için BNB tokenlerinizi kullanabileceğiniz yeni token satışlarına da ev sahipliği yapıyor. Daha sonra, bu yeni dijital para birimleri, bunları takas edebileceğiniz ve eksiksiz ve sorunsuz bir deneyim sunabileceğiniz Binance borsasına eklenir. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0gmPW8N88M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h2 id="bnb14">Binance Coin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">

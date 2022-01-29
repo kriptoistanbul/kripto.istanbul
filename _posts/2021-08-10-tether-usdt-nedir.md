@@ -52,6 +52,7 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdt/1-tether-usdt-kaç-dolar-usd.webp">
   <img src="/assets/img/posts-img/usdt/tether-token.webp" alt="usdt ne kadar" style="width:auto;">
 </picture>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cK8bAA6H5PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h2 id="usdt5">Tether Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">

@@ -81,6 +81,7 @@ paginate: true
 <h4 id="ada10">Cardano'ya Son Bir Bakış</h4>
 <p>Cardano, birçok yeni teknolojik ve matematiksel kavramın faydalarını birleştiren yeni bir blok zinciri altyapısı biçimi sağlamayı amaçlayan yenilikçi ve benzersiz bir projedir. Bu üçüncü nesil blockchain projesi, sektörde baskın bir akıllı sözleşme platformu olma potansiyeline sahip, ancak yine de gelişiminin çoğunu önünde bulunduruyor. </p>
 <p>Gerçekten iddialı bir proje. Cardano'nun kripto dünyası ve genel olarak dünya üzerindeki kalıcı etkilerinin ne olacağını yalnızca zaman gösterecek - ancak gelecek kesinlikle parlak görünüyor.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4i-rTNyBWE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h2 id="ada11">Cardano -ADA- Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
