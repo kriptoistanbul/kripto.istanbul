@@ -32,8 +32,8 @@ paginate: true
 <p>Cardano projesi ve yarattıkları ADA kripto para birimi, 2015 yılında ilk ortaya çıktığından beri kripto topluluğu arasında favorilerden birisi olmuştur. Cardano, genel amaçlı blok zincirini geliştirmek için yenilikçi bir sektör değerlendirmesini ve akademik bir yaklaşımı benimsiyor.</p>
 <p>Cardano (ADA), Charles Hoskinson tarafından kurulan bir teknoloji şirketi olan Input Output Hong Kong (IOHK) tarafından geliştirilmiştir. Hoskinson, Ethereum'un (ETH) ve Ethereum Vakfı'nın erken gelişiminde rol oynayan kripto para birimi sektöründeki güçlü köklerden geliyor. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/cardano-blockchain.webp">
-  <img src="/assets/img/posts-img/ada/ada-coin-stake-pools.webp" alt="ada coin" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ada/cardano-blockchain.webp" width="720" height="479">
+  <img src="/assets/img/posts-img/ada/ada-coin-stake-pools.webp" alt="ada coin" width="550" height="825">
 </picture>
 <p>Cardano’nun gelişimi, bol miktarda akademik araştırma ve hakem incelemesinin yanı sıra titiz bir bilimsel felsefeyle tanımlanmaktadır. Cardano projesi, beş ana aşamadan oluşan derinlemesine bir geliştirme yol haritası oluşturdu:</p>
 <ol>
