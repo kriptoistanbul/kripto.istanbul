@@ -42,7 +42,7 @@ paginate: true
 <h2 id="2">Bitcoin Madenciliği Nedir? Bitcoin Madenciliği Nasıl Yapılır?</h2>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-mining.webp">
-  <img src="/assets/img/posts-img/btc/bitcoin-mining-nasil-yapilir.webp" class="preload" alt="Bitcoin Nedir" style="width:auto;">
+  <img src="/assets/img/posts-img/btc/bitcoin-mining-nasil-yapilir.webp" alt="Bitcoin Nedir" style="width:auto;">
 </picture>
 <p>Bitcoin madenciliği, Bitcoinlerin dolaşıma girdiği süreçtir. Genel olarak madencilik, blok zincirine eklenen yeni bir bloğu keşfetmek için hesaplama açısından zor bulmacaların çözülmesini gerektirir. Bitcoin madenciliği, ağ üzerindeki işlem kayıtlarını ekler ve doğrular. Blok zincirine bloklar eklemek için madenciler birkaç Bitcoin ile ödüllendirilir; ödül her 210.000 blokta yarıya indirilir. Blok ödülü, 2009'da 50 yeni bitcoin idi. 11 Mayıs 2020'de üçüncü yarılanma gerçekleşti ve her blok keşfi için ödülü 6,25 bitcoine düşürüldü.</p>
 
@@ -51,7 +51,7 @@ paginate: true
 <p>Bitcoin'i kimin ya da kimlerin icat ettiğini kesin olarak kimse bilmiyor. Satoshi Nakamoto, 2008'de orijinal Bitcoin teknik incelemesini yayınlayan ve 2009'da piyasaya sürülen orijinal Bitcoin yazılımı üzerinde çalışan kişi veya grupla ilişkilendirilen isimdir. O zamandan bu yana, birçok kişi ya öyle olduğunu iddia etti ya da takma ismin arkasındaki gerçek hayattaki insanlar olarak önerildi, ancak hala Satoshi Nakamoto isminin arkasındaki gerçek kimlik (veya kimlikler) belirsizliğini koruyor.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-satoshi-nakamoto.webp">
-  <img src="/assets/img/posts-img/btc/bitcoin-satoshi-nakamoto-kimdir.webp" class="preload" alt="Satoshi Nakamoto Kimdir" style="width:auto;">
+  <img src="/assets/img/posts-img/btc/bitcoin-satoshi-nakamoto-kimdir.webp" alt="Satoshi Nakamoto Kimdir" style="width:auto;">
 </picture>
 <p>Medyanın algısında Satoshi Nakamoto'nun Bitcoin'i basitçe yaratan tek kişilik, donuk bir dahi olduğuna inanmak cazip gelse de, bu tür yenilikler genellikle bir anda gerçekleşmez. Ne kadar orijinal görünürse görünsün, tüm büyük bilimsel keşifler önceden var olan araştırmalar üzerine inşa edildi. Bitcoin için de bu öncüler vardır; Adam Back’in Hashcash'i, 1997’de icat edildi ve ardından Wei Dai’nin b-parası, Nick Szabo’nun bit altınları ve Hal Finney’in Yeniden Kullanılabilir Çalışma Kanıtı. Bitcoin teknik incelemesinin kendisi Hashcash ve b-money'nin yanı sıra çeşitli araştırma alanlarını kapsayan çeşitli diğer çalışmalardan alıntı yapıyor. Belki de şaşırtıcı olmayan bir şekilde, yukarıda adı geçen diğer projelerin arkasındaki kişilerin çoğunun da Bitcoin'in keşfinde rol oynadığı düşünülüyor.</p>
 
@@ -64,7 +64,7 @@ paginate: true
 <p>Bitcoin sistemi, tümü Bitcoin kodunu çalıştıran ve blok zincirini depolayan bir bilgisayar koleksiyonudur ("zincirler" veya "madenciler" olarak da adlandırılır). Mecazi olarak, bir blok zinciri bir bloklar koleksiyonu olarak düşünülebilir. Her blokta bir işlem koleksiyonu bulunur. Blok zincirini çalıştıran tüm bilgisayarlar aynı blok ve işlem listesine sahip olduğundan ve bu yeni blokların yeni bitcoin işlemleriyle doldurulduğunu şeffaf bir şekilde görebildiğinden, kimse sistemi aldatamaz. Bir bitcoin "düğümü" çalıştırsın ya da çalıştırmasın, herkes bu işlemlerin canlı olarak gerçekleştiğini görebilir. Kötü bir eylemi başarmak için, kötü bir oyuncunun bitcoin'i oluşturan bilgi işlem gücünün% 51'ini çalıştırması gerekir. Bitcoin'in Ocak 2021 itibariyle yaklaşık 12.000 düğümü var ve bu sayı artıyor ve böyle kötü niyetli bir saldırının başarıya ulaşması pek olası değil gibi görünüyor. Ancak bir saldırının gerçekleşmesi durumunda, Bitcoin madencileri - bilgisayarlarıyla Bitcoin ağında yer alan insanlar - muhtemelen kötü aktörün saldırıyı gerçekleştirmek için ortaya koyduğu çabayı boşa harcayan yeni bir blok zincirine geçeceklerdir.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-al.webp">
-  <img src="/assets/img/posts-img/btc/btc-anlamak.webp" class="preload" alt="Bitcoin nereden alınır" style="width:auto;">
+  <img src="/assets/img/posts-img/btc/btc-anlamak.webp" alt="Bitcoin nereden alınır" style="width:auto;">
 </picture>
 <p>Bitcoin tokenlerinin bakiyeleri, onları oluşturmak için kullanılan matematiksel şifreleme algoritması aracılığıyla birbirine bağlanan uzun sayı ve harf dizileri olan genel ve özel "anahtarlar" kullanılarak tutulur. Genel anahtar (bir banka hesap numarası gibi düşünülebilir), dünyaya yayınlanan ve başkalarının Bitcoin gönderebileceği adres olarak hizmet eder. Özel anahtar (bir ATM PIN kodu gibi düşünebilir), korunan bir sırdır ve yalnızca Bitcoin aktarımlarını yetkilendirmek için kullanılır. Bitcoin anahtarları, Bitcoin alım satımını kolaylaştıran ve kullanıcıların coin sahipliğini takip etmesine olanak tanıyan fiziksel veya dijital bir cihaz olan Bitcoin cüzdanı ile karıştırılmamalıdır. "Cüzdan" terimi biraz yanıltıcıdır, çünkü Bitcoin'in merkezi olmayan yapısı, onun asla bir cüzdanda "saklanmadığı", aksine bir blok zincirinde merkezi olmayan bir şekilde saklandığı anlamına gelir.</p>
 <h3 id="6">Eşler Arası Teknoloji Nedir?</h3>
@@ -86,7 +86,7 @@ paginate: true
 </dl>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-kac-dolar.webp">
-  <img src="/assets/img/posts-img/btc/bitcoin.webp" class="preload" alt="Bitcoin yasal mı" style="width:auto;">
+  <img src="/assets/img/posts-img/btc/bitcoin.webp" alt="Bitcoin yasal mı" style="width:auto;">
 </picture>
 <h4 id="8">Bir Ödeme Şekli Olarak Bitcoin Kullanılabilir Mi?</h4>
 <p>Bitcoinler, satılan ürünler veya sağlanan hizmetler için bir ödeme aracı olarak kabul edilebilir. Marketler ve çiğköfteciler “Burada Bitcoin Kabul Edilir” yazan bir tabela sergileyebilir; işlemler QR kodları ve dokunmatik ekran uygulamaları aracılığıyla gerekli donanım terminali veya cüzdan adresi ile gerçekleştirilebilir. Çevrimiçi bir işletme, bu ödeme seçeneğini diğer çevrimiçi ödeme seçeneklerine ekleyerek kolayca Bitcoin kabul edebilir: kredi kartları, PayPal vb.</p>
@@ -119,7 +119,7 @@ paginate: true
 <p>Piyasa içerisinde halihazırda çok fazla rekabet  konusu var ve Bitcoin, marka tanınırlığı ve risk sermayesi parası nedeniyle ortaya çıkan diğer yüzlerce dijital para biriminde büyük bir liderliğe sahip olsa da, daha iyi bir sanal para biçiminde teknolojik bir atılım her zaman olur. Bu da gelecekte Bitcoin'in fiyatı üzerinde olumsuz bir etkiye sahip olabilir. Dolayısıyla kripto para piyasalarına ya da Bitcoin'e yatırım yapanların bu riskleri göz önünde bulundurarak ve kendi riskini alarak gerekli araştırmayı yapıp yatırım yapması en doğrusu olur. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-yatay.webp">
-  <img src="/assets/img/posts-img/btc/bitcoin-yorum.webp" class="preload" alt="Bitcoin nasıl alınır" style="width:auto;">
+  <img src="/assets/img/posts-img/btc/bitcoin-yorum.webp" alt="Bitcoin nasıl alınır" style="width:auto;">
 </picture>
 <h2 id="16"> Bitcoin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
