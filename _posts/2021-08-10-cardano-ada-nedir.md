@@ -1,10 +1,10 @@
-ada-coin-stake-pools.webp---
+---
 date: 2021-08-10 15:26:40
 layout: post
 title: Cardano -ADA- Nedir?
 subtitle: ADA Nedir? Neden Herkes ADA'yı Konuşuyor? ADA'nın Yükselişi Devam Eder Mi?
 description: Cardano ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: assets/img/posts-img/ada/Cordano-Ada-Coin-nedir.webp
+image: /assets/img/posts-img/ada/Cordano-Ada-Coin-nedir.webp
 category: Kripto Paralar
 tags:
   - ada
