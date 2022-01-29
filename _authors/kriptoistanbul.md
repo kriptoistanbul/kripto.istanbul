@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: kriptoistanbul
-display_name: kripto.istanbul
+display_name: kripto.istanbul yazar
 position: Yazar
 bio: Sadece bir yazar.
 twitter_username: kripto.istanbul
