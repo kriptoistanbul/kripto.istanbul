@@ -4,7 +4,7 @@ layout: post
 title: Uniswap -UNI- Nedir?
 subtitle: Uniswap Nedir? Merkeziyetsiz Borsa Nedir? Uniswap En İyi Merkeziyetsiz Borsa Mı?
 description: Uniswap ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/uni/uniswap-ana.jpg
+image: /assets/img/posts-img/uni/uniswap-coin-uni-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - uni
@@ -29,16 +29,16 @@ paginate: true
 <p>Uniswap, kısaca söylemek gerekirse, Ethereum blok zinciri üzerinde çalışan ve merkezi olmayan bir kripto para borsasıdır.</p>
 <p>Kripto ticaretinin büyük çoğunluğu Coinbase ve Binance gibi merkezi borsalarda gerçekleşir. Bu platformlar tek bir otorite (borsayı işleten şirket) tarafından yönetilir, kullanıcılardan fonları kendi kontrollerine koymalarını ve ticareti kolaylaştırmak için geleneksel bir emir defteri sistemini kullanmalarını ister. Emir defterine dayalı ticaret, alış ve satış emirlerinin her bir siparişte verilen toplam miktarla birlikte bir listede sunulduğu yerdir. Bir varlığın açık alım ve satım emirlerinin miktarı "piyasa derinliği" olarak bilinir. Bu sistemi kullanarak başarılı bir işlem yapmak için, bir satın alma emrinin, bir varlığın aynı tutar ve fiyatı için emir defterinin karşı tarafındaki bir satış emri ile eşleştirilmesi gerekir ve bunun tersi de geçerlidir.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-1.jpg">
-  <img src="/assets/img/posts-img/uni/uniswap1.jpeg" alt="uniswap coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-coin-uni.webp">
+  <img src="/assets/img/posts-img/uni/uniswap.webp" alt="uniswap coin nedir" style="width:auto;">
 </picture>
 <p>Örneğin, merkezi bir borsada 60.000 $ fiyattan bir bitcoin (BTC) satmak istiyorsanız, emir defterinin diğer tarafında eşit veya daha yüksek bir fiyat satın almak isteyen bir alıcının görünmesini beklemeniz gerekir. Bu tür bir sistemle ilgili temel sorun, bu bağlamda herhangi bir zamanda emir defterinde bulunan emirlerin derinliği ve sayısı anlamına gelen likiditedir. Düşük likidite varsa bu, tüccarların alım veya satım emirlerini yerine getiremeyebileceği anlamına gelir.</p>
 <p>Likiditeyi anlamak için bir örnek üzerinden gidelim: Bir sokak pazarında bir yiyecek tezgahınız olduğunu hayal edin. Sokak pazarı, mal satan tezgah sahipleriyle ve ürün ve ürün satın alan insanlarla meşgulse, bu bir "likit piyasa" olarak kabul edilir. Pazar sakin olsaydı ve çok az alım satım olsaydı, "dar bir pazar" olarak kabul edilirdi.</p>
 <h2 id="uni2">UNI Token Nedir?</h2>
 <p>Uniswap’ın yerel belirteci olan UNI, yönetişim belirteci olarak bilinir. Bu, sahiplere, basılan tokenlerin topluluğa ve geliştiricilere nasıl dağıtılacağı ve ücret yapılarındaki herhangi bir değişiklik dahil olmak üzere, platformdaki yeni gelişmeler ve değişiklikler üzerinde oy kullanma hakkı verir. UNI jetonu, kullanıcıların DEX SushiSwap'e rakip olmaktan kaçmasını önlemek amacıyla ilk olarak Eylül 2020'de oluşturuldu. UNI tokenlerinin piyasaya sürülmesinden bir ay önce, bir Uniswap çatalı olan SushiSwap, Uniswap kullanıcılarını SushiSwap'in fonlarını SUSHI tokenleri ile ödüllendirerek yeni platforma yeniden tahsis etmelerine izin vermeye teşvik etti. Bu, kullanıcılara yeni protokol üzerinde yönetim haklarının yanı sıra platforma ödenen tüm işlem ücretlerinin orantılı bir miktarını veren yeni bir tür belirteçti. O zamandan günümüze kadar da UNI token Uniswap’ın resmi tokeni olarak kullanılmaktadır.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-2.jpg">
-  <img src="/assets/img/posts-img/uni/uniswap2.jpg" alt="uniswap yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-uni-coin-kim.webp">
+  <img src="/assets/img/posts-img/uni/uniswap-coin-nedir.webp" alt="uniswap yorum" style="width:auto;">
 </picture>
 <h2 id="uni3">Uniswap Nasıl Kullanılır?</h2>
 <p>Uniswap'e başlamak nispeten kolaydır, ancak MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olduğunuzdan emin olmanız gerekir.  Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir - buna Ethereum işlem ücretleri denir. Gas ücreti, ağı kaç kişinin kullandığına bağlı olarak değişir. Çoğu ERC-20 uyumlu cüzdan hizmeti, Ethereum blok zinciri üzerinden ödeme yaparken size üç seçenek sunar: yavaş, orta veya hızlı. Yavaş en ucuz seçenektir, hızlı en pahalıdır ve orta, ikisinin arasında bir yerdedir. Bu, işleminizin Ethereum ağ madencileri tarafından ne kadar hızlı işlendiğini belirler.</p>
@@ -54,8 +54,8 @@ paginate: true
 </ol>
 
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-3.jpg">
-  <img src="/assets/img/posts-img/uni/uniswap3.jpg" alt="uni uniswap v2" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-v2-uni.webp">
+  <img src="/assets/img/posts-img/uni/uniswap-grafik.webp" alt="uni uniswap v2" style="width:auto;">
 </picture>
 <h3 id="uni5">Neden Uniswap Tercih Edilebilir?</h3>
 <p>Uniswap, tamamen merkezi olmayan, yani tek bir kuruluşa ait olmayan ve işletilmeyen tamamen farklı bir borsa türüdür ve otomatik likidite protokolü adı verilen nispeten yeni bir ticaret modeli kullanır. Uniswap platformu, 2018 yılında, dünyanın en büyük ikinci kripto para birimi projesi olan Ethereum blok zincirinin üzerine inşa edildi; bu, onu tüm ERC-20 tokenleri ve MetaMask ve MyEtherWallet gibi cüzdan hizmetleri gibi altyapıyla uyumlu hale getiriyor.</p>
@@ -65,8 +65,8 @@ paginate: true
 <h4 id="uni7">Uniswap'in Otomatik Likidite Protokolü</h4>
 <p>Uniswap'in merkezi borsaların likidite problemini çözme yöntemi otomatik bir likidite protokolüdür. Bu, borsada işlem yapan kişileri likidite sağlayıcıları (LP'ler) olmaya teşvik ederek çalışır: Uniswap kullanıcıları, platformda gerçekleşen tüm işlemleri gerçekleştirmek için kullanılan bir fon oluşturmak için paralarını bir araya toplar. Listelenen her jetonun, kullanıcıların katkıda bulunabileceği kendi havuzu vardır ve her jetonun fiyatları, bir bilgisayar tarafından çalıştırılan bir matematik algoritması kullanılarak hesaplanır. Bu sistemle, bir alıcı veya satıcının bir işlemi tamamlamak için karşı tarafın görünmesini beklemesi gerekmez. Bunun yerine, belirli bir havuzda bunu kolaylaştırmak için yeterli likidite olması koşuluyla, herhangi bir ticareti bilinen bir fiyattan anında gerçekleştirebilirler. Fonlarını yatırma karşılığında her LP, havuza yatırılan katkıyı temsil eden bir jeton alır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-4.jpg">
-  <img src="/assets/img/posts-img/uni/uniswap4.jpg" alt="uniswap ne kadar uniswap borsası" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-4 kopya.webp">
+  <img src="/assets/img/posts-img/uni/uni-coin-yorum-2022.webp" alt="uniswap ne kadar uniswap borsası" style="width:auto;">
 </picture>
 <p>Örneğin, toplamda 100.000 $ tutan bir likidite havuzuna 10.000 $ katkıda bulunduysanız, bu havuzun% 10'u için bir jeton alırsınız. Bu jeton, işlem ücretlerinin bir kısmı için kullanılabilir. Uniswap, platformda gerçekleşen her işlem için kullanıcılardan% 0,30 oranında sabit bir ücret alır ve bunu otomatik olarak bir likidite rezervine gönderir. Bir likidite sağlayıcısı çıkış yapmak istediğine karar verdiğinde, rezervden toplam ücretlerin bir kısmını o havuzdaki hisseli miktarına göre alır. Almış oldukları ve borçlu oldukları hisselerin kaydını tutan jeton daha sonra imha edilir. Uniswap v.2 güncellemesinden sonra, bir topluluk oyu ile açılıp kapatılabilen ve esasen her% 0.30 işlem ücretinin% 0.05'ini gelecekteki gelişmeleri finanse etmek için bir Uniswap fonuna gönderen yeni bir protokol ücreti getirildi. Şu anda, bu ücret seçeneği kapalıdır, ancak açılırsa LP'lerin havuz takas ücretlerinin% 0.25'ini almaya başlayacağı anlamına gelir.</p>
 <h4 id="uni8">Uniswap'teToken Fiyatı Nasıl Belirlenir?</h4>

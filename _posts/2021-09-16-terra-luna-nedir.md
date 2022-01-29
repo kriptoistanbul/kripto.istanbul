@@ -4,7 +4,7 @@ layout: post
 title: Terra -LUNA- Nedir?
 subtitle: Terra Blok Zinciri Nedir? Hakkında Çok Konuşulan Terra Yeni Bir Yıldız Olabilir Mi?
 description: Terra -LUNA- ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/luna/luna-nedir-ana.jpg
+image: /assets/img/posts-img/luna/luna-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - terra
@@ -37,8 +37,8 @@ paginate: true
 
 <p>LUNA mjetonunun ilk özel satışı, Binance, Huobi ve OKEx dahil olmak üzere merkezi borsaların yatırımlarıyla 32 milyon dolar arttı. Bu satışın% 10'u Terraform Labs’ın gelecekteki gelişimi için ayrıldı ve% 20 daha fazlası proje katılımcıları ve çalışanları için ayrıldı. Ayrıca, özel satışın% 20'si Terra Alliance'a ayrıldı,% 20'si fiyat istikrarı rezervlerine,% 26'sı proje destekçilerine ve kalan% 4'ü de başlangıç likiditesine tahsis edildi.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/luna-1.jpg">
-  <img src="/assets/img/posts-img/luna/luna1.jpg" alt="luna nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/terra.webp">
+  <img src="/assets/img/posts-img/luna/luna-coin.webp" alt="luna nedir" style="width:auto;">
 </picture>
 <h2 id="luna2">Terra Blok Zinciri Nasıl Çalışır?</h2>
 
@@ -57,8 +57,8 @@ paginate: true
 <p>TerraUSD (UST), Terra blok zinciri üzerine inşa edilmiş bir stabilcoindir. Terra'nın başarılı bir şekilde piyasaya sürülmesinin ve artan benimsenmesinin ardından, UST'nin basımı Eylül 2020'de başlamıştır. UST teknik olarak teminatlandırılmamıştır. Yani, UST'nin oluşturulması LUNA jetonlarının yakılmasıyla sağlanır.</p>
 <p>UST'nin değeri, varlığın arz ve talebi tarafından belirlenir ve buna göre dalgalanır. UST'nin fiyatı bir doların üzerine çıktığında, LUNA jetonunun sahipleri LUNA'larını UST için satabilir. Ayrıca, LUNA, eşdeğer dolar miktarı UST ile değiştirilebilir ve bu da ilginç bir arbitraj fırsatı yaratır. Bu gerçekleştiğinde, UST jeton bir dolarlık fiyat sabitleyicisine ulaşana kadar piyasa değeri düştükçe yeni UST jetonları basılır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/luna-2.jpg">
-  <img src="/assets/img/posts-img/luna/luna2.jpg" alt="terra usd nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/terracoin.webp">
+  <img src="/assets/img/posts-img/luna/terro-coin-nedir.webp" alt="terra usd nedir" style="width:auto;">
 </picture>
 
 <h3 id="luna5">Terra Ağı’nın Arkasında Kim Var?</h3>
@@ -67,8 +67,8 @@ paginate: true
 
 <p>Ayrıca Do Kwon, bir bilgisayar bilimcisi ve Stanford Üniversitesi mezunu olup, yakın zamanda dünyanın en başarılı genç girişimcilerin bir listesi olan Forbes Under 30 listesine girmiştir. Kwon daha önce Doğal Dil İşleme ekibinin bir parçası olarak Microsoft'ta çalıştı. Ayrıca Kwon, eşler arası telekomünikasyon şirketi Anyfi'yi kurdu.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/luna-3.jpg">
-  <img src="/assets/img/posts-img/luna/luna3.jpg" alt="luna nereden alınır" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/terra-luna-coin-grafik.webp">
+  <img src="/assets/img/posts-img/luna/terra-luna-coin-yorum.webp" alt="luna nereden alınır" style="width:auto;">
 </picture>
 <h3 id="luna6">Terra Blok Zinciri Üzerine Oluşturulan Protokoller</h3>
 
@@ -82,8 +82,8 @@ paginate: true
 
 <p>2021 Mart ayı başlarında piyasaya sürülen Terra tarafından barındırılan başarılı bir başka merkezi olmayan uygulama (dApp) ise Anchor Protocol’dür.  Anchor tasarruf protokolü, basit ve kullanımı kolay, merkezi olmayan bir finans (DeFi) tasarruf ürünü kullanma şansı vermek için kripto-yerli olmayanları hedefliyor. Anchor Protocol, bireysel risk / ödül oranlarına sahip çok çeşitli stake etme ürünleri sunar.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/luna-4.jpg">
-  <img src="/assets/img/posts-img/luna/luna4.jpg" alt="alice finance nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna/luna-terra-ne.webp">
+  <img src="/assets/img/posts-img/luna/terra-yorum.webp" alt="alice finance nedir" style="width:auto;">
 </picture>
 
 <p>Anchor Protocol tasarruf altyapısı, Terra yataklarında güvenli ve istikrarlı geri dönüşler sağlamak için bazı temel özelliklere sahiptir. Bu, "Ana korumayı" içerir. Kısacası, Anapara koruması, bir kredi risk altında olduğunda teminat pozisyonlarını otomatik olarak tasfiye eden bir tasfiye protokolüdür. Anchor protokolünün ek bir özelliği, kilitlenme süresi gerektirmeden anında para çekme yeteneğidir.</p>
@@ -101,4 +101,3 @@ paginate: true
 <p>Terra kısa süre önce Ethereum ve <a href="https://kripto.istanbul/solana-nedir/" title="Solana Coin nedir?" target="_blank">Solana</a>'dan başlayarak büyük ölçekli çapraz zincir birlikte çalışabilirliği Bittrex Global ile entegre etme planlarını duyurdu. Bu, dünya çapında faydaları arttıkça stablecoin talebinde bir artış izliyor. Ayrıca, Terra'nın yenilikçi ikili jeton modeli, diğer blok zinciri ekosistemlerinin TerraUSD kullanarak ölçeklenmesine yardımcı olacak kadar sağlam olacak şekilde tasarlanmıştır.</p>
 
 <p>Ayrıca, yeni Alice Finans projesi genişlemeye devam ederken, Terra şemsiyesi altında ortaya çıkan birkaç yeni kripto projesi görmeyi bekleyebiliriz. Terra Ağı, geleceğe emin adımlarla giderek yenilikçi çözümleri bünyesinde toplamaya devam edecek gibi görünüyor.</p>
-

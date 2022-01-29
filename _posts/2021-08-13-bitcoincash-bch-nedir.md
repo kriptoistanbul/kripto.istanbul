@@ -4,7 +4,7 @@ layout: post
 title: Bitcoin Cash -BCH- Nedir?
 subtitle: Bitcoin Cash Nedir? Bitcoin Cash Bir Ödeme Yöntemi Olarak Kullanılabilir Mi?
 description: BCH ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/bch/bch-ana.jpg
+image: /assets/img/posts-img/bch/bch-bitcoin-cash coin-nedir.webp
 category: Kripto Paralar
 tags:
   - bch
@@ -25,19 +25,19 @@ paginate: true
 	<li style="padding: 2px;"><a href="#bch7">Nasıl Bitcoin Cash Alınır?</a></li>
 </ol>
 <h1 id="bch1">Bitcoin Cash (BCH) Nedir?</h1>
-<blockquote cite="https://bitcoincash.org/">Bitcoin Cash, Bitcoin'in "Eşler Arası Elektronik Nakit" olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor. Tüccarlar ve kullanıcılar, düşük ücretler ve güvenilir onaylarla desteklenir. Sınırsız büyüme, küresel benimseme, izinsiz yenilik ve merkezi olmayan geliştirme ile gelecek parlak bir şekilde parlıyor.</blockquote> 
-<p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan hard fork sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p> 
+<blockquote cite="https://bitcoincash.org/">Bitcoin Cash, Bitcoin'in "Eşler Arası Elektronik Nakit" olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor. Tüccarlar ve kullanıcılar, düşük ücretler ve güvenilir onaylarla desteklenir. Sınırsız büyüme, küresel benimseme, izinsiz yenilik ve merkezi olmayan geliştirme ile gelecek parlak bir şekilde parlıyor.</blockquote>
+<p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan hard fork sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-1.jpg">
-  <img src="/assets/img/posts-img/bch/bch1.jpg" alt="bch nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/1-bitcoin-cash.webp">
+  <img src="/assets/img/posts-img/bch/bch-cash.webp" alt="bch nedir" style="width:auto;">
 </picture>
 <h2 id="bch2">Bitcoin ve Bitcoin Cash Aynı Şey Mi?</h2>
 <p>Bitcoin ve diğer kripto para birimleri içindeki çatallar nadir değildir, ancak genellikle hangi blok zincirinin kullanılacağı konusunda ortak bir fikir birliğine varılır. Fikir birliğine varılamadığında ve her iki blockchain de kaldığında, yeni bir token veya coin oluşturulur. 2017’de de bu görüş ayrılığının oluştuğu durumda, Bitcoin Cash ortaya çıkmış oldu.</p>
 <p>Hard folk, blok boyutu sınırının en iyi şekilde nasıl artırılacağı konusunda bir anlaşmazlık olduğu için ortaya çıktı. Etkili madenciler, geliştiriciler ve yatırımcılardan oluşan bir grup, Ağustos 2017'de bitcoin ağına uygulanacak olan SegWit2x adlı bir protokolü tercih etti. Bu protokole katılmayanlar, Bitcoin Cash'in yaratılmasına dahil oldu. Bitcoin Cash'in savunucuları, bunun, bitcoin'i yaratan bilinmeyen kişi veya kişiler olan ve gizli olarak 1MB'lik bir limit uyguladığını düşündüğü Satoshi Nakamoto'nun orijinal vizyonuna daha çok benzediğine inanıyorlardı. Bununla birlikte, Nakamoto, artan internet hızları ve azalan depolama maliyetleri ile blok zincirlerinin, konsepti olumsuz yönde etkilemeden boyut olarak artırılabileceğini öngördüğü için, "İhtiyaç duymaya yaklaşırsak daha sonra bir değişikliği aşamalı hale getirebiliriz" demişti. </p>
 <p>Piyasaya sürüldüğünden bu yana, bitcoin cash, en başarılı bitcoin satışlarından biri haline geldi. Önde gelen bir yatırımcı ve erken bitcoin benimseyen Roger Ver, daha önce bunu 'gerçek bitcoin' olarak tanımlayan bir bitcoin cash savunucusudur. Yaygın olarak 'bitcoin Jesus' olarak anılan Ver, ekonomik özgürlüğü teşvik etmenin bir yolu olarak 2011'in başlarında bitcoin'in önde gelen bir destekçisiydi. O zamandan beri, daha düşük işlem maliyetlerini ve sürelerini destekleyerek Bitcoin Cash'i desteklemek için harekete geçti. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-2.jpg">
-  <img src="/assets/img/posts-img/bch/bch2.jpg" alt="bch coin" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-coin.webp">
+  <img src="/assets/img/posts-img/bch/bch-al.webp" alt="bch coin" style="width:auto;">
 </picture>
 <h2 id="bch3">Bitcoin ve Bitcoin Cash Arasındaki Farklılıklar Nelerdir?</h2>
 <p>Gördüğümüz gibi bitcoin cash, bitcoin ile hard forkun bir sonucu olarak yaratıldı. Bu, benzerlikler olsa da, kripto para birimleri arasında bazı önemli farklılıklar olduğu anlamına gelir.</p>
@@ -47,8 +47,8 @@ paginate: true
 <h3 id="bch5">2. Algoritma</h3>
 <p>Bitcoin cash, bitcoin'den farklı bir hash algoritmasına sahiptir. Bu, iki blok zinciri arasında tekrarın artık mümkün olmadığı anlamına gelir. Gelecekte bitcoin nakit bölünürse, yerinde bir yeniden oynatma ve silme koruma planı vardır. Bununla birlikte, bir çatal oluşursa, her iki zincirin de dahil olan herkes için minimum kesinti ile bir arada var olabileceği düşünülmüştür.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bch-3.jpg">
-  <img src="/assets/img/posts-img/bch/bch3.jpg" alt="bitcoin cash bch coin kaç tl" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/bitcoin-cash-fiyati.webp">
+  <img src="/assets/img/posts-img/bch/bch-ne-kadar.webp" alt="bitcoin cash bch coin kaç tl" style="width:auto;">
 </picture>
 <h3 id="bch6">3. Acil Zorluk Ayarı (EDA)</h3>
 <p>Bitcoin cash, madencilerin sayısı önemli ölçüde değiştiğinde blok zincirinin normal şekilde işlev görmesini sağlamaya yardımcı olan yeni bir algoritma kullanır. Kripto para birimine ek bir istikrar sağlamaya yardımcı olur.</p>

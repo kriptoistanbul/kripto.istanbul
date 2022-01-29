@@ -4,7 +4,7 @@ layout: post
 title: Binance Coin -BNB- Nedir?
 subtitle: BNB Nedir? BNB'nin Fiyatı Son Yıllarda Neden Bu Kadar Arttı?
 description: BNB ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/bnb/bnb-ana.jpg
+image: /assets/img/posts-img/bnb/binance-bnb-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - bnb
@@ -42,8 +42,8 @@ paginate: true
 <p>Binance Exchange, tokeni yıllarca ayakta tutabilecek çok sayıda finansal ve stratejik desteğe sahiptir. Bu, baskın alternatif para birimlerinin görünümünün önümüzdeki yıllarda değişebileceği anlamına geliyor. Her ay milyarlarca dolar kripto işlemi gerçekleştiren bir borsa tarafından desteklenen bir tokene karşı bahis oynamak akıllıca bir fikir olmayacaktır. </p>
 <p>Şu anda, BNB geçerli bir para birimi ikamesi değildir; hatta piyasa kabulü açısından Bitcoin veya Ripple'a yakın bile değil. Ticaret veya başka bir amaç için yüksek likidite arıyorsanız, başka bir dijital para birimi almak isteyebilirsiniz. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-1.jpg">
-  <img src="/assets/img/posts-img/bnb/bnb1.jpg" alt="bnb coin" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/binance-coin.webp">
+  <img src="/assets/img/posts-img/bnb/bnb-coin.webp" alt="bnb coin" style="width:auto;">
 </picture>
 <h2 id="bnb3">Binance Coin Nasıl Çalışır ve Nasıl Bir Teknolojiyle Oluşturulmuştur?<h2>
 <p>BNB, Ethereum blok zinciri üzerine inşa edilmiştir ve değeri depolayabilen ve tutabilen ERC20 jetonlarını kullanır. Ancak, önceden yayınlanmış ve ICO aracılığıyla dağıtılmış oldukları için jetonları madencilik yapamazsınız. Dolaşımdaki jetonlar, Binance Borsasında indirimli alım satım için kullanılır. İskonto oranı ilk yıl% 50'den başladı, ancak her yıl yarıya indirilmesi planlanıyor. </p>
@@ -58,8 +58,8 @@ paginate: true
 <h3 id="bnb5">Binance Coin Neden İcat Edildi?</h3>
 <p>Kripto para birimi platformunu güçlendirmek ve sürdürülebilir bir ekosistem oluşturmak için operasyonlarını hızlandırmak için oluşturuldu. Token, listeleme ücreti, değişim ücreti, işlem ücreti veya bir kullanıcının borsada maruz kalabileceği diğer ücretler dahil olmak üzere çok sayıda amaç için kullanılabilir. Binance, ticari işlemlerde BNB kullanımını teşvik etmek için alım-satımların BNB üzerinden yapılması durumunda ilk yıla özel büyük bir indirim getirmişti. İlk yıldan sonra yarı yarıya azalan bu indirim beş yıllık bir süreci kapsayacak ve 2022 yılında son bulacak.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-2.jpg">
-  <img src="/assets/img/posts-img/bnb/bnb2.png" alt="bnb coin dolar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-coin-fiyat.webp">
+  <img src="/assets/img/posts-img/bnb/binance-coin-ne-kadar.webp" alt="bnb coin dolar" style="width:auto;">
 </picture>
 <p>BNB tokenleri, Binance'in Launchpad bölümünde listelenen IEO yatırımları için de kullanılabilir. Bu yeni para birimleri daha sonra Binance kripto borsasında listelenecek ve onlara ticaret için tam özellikli bir pazar sağlayacak. Yerel bir para birimine sahip olmak, geleneksel paraya olan bağımlılığı azaltacaktır ve bu da gecikmelere ve ekstra ücretlere neden olarak son kullanıcıya ek bir mali yük getirebilir. Bu nedenle BNB tokenleri, kullanıcıların işlemlerde tasarruf etmelerini sağlarken sorunsuz bir deneyim sağlar. </p>
 <h3 id="bnb6">BNB ile Yapılan Ticaretlerde Komisyon Ücreti Ne Kadar?</h3>
@@ -69,8 +69,8 @@ paginate: true
 <p>Binance Coin kullanırken anonimliğinizi korumak zordur. Token çoğunlukla Binance ekosisteminde kullanıldığından, para birimini kullanmak için borsada doğrulanmış bir hesaba ihtiyacınız var. Binance, Müşterinizi Tanıyın (KYC) ve Kara Para Aklamayı Önleme (AML) düzenlemelerine uymaktadır; bu, hesabınızı oluşturmadan önce kimliğinizi doğrulamak için kişisel bilgilerinizi vermenizi isteyeceği anlamına gelir. BNB'yi platformda hesap olmadan kullanamazsınız. Gizlilik bilincindeyseniz, kimliğinizi blok zincirinde ve işlem ayrıntılarında maskelemek için kasıtlı yöntemler kullanan Zcash gibi başka herhangi bir kripto para birimini denemelisiniz. </p>
 <p>Dahası, BNB kullanan herhangi bir dijital aktivite, Binance'in kendisi, hükümet ve herhangi bir yetkili bilgisayar korsanı tarafından izlenebilir. Gerçek şu ki, geride dijital bir ayak izi bırakıyorsanız, sizi bulmak isteyen insanların sizi bulma şansı her zaman vardır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-3.jpg">
-  <img src="/assets/img/posts-img/bnb/bnb3.jpg" alt="bnb coin kaç dolar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/1-bnb.webp">
+  <img src="/assets/img/posts-img/bnb/bnb-coin-binance-grafik.webp" alt="bnb coin kaç dolar" style="width:auto;">
 </picture>
 <h3 id="bnb8">Binance Coin'in Faydaları Nelerdir?</h3>
 <h4 id="bnb9">Hızlı İşlem</h4>

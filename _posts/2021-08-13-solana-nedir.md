@@ -4,7 +4,7 @@ layout: post
 title: Solana -SOL- Nedir?
 subtitle: Solana Nedir? Solana Teknolojisini Diğerlerinden Ayıran Şey Nedir?
 description: Solana ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/sol/solana-ana.jpg
+image: /assets/img/posts-img/sol/sol-coin-solana-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - sol
@@ -34,12 +34,12 @@ paginate: true
 	<li style="padding: 2px;"><a href="#sol16">Solana'ya Son Bir Bakış</a></li>
 </ol>
 <h1 id="sol1">Solana (SOL) Nedir?</h1>
-<blockquote cite="https://docs.solana.com/introduction">Solana, yeni, yüksek performanslı, izinsiz bir blok zinciri uygulayan açık kaynaklı bir projedir. Solana Vakfı, merkezi Cenevre, İsviçre'dedir ve açık kaynak projesini sürdürmektedir.</blockquote> 
-<p>Solana, hızlı, güvenli, ölçeklenebilir, merkezi olmayan uygulamalar ve pazarlar sağlayan web ölçekli bir blok zinciridir.</p> 
+<blockquote cite="https://docs.solana.com/introduction">Solana, yeni, yüksek performanslı, izinsiz bir blok zinciri uygulayan açık kaynaklı bir projedir. Solana Vakfı, merkezi Cenevre, İsviçre'dedir ve açık kaynak projesini sürdürmektedir.</blockquote>
+<p>Solana, hızlı, güvenli, ölçeklenebilir, merkezi olmayan uygulamalar ve pazarlar sağlayan web ölçekli bir blok zinciridir.</p>
 <p>Sistem şu anda 65.000 TPS (Saniyede İşlem) ve 400 ms Blok Süresini desteklemektedir. Solana yazılımının genel amacı, bir blok zinciri oluşturmak için kombinasyonu kullanan olası bir yazılım algoritmaları seti olduğunu göstermektir. Bu, işlem hacminin, bir blok zincirinin tüm özelliklerini karşılayan ağ bant genişliğiyle orantılı olarak ölçeklenmesini sağlar: ölçeklenebilirlik, güvenlik ve ademi merkeziyet. Ayrıca, sistem standart bir gigabit ağda 710.000 TPS ve 40 gigabit ağda 28.4 milyon tps üst sınırını destekleyebilir.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-1.png">
-  <img src="/assets/img/posts-img/sol/solana1.jpg" alt="solana coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/sol-coin.webp">
+  <img src="/assets/img/posts-img/sol/solana-coin.webp" alt="solana coin nedir" style="width:auto;">
 </picture>
 <h2 id="sol2">Solana’ya (SOL) Genel Bir Bakış</h2>
 <p>Solana (SOL) platformu, Anatoly Yakovenko tarafından 2017 yılında kuruldu. Yakovenko, Solana'yı kurmadan önce Qualcomm'da çalışıyordu. Dropbox'ta bir yazılım mühendisi olarak önceki deneyiminden sonra sıkıştırma algoritmaları konusunda geniş bir deneyime sahipti. Eric Williams ve Solana’nın CTO'su Greg Fitzgerald ile birlikte, Bitcoin ve Ethereum blok zincirlerinde var olan geleneksel verim sorunlarıyla başa çıkmak için yeni bir süreç yarattılar.</p>
@@ -53,8 +53,8 @@ paginate: true
 	<li>Payınızı doğrulayıcıya devredin</li>
 </ol>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-2.jpg">
-  <img src="/assets/img/posts-img/sol/solana2.jpg" alt="sol coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/sol-coin-fiyat.webp">
+  <img src="/assets/img/posts-img/sol/sol-coin-yorum-2022.webp" alt="sol coin nedir" style="width:auto;">
 </picture>
 <h3 id="sol4">Solana Nasıl Çalışır?</h3>
 <ul>
@@ -73,23 +73,23 @@ paginate: true
 <p>Solana Cluster ya da Solana Kümesi, Solana yazılımında önemli bir rol oynar. Küme, birlikte çalışan bir dizi bilgisayardır. Dışarıdan tekil bir sistem olarak görülebilirler. Her Solana kümesi, genellikle birlikte çalışan (birbirlerine karşı da çalışabilen) bağımsız olarak sahip olunan bir bilgisayar kümesidir. Bilgisayarlar, güvenilmeyen, kullanıcı tarafından gönderilen programların çıktılarının doğrulanmasına yardımcı olur. Ayrıca, bir kullanıcı, olayların değişmez bir kaydını veya olayların programlı yorumunu korumayı umduğunda, kümeyi kullanabiliriz. </p>
 <p>Teknolojinin bazı kullanım örnekleri, kümenin çalışır durumda kalması açısından anlamlı olan, hangi bilgisayarların çalıştığını izlemektir. Bir diğeri, gerçek dünya varlıklarının sahipliğini izlemek olabilir. Bununla ilgili iyi bir şey, birisi defterin bir kopyasına sahip olduğu sürece, programlarının çıktısının her zaman yeniden üretilebilmesi ve onu yayınlayan kuruluştan bağımsız olmasıdır.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/solana-3.jpg">
-  <img src="/assets/img/posts-img/sol/solana3.png" alt="solana yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/sol/sol-solana.webp">
+  <img src="/assets/img/posts-img/sol/solana-yorum.webp" alt="solana yorum" style="width:auto;">
 </picture>
 <h3 id="sol7">Solana’nın 8 Temel Yeniliği</h3>
-<h4 id="sol8">1.Tarih Kanıtı (PoH) → Doğrulanabilir Gecikme Fonksiyonu</h4> 
+<h4 id="sol8">1.Tarih Kanıtı (PoH) → Doğrulanabilir Gecikme Fonksiyonu</h4>
 <p>Solana’nın PoH fikir birliği algoritması, Solana ağında daha fazla verimlilik ve daha yüksek iş hacmi yaratmaya yardımcı olur. Bu nedenle, olayların veya işlemlerin geçmiş kayıtlarına sahip olarak, sistemin işlemleri daha kolay izlemesine ve olayların sırasını takip etmesine olanak tanır. </p>
-<h4 id="sol9">2.Tower BFT → PBFT'nin PoH İçin Optimize Edilmiş Versiyonu (Pratik Bizans Hata Tolerasyonu)</h4> 
+<h4 id="sol9">2.Tower BFT → PBFT'nin PoH İçin Optimize Edilmiş Versiyonu (Pratik Bizans Hata Tolerasyonu)</h4>
 <p>Tower BFT, senkronize saatten yararlanmak için yapılmış PBFT benzeri bir koni algoritmasıdır. Tower BFT, PoH'yi şifreleme saati olarak kullanır ve bu da büyük mesajlaşma ek yüküne ve işlem gecikmesine maruz kalmadan fikir birliğine ulaşılmasına izin verir. </p>
-<h4 id="sol10">3.Türbin → Blok Yayılma Protokolü</h4> 
+<h4 id="sol10">3.Türbin → Blok Yayılma Protokolü</h4>
 <p>Türbin protokolü, verileri blok zinciri düğümlerine iletmeyi kolaylaştırır. Türbin, verileri daha küçük paketlere bölerek bunu yapabilir. Bu, Solana'nın bant genişliği sorunlarını çözmesine ve ayrıca işlemleri daha hızlı halletmek için genel kapasitesini artırmasına olanak tanır.</p>
-<h4 id="sol11">4.Gulf Stream → Mempool'suz İşlem İletme Protokolü</h4> 
+<h4 id="sol11">4.Gulf Stream → Mempool'suz İşlem İletme Protokolü</h4>
 <p>Gulf Stream protokolü, işlem önbelleğe alma ve bunu ağın kenarına iletme konusunda önemli bir rol oynar. Bu, doğrulayıcıların işlemleri önceden yürütmesine, onay süresini azaltmasına, lider geçişini hızlandırmasına ve onaylanmamış işlem havuzlarından doğrulayıcılar üzerindeki bellek baskısını azaltmasına olanak tanır. Bu protokol, Solana'nın 50k TPS'yi desteklemesini sağlayan şeydir.</p>
-<h4 id="sol12">5.Sealevel → Paralel Akıllı Sözleşmeler Çalışması</h4> 
+<h4 id="sol12">5.Sealevel → Paralel Akıllı Sözleşmeler Çalışması</h4>
 <p>Sealevel, GPU'lar ve SSD'ler arasında yatay olarak ölçeklendirmek için kullanılan hiper paralelleştirilmiş bir işlem işleme motorudur. Bu sistem yerinde olduğunda, Solana'nın daha verimli bir çalışma zamanı elde etmesine ve işlemlerin aynı durum blok zincirlerinde eşzamanlı olarak çalışmasına izin verir.</p>
-<h4 id="sol13">6.Ardışık Düzen → Doğrulama Optimizasyonu İçin İşlem İşleme Birimi</h4> 
+<h4 id="sol13">6.Ardışık Düzen → Doğrulama Optimizasyonu İçin İşlem İşleme Birimi</h4>
 <p>Ardışık düzen, bir giriş verisi akışının kendisinden sorumlu farklı donanımlara atandığı bir süreçtir. Dolayısıyla bu mekanizma, işlem bilgilerinin hızlı bir şekilde doğrulanmasına ve ağdaki tüm düğümler arasında kopyalanmasına izin verir.</p>
-<h4 id="sol14">7.Cloudbreak → Yatay Ölçekli Hesap Veritabanı</h4> 
+<h4 id="sol14">7.Cloudbreak → Yatay Ölçekli Hesap Veritabanı</h4>
 <p>Solana ağında gerekli ölçeklenebilirliği elde etmek için Cloudbreak kullanımını gerektirir. Cloudbreak, ağ üzerinden eşzamanlı okuma ve yazma işlemleri için en uygun veri yapısıdır.</p>
 <h4 id="sol15">8.Arşivleyiciler → Dağıtılmış Defter Depolama</h4> <p>Doğrulayıcılardan Arşivciler olarak bilinen düğüm ağına veri depolamak için Arşivcilerin kullanılmasıdır. Bu düğümler hafif olabilir (örn: dizüstü bilgisayarlar) ve doğru verileri depoladıklarından emin olmak için arada bir kontrole tabi tutulurlar. </p>
 <h4 id="sol16">Solana’ya (SOL) Son Bir Bakış</h4>

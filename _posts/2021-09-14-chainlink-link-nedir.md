@@ -4,7 +4,7 @@ layout: post
 title: Chainlink -LINK- Nedir?
 subtitle: Chainlink Nedir? Chainlink'in Oracle Teknolojisi Ne Gibi Yenilikler Sunuyor?
 description: Chainlink ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/link/link-ana.jpg
+image: /assets/img/posts-img/link/chainlink-coin-link-coin-nedir.webp
 category: Kripto Paralar
 tags:
   - link
@@ -26,26 +26,26 @@ paginate: true
 	<li style="padding: 2px;"><a href="#link10">Chainlink'e Son Bir Bakış</a></li>
 </ol>
 <h1 id="link1">Chainlink (LINK) Nedir?</h1>
-<blockquote cite="https://chain.link/">Chainlink merkezi olmayan oracle ağları, herhangi bir blok zincirinde gelişmiş akıllı sözleşmeleri desteklemek için kurcalamaya dayanıklı girdiler, çıktılar ve hesaplamalar sağlar.</blockquote> 
+<blockquote cite="https://chain.link/">Chainlink merkezi olmayan oracle ağları, herhangi bir blok zincirinde gelişmiş akıllı sözleşmeleri desteklemek için kurcalamaya dayanıklı girdiler, çıktılar ve hesaplamalar sağlar.</blockquote>
 <p>Chainlink (LINK), çeşitli blok zincirlerinin üzerinde çalışan akıllı sözleşmeler sayesinde güvenilir, gerçek dünya verileri sağlamak için sayısız bilgisayar arasında küresel, merkezi olmayan bir oracle ağını teşvik etme vizyonuna sahip bir kripto para birimi projesidir.</p>
 <p>Blockchain tabanlı akıllı sözleşmelere bağlanabilen bu gerçek dünya veri noktaları "oracle" olarak bilinir. Chainlink'in merkezi olmayan oracle ağındaki her oracle, her birine atanan bir itibar puanıyla doğru oranda veriler sağlamak için teşvik edilir. Oracle'lar yazılımın kurallarını takip ettiğinde ve yararlı (doğru) veriler sağladığında, Chainlink ağı yerel ERC-20 kripto para belirteci LINK ile ödüllendirilirler.</p>
 <p>Chainlink, merkezi olmayan bir oracle ağıdır. Ağ üzerinde çalışmayı paylaşan harici veri sağlayıcıları, "oracle" olarak adlandırılanlardır. Bu oracle'lar, Chainlink akıllı sözleşmelerinin her tür API ve diğer bazı harici veri beslemeleri gibi harici (blok zinciri olmayan) kaynaklardan doğru veriler almasına olanak tanır. LINK, Chainlink ağında bu oracle hizmetinin doğruluğunu sağlamak ve ücretini ödemek için kullanılan bir ERC-20 belirtecidir. Chainlink, blockchain teknolojisinin doğasında bulunan güvenlik ve güvenilirlikten ödün vermeden gerçek dünyadaki verilere, olaylara, ödemelere ve daha fazlasına erişim sağlayarak akıllı sözleşmelerin yeteneklerini bir sonraki seviyeye taşır. </p>
 <p>İlk olarak 2017'de oluşturulan Chainlink ekibi, şimdiye kadar blok zincirlerine doğru harici veriler sağlama vizyonunu gerçekleştirebildi. Ethereum'dan (ETH) kaynaklanmış olmasına rağmen Chainlink, akıllı sözleşme işlevine sahip herhangi bir blok zincirinde çalışmak üzere tasarlanmıştır. Chainlink kendi blok zincirini çalıştırmaz - bunun yerine birlikte çalışabilir ve aynı anda birçok farklı blok zincirinde çalışır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-1.jpg">
-  <img src="/assets/img/posts-img/link/link1.jpg" alt="chainlink nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/1-chainlink.webp">
+  <img src="/assets/img/posts-img/link/chainlink.webp" alt="chainlink nedir" style="width:auto;">
 </picture>
 <h2 id="link2">Chainlink (LINK) Nasıl Çalışır?</h2>
 <p>Chainlink, hizmet verdiği blockchain tabanlı akıllı sözleşmeler ile harici veri kaynakları arasında iletişime izin vermek için yenilikçi üç aşamalı bir süreç izler:</p>
-<ol> 
+<ol>
 <li><b>Oracle Seçimi:</b> Bir Chainlink kullanıcısı, belirli bir veri gereksinimleri kümesini belirleyen bir Hizmet Seviyesi Anlaşması (SLA) hazırlar. Chainlink yazılımı daha sonra bu SLA'yı, kullanıcıyı verileri sağlayabilecek en uygun oracle'larla eşleştirmek için kullanır. Parametreler ayarlandıktan sonra, kullanıcı SLA'yı gönderir ve Chainlink (LINK) kripto para birimini oracle'lardan teklifleri kabul eden bir Sipariş Eşleştirme sözleşmesine yatırır.</li>
 <li><b>Veri Raporlama:</b> Bu adım, oracle'ların Chainlink SLA'da talep edilen gerçek dünya verilerini elde etmek için fiilen dış veri kaynaklarına bağlandığı yerdir. Veriler daha sonra oracle'lar tarafından işlenir ve Chainlink hizmetini kullanan sözleşmelere geri gönderilir.</li>
 <li><b>Sonuç Toplama:</b> Sürecin son adımı, oracle'lar tarafından toplanan verilerin sonuçlarını hesaplamak ve Toplama Sözleşmesi olarak bilinen duruma geri döndürmektir. Toplama sözleşmesi veri noktalarını alır, her birinin geçerliliğini değerlendirir ve kullanıcıya alınan tüm verilerin toplamını kullanarak ağırlıklı bir puan verir (akıllı sözleşme).</li>
-</ol> 
+</ol>
 <p>Bu süreci özellikle güçlü kılan şey, Chainlink'in birden çok farklı kaynaktan gelen verileri doğrulamasını sağlamasıdır. Chainlink, dahili itibar sistemi sayesinde, nispeten yüksek bir doğrulukla hangi kaynakların güvenilir olduğunu belirleyebilir - sonuçların doğruluğunu büyük ölçüde artırır ve akıllı sözleşmeleri çeşitli kötü niyetli saldırılara karşı korur. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-2.jpg">
-  <img src="/assets/img/posts-img/link/link2.jpg" alt="chainlink nasıl çalışır" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-coin.webp">
+  <img src="/assets/img/posts-img/link/link-chainlink-fiyat.webp" alt="chainlink nasıl çalışır" style="width:auto;">
 </picture>
 <p>LINK tüm bunlarda hangi rolü oynuyor? Veri talep eden akıllı sözleşmeler, LINK'deki Chainlink düğüm operatörlerine hizmetleri için ödeme yapar. Fiyatlar, pazar koşullarına ve bu verilere yönelik talebe dayalı olarak düğüm operatörleri tarafından belirlenir. Düğüm operatörleri, projeye uzun vadeli bağlılık sağlamak için LINK'e de ortak olur. Proof of Stake (PoS) fikir birliği mekanizmasına benzer şekilde, Chainlink operatörleri, kötü niyetli olmak yerine güvenilir bir şekilde davranmayı teşvik etmek için LINK ödülleriyle teşvik edilir. </p>
 <p>Chainlink hakkında daha detalı teknik bilgi için <a href="https://research.chain.link/whitepaper-v2.pdf">buradan</a> whitepaper'ına bakabilirsiniz.</p>
@@ -57,8 +57,8 @@ paginate: true
 <p>San Francisco merkezli Data Collective yatırım grubu tarafından desteklenen Akıllı Sözleşme, sektör lideri yenilikçilerden oluşan bir ekiple vizyonunu gerçeğe dönüştürmeye başlamıştır. </p>
 <p>Sergey Nazarov, şirketin CEO'su ve kurucu ortağıdır. SmartContract ve Chainlink'ten önce Sergey, bir kripto para borsası olan Secure Asset Exchange'in kurucusu olmuştur. Ayrıca CryptoMail adında tamamen merkezi olmayan bir e-posta hizmeti de kurdu. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-sergey-nazarov1.jpg">
-  <img src="/assets/img/posts-img/link/link-sergey-nazarov.jpg" alt="chainlink sergey nazarov" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-sergey-nazarov-chainlink-kurucu.webp">
+  <img src="/assets/img/posts-img/link/link-sergey-nazarov-kimdir.webp" alt="chainlink sergey nazarov" style="width:auto;">
 </picture>
 <p>Steve Ellis CTO ve şirketin kurucu ortağıdır. Ellis, bu girişime katılmadan önce Secure Asset Exchange platformunda Nazarov ile çalıştı. Kendisi ayrıca blockchain sektörüne katılmadan önce Pivotal Labs'ta çalışmış deneyimli bir yazılım mühendisidir. </p>
 <p>Chainlink ekibinin bir diğer önemli kurucu üyesi, Nazarov ve Ellis ile birlikte Chainlink'in teknik incelemesini yazan Ari Juels. Cornell Tech'te bir bilgisayar bilimi profesörü ve IC3'ün yöneticisi olan Juels, şu anda Chainlink ekibinin danışmanıdır. </p>
@@ -69,8 +69,8 @@ paginate: true
 <p>Chainlink, özelliklerle dolu bir platformdur ve yerel kripto para birimi bunu takip eder. Chainlink (LINK), LINK sözleşmesini bir ERC20 token uygulaması olarak geliştirdi - bu, transfer, onaylama ve transferFrom gibi standart işlemleri sunmasına izin veriyor. </p>
 <p>Bir inovasyon olarak, LINK token sözleşmesi aynı zamanda ERC677 arayüzünü de uygular. Bu, ödeme ve çağrının tek bir işlemle yapılmasına izin vermek için bir transferAndCall işlevi sağlamasına izin verir. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-4.jpg">
-  <img src="/assets/img/posts-img/link/link4.jpg" alt="chainlink fiyat" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/chainlink-link-coin-white-paper.webp">
+  <img src="/assets/img/posts-img/link/link-coin-haber.webp" alt="chainlink fiyat" style="width:auto;">
 </picture>
 <p>LINK, gördüğümüz gibi, en son teknolojileri alan ve verimliliğini artırmak için bunları birleştiren bir simgedir. </p>
 <h3 id="link6">Chainlink'i Değerli Kılan Şey Nedir?</h3>
@@ -83,13 +83,13 @@ Chainlink Ağının Güvenliği Nasıl Sağlanır?
 <p>Chainlink ağı, veri sözleşmelerini almak ve ağ tarafından ödüllendirilmek için doğrulayıcı düğümlerinin LINK'i hissettiği Proof of Stake'e (PoS) benzer bir konsept ile güvence altına alınmıştır. Teşvik edilmiş ödül sistemi, ağ düğümlerini kötü niyetli veya vicdansız davranışlara karşı caydırır, tıpkı stake ettikleri BAĞLANTIYI kaybetme riski gibi. </p>
 <p>Chainlink merkezi olmayan oracle ağı, üç tür özel tasarlanmış akıllı sözleşme ile desteklenir ve güvence altına alınır: </p>
 <ul>
-<li><b>Toplama Sözleşmesi:</b> Bu, verileri oracle'lardan toplayan ve en doğru sonuçları onlara ihtiyaç duyan akıllı sözleşmeyle eşleştiren şeydir.</li> 
+<li><b>Toplama Sözleşmesi:</b> Bu, verileri oracle'lardan toplayan ve en doğru sonuçları onlara ihtiyaç duyan akıllı sözleşmeyle eşleştiren şeydir.</li>
 <li><b>Sipariş Eşleştirme Sözleşmesi:</b> Bu sözleşmeler, mümkün olan en iyi oracle'ı akıllı sözleşmenin hizmet seviyesi sözleşmesi (SLA) ihtiyaçlarıyla eşleştirmekten sorumludur.</li>
 <li><b>İtibar Sözleşmesi:</b> Tamamlanan isteklerin toplam sayısı, ortalama yanıt süresi ve oracle tarafından stake edilen LINK token miktarı dahil olmak üzere istatistiklerini kontrol ederek bir oracle'ın bütünlüğünü doğrular.</li>
-</ul> 
+</ul>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-5.jpg">
-  <img src="/assets/img/posts-img/link/link5.jpg" alt="chainlink nereden alınır" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/link/link-yorum-2022.webp">
+  <img src="/assets/img/posts-img/link/chainlink-gelecegi.webp" alt="chainlink nereden alınır" style="width:auto;">
 </picture>
 <h4 id="link8">Chainlink Nasıl Kullanılır?</h4>
 <p>LINK, Chainlink oracle ağındaki hizmetler için ödeme yapmak için kullanılan ERC-20 belirtecidir. Esasen Chainlink'in mimarisine güç verir. Sözleşme sahipleri, gerekli verileri sağlayarak çalışmaları için düğüm operatörlerine ödeme yapmak için LINK'i kullanır. Fiyatlar, sağlayabilecekleri verilere yönelik talebe ve bu veriler için mevcut pazara bağlı olarak Chainlink düğüm operatörü tarafından belirlenir. </p>

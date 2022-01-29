@@ -4,7 +4,7 @@ layout: post
 title: Polkadot -DOT- Nedir?
 subtitle: Polkadot Nedir? Neden Büyük Firmalar Polkadot'a Yatırım Yapıyor? Polkadot, Ethereum Katili Mi?
 description: Polkadot ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
-image: /assets/img/posts-img/dot/polkadot-ana.jpg
+image: /assets/img/posts-img/dot/dot-coin-polkadot-nedir.webp
 category: Kripto Paralar
 tags:
   - dot
@@ -32,13 +32,13 @@ paginate: true
 	<li style="padding: 2px;"><a href="#dot16">Polkadot SSS</a></li>
 </ol>
 <h1 id="dot1">Polkadot (DOT) Nedir?</h1>
-<blockquote cite="https://polkadot.network/">Polkadot, çeşitli blok zincirlerinin mesajlarını güvenden bağımsız bir şekilde iletmesine izin veren bir platformdur. Blok zincirlerin güvenliklerini bir araya getirirken benzersiz özelliklerini paylaşır. Kısaca Polkadot, ölçeklenebilir, heterojen, çok zincirli bir teknolojidir.</blockquote> 
-<p>Polkadot, özel veya önceden oluşturulmuş bileşenlerden oluşan uyumlu ve amaca yönelik blok zincirlerinin oluşturulmasını sağlayan bir çerçeve olan Substrate kullanılarak oluşturulmuş, sonraki web için ölçeklenebilir, güvenli ve merkezi olmayan bir çok zincirli ağdır.</p> 
+<blockquote cite="https://polkadot.network/">Polkadot, çeşitli blok zincirlerinin mesajlarını güvenden bağımsız bir şekilde iletmesine izin veren bir platformdur. Blok zincirlerin güvenliklerini bir araya getirirken benzersiz özelliklerini paylaşır. Kısaca Polkadot, ölçeklenebilir, heterojen, çok zincirli bir teknolojidir.</blockquote>
+<p>Polkadot, özel veya önceden oluşturulmuş bileşenlerden oluşan uyumlu ve amaca yönelik blok zincirlerinin oluşturulmasını sağlayan bir çerçeve olan Substrate kullanılarak oluşturulmuş, sonraki web için ölçeklenebilir, güvenli ve merkezi olmayan bir çok zincirli ağdır.</p>
 <p>Polkadot, ağı ölçeklendirmek için segmentler veya parçalar kullanan bir birlikte çalışabilirlik protokolü sağlayarak, kullanıcıların kontrolün elinde olduğu tamamen merkezi olmayan bir web sağlamayı amaçlamaktadır. Özel zincirleri, genel ağları ve oracle'ları birbirine bağlayarak bağımsız blok zincirlerinin veri ve işlemleri güvenilir bir şekilde değiştirebileceği yeni bir web biçimini kolaylaştırabilir. </p>
 <p>DOT, en küçük birimi Planck olarak adlandırılan Polkadot ağının yerel belirteç para birimidir. Yeni zincirleri Polkadot ağına bağlamanın bir parçası olarak veya ekosistemde başka bir rol üstlenmenin bir parçası olarak tokenlerin kilitlendiği ödemeler, ağ yönetişimi, stake etme, ödül teşvikleri, işlem ücretleri ve diğer bağlama süreçlerini kolaylaştırır. Diğer çoğu kripto para biriminin aksine, DOT'un tedariki sınırlı değildir. Bu, ağı teşvik etmek ve kullanıcıların stake katılım oranlarına göre dinamik olarak ayarlanarak yılda% 10'a kadar şişirmek için tasarlanmıştır. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/polkadot-1.jpg">
-  <img src="/assets/img/posts-img/dot/polkadot1.png" alt="polka dots" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/dot-yorum.webp">
+  <img src="/assets/img/posts-img/dot/polkadot-2022.webp" alt="polka dots" style="width:auto;">
 </picture>
 <h2 id="dot2">Polkadot Ağı Nasıl Çalışır?</h2>
 <p>Polkadot, fonların bir dijital cüzdandan diğerine, genel ve özel anahtar şifreleme sistemi kullanılarak gönderilmesine izin verir. Genel anahtarın karması, para almak için verdiğiniz adrestir ve özel anahtar, işlemleri yetkilendiren ve ağa yayınlayan bir şifre gibi davranır. Yaklaşık her altı saniyede bir, bu bekleyen işlemler bir işlem bloğunda onaylanır ve bloklar birlikte Polkadot blok zincirini oluşturur. </p>
@@ -47,18 +47,18 @@ paginate: true
 <h2 id="dot3">Polkadot Staking Nasıl Yapılır?</h2>
 <p>Bir DOT hesabınız olabilir ve stake ederek DOT ödülleri kazanmak isteyebilirsiniz. Doğrulayıcı olarak bunu yapabilirsiniz, ancak bu 7 gün 24 saat çalışan bir düğüm gerektirir, bu da yalnızca teknik bilgi ve donanım gereksinimlerine sahip daha ileri düzey kullanıcılar için uygun olduğu anlamına gelir. Aksi takdirde, bir veya daha fazla Doğrulayıcı atayarak DOT kazanabilirsiniz. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/polkadot-2.jpg">
-  <img src="/assets/img/posts-img/dot/polkadot2.jpg" alt="dot yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/dot-coin.webp">
+  <img src="/assets/img/posts-img/dot/dot-coin-fiyatlari.webp" alt="dot yorum" style="width:auto;">
 </picture>
 <p>Bunu yaparak, seçtiğiniz Doğrulayıcılar için bir Aday olursunuz. Doğrulayıcıları, sanki düzgün davranmıyorlarmış gibi dikkatli bir şekilde seçmelisiniz, çünkü düzgün davranmazlarsa ağ ile iletişimleri kesilecektir ve siz de bazı DOT'larınızı kaybedeceksiniz. Ancak, ağın kurallarına uyarlarsa, ürettikleri stake etme ödüllerinde orantılı olarak siz de pay kazanabilirsiniz. </p>
 <p>DOT'larınız bir Doğrulayıcı atayarak stake edildikleri süre boyunca bağlı kalırlar (kilitlenirler). Hesabınızda yeni DOT'lar alabilirsiniz, ancak bir Doğrulayıcı olarak hisseye giremez veya DOT'u hesabınızdan aktaramazsınız. Paranızı stake etmeyi durdurmak için istediğiniz zaman aday göstermeyi iptal edebilirsiniz. Bununla birlikte, Polkadot'ta bonoların bağlanmamış bir işlem yapıldıktan sonra tahvil edilen fonların aktarılabilmesi için 28 günlük bir bağlama süresi vardır. </p>
 <p>Staker'lar, her ikisi de daha ileri düzey kullanıcılar için daha uygun olabilecek Polkadot-JS kullanıcı arabirimini veya Komut Satırı Arabirimini kullanarak DOT belirteçlerini bağlayabilir ve bir Doğrulayıcı atayabilir. Alternatif olarak, stake'ler sizin için stake etme sürecini yönetecek bir değişim platformu kullanmayı daha uygun bulabilir, ancak ödüller doğrudan aday göstermekten daha düşük olabilir. </p>
-<h2 id="dot4">Polkadot'un Kurucuları Kimlerdir?</h2> 
+<h2 id="dot4">Polkadot'un Kurucuları Kimlerdir?</h2>
 <p>Web3 Vakfı'nın amiral gemisi olan Polkadot, <a href="https://kripto.istanbul/ethereum-nedir/" title="Ethereum ETH coin nedir?" target="_blank">Ethereum</a>'un orijinal kurucularından biri olan ve Ethereum Vakfı'nın eski CTO'su Gavin Wood tarafından kuruldu ve burada Ethereum'un Solidity programlama dilinin geliştirilmesine yardımcı oldu. Wood aynı zamanda Parity Technologies'in CEO'su ve Parity Ethereum'u geliştirmekten sorumlu blockchain altyapı firmasıdır. Bu, ağdaki en yaygın kullanılan Ethereum istemcilerinden biridir. Aynı zamanda Wood, hem Polkadot hem de Substrate geliştirme üzerinde aktif olarak çalışıyor. Wood'a, Polkadot'un kurucu ortağı Thiel Üyesi Robert Habermeier ve Web3 Vakfı'nın Teknoloji Direktörü Peter Czaban da katıldı. </p>
 <p>Orijinal teknik inceleme 2016'da yayınlandı ve bir yıl sonra 145 milyon dolarlık başarılı bir bağış toplamanın ardından, Polkadot nihayet Mayıs 2020'de ilk ana ağını kullanmaya başladı. Bu ilk Yetki Kanıtı (PoA) aşamasında, doğrulayıcılar fikir birliğine katılmak için ağa katılmaya başlarken Web3 Vakfı olan ağın yönetimi tarafından yönetildi. Polkadot'un ağ üzerinde büyük bir merkezi olmayan Doğrulayıcı setine sahip olmasıyla birlikte, ikinci Aday Gösterilmiş Kanıt (NPoS) aşaması Haziran ayında başlatıldı. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/polkadot-3.jpg">
-  <img src="/assets/img/posts-img/dot/polkadot3.png" alt="dot coin yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/arizona.webp">
+  <img src="/assets/img/posts-img/dot/dot-coin-yorum.webp" alt="dot coin yorum" style="width:auto;">
 </picture>
 <h2 id="dot5">Polkadot Ağını Kim Yönetiyor?</h2>
 <p>Haziran ayından bu zamana kadar, yönetim DOT token sahiplerine geçti ve artık ilk eylem DOT değişim listelerine ve cüzdan desteğine izin veren merkezi bir varlığın kontrolü altında değildi. DOT jetonunun yeniden değerlendirilmesi daha sonra 1: 100 oranında gerçekleşti ve DOT'un ilk kez piyasa değerine göre ilk on kripto para birimine ulaştığını gören etkileyici bir yükselişle aynı zamana denk geldi. </p>
@@ -69,23 +69,23 @@ paginate: true
 <p>Polkadot ayrıca, açık bir şekilde tanımlanmış topluluk yönetimi ve otomatik yükseltmelerle izole edilmiş bir blok zinciri ağını diğerine tercih etmek zorunda kalmadan, Ethereum gibi mevcut platformlarla uyumluluk sağlayarak projeler için sürtünmeyi ortadan kaldırır. Polkadot, Substrate blockchain çerçevesi ile oluşturulduğundan, Substrate kullanan diğer projeler Polkadot'ta yerel olarak çalışan özel zincirleri hızlı ve kolay bir şekilde dağıtabilir. Bu, ağda konuşlandırmaya hazır olmadan önce çerçeveyi kullanarak bir blok zinciri üzerinde çalışmaya başlayabileceğiniz anlamına gelir. </p>
 <p>Polkadot'un potansiyeli, bazen “Ethereum katili” olmaktan ya da mevcut blok zincirlerine karşı rekabet etmekten ziyade onları tamamlamada yatmaktadır. Bu, akıllı sözleşmeler, merkezi olmayan finans (defi), oracle'lar, dijital koleksiyonlar (NFT'ler), oyunlar ve özellikle Chainlink ve 0x Protokolü dahil olmak üzere diğer çözümleri geliştirerek ekosistemindeki 350'den fazla proje tarafından zaten tanınan bir şeydir. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/polkadot-4.jpg">
-  <img src="/assets/img/posts-img/dot/polkadot4.jpg" alt="dot kaç tl" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/dot-kac-tl.webp">
+  <img src="/assets/img/posts-img/dot/polkadot-coin-yorum.webp" alt="dot kaç tl" style="width:auto;">
 </picture>
 <p>Polkadot kendi başına akıllı bir sözleşme platformu değildir. Bunun yerine, merkezi olmayan uygulama (dApp) geliştiricilerinin akıllı sözleşmeleri geniş kapsamlı işlevsellikten oluşan bir ağ üzerinden entegre etmeleri için altyapı sağlar ve sonuç olarak büyük protokollerin aktif geliştiricilerinde en büyük artışa tanık olur. </p>
 <h3 id="dot7">Polkadot Neden Değerlidir?</h3>
 <p>Polkadot şu anda önde gelen stake platformlarından biridir ve 20 milyar doların üzerinde stake değeri ile yıllık% 13'ün üzerinde tahmini ödüller sunmaktadır. 30 milyar doların üzerinde bir piyasa değerine sahip ve uygun tokenlerin% 50'den fazlası stake edilmiş durumda. </p>
 <p>Kullanıcılar, DOT'u stake ederek, enflasyon oranını sadece elde tutmaya kıyasla dengeleyebilir ve herhangi bir sermaye değerine ek olarak yatırımlarından yıllık bir getiri sağlayabilir. DOT ayrıca katılımcılara, stake ettikleri DOT miktarıyla orantılı olarak ağ yükseltmeleri ve gelecekteki özellik setleri için oylama olanağı sağlar. </p>
 <p>Polkadot’un ölçeklenebilirliği, birlikte çalışabilirliği ve zincirler arası işlevselliği, Acala’nın zincirler arası tanım merkezi ve stabilcoin platformu dahil olmak üzere birçok projeyi şimdiden çekmiştir; Moonbeam’in akıllı sözleşme Parachain'i, geliştiricilerin Polkadot üzerindeki mevcut Ethereum dApp'larını kullanmalarına olanak tanıyor; Chainlink’in oracle teknolojisi ve Polkastarter’ın merkezi olmayan değişim platformu, Polkadot ekosistemine giderek artan sayıda kullanım senaryosunda sunuluyor. Bu, zaman içinde Polkadot Parachain'leri kurmak, güvenceye almak veya onlarla etkileşim kurmak için gereken ağın değerine ve faydasına ve DOT tokenlerine katkıda bulunur. </p>
-<h3 id="dot8">Dolaşımda Kaç Polkadot (DOT) Jetonu Var?</h3> 
+<h3 id="dot8">Dolaşımda Kaç Polkadot (DOT) Jetonu Var?</h3>
 <p>DOT, 2020'deki topluluk yönetişim oylamasını takiben, küçük ondalık sayılardan kaçınarak ve hesaplamaları kolaylaştırarak, başlangıçtaki 10 milyon jetondan 1: 100 oranında yeniden aday olmak için yaklaşık 1 milyar jetonluk mevcut bir arza sahiptir. Polkadot'un enflasyonist para politikası nedeniyle, token sayısının yıllık% 10 artması bekleniyor; Validator ödülleri stake oranına bağlı olarak ve geri kalanı, stake etmeye katılım teşvikini dinamik olarak ayarlamak için işlem ücretlerinin yanı sıra ağ hazinesine gidiyor. </p>
 <h3 id="dot9">Polkadot Blok Zinciri Nasıldır?</h3>
 <p>Polkadot’un mimarisi Parachains, Parathreads ve Bridges’i birbirine bağlayan merkezi bir Relay Chain tarafından koordine edilmektedir. </p>
 <p>Aktarma Zinciri, mutabakatı, güvenliği ve zincirler arası birlikte çalışabilirliği yöneten Polkadot'un "0 katmanı" dır. Yönetim mekanizmaları, Parachain slot açık artırmaları ve kiralamaları ve stake etme süreci dahil olmak üzere nispeten az sayıda işlem türünü yönetir. Relay Chain, sistemi bir bütün olarak merkezi veya temel katman olarak koordine ederken, farklı uygulamalarla daha spesifik özellikleri Parachainlere devrederek, bilinçli olarak minimum işlevselliğe sahiptir. </p>
 <p>Parachain'ler, merkezi Relay Chain hub'ına bağlanan, Polkadot mimarisindeki özel kırıklardır. Bu parçalar, işlemlerin paralel olarak işlenmesine, ölçeklenebilirlik sorunlarının çözülmesine ve ağdaki hesaplamaların çoğunun işlenmesine olanak tanır. Parachain'ler genellikle belirli kullanım durumları için optimize edilmiş blok zincirleridir. Aktarma Zincirine özel bağlantı yuvaları kiralarlar, bu daha sonra Parachain'leri ekosistemde fikir birliği sağlamak, tüm ağın güvenliğini paylaşmak ve Zincirler Arası Mesaj Ayrıştırma (XCMP) kullanarak diğer Parachain'lerle iletişim kurmak için doğrular. </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/polkadot-5.png">
-  <img src="/assets/img/posts-img/dot/polkadot5.png" alt="dot coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dot/dotcoin.webp">
+  <img src="/assets/img/posts-img/dot/dot-try.webp" alt="dot coin nedir" style="width:auto;">
 </picture>
 <p>Parathread'ler, ağa bloklar halinde geçici olarak katılan Parachain'lere bir alternatif sağlar. Bu, protokollerin Polkadot'un güvenliğine, özel bir yuva kiralamanın zaman ve maliyet taahhüdü olmaksızın erişmesine olanak tanır. Ağın daha da ölçeklenmesine yardımcı olarak bir Parachain yuvasının kıt kaynağının gerektiğinde rakip Parathread'ler arasında paylaşılmasına izin verir. </p>
 <p>Köprüler, ölçeklenebilirliği ve birlikte çalışabilirliği daha da genişleterek, Polkadot ekosistemi ile uyumluluğu mümkün kılar ve Parachain'lerin harici blok zincirlerle güvenilir bir şekilde iletişim kurmasına olanak tanır. </p>
@@ -95,7 +95,7 @@ paginate: true
 <p>Konsey, DOT token sahipleri tarafından seçilen ve hem değişiklikleri teklif etmekten hem de hangi değişikliklerin yapılacağını belirlemekten sorumlu olan zincir üzerinde bir kuruluştur. Ayrıca, toplanan ağ ücretlerinden geliştirme hazinesini yönetir ve ekosistemdeki pasif DOT sahipleri için temsil sağlar. Konsey üye önerileri, onay için sıradan DOT sahiplerine göre daha az oy gerektirir. </p>
 <p>Teknik Komite, Polkadot ağını oluşturan geliştirme ekiplerinden oluşur. Konsey ile birlikte acil bir durumda hızlı bir şekilde yürürlüğe girme süreleri ile özel önerilerde bulunabilir ve Konsey üyeleri tarafından seçilir. Bir teklif ister kamusal DOT sahipleri tarafından ister Konsey tarafından yapılmış olsun, tüm DOT sahiplerinin nihai kararı vermesine izin vermek için bir referanduma gitmesi gerekecektir. </p>
 <p>Polkadot hakkında daha detaylı teknik bilgi için <a href="https://polkadot.network/PolkaDotPaper.pdf">buradan</a> whitepaper'ına ulaşabilirsiniz</p>
-<h3 id="dot11">Polkadot Ağı Nasıl Güvende Tutulur?</h3> 
+<h3 id="dot11">Polkadot Ağı Nasıl Güvende Tutulur?</h3>
 <p>Polkadot, zincir güvenliğini en üst düzeye çıkarmak için Doğrulayıcılar, Harmanlayıcılar, Balıkçılar ve Adayların rolleriyle tasarlanan fikir birliği mekanizması olarak NPoS (Aday Gösterilmiş Kanıt) kullanır. </p>
 <p>Doğrulayıcılar, doğrulama düğümlerini çalıştırmak ve Aktarma Zincirinin tam doğrulamasını gerçekleştirmek için DOT'u stake ederek ağı güvence altına alır. Ayrıca, Parachain'leri doğrularlar ve diğer Doğrulayıcılar ile ağın gerçek paylaşılan durumu üzerinde anlaşmaya varmak için mutabakata katılarak geçersiz işlemleri reddederler. Relay Chain'e yeni bloklar eklerler ve buna bağlı olarak güvenliğini paylaşan tüm Parachain'ler karşılığında teşvik ödülleri alırlar. </p>
 <p>Polkadot ağı, hisselerine bakılmaksızın tüm Doğrulayıcılara eşit şekilde doğrulama ödülleri sağlar. Stake etme ödülleri daha sonra Doğrulayıcı ödemesi düşüldükten sonra tüm stake sahiplerine orantılı olarak dağıtılır ve bu da daha eşit derecede hisseli bir Doğrulayıcı grubunu teşvik eder. </p>
