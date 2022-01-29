@@ -31,13 +31,13 @@ paginate: true
 		</ul>
 	<li style="padding: 2px;"><a href="#bnb14">Binance Coin SSS</a></li>
 </ol>
-	
+
 <h1 id="bnb1">BNB (Binance Coin) Nedir?</h1>
 <blockquote cite="https://www.binance.com/tr/bnb">BNB, Binance ekosistemine güç veren kripto paradır. Dünyanın en popüler hizmet tokenlerinden biri olan BNB'nin, diğer kripto paralar gibi alım satım imkanının yanı sıra çeşitli kullanım alanları ve avantajları da vardır.</blockquote>
 <p>BNB ile gösterilen Binance Coin, ERC20 token standardı kullanılarak Ethereum blok zinciri üzerine inşa edilen Binance kripto para borsasının yerel bir madeni parasıdır. Binance yaptığı açıklamaya göre maksimum 200 milyon BNB token çıkaracak. Binance Coin'in birincil amacı, tüccarlara ve kripto para meraklılarına kolaylık ve uygun fiyat sağlarken değişim işlemlerini beslemektir.</p>
 <p>BNB, Temmuz 2017'de melek yatırımcılar için 20 milyon BNB token, projeye katkıda bulunanlar için 80 milyon ve ICO'ya katılan birkaç kişi için kalan 100 milyon BNB token koyan bir İlk Para Teklifi (ICO) aracılığıyla başlatıldı. BNB tokenleri satılarak elde edilen fonlar, değişim geliştirme, markalaşma ve pazarlama için kullanıldı. Yatırımın bir yüzdesi de Binance kripto para borsasına gerekli yükseltmeleri eklemek için harcandı. </p>
 <p>Beşinci yıla kadar, jetonun değerini etkileyecek herhangi bir indirim olmayacak. Değerin kullanımdan kaldırılmasına karşı koymak için Binance, tokenleri geri satın alıyor ve arzı azaltmak için onları yok ediyor. Kripto para birimi değişimi dengeleyebilmek için dolaşımdaki tokenlerin yarısını ortadan kaldırmayı planlıyor. </p>
-<h2 id="bnb2">Binance Coin Gerçek Para Mıdır?</h2> 
+<h2 id="bnb2">Binance Coin Gerçek Para Mıdır?</h2>
 <p>BNB'nin temel amacı, kripto para borsası işlemlerini desteklemek ve Binance ekosistemini güçlendirmektir. Şu anda, token ticaret indirimleri için de kullanılabilir. Ancak, önümüzdeki birkaç yıl içinde bu promosyon artık olmayacak. Seyahat ve ağırlama hizmetleri için ödeme yapmak için kullanılabilir, ancak şu ana kadar geçerli bir para birimi olarak kabulü düşüktür. En azından henüz gerçek para olarak kabul edilmemesinin nedeni budur. </p>
 <p>Binance Exchange, tokeni yıllarca ayakta tutabilecek çok sayıda finansal ve stratejik desteğe sahiptir. Bu, baskın alternatif para birimlerinin görünümünün önümüzdeki yıllarda değişebileceği anlamına geliyor. Her ay milyarlarca dolar kripto işlemi gerçekleştiren bir borsa tarafından desteklenen bir tokene karşı bahis oynamak akıllıca bir fikir olmayacaktır. </p>
 <p>Şu anda, BNB geçerli bir para birimi ikamesi değildir; hatta piyasa kabulü açısından Bitcoin veya Ripple'a yakın bile değil. Ticaret veya başka bir amaç için yüksek likidite arıyorsanız, başka bir dijital para birimi almak isteyebilirsiniz. </p>
@@ -46,13 +46,13 @@ paginate: true
   <img src="/assets/img/posts-img/bnb/bnb1.jpg" alt="bnb coin" style="width:auto;">
 </picture>
 <h2 id="bnb3">Binance Coin Nasıl Çalışır ve Nasıl Bir Teknolojiyle Oluşturulmuştur?<h2>
-<p>BNB, Ethereum blok zinciri üzerine inşa edilmiştir ve değeri depolayabilen ve tutabilen ERC20 jetonlarını kullanır. Ancak, önceden yayınlanmış ve ICO aracılığıyla dağıtılmış oldukları için jetonları madencilik yapamazsınız. Dolaşımdaki jetonlar, Binance Borsasında indirimli alım satım için kullanılır. İskonto oranı ilk yıl% 50'den başladı, ancak her yıl yarıya indirilmesi planlanıyor. </p> 
-<h2 id="bnb4">Binance Coin Madenciliği Var Mıdır?</h2> 
+<p>BNB, Ethereum blok zinciri üzerine inşa edilmiştir ve değeri depolayabilen ve tutabilen ERC20 jetonlarını kullanır. Ancak, önceden yayınlanmış ve ICO aracılığıyla dağıtılmış oldukları için jetonları madencilik yapamazsınız. Dolaşımdaki jetonlar, Binance Borsasında indirimli alım satım için kullanılır. İskonto oranı ilk yıl% 50'den başladı, ancak her yıl yarıya indirilmesi planlanıyor. </p>
+<h2 id="bnb4">Binance Coin Madenciliği Var Mıdır?</h2>
 <p>Binance Coin, kullanılmak üzere 200 milyon BNB jetonu çıkarıldığı için önceden çıkarıldı. Temmuz 2017'de şirket, toplam token arzını tahsis ettikten sonra İlk Para Teklifini (ICO) düzenledi. Tüm jetonlar zaten dolaşımda olduğundan, çıkarılacak daha fazla token yoktur. </p>
 <ul>
-	<li>ICO katılımcıları için% 50 veya 100 milyon</li> 
-	<li>BNB jetonu Kurucu ekip için% 40 veya 80 milyon BNB coin</li> 
-	<li>Melek yatırımcılar için% 10 veya 20 milyon BNB coin</li> 
+	<li>ICO katılımcıları için% 50 veya 100 milyon</li>
+	<li>BNB jetonu Kurucu ekip için% 40 veya 80 milyon BNB coin</li>
+	<li>Melek yatırımcılar için% 10 veya 20 milyon BNB coin</li>
 </ul>
 <p>Ticaret ücreti indirimi her yıl azaldıkça değeri korumak için Binance, arzı sınırlandırmak için tokenleri yakıyor. Şimdiye kadar, altı aşamada yaklaşık 10 milyon BNB token imha edildi. </p>
 <h3 id="bnb5">Binance Coin Neden İcat Edildi?</h3>
@@ -70,18 +70,18 @@ paginate: true
 <p>Dahası, BNB kullanan herhangi bir dijital aktivite, Binance'in kendisi, hükümet ve herhangi bir yetkili bilgisayar korsanı tarafından izlenebilir. Gerçek şu ki, geride dijital bir ayak izi bırakıyorsanız, sizi bulmak isteyen insanların sizi bulma şansı her zaman vardır. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/bnb-3.jpg">
-  <img src="/assets/img/posts-img/bnb/bnb3.jpg" class="lazyload" alt="bnb coin kaç dolar" style="width:auto;">
+  <img src="/assets/img/posts-img/bnb/bnb3.jpg" alt="bnb coin kaç dolar" style="width:auto;">
 </picture>
-<h3 id="bnb8">Binance Coin'in Faydaları Nelerdir?</h3> 
+<h3 id="bnb8">Binance Coin'in Faydaları Nelerdir?</h3>
 <h4 id="bnb9">Hızlı İşlem</h4>
-<p>Borsada işlem yapmak için BNB kullanıyorsanız, platformun her saniyede 1,4 milyona kadar siparişi destekleyebilen tescilli eşleştirme motoruna erişebileceksiniz. Her zaman doğru ticareti bulabilirsiniz ve BNB kullanmak bunu daha da hızlı ve güvenilir kılar.</p> 
+<p>Borsada işlem yapmak için BNB kullanıyorsanız, platformun her saniyede 1,4 milyona kadar siparişi destekleyebilen tescilli eşleştirme motoruna erişebileceksiniz. Her zaman doğru ticareti bulabilirsiniz ve BNB kullanmak bunu daha da hızlı ve güvenilir kılar.</p>
 <h4 id="bnb10">Güvenlik</h4>
 <p>Binance'in halihazırda platforma güvenen ve borsanın güvenlik ve koruma özelliklerine güvenen milyonlarca kripto para birimi kullanıcısı ve tüccarı var. Değişim, fonlarınızı güvende tutmak için çok kümeli ve çok katmanlı bir sistem çerçevesi ve Kullanıcılar için Güvenli Varlıklar Fonu (SAFU) kullanır. </p>
-<h4 id="bnb11">Çoklu Kripto Para Birimi Ticareti</h4> 
+<h4 id="bnb11">Çoklu Kripto Para Birimi Ticareti</h4>
 <p>BNB'yi kullanarak, hızlı, güvenli ve uygun fiyatlı bir ticaret eşleştirme sistemine güvenerek borsada 150'den fazla kripto para birimi ticareti yapabilirsiniz. Bunun dışında, BNB ayrıca özel alım satım gereksinimlerinizi karşılamak için kendi alım satım çiftlerini de alır. Başka hiçbir yere bakmanıza gerek yok. </p>
-<h4 id="bnb12">Ticaret İndirimi</h4> 
+<h4 id="bnb12">Ticaret İndirimi</h4>
 <p>BNB ayrıca işlem ücretinde %50 indirim almanıza izin verir. 10.000$ değerinde token satın alıyorsanız, geleneksel ödeme modları ile 10$ ücretlendirileceksiniz. Ancak, BNB kullanırsanız, işlem ücreti yarı yarıya azalır, yani yalnızca 5$ ödemeniz gerekir. </p>
-<h4 id="bnb13">ICO'lara/IEO'lara Katılım</h4> 
+<h4 id="bnb13">ICO'lara/IEO'lara Katılım</h4>
 <p>Binance Launchpad ayrıca yeni ve yaklaşan bir para biriminde hisse satın almak için BNB tokenlerinizi kullanabileceğiniz yeni token satışlarına da ev sahipliği yapıyor. Daha sonra, bu yeni dijital para birimleri, bunları takas edebileceğiniz ve eksiksiz ve sorunsuz bir deneyim sunabileceğiniz Binance borsasına eklenir. </p>
 <h2 id="bnb14">Binance Coin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
