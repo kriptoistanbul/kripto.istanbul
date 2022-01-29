@@ -32,7 +32,7 @@ paginate: true
 <p>Coinbase'de eski bir Google çalışanı ve mühendislik direktörü olan Charlie Lee, Litecoin'i 2011'de piyasaya sürdü. Karşılaştırmak gerekirse, Bitcoin, Satoshi Nakamoto adlı bilinmeyen bir kişi veya bir grup kişi tarafından 2009 yılında yaratıldı. Lee, Litecoin'leri orijinal kripto para birimine bir iltifat olarak tasarladı, bir ikame veya hatta bir rakip olmak için değil. Bu nedenle bazen "Bitcoin'in küçük kardeşi" olarak anılır. Lee, Bitcoin'in "altınına" "gümüş" yaratmak istediğini söyledi. Litecoin 2,5 dakikada bloklar oluşturabildiğinden (Bitcoin 10 dakikada bu işlemi gerçekleştirir), işlem süresi de daha hızlıdır. Bu nedenle, Litecoin genellikle Bitcoin'in "daha hafif" ve daha hızlı bir versiyonu olarak kabul edilir. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/ltc/ltc-litecoin-yorum-2022.webp">
-  <img src="/assets/img/posts-img/ltc/ltc2.jpg" alt="litecoin riskli mi" style="width:auto;">
+  <img src="/assets/img/posts-img/ltc/ltc-yorum.webp" alt="litecoin riskli mi" style="width:auto;">
 </picture>
 <h3 id="ltc4">Litecoin (LTC) Ne İçin Kullanılır?</h3>
 <p>Litecoin kendisini “blok zinciri teknolojisine dayalı ödemeler için bir kripto para birimi” olarak tanıtır. Birincil odak noktası, bir banka veya başka bir üçüncü taraf aracısı olmadan ödemelerin işlem görmesi için bir araç olarak hareket etmektir. </p>
