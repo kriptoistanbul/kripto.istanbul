@@ -95,6 +95,21 @@ Chainlink Ağının Güvenliği Nasıl Sağlanır?
 <p>LINK, Chainlink oracle ağındaki hizmetler için ödeme yapmak için kullanılan ERC-20 belirtecidir. Esasen Chainlink'in mimarisine güç verir. Sözleşme sahipleri, gerekli verileri sağlayarak çalışmaları için düğüm operatörlerine ödeme yapmak için LINK'i kullanır. Fiyatlar, sağlayabilecekleri verilere yönelik talebe ve bu veriler için mevcut pazara bağlı olarak Chainlink düğüm operatörü tarafından belirlenir. </p>
 <p>Chainlink düğüm operatörleri, ağdaki payları olarak LINK'i de kullanır - düğüm operatörleri, ağa olan bağlılıklarını göstermek ve iyi hizmeti teşvik etmek için LINK'i yatırırken, aynı zamanda kötü niyetli veya yanlış hizmet için cezalandırılmalarını sağlar (stake edilmiş LINK'i kaybetme şeklinde). </p>
 <p>Chainlink İtibar Sözleşmesi, bir sözleşmeyi yerine getirmek için veri alışverişi yaparken bir düğümün LINK hissesinin boyutunu (diğer faktörlerle birlikte) kullanır. Daha fazla hisseye sahip düğümlerin istekleri yerine getirmek için seçilme olasılığı daha yüksektir (hizmetleri için LINK jetonları kazanma olasılığı). </p>
+<html itemscope itemprop="VideoObject" itemtype="https://schema.org/VideoObject">
+<head>
+  <title itemprop="name">Chainlink nedir?</title>
+</head>
+<body>
+  <meta itemprop="uploadDate" content="2022-01-25T08:00:00+08:00" />
+  <meta itemprop="duration" content="PT1M54S" />
+  <p itemprop="description">Chainlink resmi Youtube kanalında yayınlanan bu videoda Chainlink hakkında temel bilgiler mevcuttur.</p>
+  <div itemprop="interactionStatistic" itemtype="https://schema.org/InteractionCounter" itemscope>
+    <meta itemprop="userInteractionCount" content="5647018" />
+    <meta itemprop="interactionType" itemtype="https://schema.org/WatchAction" />
+  </div>
+  <link itemprop="embedUrl" href="https://www.youtube.com/embed/tIUHQ7sDoaU" />
+</body>
+</html>
 <h4 id="link9">Chainlink Cüzdanı Nasıl Seçilir?</h4>
 <p>Seçtiğiniz Chainlink (LINK) cüzdan türü, büyük olasılıkla onu ne için kullanmak istediğinize ve ne kadar saklamanız gerektiğine bağlı olacaktır. </p>
 <p>Donanım cüzdanları veya soğuk cüzdanlar, çevrimdışı depolama ve yedekleme ile en güvenli seçeneği sunar. Ledger şu anda LINK için önerilen tek donanım cüzdanı seçeneğidir - Trezor, LINK depolaması sunar ancak beta sürümündedir. Donanım cüzdanları biraz daha fazla öğrenme eğrisi içerebilir ve daha pahalı bir seçenektir. Bu nedenle, daha deneyimli kullanıcılar için daha büyük miktarlarda LINK depolamak için daha uygun olabilirler. </p>
