@@ -209,55 +209,61 @@ paginate: true
         </div>
     </div>
 </div>
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "HowTo",
-  "name": "Nasıl algo alınır",
-  "description": "4 adımda nasıl ve nereden algo alınır",
-  "image": "src/img/icons/algo.png",
-  "totalTime": "PT4M",
-  "supply": [
-    {
-      "@type": "HowToSupply",
-      "name": "Algorand"
-    }
-  ],
-  "tool": [
-    {
-      "@type": "HowToTool",
-      "name": "Kripto para borsası"
-    }
-  ],
-  "step": [
-    {
-      "@type": "HowToStep",
-      "name": "Kripto borsalarını karşılaştırın",
-      "text": "Algorand satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıda bulunan tablodan ALGO satılan borsaları görüntüleyebilirsiniz. Karşılaştırma yaparken, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi kriterleri dikkate almalısınız.",
-      "image": "src/img/icons/kripto borsalarını karşılaştır.png",
-      "url": ""
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Bir hesap oluşturun",
-      "text": "Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun.",
-      "image": "src/img/icons/hesap aç.png",
-      "url": ""
-    },
-    {
-      "@type": "HowToStep",
-      "name": "Para yatır",
-      "text": "Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak para yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir.",
-      "image": "src/img/icons/para yatır.png",
-      "url": ""
-    },
-    {
-      "@type": "HowToStep",
-      "name": "ALGO satın al",
-      "text": "Artık paranızı Algorand ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz şimdi Algorand'ınızı kişisel cüzdanınıza çekebilirsiniz.",
-      "image": "src/img/icons/algo.png",
-      "url": ""
-    }
-  ]
-}
-</script>
+<body>
+<div itemscope itemtype="https://schema.org/HowTo">
+  <b><span itemprop="name">Nasıl algo alınır</span></b>
+  <div>0 <span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
+    <meta itemprop="currency" content="USD"/>
+    <meta itemprop="value" content="0"/>
+    $0
+  </span>
+  </div>
+  <div>About <span itemprop="totalTime" content="P2D">5 dakika</span></div>
+  <div>Ne gerekli</div>
+  <div itemprop="supply" itemscope itemtype="https://schema.org/HowToSupply">
+    <a itemprop="url" href="https://example.com/supplies?id=1">
+      <span itemprop="name">Kimlik</span>
+    </a>
+    <img alt="Algo nasıl alınır" itemprop="image" src="https://kripto.istanbul/assets/img/algo.png"/>
+  </div>
+  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
+    <div itemprop="name">Kripto borsalarını karşılaştırın</div>
+    <img itemprop="image" alt="Kripto borsalarını karşılaştırın"
+         src="https://kripto.istanbul/assets/img/kripto-borsalarini-karsilastir.png"/>
+    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text">Algorand satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıda bulunan tablodan ALGO satılan borsaları görüntüleyebilirsiniz. Karşılaştırma yaparken, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi kriterleri dikkate almalısınız.
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
+    <div itemprop="name">Bir hesap oluşturun</div>
+    <img itemprop="image" alt="hesap aç"
+           src="https://kripto.istanbul/assets/img/hesap-ac.png"/>
+    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text">Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun.
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
+    <div itemprop="name">Para yatır</div>
+    <img itemprop="image" alt="Para yatır"
+         src="https://kripto.istanbul/assets/img/para-yatir.png"/>
+    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text">Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak para yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir.
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://example.com/example#step4" />
+    <div itemprop="name">ALGO satın al</div>
+    <img itemprop="image" alt="ALGO satın al"
+         src="https://kripto.istanbul/assets/img/algo.png"/>
+    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text">Artık paranızı Algorand ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz şimdi Algorand'ınızı kişisel cüzdanınıza çekebilirsiniz.
+      </div>
+    </div>
+  </div>
+</div>
