@@ -209,7 +209,6 @@ paginate: true
         </div>
     </div>
 </div>
-<body>
 <div itemscope itemtype="https://schema.org/HowTo">
   <b><span itemprop="name">Nasıl algo alınır</span></b>
   <div>Tahmini Maliyet <span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
