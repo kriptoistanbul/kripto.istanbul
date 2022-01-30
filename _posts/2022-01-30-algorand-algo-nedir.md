@@ -18,20 +18,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#2">PPoS Altında Algorand Blok Üretimi</a></li>
 	<li style="padding: 2px;"><a href="#3">Algorand’ın Yerel Kripto Para Birimi: ALGO</a></li>
 	<li style="padding: 2px;"><a href="#4">Algorand Vakfı</li>
-	<li style="padding: 2px;"><a href="#5">Bitcoin Mantığı Nedir?</a></li>
-	<li style="padding: 2px;"><a href="#6">Eşler Arası Teknoloji Nedir?</a></li>
-	<li style="padding: 2px;"><a href="#7">Bitcoin'in Tarihçesi</a></li>
-	<li style="padding: 2px;"><a href="#8">Bir Ödeme Şekli Olarak Bitcoin Kullanılabilir Mi?</a></li>
-	<li style="padding: 2px;"><a href="#9">Bitcoin'in Sağladığı İş İmkanları Var Mıdır?</a></li>
-	<li style="padding: 2px;"><a href="#10">Bitcoin Riskli Mi?</a></li>
-		<ul style="margin: 0;">
-			<li style="padding: 2px;"><a href="#11">Düzenleyici Riskleri</a></li>
-			<li style="padding: 2px;"><a href="#12">Güvenlik Riski</a></li>
-			<li style="padding: 2px;"><a href="#13">Sigorta Riski</a></li>
-			<li style="padding: 2px;"><a href="#14">Dolandırıcılık Riski</a></li>
-			<li style="padding: 2px;"><a href="#15">Market Riski</a></li>
-		</ul>
-	<li style="padding: 2px;"><a href="#16">Bitcoin SSS</a></li>
+	<li style="padding: 2px;"><a href="#5">Algo Coin Hakkında Sıkça Sorulan Sorular</a></li>
 </ol>
 
 <h1 id="1">Algorand (ALGO) Nedir?</h1>
