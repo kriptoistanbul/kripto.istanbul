@@ -19,7 +19,6 @@ paginate: true
 	<li style="padding: 2px;"><a href="#3">Algorand’ın Yerel Kripto Para Birimi: ALGO</a></li>
 	<li style="padding: 2px;"><a href="#4">Algorand Vakfı</a></li>
 	<li style="padding: 2px;"><a href="#5">Algo Coin Hakkında Sıkça Sorulan Sorular</a></li>
-	<li style="padding: 2px;"><a href="#6">Nasıl algo alınır</a></li>
 </ol>
 
 <h1 id="1">Algorand (ALGO) Nedir?</h1>
@@ -212,7 +211,7 @@ paginate: true
 </div>
 <body>
 <div itemscope itemtype="https://schema.org/HowTo">
-  <b><span itemprop="name"><h4 id:"6">Nasıl algo alınır</h4></span></b>
+  <b><span itemprop="name">Nasıl algo alınır</span></b>
   <div>Tahmini Maliyet <span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
     <meta itemprop="currency" content="USD"/>
     <meta itemprop="value" content="0"/>
