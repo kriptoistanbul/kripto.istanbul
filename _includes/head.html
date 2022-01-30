@@ -101,7 +101,6 @@
     <script>
         document.querySelector('html').classList.remove('no-js');
     </script>
-    <head>
   <meta http-equiv="..." content="...">
   <meta name="..." content="...">
   <script type="application/ld+json">{
@@ -136,5 +135,7 @@
     {% else %}
         {{ page.title }}
     {% endif %} | {{ site.title }}</title>
-</head>
+    {% if page.noindex %}
+      <meta name="robots" content="noindex">
+    {% endif %}
 </head>
