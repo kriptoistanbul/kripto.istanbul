@@ -19,7 +19,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#3">Algorand’ın Yerel Kripto Para Birimi: ALGO</a></li>
 	<li style="padding: 2px;"><a href="#4">Algorand Vakfı</li>
 	<li style="padding: 2px;"><a href="#5">Algo Coin Hakkında Sıkça Sorulan Sorular</a></li>
-</ol>
+
 
 <h1 id="1">Algorand (ALGO) Nedir?</h1>
   <blockquote cite="https://www.kraken.com/learn/what-is-algorand-algo">Algorand, işlemlerin hızlarını arttırarak, işlem sürelerini kısaltmayı hedefleyen bir dizi yeni projeden biridir.2019'da resmi olarak piyasaya sürülen Algorand, kripto para birimlerinin geleneksel olarak tasarlanma biçiminden sapan kararlarla bu özelliklere ulaşmayı hedefliyor. En dikkate değer olanı, Algorand'ın ekonomisine kattığı ALGO kripto para birimini her yeni blokta cüzdanlarında belirli bir miktarda para birimi olan herkese dağıtmasıdır. Algorand ayrıca kullanıcıların akıllı sözleşmeler (merkezi olmayan uygulamalar oluşturmak için programatik anlaşmalar) ve hem yeni hem de mevcut varlıkları temsil edebilen tokenler oluşturmasına olanak tanır. Bu özellikler, platformun gelişimini finanse etmek için yürütülen ALGO'nun erken özel satışlarına çeşitli girişim yatırımcılarını çekmede başarılı oldu.</blockquote>  
@@ -218,17 +218,15 @@ paginate: true
     $0
   </span>
   </div>
-  <div>About <span itemprop="totalTime" content="P2D">5 dakika</span></div>
+  <div>Yaklaşık <span itemprop="totalTime" content="P2D">5 dakika</span></div>
   <div>Ne gerekli</div>
   <div itemprop="supply" itemscope itemtype="https://schema.org/HowToSupply">
-    <a itemprop="url" href="https://example.com/supplies?id=1">
       <span itemprop="name">Kimlik</span>
-    </a>
     <img alt="Algo nasıl alınır" itemprop="image" src="https://kripto.istanbul/assets/img/algo.png"/>
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
     <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name">Kripto borsalarını karşılaştırın</div>
+    <div itemprop="name"><b>Kripto borsalarını karşılaştırın</b></div>
     <img itemprop="image" alt="Kripto borsalarını karşılaştırın"
          src="https://kripto.istanbul/assets/img/kripto-borsalarini-karsilastir.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
@@ -237,8 +235,7 @@ paginate: true
     </div>
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name">Bir hesap oluşturun</div>
+    <div itemprop="name"><b>Bir hesap oluşturun</b></div>
     <img itemprop="image" alt="hesap aç"
            src="https://kripto.istanbul/assets/img/hesap-ac.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
@@ -247,8 +244,7 @@ paginate: true
     </div>
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name">Para yatır</div>
+    <div itemprop="name"><b>Para yatır</b></div>
     <img itemprop="image" alt="Para yatır"
          src="https://kripto.istanbul/assets/img/para-yatir.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
@@ -257,8 +253,7 @@ paginate: true
     </div>
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <link itemprop="url" href="https://example.com/example#step4" />
-    <div itemprop="name">ALGO satın al</div>
+    <div itemprop="name"><b>ALGO satın al</b></div>
     <img itemprop="image" alt="ALGO satın al"
          src="https://kripto.istanbul/assets/img/algo.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
