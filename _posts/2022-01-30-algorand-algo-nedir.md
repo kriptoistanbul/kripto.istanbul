@@ -236,7 +236,7 @@ paginate: true
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
     <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name">Kripto borsalarını karşılaştırın</div>
+    <div itemprop="name"><b>Kripto borsalarını karşılaştırın</b></div>
     <img itemprop="image" alt="kripto para borsası algo"
          src="https://kripto.istanbul/assets/img/kripto-borsalarini-karsilastir.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
@@ -266,7 +266,7 @@ paginate: true
   </div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
     <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name">ALGO satın al</div>
+    <div itemprop="name"><b>ALGO satın al</b></div>
     <img itemprop="image" alt="Algorand coin satın al"
          src="https://kripto.istanbul/assets/img/algo.png"/>
     <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
