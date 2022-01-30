@@ -3,7 +3,7 @@ date: 2021-08-13 14:26:40
 layout: post
 title: Uniswap -UNI- Nedir?
 subtitle: Uniswap Nedir? Merkeziyetsiz Borsa Nedir? Uniswap En İyi Merkeziyetsiz Borsa Mı?
-description: Uniswap ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Uniswap, likidite oluşturmak ve Ethereum'da ERC-20 token ticareti yapmak için bir protokoldür. Güvenilir aracıları ve gereksiz masraf çıkarma biçimlerini ortadan kaldırarak hızlı ve verimli ticarete olanak tanır.
 image: /assets/img/posts-img/uni/uniswap-coin-uni-coin-nedir.webp
 category: Kripto Paralar
 tags:

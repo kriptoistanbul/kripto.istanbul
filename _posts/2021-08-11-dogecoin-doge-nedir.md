@@ -3,7 +3,7 @@ date: 2021-08-11 15:26:40
 layout: post
 title: Dogecoin -DOGE- Nedir?
 subtitle: Dogecoin Nedir? Meme Coin Ne Demektir? Dogecoin Neden Bu Kadar Çok Yükseldi?
-description: Dogecoin ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Dogecoin, bir ödeme sistemi oluşturmaya karar veren yazılım mühendisleri Billy Markus ve Jackson Palmer tarafından şaka olarak üretilen kripto para birimidir.
 image: /assets/img/posts-img/doge/doge-dogecoin-nedir.webp
 category: Kripto Paralar
 tags:

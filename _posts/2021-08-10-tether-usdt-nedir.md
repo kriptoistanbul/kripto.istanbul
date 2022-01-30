@@ -3,7 +3,7 @@ date: 2021-08-10 14:26:40
 layout: post
 title: Tether -USDT- Nedir?
 subtitle: Tether Nedir? Stabil Coin Ne Demektir? Tether Dolar Mı?
-description: Tether ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: 2014 yılında piyasaya sürülen Tether, fiat para birimlerinin dijital bir şekilde kullanımını kolaylaştırmak için tasarlanmış blok zinciri etkin bir platformdur.
 image: /assets/img/posts-img/usdt/usdt-coin-tether-nedir.webp
 category: Kripto Paralar
 tags:

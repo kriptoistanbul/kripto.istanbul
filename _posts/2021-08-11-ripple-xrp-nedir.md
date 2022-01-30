@@ -3,7 +3,7 @@ date: 2021-08-11 13:26:40
 layout: post
 title: Ripple -XRP- Nedir?
 subtitle: Ripple Nedir? Ripple-SEC Davası Nedir? Ripple Neden Davalık Oldu?
-description: Ripple ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: XRP, ödemeler için oluşturulmuş dijital bir varlıktır. İşlemleri 3-5 saniyede halledebilen açık kaynaklı, izinsiz ve merkezi olmayan bir blok zinciri teknolojisi olan XRP Defterindeki yerel dijital varlıktır.
 image: /assets/img/posts-img/xrp/xrp-coin-ripple-coin-nedir.webp
 category: Kripto Paralar
 tags:

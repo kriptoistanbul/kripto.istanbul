@@ -3,7 +3,7 @@ date: 2021-10-11 12:26:40
 layout: post
 title: Litecoin -LTC- Nedir?
 subtitle: Litecoin Nedir? Bitcoin'in Kardeşi Litecoin'e Yatırım Yapmak Güvenli Mi?
-description: Litecoin ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Litecoin (LTC), dünyadaki herkese anında, sıfıra yakın maliyetle ödeme yapılmasını sağlayan eşler arası bir İnternet para birimidir.
 image: /assets/img/posts-img/ltc/ltc-lite-coin-nedir.webp
 category: Kripto Paralar
 tags:

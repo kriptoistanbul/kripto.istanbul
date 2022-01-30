@@ -3,7 +3,7 @@ date: 2021-09-15 11:00:40
 layout: post
 title: Terra -LUNA- Nedir?
 subtitle: Terra Blok Zinciri Nedir? Hakkında Çok Konuşulan Terra Yeni Bir Yıldız Olabilir Mi?
-description: Terra -LUNA- ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Terra (Luna), istikrarlı programlanabilir ödemeleri ve açık finansal altyapı geliştirmeyi destekleyen bir blok zinciri protokolüdür.
 image: /assets/img/posts-img/luna/luna-coin-nedir.webp
 category: Kripto Paralar
 tags:

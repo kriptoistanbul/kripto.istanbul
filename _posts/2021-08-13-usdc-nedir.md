@@ -3,7 +3,7 @@ date: 2021-09-07 22:26:40
 layout: post
 title: USD Coin -USDC- Nedir?
 subtitle: USD Coin Nedir? USD Coin Gerçek Dolar Mıdır?
-description: USDC ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: USD Coin (USDC), ABD dolarına sabitlenmiş nispeten taze bir stabilcoindir. 26 Eylül 2018'de Circle ve Coinbase işbirliği ile başlatılmıştır.
 image: /assets/img/posts-img/usdc/usdc-coin-nedir.webp
 category: Kripto Paralar
 tags:

@@ -3,7 +3,7 @@ date: 2021-08-12 12:26:40
 layout: post
 title: Polkadot -DOT- Nedir?
 subtitle: Polkadot Nedir? Neden Büyük Firmalar Polkadot'a Yatırım Yapıyor? Polkadot, Ethereum Katili Mi?
-description: Polkadot ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Polkadot, çeşitli blok zincirlerinin mesajlarını güvenden bağımsız bir şekilde iletmesine izin veren bir platformdur.
 image: /assets/img/posts-img/dot/dot-coin-polkadot-nedir.webp
 category: Kripto Paralar
 tags:

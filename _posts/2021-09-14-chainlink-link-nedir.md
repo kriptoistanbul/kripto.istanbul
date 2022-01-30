@@ -3,7 +3,7 @@ date: 2021-09-13 12:00:40
 layout: post
 title: Chainlink -LINK- Nedir?
 subtitle: Chainlink Nedir? Chainlink'in Oracle Teknolojisi Ne Gibi Yenilikler Sunuyor?
-description: Chainlink ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Chainlink merkezi olmayan oracle ağları, herhangi bir blok zincirinde gelişmiş akıllı sözleşmeleri desteklemek için kurcalamaya dayanıklı girdiler, çıktılar ve hesaplamalar sağlar.
 image: /assets/img/posts-img/link/chainlink-coin-link-coin-nedir.webp
 category: Kripto Paralar
 tags:

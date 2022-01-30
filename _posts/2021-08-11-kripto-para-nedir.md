@@ -3,7 +3,7 @@ date: 2021-08-12 12:26:40
 layout: post
 title: Kripto Para Nedir?
 subtitle: Kripto Para Nedir? Kripto Paralar Neden Önemli? Kripto Paralar Gerçek Bir Devrim Mi Yoksa Balon Mu?
-description: Kripto paralar ve teknolojileri hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Kripto para, finansal işlemleri yürütmek için kriptografik işlevleri kullanan İnternet tabanlı bir değişim aracıdır. Kripto para birimleri, merkeziyetsizlik, şeffaflık ve değişmezlik elde etmek için blok zinciri teknolojisinden yararlanır.
 image: /assets/img/posts-img/kp/kripto-para-ne-demek-bitcoin.webp
 category: Kripto Para Teknolojileri
 tags:

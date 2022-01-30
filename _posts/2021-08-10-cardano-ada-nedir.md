@@ -3,7 +3,7 @@ date: 2021-08-10 15:26:40
 layout: post
 title: Cardano -ADA- Nedir?
 subtitle: ADA Nedir? Neden Herkes ADA'yı Konuşuyor? ADA'nın Yükselişi Devam Eder Mi?
-description: Cardano ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: ADA bir dijital para birimidir. Kullanıcı, ADA'yı, üçüncü bir tarafın değişime aracılık etmesine gerek kalmadan, güvenli bir değer değişimi olarak kullanabilir.
 image: /assets/img/posts-img/ada/Cordano-Ada-Coin-nedir.webp
 category: Kripto Paralar
 tags:

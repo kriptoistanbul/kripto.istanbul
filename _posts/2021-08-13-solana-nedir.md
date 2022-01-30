@@ -3,7 +3,7 @@ date: 2021-08-13 13:26:40
 layout: post
 title: Solana -SOL- Nedir?
 subtitle: Solana Nedir? Solana Teknolojisini Diğerlerinden Ayıran Şey Nedir?
-description: Solana ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Solana, yeni, yüksek performanslı, izinsiz bir blok zinciri uygulayan açık kaynaklı bir projedir. Solana Vakfı, merkezi Cenevre, İsviçre'dedir ve açık kaynak projesini sürdürmektedir
 image: /assets/img/posts-img/sol/sol-coin-solana-coin-nedir.webp
 category: Kripto Paralar
 tags:

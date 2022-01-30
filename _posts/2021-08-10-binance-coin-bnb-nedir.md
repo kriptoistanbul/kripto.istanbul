@@ -3,7 +3,7 @@ date: 2021-08-10 13:26:40
 layout: post
 title: Binance Coin -BNB- Nedir?
 subtitle: BNB Nedir? BNB'nin Fiyatı Son Yıllarda Neden Bu Kadar Arttı?
-description: BNB ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: BNB, Binance ekosistemine güç veren kripto paradır, diğer kripto paralar gibi alım satım imkanının yanı sıra çeşitli kullanım alanları ve avantajları da vardır.
 image: /assets/img/posts-img/bnb/binance-bnb-coin-nedir.webp
 category: Kripto Paralar
 tags:

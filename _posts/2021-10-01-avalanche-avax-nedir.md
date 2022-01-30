@@ -3,7 +3,7 @@ date: 2021-10-01 12:26:40
 layout: post
 title: Avalanche -AVAX- Nedir?
 subtitle: Avalanche -AVAX- Nedir? AVAX, Ethereum Katilleri Listesinde İlk Sıraya Çıkabilir Mi?
-description: AVAX ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Avalanche, kesinleşme süresi ile ölçüldüğü üzere blok zinciri endüstrisindeki en hızlı akıllı sözleşmeler platformudur ve herhangi bir hisse ispatı protokolünün etkinliğinde en fazla doğrulayıcıya sahip ağdır.
 image: /assets/img/posts-img/avax/avalanche-avax-coin-nedir.webp
 category: Kripto Paralar
 tags:

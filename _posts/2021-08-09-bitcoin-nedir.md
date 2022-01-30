@@ -3,7 +3,7 @@ date: 2021-09-11 12:26:40
 layout: post
 title: Bitcoin Nedir?
 subtitle: Bitcoin Nedir? Bitcoin'e Yatırım Yapmak Güvenli Mi? Satoshi Nakamoto Kimdir?
-description: Bitcoin ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Bitcoin, merkezi otorite veya aracı olmadan kullanıcıları tarafından desteklenen ilk merkezi olmayan eşler arası ödeme ağıdır.
 image: /assets/img/posts-img/btc/btc-nedir-bitcoin-nedir.webp
 category: Kripto Paralar
 tags:
@@ -38,7 +38,7 @@ paginate: true
 <blockquote cite="https://www.investopedia.com/terms/b/bitcoin.asp">Bitcoin, Ocak 2009'da oluşturulan dijital bir para birimidir. Gizemli ve bilinmeyen bir kişi veya bir grup olan Satoshi Nakamoto tarafından bir whitepaper'da ortaya konulan fikirleri takip eder. Teknolojiyi yaratan kişi veya kişilerin kimliği hala bir muamma. Bitcoin, geleneksel çevrimiçi ödeme mekanizmalarından daha düşük işlem ücretleri vaat eden ve devlet tarafından verilen para birimlerinin aksine, merkezi olmayan bir otorite tarafından işletilen dijital bir para birimidir.</blockquote>
 <p>Bitcoin bir tür kripto para birimidir. Fiziksel Bitcoin yoktur, yalnızca herkesin şeffaf erişime sahip olduğu halka açık bir defterde tutulan bakiyeler vardır. Tüm Bitcoin işlemleri, muazzam miktarda hesaplama gücü ile doğrulanır. Bitcoinler herhangi bir banka veya hükümet tarafından verilmez veya desteklenmez, bireysel Bitcoinler ise bir emtia olarak değerli değildir. Yasal ihale olmamasına rağmen, Bitcoin çok popüler ve toplu olarak altcoin olarak adlandırılan yüzlerce başka kripto para biriminin piyasaya sürülmesini tetikledi. Bitcoin genellikle "BTC" olarak kısaltılır.</p>
 
-<p>Bitcoin için detaylı teknik bilgi arıyorsanız <a href="https://bitcoin.org/bitcoin.pdf">buradan</a> whitepaper'ına ulaşabilirsiniz.</p>
+<p>Bitcoin için detaylı teknik bilgi arıyorsanız <a href="https://bitcoin.org/bitcoin.pdf">bitcoin whitepaper'ını</a> inceleyebilirsiniz.</p>
 <h2 id="2">Bitcoin Madenciliği Nedir? Bitcoin Madenciliği Nasıl Yapılır?</h2>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-mining.webp">

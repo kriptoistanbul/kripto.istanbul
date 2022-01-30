@@ -3,7 +3,7 @@ date: 2021-08-09 13:26:40
 layout: post
 title: Ethereum Nedir?
 subtitle: Ethereum Nedir? Ethereum'u Özel Kılan Şey Nedir? DeFi Ne Demektir?
-description: Ethereum ve teknolojisi hakkında bilgilendirme amacıyla yazılmış içerik.
+description: Ethereum, kripto para birimine, ethere (ETH) ve binlerce merkezi olmayan uygulamaya güç sağlayan topluluk tarafından işletilen bir teknolojidir.
 image: /assets/img/posts-img/eth/eth-coin-ethereum-nedir.webp
 category: Kripto Paralar
 tags:
