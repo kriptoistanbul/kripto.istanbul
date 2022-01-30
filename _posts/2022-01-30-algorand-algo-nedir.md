@@ -43,6 +43,10 @@ paginate: true
 <p>Bu blok üretim yöntemiyle, aynı yuva için aynı anda iki blok önerilemez, bu da blok zincirinin hiçbir zaman bir çatalı olmaması gerektiği anlamına gelir. Bir blok göründüğünde, halihazırda fikir birliğine varmıştır ve kullanıcılar buna hemen güvenebilir, bu da büyük bir ağ gecikmesini ortadan kaldırır.</p>
 <h2 id="3">Algorand’ın Yerel Kripto Para Birimi: ALGO</h2>
 <p>ALGO, yerel Algorand kripto para birimidir ve ağ yapısının temel taşıdır. Algorand’ın benzersiz protokol tasarımının bir parçası olarak, blokları üretmek için doğrulayıcılara ödenen ödüller, yalnızca blok üreticilerine verilmek yerine, tüm ALGO madeni para sahipleri arasında bölünür ve dağıtılır. Bu, tüm ALGO madeni para sahiplerinin Şubat 2021 itibariyle yıllık yaklaşık %7,5 getiri (APY) kazanabileceği anlamına gelir. Ödül dağıtımı yaklaşık her 10 dakikada bir gerçekleşir ve kullanıcıları Algorand stake platformuna katılmaya ve ademi merkeziyetçilik yolunu hızlandırmaya teşvik etmeyi amaçlamaktadır.</p>
+<picture>
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/algo/algo-logo.webp">
+  <img src="/assets/img/posts-img/algo/algo-logo.webp" alt="Algo coin logo" style="width:auto;">
+</picture>
 <p>Bu süreci daha da kolaylaştırmak için, kullanıcıların blok üretim ve doğrulama sürecinin bir parçası olarak madeni parayı kendileri "yatırmaları" gerekmez, ancak kazanılan ödüllere erişmek için ALGO'yu gözetim dışı bir cüzdanda veya bir borsada tutabilirler. Bu anlamda, Algorand, stakerlar ALGO'yu pasif olarak tutarken aynı zamanda ağı destekleyebildiğinden, yarı otomasyona ulaşmıştır.</p>
 <p>Aşağıdaki gibi tahsis edilen 10 milyar ALGO madeni paralık bir sabit arz sınırı vardır:</p>
 <ul>
@@ -53,10 +57,6 @@ paginate: true
 <li>Son kullanıcı hibeleri için 0,25 milyar ALGO dağıtılacak.</li>  
 </ul>
 <p>Optimal olarak eşitlikçi bir madeni para dağıtım sürecine yönelik çalışan birçok blok zinciri tabanlı proje gibi, Algorand’ın ALGO madeni paralarının merkezden uzaklaştırılması yinelemeli bir süreçtir. Algorand Vakfı şu anda büyük miktarda ALGO tutuyor ve eleştirmenler bu protokolün kısa vadede merkezileştirilmesini sağladığını iddia ediyor. Bununla birlikte, Agorand’ın eşitliğe dayanan ödül dağıtım mekanizması, daha uzun bir zaman diliminde ağ merkezileşmesini azaltmak için oluşturulmuştur.</p>
-<picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/algo/algo-logo.webp">
-  <img src="/assets/img/posts-img/algo/algo-logo.webp" alt="Algo coin logo" style="width:auto;">
-</picture>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">2021 was a year to remember for the <a href="https://twitter.com/hashtag/Algorand?src=hash&amp;ref_src=twsrc%5Etfw">#Algorand</a> ecosystem — here’s to 2022 and beyond! Happy New Year 🎉 <a href="https://t.co/P7nmqOFjbV">pic.twitter.com/P7nmqOFjbV</a></p>&mdash; Algorand (@Algorand) <a href="https://twitter.com/Algorand/status/1477025248621080585?ref_src=twsrc%5Etfw">December 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <h3 id="4">Algorand Vakfı</h3>
 <p>2019'da başlatılan Algorand, nispeten genç bir protokoldür. Algorand Foundation adlı kar amacı gütmeyen bir kuruluş, Algorand Inc.'in finansmanını ve gelişimini ve Algorand protokolünün kendisini denetler. Algorand Vakfı, üniversitelerde ve eğitim ortamlarında geliştirici eğitimini destekler. Küresel Üniversite Programı, MIT, UC Berkeley gibi prestijli üniversiteleri ve dünyanın diğer önde gelen kurumlarını içerir. Algorand Vakfı ayrıca blockchain etkinliklerine, hackathonlara, eğitim sınıflarına ve sertifikalara sponsorluk yapmaktadır.</p>
