@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hakkımızda
+noindex: true
 description: Some description.
 permalink: /about/
 ---
