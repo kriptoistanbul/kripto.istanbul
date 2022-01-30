@@ -17,9 +17,9 @@ paginate: true
 	<li style="padding: 2px;"><a href="#1">Algorand (ALGO) Nedir?</a></li>
 	<li style="padding: 2px;"><a href="#2">PPoS Altında Algorand Blok Üretimi</a></li>
 	<li style="padding: 2px;"><a href="#3">Algorand’ın Yerel Kripto Para Birimi: ALGO</a></li>
-	<li style="padding: 2px;"><a href="#4">Algorand Vakfı</li>
+	<li style="padding: 2px;"><a href="#4">Algorand Vakfı</a></li>
 	<li style="padding: 2px;"><a href="#5">Algo Coin Hakkında Sıkça Sorulan Sorular</a></li>
-
+</ol>
 
 <h1 id="1">Algorand (ALGO) Nedir?</h1>
   <blockquote cite="https://www.kraken.com/learn/what-is-algorand-algo">Algorand, işlemlerin hızlarını arttırarak, işlem sürelerini kısaltmayı hedefleyen bir dizi yeni projeden biridir.2019'da resmi olarak piyasaya sürülen Algorand, kripto para birimlerinin geleneksel olarak tasarlanma biçiminden sapan kararlarla bu özelliklere ulaşmayı hedefliyor. En dikkate değer olanı, Algorand'ın ekonomisine kattığı ALGO kripto para birimini her yeni blokta cüzdanlarında belirli bir miktarda para birimi olan herkese dağıtmasıdır. Algorand ayrıca kullanıcıların akıllı sözleşmeler (merkezi olmayan uygulamalar oluşturmak için programatik anlaşmalar) ve hem yeni hem de mevcut varlıkları temsil edebilen tokenler oluşturmasına olanak tanır. Bu özellikler, platformun gelişimini finanse etmek için yürütülen ALGO'nun erken özel satışlarına çeşitli girişim yatırımcılarını çekmede başarılı oldu.</blockquote>  
@@ -212,7 +212,7 @@ paginate: true
 <body>
 <div itemscope itemtype="https://schema.org/HowTo">
   <b><span itemprop="name">Nasıl algo alınır</span></b>
-  <div>0 <span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
+  <div>Tahmini Maliyet <span itemprop="estimatedCost" itemscope itemtype="https://schema.org/MonetaryAmount">
     <meta itemprop="currency" content="USD"/>
     <meta itemprop="value" content="0"/>
     $0
