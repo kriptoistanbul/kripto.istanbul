@@ -218,12 +218,17 @@ paginate: true
     $0
   </span>
   </div>
-  <div>Yaklaşık <span itemprop="totalTime" content="P2D">5 dakika</span></div>
-  <div>Ne gerekli</div>
+  <div><b>Toplam Süre</b> <span itemprop="totalTime" content="P2D">5 dakika</span></div>
+  <div><b>Ne gerekli</b></div>
   <div itemprop="supply" itemscope itemtype="https://schema.org/HowToSupply">
-      <span itemprop="name">Kimlik</span>
+      <span itemprop="name">Kimlik, mail adresi, iletişim numarası ve ödeme aracı</span>
     <img alt="Algo nasıl alınır" itemprop="image" src="https://kripto.istanbul/assets/img/algo.png"/>
   </div>
+    <div><b>Araçlar</b></div>
+  <div itemprop="tool" itemscope itemtype="https://schema.org/HowToTool">
+    <span itemprop="name">Bir kripto coin borsası</span>
+  </div>
+</div>
   <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
     <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
     <div itemprop="name"><b>Kripto borsalarını karşılaştırın</b></div>
