@@ -11,7 +11,6 @@ tags:
   - algorand
   - kripto paralar
 paginate: true
-useVideo: true
 ---
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
@@ -63,7 +62,7 @@ useVideo: true
 <p>2019'da başlatılan Algorand, nispeten genç bir protokoldür. Algorand Foundation adlı kar amacı gütmeyen bir kuruluş, Algorand Inc.'in finansmanını ve gelişimini ve Algorand protokolünün kendisini denetler. Algorand Vakfı, üniversitelerde ve eğitim ortamlarında geliştirici eğitimini destekler. Küresel Üniversite Programı, MIT, UC Berkeley gibi prestijli üniversiteleri ve dünyanın diğer önde gelen kurumlarını içerir. Algorand Vakfı ayrıca blockchain etkinliklerine, hackathonlara, eğitim sınıflarına ve sertifikalara sponsorluk yapmaktadır.</p>
 <p>Algorand Vakfı, 2020 yılında, Algorand üzerinde inşa etmekle ilgilenen devam eden projelere ve geliştiricilere yardımcı olmaya odaklanan iki hızlandırıcı programı başlattı - Algorand Asia Accelerator ve Algorand Europe Accelerator. Bu programlar, Algorand ekosisteminin büyümesine ve gelişmesine yardımcı olmak için strateji formülasyonundan başlatılana kadar uçtan uca destekle gelecek vaat eden projeler sağlar.</p>  
 <p>Blok zinciri alanında görece yeni bir oyuncu olan Algorand, güçlü teknoloji yeniliği, geliştirici desteği ve gerçek dünya kullanım durumları ile güçlü bir platform olduğunu şimdiden kanıtladı. Algorand’ın son derece adil madeni para ödül yapısı ve fikir birliği mekanizması, blok zincirinde yeni bir standarda öncülük ediyor ve Algorand çabası için beklentiler hızla artıyor.</p>
-{% include youtube-static-image.html youtubeId="gACVKaNqxPs" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gACVKaNqxPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3 id="5">Algo Coin Hakkında Sıkça Sorulan Sorular</h3>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
