@@ -221,9 +221,10 @@ paginate: true
   <div><b>Toplam Süre</b> <span itemprop="totalTime" content="P2D">5 dakika</span></div>
   <div><b>Ne gerekli</b></div>
   <div itemprop="supply" itemscope itemtype="https://schema.org/HowToSupply">
-  <a itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/">
+    <a itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/">
       <span itemprop="name">Kimlik, mail adresi, iletişim numarası ve ödeme aracı</span>
     <img alt="Algo nasıl alınır" itemprop="image" src="https://kripto.istanbul/assets/img/algo.png"/>
+    </a>
   </div>
     <div><b>Araçlar</b></div>
   <div itemprop="tool" itemscope itemtype="https://schema.org/HowToTool">
