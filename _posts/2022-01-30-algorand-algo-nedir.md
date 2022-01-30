@@ -94,7 +94,7 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h3 itemprop="name" class="faq-q">Algo nereden alınır?</h3>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"></p><table width="333">
+             <p itemprop="text" class="faq-a"><table width="333">
 <tbody>
 <tr>
 <td width="141">Binance</td>
@@ -205,7 +205,7 @@ paginate: true
 <td>&nbsp;</td>
 </tr>
 </tbody>
-</table><p></p>
+</table></p>
         </div>
     </div>
 </div>
