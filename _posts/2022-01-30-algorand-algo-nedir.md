@@ -26,7 +26,7 @@ paginate: true
 <p>Algorand, hızlı işlemlere ve neredeyse anında kesinliğe ulaşmaya güçlü bir şekilde odaklanan ödeme odaklı bir ağ olacak şekilde tasarlanmıştır - bu, saniyede 1.000 işlemin (TPS) işlenmesi ve işlemin tamamlanmasının beş saniyeden daha kısa sürede gerçekleştirilmesi anlamına gelir.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/algo/algo-dijital-oyna.webp">
-  <img src="algo-grafik.webp" alt="Algorand Algo coin nedir" style="width:auto;">
+  <img src="/assets/img/posts-img/algo/algo-grafik.webp" alt="Algorand Algo coin nedir" style="width:auto;">
 </picture>
 <p>Algorand bir Proof-of-Stake (PoS) fikir birliği mekanizması kullanır ve onaylayıcı ödüllerini kendi ALGO kripto para biriminin tüm sahiplerine dağıtır. Güçlü aktarım kapasitesi ve adil topluluk teşviki sayesinde Algorand, yaygın küresel kullanımın ve çeşitli kullanım durumlarının yüksek verimli gereksinimlerini yönetme yeteneğine sahiptir.</p>
 <p>Stake etmeye dayanan halka açık bir akıllı sözleşme blok zinciri olarak Algorand şu anda merkezi olmayan uygulama (dApp) geliştirmeye ev sahipliği yapabilir ve ölçeklenebilirlik sağlayabilir. Ethereum'daki yükselen gaz ücretleri, birçok dApp geliştiricisinin ve merkezi olmayan finans (DeFi) tüccarlarının, bazıları dApp geliştirme ve DeFi uygulamaları için bir Ethereum alternatifi olarak Algorand'a dönerek alternatif blok zinciri çözümleri aramasına yol açtı.</p>
@@ -36,8 +36,8 @@ paginate: true
 <p>Teklif aşamasında, mevcut bloğu önermek için bir blok lideri seçilir. Blok liderleri, Algorand’ın doğrulanabilir rastgele işlevi (VRF) aracılığıyla seçilir - bu, düğümleri rastgele seçen, ancak ilgili paylarının göreceli boyutuna göre ağırlıklandırılan kanıtlanabilir bir rastgele mekanizmadır. Blok lideri, kendi özel katılım anahtarı aracılığıyla gizlice atanır, bu da sadece blok liderinin bloğu önermek için atandığını bildiği anlamına gelir. VRF, blok liderinin mevcut blok lideri olarak durumunu kolayca ve doğrulanabilir şekilde kanıtlamasına olanak tanıyan kriptografik bir kanıt sağlar. Bu metodoloji ek ağ güvenliği sağlar çünkü kötü niyetli kişilerin, bloğun kendisi gerçekten önerilmeden önce rastgele belirlenmiş blok liderinin kim olduğunu bilmesinin hiçbir yolu yoktur, bu da ağı tehlikeye atma girişiminde blok liderini hedefleme fırsatını azaltır.</p>
 <p>Blok önerisinin ardından, mevcut blokta hiçbir çift harcama, fazla harcama veya başka sorunların meydana gelmemesini sağlamaktan sorumlu bir komiteye katılım düğümlerinin rastgele seçildiği oylama aşamasına geliyoruz. Bir çekirdek her şeyin yolunda olduğunu kabul ederse, blok zincirine eklenir. Kötü amaçlı etkinlik tespit edilirse, ağ, bloğun atıldığı ve yeni bir blok liderinin seçildiği kurtarma moduna geçer.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="algo-coin-yorumlari-2021.webp">
-  <img src="algo-likit.webp" alt="Algo coin haberleri" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/algo/algo-coin-yorumlari-2021.webp">
+  <img src="/assets/img/posts-img/algo/algo-likit.webp" alt="Algo coin haberleri" style="width:auto;">
 </picture>
 <p>Algorand, biraz tartışmalı olarak, eğik çizgi kullanmıyor. Bu, kötü bir blok önermek için bir düğümün stake edilmiş bakiyesini azaltamayacağı anlamına gelir. Bunun yerine ağ, kurtarma moduna girer ve devam eder. Bu, hatalardan hızla uzaklaşarak hızı ve verimliliği teşvik ederken, bazıları, Algorand’ın blok üretim sisteminin bu yönünü, ağdaki dürüst olmayan davranışları cezalandıracak herhangi bir mekanizmadan yoksun olduğu için eleştirmişlerdir.</p>
 <p>Bu blok üretim yöntemiyle, aynı yuva için aynı anda iki blok önerilemez, bu da blok zincirinin hiçbir zaman bir çatalı olmaması gerektiği anlamına gelir. Bir blok göründüğünde, halihazırda fikir birliğine varmıştır ve kullanıcılar buna hemen güvenebilir, bu da büyük bir ağ gecikmesini ortadan kaldırır.</p>
@@ -54,8 +54,8 @@ paginate: true
 </ul>
 <p>Optimal olarak eşitlikçi bir madeni para dağıtım sürecine yönelik çalışan birçok blok zinciri tabanlı proje gibi, Algorand’ın ALGO madeni paralarının merkezden uzaklaştırılması yinelemeli bir süreçtir. Algorand Vakfı şu anda büyük miktarda ALGO tutuyor ve eleştirmenler bu protokolün kısa vadede merkezileştirilmesini sağladığını iddia ediyor. Bununla birlikte, Agorand’ın eşitliğe dayanan ödül dağıtım mekanizması, daha uzun bir zaman diliminde ağ merkezileşmesini azaltmak için oluşturulmuştur.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="algo-logo.webp">
-  <img src="algo-logo.webp" alt="Algo coin logo" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/algo/algo-logo.webp">
+  <img src="/assets/img/posts-img/algo/algo-logo.webp" alt="Algo coin logo" style="width:auto;">
 </picture>
 <h3 id="4">Algorand Vakfı</h3>
 <p>2019'da başlatılan Algorand, nispeten genç bir protokoldür. Algorand Foundation adlı kar amacı gütmeyen bir kuruluş, Algorand Inc.'in finansmanını ve gelişimini ve Algorand protokolünün kendisini denetler. Algorand Vakfı, üniversitelerde ve eğitim ortamlarında geliştirici eğitimini destekler. Küresel Üniversite Programı, MIT, UC Berkeley gibi prestijli üniversiteleri ve dünyanın diğer önde gelen kurumlarını içerir. Algorand Vakfı ayrıca blockchain etkinliklerine, hackathonlara, eğitim sınıflarına ve sertifikalara sponsorluk yapmaktadır.</p>
