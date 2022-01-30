@@ -94,7 +94,7 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h3 itemprop="name" class="faq-q">Algo nereden alınır?</h3>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"><table width="333">
+             <p itemprop="text" class="faq-a"> Aşağıda listelenen kripto para borsalarından herhangi birinden ALGO alabilirsiniz. </p><table width="333">
 <tbody>
 <tr>
 <td width="141">Binance</td>
@@ -221,6 +221,7 @@ paginate: true
   <div><b>Toplam Süre</b> <span itemprop="totalTime" content="P2D">5 dakika</span></div>
   <div><b>Ne gerekli</b></div>
   <div itemprop="supply" itemscope itemtype="https://schema.org/HowToSupply">
+  <a itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/">
       <span itemprop="name">Kimlik, mail adresi, iletişim numarası ve ödeme aracı</span>
     <img alt="Algo nasıl alınır" itemprop="image" src="https://kripto.istanbul/assets/img/algo.png"/>
   </div>
