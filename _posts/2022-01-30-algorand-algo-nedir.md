@@ -230,41 +230,40 @@ paginate: true
     <span itemprop="name">Bir kripto coin borsası</span>
   </div>
 </div>
-  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
-    <div itemprop="name"><b>Kripto borsalarını karşılaştırın</b></div>
-    <img itemprop="image" alt="Kripto borsalarını karşılaştırın"
-         src="https://kripto.istanbul/assets/img/kripto-borsalarini-karsilastir.png"/>
-    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
-      <div itemprop="text">Algorand satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıda bulunan tablodan ALGO satılan borsaları görüntüleyebilirsiniz. Karşılaştırma yaparken, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi kriterleri dikkate almalısınız.
-      </div>
+<div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+  <link itemprop="url" href="https://kripto.istanbul/algorand-algo-nedir/" />
+  <div itemprop="name"><b>Kripto borsalarını karşılaştırın</b></div>
+  <img itemprop="image" alt="Kripto borsalarını karşılaştırın"
+       src="https://kripto.istanbul/assets/img/kripto-borsalarini-karsilastir.png"/>
+  <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+    <div itemprop="text">Algorand satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıda bulunan tablodan ALGO satılan borsaları görüntüleyebilirsiniz. Karşılaştırma yaparken, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi kriterleri dikkate almalısınız.
     </div>
   </div>
-  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <div itemprop="name"><b>Bir hesap oluşturun</b></div>
-    <img itemprop="image" alt="hesap aç"
-           src="https://kripto.istanbul/assets/img/hesap-ac.png"/>
-    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
-      <div itemprop="text">Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun.
-      </div>
+</div>
+<div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+  <div itemprop="name"><b>Bir hesap oluşturun</b></div>
+  <img itemprop="image" alt="hesap aç"
+         src="https://kripto.istanbul/assets/img/hesap-ac.png"/>
+  <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+    <div itemprop="text">Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun.
     </div>
   </div>
-  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <div itemprop="name"><b>Para yatır</b></div>
-    <img itemprop="image" alt="Para yatır"
-         src="https://kripto.istanbul/assets/img/para-yatir.png"/>
-    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
-      <div itemprop="text">Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak para yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir.
-      </div>
+</div>
+<div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+  <div itemprop="name"><b>Para yatır</b></div>
+  <img itemprop="image" alt="Para yatır"
+       src="https://kripto.istanbul/assets/img/para-yatir.png"/>
+  <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+    <div itemprop="text">Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak para yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir.
     </div>
   </div>
-  <div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
-    <div itemprop="name"><b>ALGO satın al</b></div>
-    <img itemprop="image" alt="ALGO satın al"
-         src="https://kripto.istanbul/assets/img/algo.png"/>
-    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
-      <div itemprop="text">Artık paranızı Algorand ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz şimdi Algorand'ınızı kişisel cüzdanınıza çekebilirsiniz.
-      </div>
+</div>
+<div itemprop="step" itemscope itemtype="https://schema.org/HowToStep">
+  <div itemprop="name"><b>ALGO satın al</b></div>
+  <img itemprop="image" alt="ALGO satın al"
+       src="https://kripto.istanbul/assets/img/algo.png"/>
+  <div itemprop="itemListElement" itemscope itemtype="https://schema.org/HowToDirection">
+    <div itemprop="text">Artık paranızı Algorand ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz şimdi Algorand'ınızı kişisel cüzdanınıza çekebilirsiniz.
     </div>
   </div>
 </div>
