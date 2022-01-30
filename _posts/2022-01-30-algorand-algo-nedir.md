@@ -205,7 +205,7 @@ paginate: true
 <td>&nbsp;</td>
 </tr>
 </tbody>
-</table></p>
+</table>
         </div>
     </div>
 </div>
