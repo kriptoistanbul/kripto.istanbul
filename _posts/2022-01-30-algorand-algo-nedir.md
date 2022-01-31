@@ -70,7 +70,7 @@ paginate: true
              <p itemprop="text" class="faq-a">Algo coin, Silvio Micali isimli bir MIT öğretim üyesine aittir. </p>
         </div>
     </div>
-{{< youtube "gACVKaNqxPs" "Algo nedir" >}}
+{{% youtube "gACVKaNqxPs" "Algo nedir" %}}
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h3 itemprop="name" class="faq-q">Algo coin hangi ülkenin?</h3>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
