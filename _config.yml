@@ -87,7 +87,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jekyll-youtube
 
 # Exclude my node related stuff
 exclude: [
