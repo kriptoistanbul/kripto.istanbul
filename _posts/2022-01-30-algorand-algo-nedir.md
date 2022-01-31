@@ -73,9 +73,6 @@ paginate: true
         margin: 0;
         overflow: hidden;
         }
-        body, html {
-          height: 100%;
-        }
       </style>
       <a href='https://www.youtube.com/embed/gACVKaNqxPs?autoplay=1'>
         <img src='https://img.youtube.com/vi/gACVKaNqxPs/hqdefault.jpg' alt='Algo nedir'>
