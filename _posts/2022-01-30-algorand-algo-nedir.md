@@ -64,7 +64,7 @@ paginate: true
 <p>Blok zinciri alanında görece yeni bir oyuncu olan Algorand, güçlü teknoloji yeniliği, geliştirici desteği ve gerçek dünya kullanım durumları ile güçlü bir platform olduğunu şimdiden kanıtladı. Algorand’ın son derece adil madeni para ödül yapısı ve fikir birliği mekanizması, blok zincirinde yeni bir standarda öncülük ediyor ve Algorand çabası için beklentiler hızla artıyor.</p>
 <iframe width="800" height="450"
 src="https://www.youtube.com/embed/gACVKaNqxPs?start=0"
-srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{}.title{}</style><a href=https://www.youtube.com/embed/gACVKaNqxPs?autoplay=1&amp;start=0><img src=https://img.youtube.com/vi/gACVKaNqxPs/hqdefault.jpg alt='Algo nedir'><span>▶</span></a><span class='title'>Algo nedir</span>"
+srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center}</style><a href=https://www.youtube.com/embed/gACVKaNqxPs?autoplay=1&amp;start=0><img src=https://img.youtube.com/vi/gACVKaNqxPs/hqdefault.jpg alt='Algo nedir'></a>"
 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <h3 id="5">Algo Coin Hakkında Sıkça Sorulan Sorular</h3>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
