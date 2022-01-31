@@ -57,7 +57,7 @@ paginate: true
 <li>Son kullanıcı hibeleri için 0,25 milyar ALGO dağıtılacak.</li>  
 </ul>
 <p>Optimal olarak eşitlikçi bir madeni para dağıtım sürecine yönelik çalışan birçok blok zinciri tabanlı proje gibi, Algorand’ın ALGO madeni paralarının merkezden uzaklaştırılması yinelemeli bir süreçtir. Algorand Vakfı şu anda büyük miktarda ALGO tutuyor ve eleştirmenler bu protokolün kısa vadede merkezileştirilmesini sağladığını iddia ediyor. Bununla birlikte, Agorand’ın eşitliğe dayanan ödül dağıtım mekanizması, daha uzun bir zaman diliminde ağ merkezileşmesini azaltmak için oluşturulmuştur.</p>
-https://twitter.com/Algorand/status/1477025248621080585?s=20&t=Xsbc-vHnsWn9A1N0BhuNUw
+
 <h3 id="4">Algorand Vakfı</h3>
 <p>2019'da başlatılan Algorand, nispeten genç bir protokoldür. Algorand Foundation adlı kar amacı gütmeyen bir kuruluş, Algorand Inc.'in finansmanını ve gelişimini ve Algorand protokolünün kendisini denetler. Algorand Vakfı, üniversitelerde ve eğitim ortamlarında geliştirici eğitimini destekler. Küresel Üniversite Programı, MIT, UC Berkeley gibi prestijli üniversiteleri ve dünyanın diğer önde gelen kurumlarını içerir. Algorand Vakfı ayrıca blockchain etkinliklerine, hackathonlara, eğitim sınıflarına ve sertifikalara sponsorluk yapmaktadır.</p>
 <p>Algorand Vakfı, 2020 yılında, Algorand üzerinde inşa etmekle ilgilenen devam eden projelere ve geliştiricilere yardımcı olmaya odaklanan iki hızlandırıcı programı başlattı - Algorand Asia Accelerator ve Algorand Europe Accelerator. Bu programlar, Algorand ekosisteminin büyümesine ve gelişmesine yardımcı olmak için strateji formülasyonundan başlatılana kadar uçtan uca destekle gelecek vaat eden projeler sağlar.</p>  
