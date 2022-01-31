@@ -62,31 +62,10 @@ paginate: true
 <p>2019'da başlatılan Algorand, nispeten genç bir protokoldür. Algorand Foundation adlı kar amacı gütmeyen bir kuruluş, Algorand Inc.'in finansmanını ve gelişimini ve Algorand protokolünün kendisini denetler. Algorand Vakfı, üniversitelerde ve eğitim ortamlarında geliştirici eğitimini destekler. Küresel Üniversite Programı, MIT, UC Berkeley gibi prestijli üniversiteleri ve dünyanın diğer önde gelen kurumlarını içerir. Algorand Vakfı ayrıca blockchain etkinliklerine, hackathonlara, eğitim sınıflarına ve sertifikalara sponsorluk yapmaktadır.</p>
 <p>Algorand Vakfı, 2020 yılında, Algorand üzerinde inşa etmekle ilgilenen devam eden projelere ve geliştiricilere yardımcı olmaya odaklanan iki hızlandırıcı programı başlattı - Algorand Asia Accelerator ve Algorand Europe Accelerator. Bu programlar, Algorand ekosisteminin büyümesine ve gelişmesine yardımcı olmak için strateji formülasyonundan başlatılana kadar uçtan uca destekle gelecek vaat eden projeler sağlar.</p>  
 <p>Blok zinciri alanında görece yeni bir oyuncu olan Algorand, güçlü teknoloji yeniliği, geliştirici desteği ve gerçek dünya kullanım durumları ile güçlü bir platform olduğunu şimdiden kanıtladı. Algorand’ın son derece adil madeni para ödül yapısı ve fikir birliği mekanizması, blok zincirinde yeni bir standarda öncülük ediyor ve Algorand çabası için beklentiler hızla artıyor.</p>
-<div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%); margin: 2rem;">
-  <div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
-    <iframe
-      style="position: absolute; top: 0; left:0; width: 100%; height: 100%; border: 0;"
-      loading="lazy";
-      srcdoc="<style>
-        * {
-        padding: 0;
-        margin: 0;
-        overflow: hidden;
-        }
-      </style>
-      <a href='https://www.youtube.com/embed/gACVKaNqxPs?autoplay=1'>
-        <img src='https://img.youtube.com/vi/gACVKaNqxPs/hqdefault.jpg' alt='Algo nedir'>
-        <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
-      </a>
-      "
-      src="https://www.youtube.com/embed/gACVKaNqxPs"
-      title="Algo nedir"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-  </div>
-</div>
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/gACVKaNqxPs?start=0"
+srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}.title{font:24px/1.5 sans-serif;color:white;position:relative;left:20px;top:10px;}</style><a href=https://www.youtube.com/embed/gACVKaNqxPs?autoplay=1&amp;start=0><img src=https://img.youtube.com/vi/gACVKaNqxPs/hqdefault.jpg alt='Algo nedir'><span>▶</span></a><span class='title'>Algo nedir</span>"
+frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <h3 id="5">Algo Coin Hakkında Sıkça Sorulan Sorular</h3>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
@@ -95,7 +74,6 @@ paginate: true
              <p itemprop="text" class="faq-a">Algo coin, Silvio Micali isimli bir MIT öğretim üyesine aittir. </p>
         </div>
     </div>
-{{% youtube "gACVKaNqxPs" "Algo nedir" %}}
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h3 itemprop="name" class="faq-q">Algo coin hangi ülkenin?</h3>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
