@@ -81,7 +81,7 @@ paginate: true
 }
 </style>
 <div class='embed-container'>
-  <iframe title="YouTube video player" width="640" height="390" src="https://www.youtube.com/watch?v=gACVKaNqxPs" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gACVKaNqxPs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 </div>
 <h3 id="5">Algo Coin Hakkında Sıkça Sorulan Sorular</h3>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
