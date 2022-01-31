@@ -67,7 +67,7 @@ paginate: true
   <iframe class="embed-responsive-item" width="560" height="315"
     src="https://www.youtube.com/embed/gACVKaNqxPs" frameborder="0"
     allowfullscreen=""></iframe>
-</di>
+</div>
 <h3 id="5">Algo Coin Hakkında Sıkça Sorulan Sorular</h3>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
