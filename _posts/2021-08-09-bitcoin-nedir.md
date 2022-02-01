@@ -158,4 +158,6 @@ paginate: true
         </div>
     </div>
 </div>
+&nbsp;
+&nbsp;
 {% include how-to.html coinname="Bitcoin" coinlink="https://kripto.istanbul/bitcoin-nedir/" step1text="İlk kez Bitcoin satın alırken; TL, dolar veya tercih ettiğiniz bir diğer para biriminizde ödeme kabul eden bir borsa seçmeniz gerekir." step2text="Seçtiğiniz kripto para borsasına girin. Ardından isminizi, mail adresinizi, telefon numaranızı ve kimlik bilgilerinizi doğrulayarak bir hesap oluşturun." step3text="Bitcoin satın almanın en ucuz yolu, genellikle banka hesabınızdan bir borsaya para yatırmak ve ardından satın alma işlemleri için kullanmaktır. Kripto para biriminizi satmaya karar verirseniz, parayı daha sonra hesabınıza geri aktarabilirsiniz." step4text="Her şeyden önce – bütün bir Bitcoin satın almak zorunda değilsiniz. Çoğu borsa, 10 ABD doları değerinde, hatta belki daha azını satın almanıza izin verir. Sadece TL, dolar ya da yatırdığınız para birimi olarak ne kadar harcamak istediğinizi yazın ve gerisini borsanın hesaplamasına izin verin." %}
