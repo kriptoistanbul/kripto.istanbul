@@ -99,7 +99,7 @@ Ethereum'u Değerli Kılan Şey Nedir?
 <p>Ethash, Ethereum için daha etkili bir PoW mekanizması sağlasa da, ağ, Aralık 2020'de başlayan çok aşamalı bir sunum olan büyük Ethereum 2.0 güncellemesinin bir parçası olarak bir Proof of Stake (PoS) algoritmasına geçişin tam ortasındadır.</p>
 <h4 id="eth15">Ethereum'a Son Bir Bakış</h4>
 <p>Ethereum'un her geçen gün daha belirgin hale gelen büyük bir ihtiyacı - sansür ve manipülasyondan arınmış yeni, açık kaynaklı bir internet ihtiyacı - karşıladığı açıktır. Kripto para birimi olarak Ether, uygulamaları çalıştırma ve tamamen yeni projeleri barındırma becerisinin yanı sıra bu yeni internetin ayrılmaz bir parçası olarak merkezi olmayan finansmanı sağlamak için tasarlanmış özelliklerle dolu bir platformdan yararlanıyor. Ethereum, çalışma şeklini elden geçirmenin tam ortasındadır. Ağ, ademi merkeziyetin hepimizin bildiği ve sevdiği yönlerini korurken, önümüzdeki birkaç yıl içinde kademeli olarak büyümeye devam edecek gibi görünüyor.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j23HnORQXvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html width="560" height="315" id="j23HnORQXvs" start="0" title="Ethereum nedir" %}
 <h2 id="eth16">Ethereum Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">

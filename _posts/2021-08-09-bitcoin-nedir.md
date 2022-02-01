@@ -115,13 +115,12 @@ paginate: true
 <p>Bitcoin sahipleri doğrulamak ve işlemleri kaydetmek için özel anahtar şifrelemesi kullanırken, dolandırıcılar ve dolandırıcılar sahte Bitcoin satmaya çalışabilir. Örneğin, Temmuz 2013'te SEC, Bitcoin ile ilgili bir saadet zinciri operatörü aleyhine yasal işlem başlattı. Ayrıca, başka bir yaygın dolandırıcılık biçimi olan Bitcoin fiyat manipülasyonu vakaları da belgelendi.</p>
 <h4 id="15">Market Riski</h4>
 <p>Herhangi bir yatırımda olduğu gibi, Bitcoin'in değerleri de dalgalanabilir. Nitekim, para biriminin değeri, kısa mevcudiyeti üzerine fiyatta aşırı dalgalanmalar görüldü. Borsalarda yüksek hacimli alım satım işlemlerine tabi olarak, haber değeri olan olaylara karşı yüksek hassasiyete sahiptir. CFPB'ye göre, bitcoinlerin fiyatı 2013'te tek bir günde % 61 düşerken, 2014'teki bir günlük fiyat düşüşü rekoru % 80'e kadar çıktı. Daha az insan Bitcoin'i para birimi olarak kabul etmeye başlarsa, bu dijital birimler değer kaybedebilir ve değersiz hale gelebilir. Gerçekten de, fiyatın 2017'nin sonlarında ve 2018'in başlarında kripto para birimi acelesi sırasında tüm zamanların en yüksek seviyesinden düştüğü zaman “Bitcoin balonunun patladığı” spekülasyonları vardı.</p>
-
+{% include youtube.html width="560" height="315" id="s4g1XFU8Gto" start="0" title="Bitcoin Nedir" %}
 <p>Piyasa içerisinde halihazırda çok fazla rekabet  konusu var ve Bitcoin, marka tanınırlığı ve risk sermayesi parası nedeniyle ortaya çıkan diğer yüzlerce dijital para biriminde büyük bir liderliğe sahip olsa da, daha iyi bir sanal para biçiminde teknolojik bir atılım her zaman olur. Bu da gelecekte Bitcoin'in fiyatı üzerinde olumsuz bir etkiye sahip olabilir. Dolayısıyla kripto para piyasalarına ya da Bitcoin'e yatırım yapanların bu riskleri göz önünde bulundurarak ve kendi riskini alarak gerekli araştırmayı yapıp yatırım yapması en doğrusu olur. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-yatay.webp">
   <img src="/assets/img/posts-img/btc/bitcoin-yorum.webp" alt="Bitcoin nasıl alınır" style="width:auto;">
 </picture>
-{% include youtube.html width="560" height="315" id="s4g1XFU8Gto" start="0" title="Bitcoin Nedir" %}
 <h2 id="16"> Bitcoin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">

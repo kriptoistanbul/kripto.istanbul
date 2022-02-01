@@ -73,7 +73,7 @@ paginate: true
 	<li>Anında, küresel olarak, güvenli ve düşük maliyetle para göndermek</li>
 	<li>Çeşitli kripto dApp'lerinde, borsalarda ve blok zinciri tabanlı oyunlarda öğeler satın almak</li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slQ8Rc4649w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html width="560" height="315" id="slQ8Rc4649w" start="0" title="USDC Nedir" %}
 <h3 id="usdc6">USD Coin'i Diğer Stabil Coinlerden Farklı Kılan Şey Nedir?</h3>
 <p>Stabil kripto paralar dört kategoriye ayrılabilir:</p>
 <ol>
