@@ -53,7 +53,6 @@ paginate: true
 <h3 id="bch6">3. Acil Zorluk Ayarı (EDA)</h3>
 <p>Bitcoin cash, madencilerin sayısı önemli ölçüde değiştiğinde blok zincirinin normal şekilde işlev görmesini sağlamaya yardımcı olan yeni bir algoritma kullanır. Kripto para birimine ek bir istikrar sağlamaya yardımcı olur.</p>
 {% include youtube.html width="560" height="315" id="OE3QTbgh-p8" start="0" title="Bitcoin Cash BCH Nedir" %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OE3QTbgh-p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3 id="bch7">Nasıl Bitcoin Cash Alınır?</h3>
 <p>Bir borsada bitcoin cash (BCH) satın aldığınızda, fiyat genellikle ABD doları (USD) karşısında kote edilir. Diğer bir deyişle, bir birim bitcoin cash satın almak için USD satıyorsunuz. Bitcoin Cash'in fiyatı yükselirse, kar için satabilirsiniz, çünkü artık satın aldığınız zamankinden daha fazla USD değerindedir. Fiyat düşerse ve satmaya karar verirseniz, o zaman bir zarar edersiniz. Bitcoin Cash alım satımı yapmak için herhangi bir kripto para borsasına üye olmanız yeterlidir. Ancak yine de güvenliğiniz açısından daha fazla bilinen ve daha iyi güvenlik önlemleri alan borsaları tercih etmeniz sizin için daha iyi olacaktır. </p>
 <p><a href="https://kripto.istanbul/terra-luna-nedir/" title="Terra Luna LUNA coin nedir?" target="_blank">Terra Luna, kısa ismiyle LUNA coin nedir?</a></p>
