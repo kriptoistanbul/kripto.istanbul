@@ -121,7 +121,7 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/btc/bitcoin-yatay.webp">
   <img src="/assets/img/posts-img/btc/bitcoin-yorum.webp" alt="Bitcoin nasıl alınır" style="width:auto;">
 </picture>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s4g1XFU8Gto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html width="560" height="315" id="s4g1XFU8Gto" start="0" title="Bitcoin Nedir" %}
 <h2 id="16"> Bitcoin Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
