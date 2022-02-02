@@ -81,7 +81,7 @@ paginate: true
 <h4 id="ada10">Cardano'ya Son Bir Bakış</h4>
 <p>Cardano, birçok yeni teknolojik ve matematiksel kavramın faydalarını birleştiren yeni bir blok zinciri altyapısı biçimi sağlamayı amaçlayan yenilikçi ve benzersiz bir projedir. Bu üçüncü nesil blockchain projesi, sektörde baskın bir akıllı sözleşme platformu olma potansiyeline sahip, ancak yine de gelişiminin çoğunu önünde bulunduruyor. </p>
 <p>Gerçekten iddialı bir proje. Cardano'nun kripto dünyası ve genel olarak dünya üzerindeki kalıcı etkilerinin ne olacağını yalnızca zaman gösterecek - ancak gelecek kesinlikle parlak görünüyor.</p>
-{% include youtube.html width="560" height="315" id="K4i-rTNyBWE" start="0" title="Cordano Nedir" %}
+{% include youtube.html width="560" height="315" id="K4i-rTNyBWE" start="0" title="Cardano Nedir" %}
 <h2 id="ada11">Cardano -ADA- Hakkında Sıkça Sorulan Sorular(SSS)</h2>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
@@ -112,4 +112,91 @@ paginate: true
         </div>
     </div>
 </div>
+&nbsp;
+<table style="border-collapse: collapse; width: 96pt;" border="0" width="128" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">WhiteBIT</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>Deepcoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>BitMart</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>XT.COM</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>Dex-Trade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Kraken</td>
+<td>CoinEx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>ExMarkets</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>AAX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>BtcTurk | Pro</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>WOO Network</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>CoinDCX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>Bitbns</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>KickEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitGlobal</td>
+<td>Paribu</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>EXMO</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>Bitexen</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>Giottus</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>MAX Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>MDEX(BSC)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitrue</td>
+<td>CEX.IO</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+{% include how-to.html coinname="ada" coinlink="https://kripto.istanbul/cardano-ada-nedir/" step1text="Cardano satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Cardano ADA coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı Cardano ADA Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Cardano Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <p><a href="https://kripto.istanbul/kripto-para-nedir/" title="Kripto para nedir?" target="_blank">Kripto para nedir?</a></p>
