@@ -1,3 +1,15 @@
 # robotstxt.org/
 
 User-agent: *
+Disallow: /category/
+Disallow: /2018/
+Disallow: /sample-page/
+Disallow: /2021/
+Disallow: /kripto-para-piyasasi/
+
+User-agent: Googlebot-Image
+Disallow: /assets/img/icons/apple-touch-icon-72x72.png
+Disallow: /assets/img/icons/apple-touch-icon-76x76.png
+Disallow: /assets/img/posts-img/ltc/ltc2.jpg
+Disallow: /assets/img/posts-img/avax/avax-ana.jpg
+Disallow: /assets/img/posts-img/icp/icp-ana.jpg
