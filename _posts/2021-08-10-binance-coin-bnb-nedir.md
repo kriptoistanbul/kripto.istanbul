@@ -128,3 +128,89 @@ paginate: true
         </div>
     </div>
 </div>
+<table width="256">
+<tbody>
+<tr>
+<td>Binance</td>
+<td>Binance TR</td>
+</tr>
+<tr>
+<td>KuCoin</td>
+<td>BitMart</td>
+</tr>
+<tr>
+<td>Gate.io</td>
+<td>Dex-Trade</td>
+</tr>
+<tr>
+<td>FTX</td>
+<td>Deepcoin</td>
+</tr>
+<tr>
+<td>Binance.US</td>
+<td>Bitbns</td>
+</tr>
+<tr>
+<td>Huobi Global</td>
+<td>AAX</td>
+</tr>
+<tr>
+<td>Poloniex</td>
+<td>Alterdice</td>
+</tr>
+<tr>
+<td>LBank</td>
+<td>Bitrue</td>
+</tr>
+<tr>
+<td>BitGlobal</td>
+<td>Polyx</td>
+</tr>
+<tr>
+<td>AscendEX (Bitmax)</td>
+<td>CoinEx</td>
+</tr>
+<tr>
+<td>WOO Network</td>
+<td>B2BX</td>
+</tr>
+<tr>
+<td>MEXC</td>
+<td>KickEX</td>
+</tr>
+<tr>
+<td>Tokocrypto</td>
+<td>BITEXLIVE</td>
+</tr>
+<tr>
+<td>ProBit Global</td>
+<td>CoinCasso</td>
+</tr>
+<tr>
+<td>WazirX</td>
+<td>BTCEX</td>
+</tr>
+<tr>
+<td>50x</td>
+<td>CoinDCX</td>
+</tr>
+<tr>
+<td>WhiteBIT</td>
+<td>NovaDAX</td>
+</tr>
+<tr>
+<td>BitWell</td>
+<td>Changelly PRO</td>
+</tr>
+<tr>
+<td>Biconomy Exchange</td>
+<td>Dcoin</td>
+</tr>
+<tr>
+<td>XT.COM</td>
+<td>Hoo</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+{% include how-to.html coinname="bnb" coinlink="https://kripto.istanbul/binance-coin-bnb-nedir/" step1text="Binance Coin satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Binance BNB coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı Binance Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Binance Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
