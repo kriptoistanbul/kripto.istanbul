@@ -157,3 +157,145 @@ paginate: true
         </div>
     </div>
 </div>
+&nbsp;
+<table width="397">
+<tbody>
+<tr>
+<td width="141">Binance</td>
+<td width="98">XT.COM</td>
+<td width="158">ABCC</td>
+</tr>
+<tr>
+<td>KuCoin</td>
+<td>BitMart</td>
+<td>TOKOK</td>
+</tr>
+<tr>
+<td>Gate.io</td>
+<td>AAX</td>
+<td>Bitay</td>
+</tr>
+<tr>
+<td>Huobi Global</td>
+<td>WOO Network</td>
+<td>OceanEx</td>
+</tr>
+<tr>
+<td>Bybit</td>
+<td>BitWell</td>
+<td>Exrates</td>
+</tr>
+<tr>
+<td>Coinbase Exchange</td>
+<td>Bitrue</td>
+<td>Nominex</td>
+</tr>
+<tr>
+<td>Kraken</td>
+<td>KickEX</td>
+<td>ZBG</td>
+</tr>
+<tr>
+<td>Binance.US</td>
+<td>CoinEx</td>
+<td>Bitget</td>
+</tr>
+<tr>
+<td>FTX</td>
+<td>BtcTurk | Pro</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr>
+<td>Poloniex</td>
+<td>CoinDCX</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr>
+<td>Coinlist Pro</td>
+<td>Giottus</td>
+<td>BigONE</td>
+</tr>
+<tr>
+<td>Bittrex</td>
+<td>EXMO</td>
+<td>Hotcoin Global</td>
+</tr>
+<tr>
+<td>Liquid</td>
+<td>MAX Exchange</td>
+<td>CoinW</td>
+</tr>
+<tr>
+<td>OKX</td>
+<td>CEX.IO</td>
+<td>Bitazza</td>
+</tr>
+<tr>
+<td>LBank</td>
+<td>NovaDAX</td>
+<td>FarhadMarket</td>
+</tr>
+<tr>
+<td>Crypto.com Exchange</td>
+<td>Changelly PRO</td>
+<td>bit4you</td>
+</tr>
+<tr>
+<td>Phemex</td>
+<td>DigiFinex</td>
+<td>Zipmex</td>
+</tr>
+<tr>
+<td>MEXC</td>
+<td>Pionex</td>
+<td>ZebPay</td>
+</tr>
+<tr>
+<td>AscendEX (Bitmax)</td>
+<td>Bibox</td>
+<td>DragonEX</td>
+</tr>
+<tr>
+<td>BitGlobal</td>
+<td>Hoo</td>
+<td>BingX</td>
+</tr>
+<tr>
+<td>ZB.COM</td>
+<td>Dcoin</td>
+<td>Decoin</td>
+</tr>
+<tr>
+<td>Tokocrypto</td>
+<td>AEX</td>
+<td>Jubi</td>
+</tr>
+<tr>
+<td>WazirX</td>
+<td>Hotbit</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr>
+<td>ProBit Global</td>
+<td>LATOKEN</td>
+<td>Mexo Exchange</td>
+</tr>
+<tr>
+<td>WhiteBIT</td>
+<td>BitForex</td>
+<td>LocalTrade</td>
+</tr>
+<tr>
+<td>Deepcoin</td>
+<td>BKEX</td>
+<td>VCC Exchange</td>
+</tr>
+<tr>
+<td>Dex-Trade</td>
+<td>CoinTiger</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+{% include how-to.html coinname="polkadot" coinlink="https://kripto.istanbul/polkadot-nedir/" step1text="Polkadot satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Polkadot DOT coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı DOT Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Polkadot DOT Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
