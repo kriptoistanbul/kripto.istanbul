@@ -55,4 +55,186 @@ paginate: true
 {% include youtube.html width="560" height="315" id="OE3QTbgh-p8" start="0" title="Bitcoin Cash BCH Nedir" %}
 <h3 id="bch7">Nasıl Bitcoin Cash Alınır?</h3>
 <p>Bir borsada bitcoin cash (BCH) satın aldığınızda, fiyat genellikle ABD doları (USD) karşısında kote edilir. Diğer bir deyişle, bir birim bitcoin cash satın almak için USD satıyorsunuz. Bitcoin Cash'in fiyatı yükselirse, kar için satabilirsiniz, çünkü artık satın aldığınız zamankinden daha fazla USD değerindedir. Fiyat düşerse ve satmaya karar verirseniz, o zaman bir zarar edersiniz. Bitcoin Cash alım satımı yapmak için herhangi bir kripto para borsasına üye olmanız yeterlidir. Ancak yine de güvenliğiniz açısından daha fazla bilinen ve daha iyi güvenlik önlemleri alan borsaları tercih etmeniz sizin için daha iyi olacaktır. </p>
+&nbsp;
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">BITEXLIVE</td>
+<td style="width: 48pt;" width="64">ZBG</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Cryptology</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>EXMO</td>
+<td>Unocoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX US</td>
+<td>Emirex</td>
+<td>Hotcoin Global</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>B2BX</td>
+<td>BigONE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>Bitfront</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX</td>
+<td>MAX Exchange</td>
+<td>GokuMarket</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Kraken</td>
+<td>StormGain</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>CoinDCX</td>
+<td>Azbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>Bitexen</td>
+<td>Aryana</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>CEX.IO</td>
+<td>Bit.com</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>Kuna</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>BITEXBOOK</td>
+<td>FarhadMarket</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>Changelly PRO</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>DigiFinex</td>
+<td>NovaDAX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>BitForex</td>
+<td>Dove Wallet</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitGlobal</td>
+<td>CBX</td>
+<td>Bitbns</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>Dcoin</td>
+<td>CoinZoom</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ProBit Global</td>
+<td>ATAIX</td>
+<td>Ecxx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>Hoo</td>
+<td>DragonEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>P2PB2B</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>IndoEx</td>
+<td>Decoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">50x</td>
+<td>Hotbit</td>
+<td>BingX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitrue</td>
+<td>Bibox</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitMart</td>
+<td>Pionex</td>
+<td>LocalTrade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">XT.COM</td>
+<td>Bitget</td>
+<td>Mexo Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitWell</td>
+<td>TOKOK</td>
+<td>Cat.Ex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Biconomy Exchange</td>
+<td>OceanEx</td>
+<td>ProBit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AAX</td>
+<td>BitUBU</td>
+<td>Bvnex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Deepcoin</td>
+<td>Folgory</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WhiteBIT</td>
+<td>Bitay</td>
+<td>VELIC</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KickEX</td>
+<td>CoinTiger</td>
+<td>Birake Network</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WOO Network</td>
+<td>OMGFIN</td>
+<td>BitoPro</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Polyx</td>
+<td>LATOKEN</td>
+<td>ZebPay</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">CoinEx</td>
+<td>CoinField</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+{% include how-to.html coinname="BCH" coinlink="https://kripto.istanbul/bitcoincash-bch-nedir/" step1text="Bitcoin Cash satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Bitcoin Cash BCH coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı BCH Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Bitcoin Cash BCH Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <p><a href="https://kripto.istanbul/terra-luna-nedir/" title="Terra Luna LUNA coin nedir?" target="_blank">Terra Luna, kısa ismiyle LUNA coin nedir?</a></p>
