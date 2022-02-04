@@ -76,3 +76,255 @@ paginate: true
 <h4 id="uni9">Uniswap'te Arbitraj</h4>
 <p>Arbitraj tüccarları, Uniswap ekosisteminin önemli bir bileşenidir. Bunlar, birden fazla borsada fiyat farklılıkları bulmada uzmanlaşmış ve bunları kar elde etmek için kullanan tüccarlardır. Örneğin, Bitcoin Kraken'da 35.500 $ ve Binance 35.450 $ 'dan işlem yapıyorsa, Binance üzerinden bitcoin satın alabilir ve kolay kar elde etmek için Kraken'da satabilirsiniz. Büyük hacimlerle yapılırsa, nispeten düşük riskle hatırı sayılır bir kâr elde etmek mümkündür.</p>
 <p>Arbitraj tüccarlarının Uniswap'te yaptığı şey, ortalama piyasa fiyatlarının - büyük alım satımların havuzda dengesizlikler yaratması ve fiyatı düşürmesi veya yükseltmesi sonucunda -  üzerinde veya altında işlem gören tokenleri bulmak ve bunları buna göre alıp satmaktır. Bunu, token fiyatı diğer borsalardaki fiyat ile aynı doğrultuda yeniden dengelenene ve elde edilecek kar kalmayana kadar yaparlar. Otomatik piyasa yapıcı sistemi ile arbitraj tüccarları arasındaki bu uyumlu ilişki, Uniswap token fiyatlarını piyasanın geri kalanıyla uyumlu tutan şeydir.</p>
+&nbsp;
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">Dex-Trade</td>
+<td style="width: 48pt;" width="64">LATOKEN</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinbase Exchange</td>
+<td>WhiteBIT</td>
+<td>BTSE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Deepcoin</td>
+<td>BitUBU</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>BTCEX</td>
+<td>Bitget</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX</td>
+<td>WOO Network</td>
+<td>Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Uniswap (V2)</td>
+<td>BtcTurk | Pro</td>
+<td>CoinTiger</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>BitMart</td>
+<td>OceanEx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Kraken</td>
+<td>KickEX</td>
+<td>ZBG</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitfinex</td>
+<td>Bitkub</td>
+<td>Fatbtc</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>BitWell</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX US</td>
+<td>Biswap</td>
+<td>Folgory</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bithumb</td>
+<td>ShibaSwap</td>
+<td>Uniswap (V3) (Polygon)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>CEX.IO</td>
+<td>Korbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitstamp</td>
+<td>Bitvavo</td>
+<td>Unocoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gemini</td>
+<td>Bitrue</td>
+<td>Pangolin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>Rekeningku.com</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>Giottus</td>
+<td>TOKENCAN</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinone</td>
+<td>Upbit</td>
+<td>GokuMarket</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Liquid</td>
+<td>Paribu</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinlist Pro</td>
+<td>CoinCasso</td>
+<td>Honeyswap</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>CoinEx</td>
+<td>Aryana</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>B2BX</td>
+<td>Hotcoin Global</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitGlobal</td>
+<td>MDEX(BSC)</td>
+<td>BigONE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FMFW.io</td>
+<td>CoinDCX</td>
+<td>Bitazza</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>Currency.com</td>
+<td>Tokenlon</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Uniswap (V3)</td>
+<td>Bitpanda Pro</td>
+<td>Azbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">SushiSwap</td>
+<td>Bitbuy</td>
+<td>CoinZoom</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>Bitbns</td>
+<td>QuickSwap</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">PancakeSwap (V2)</td>
+<td>NovaDAX</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>ZebPay</td>
+<td>Dinosaur Eggs</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ProBit Global</td>
+<td>Narkasa</td>
+<td>Balancer (V2)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>Kuna</td>
+<td>NiceHash</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">CoinFLEX</td>
+<td>Dfyn Network</td>
+<td>LCX Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Compound</td>
+<td>Independent Reserve</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">eToroX</td>
+<td>CoinJar</td>
+<td>LiteBit.eu</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>Lykke Exchange</td>
+<td>digitalexchange.id</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>HitBTC</td>
+<td>TradeOgre</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>Bibox</td>
+<td>Capital DEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bancor Network</td>
+<td>DigiFinex</td>
+<td>Polkaswap</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Indodax</td>
+<td>Hoo</td>
+<td>DragonEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Balancer</td>
+<td>AEX</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Serum DEX</td>
+<td>Dcoin</td>
+<td>BingX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">PancakeSwap</td>
+<td>PayBito</td>
+<td>Decoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">SushiSwap (Polygon)</td>
+<td>Pionex</td>
+<td>Mexo Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Okcoin</td>
+<td>Coinsbit</td>
+<td>LocalTrade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Biconomy Exchange</td>
+<td>ABCC</td>
+<td>Bvnex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ExMarkets</td>
+<td>BKEX</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">XT.COM</td>
+<td>Hotbit</td>
+<td>Kyber Network</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AAX</td>
+<td>Bitay</td>
+<td>SashimiSwap</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+{% include how-to.html coinname="uniswap" coinlink="https://kripto.istanbul/uniswap-nedir/" step1text="Uniswap Uni Coin'i bir veya daha fazla kripto para birimi eşleşmesinde listeleyen bir borsa bulun. Ardından e-posta adresiniz ve şifrenizle kaydolun. En düşük ücretleri ve en yeni döviz kurlarını bulmak için Uniswap Uni Coin satın alırken borsaları karşılaştırın. Not: Birçok borsa, ticaret yapmanıza izin vermeden önce tam adınızı, iletişim bilgilerinizi ve kimlik belgenizi ister." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Borsanız Uniswap Uni Coin'i destekliyorsa, doğrudan TL, dolar, euro, sterlin ya da dilediğiniz başka bir para birimi ile Uniswap Uni Coin satın alabilirsiniz. Bazı borsalar, satın aldığınız Uniswap Uni Coin miktarına bağlı olarak değişen komisyon ücretleri alır, bu nedenle işleminizin maliyetine dikkat edin.Not: Bazı ödeme yöntemleri daha yüksek ücretlere sahiptir ve kredi kartı ödemeleri genellikle en pahalı olanıdır." step4text="İstediğiniz Uniswap Uni Coin eşleşmesini bulmak için seçtiğiniz borsadaki piyasalar bölümüne gidin. Uniswap Uni Coin satın alma bölümüne bakın ve harcamak istediğiniz eşleştirilmiş kripto para birimi miktarını veya satın almak istediğiniz Uniswap Uni Coin miktarını yazın. Not: İşlemi tamamlamadan önce satın aldığınız Uniswap Uni Coin miktarı ve satın almanın toplam maliyeti dahil olmak üzere işlem ayrıntılarınızı dikkatlice inceleyin." %}
