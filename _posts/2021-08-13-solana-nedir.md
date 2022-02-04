@@ -95,4 +95,121 @@ paginate: true
 {% include youtube.html width="560" height="315" id="pk66JHNMfVY" start="0" title="Solana SOL Nedir" %}
 <h4 id="sol16">Solana’ya (SOL) Son Bir Bakış</h4>
 <p>Solana, daha önceki blockchain teknolojisinin deneyimlediği birçok geleneksel sorunu çözüme kavuşturmaya çalışıyor. Solana, işlemleri doğrulamak için yeni bir yapı ve daha verimli bir fikir birliği algoritması gösterir. Platform kesinlikle Bitcoin ve Ethereum ile güçlü bir rakip olacak gibi durmaktadır. Solana, kripto endüstrisindeki hızlı gelişmeleri sadece 10 yıl içinde gösteriyor. Platform, gelişmeye devam ederken kesinlikle dikkat edilmesi gereken bir şey olacak! </p>
+&nbsp;
+<table width="259">
+<tbody>
+<tr>
+<td width="64">Binance</td>
+<td width="131">Bitrue</td>
+<td width="64">Crypto.com Exchange</td>
+</tr>
+<tr>
+<td>Coinbase Exchange</td>
+<td>Biconomy Exchange</td>
+<td>Raydium</td>
+</tr>
+<tr>
+<td>FTX</td>
+<td>XT.COM</td>
+<td>Binance TR</td>
+</tr>
+<tr>
+<td>KuCoin</td>
+<td>WhiteBIT</td>
+<td>ZB.COM</td>
+</tr>
+<tr>
+<td>Huobi Global</td>
+<td>Dex-Trade</td>
+<td>WazirX</td>
+</tr>
+<tr>
+<td>Binance.US</td>
+<td>WOO Network</td>
+<td>MEXC</td>
+</tr>
+<tr>
+<td>FTX US</td>
+<td>Bitvavo</td>
+<td>Tokocrypto</td>
+</tr>
+<tr>
+<td>Kraken</td>
+<td>ExMarkets</td>
+<td>AscendEX (Bitmax)</td>
+</tr>
+<tr>
+<td>Gate.io</td>
+<td>BtcTurk | Pro</td>
+<td>Indodax</td>
+</tr>
+<tr>
+<td>Bitfinex</td>
+<td>BitMart</td>
+<td>Delta Exchange</td>
+</tr>
+<tr>
+<td>Bybit</td>
+<td>Bitexen</td>
+<td>Upbit</td>
+</tr>
+<tr>
+<td>Bithumb</td>
+<td>AAX</td>
+<td>BTCEX</td>
+</tr>
+<tr>
+<td>Coinone</td>
+<td>Deepcoin</td>
+<td>Giottus</td>
+</tr>
+<tr>
+<td>Poloniex</td>
+<td>Paribu</td>
+<td>Bitbns</td>
+</tr>
+<tr>
+<td>Coinlist Pro</td>
+<td>CoinEx</td>
+<td>BitoPro</td>
+</tr>
+<tr>
+<td>Liquid</td>
+<td>Orca</td>
+<td>BankCEX</td>
+</tr>
+<tr>
+<td>Serum DEX</td>
+<td>Bitkub</td>
+<td>MAX Exchange</td>
+</tr>
+<tr>
+<td>OKX</td>
+<td>CEX.IO</td>
+<td>Bitbuy</td>
+</tr>
+<tr>
+<td>LBank</td>
+<td>Rekeningku.com</td>
+<td>HitBTC</td>
+</tr>
+<tr>
+<td>Phemex</td>
+<td>KickEX</td>
+<td>ZebPay</td>
+</tr>
+<tr>
+<td>BitGlobal</td>
+<td>CoinDCX</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>SafeTrade</td>
+<td>NovaDAX</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+{% include how-to.html coinname="solana" coinlink="https://kripto.istanbul/solana-nedir/" step1text="Solana satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Solana SOL coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı SOL Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Solana SOL Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <p><a href="https://kripto.istanbul/uniswap-nedir/" title="Uniswap UNI coin nedir?" target="_blank">Uniswap, kısa adıyla UNI coin nedir?</a></p>
