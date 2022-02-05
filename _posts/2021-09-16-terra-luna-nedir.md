@@ -102,3 +102,79 @@ paginate: true
 <p>Terra kısa süre önce Ethereum ve <a href="https://kripto.istanbul/solana-nedir/" title="Solana Coin nedir?" target="_blank">Solana</a>'dan başlayarak büyük ölçekli çapraz zincir birlikte çalışabilirliği Bittrex Global ile entegre etme planlarını duyurdu. Bu, dünya çapında faydaları arttıkça stablecoin talebinde bir artış izliyor. Ayrıca, Terra'nın yenilikçi ikili jeton modeli, diğer blok zinciri ekosistemlerinin TerraUSD kullanarak ölçeklenmesine yardımcı olacak kadar sağlam olacak şekilde tasarlanmıştır.</p>
 
 <p>Ayrıca, yeni Alice Finans projesi genişlemeye devam ederken, Terra şemsiyesi altında ortaya çıkan birkaç yeni kripto projesi görmeyi bekleyebiliriz. Terra Ağı, geleceğe emin adımlarla giderek yenilikçi çözümleri bünyesinde toplamaya devam edecek gibi görünüyor.</p>
+<h4 id="luna10">Luna Hangi Siteden / Borsadan Alınır</h4>
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">WazirX</td>
+<td style="width: 48pt;" width="64">Bibox</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>AAX</td>
+<td>Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Giottus</td>
+<td>AEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>BitWell</td>
+<td>Hotbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>BitMart</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>WOO Network</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>Bitrue</td>
+<td>Bitazza</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>CoinEx</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>CoinDCX</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>DigiFinex</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>Pionex</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>BitForex</td>
+<td>BitGlobal</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>BKEX</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>LATOKEN</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+{% include how-to.html coinname="luna" coinlink="https://kripto.istanbul/terra-luna-nedir/" step1text="terra luna satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda terra luna coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı terra luna Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık terra luna Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
