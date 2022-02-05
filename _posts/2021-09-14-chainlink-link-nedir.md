@@ -24,6 +24,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#link8">Chainlink Nasıl Kullanılır?</a></li>
 	<li style="padding: 2px;"><a href="#link9">Chainlink Cüzdanı Nasıl Seçilir?</a></li>
 	<li style="padding: 2px;"><a href="#link10">Chainlink'e Son Bir Bakış</a></li>
+	<li style="padding: 2px;"><a href="ChainLink Link Coin Hangi Siteden / Borsadan Alınır?">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</a></li>
 </ol>
 <h1 id="link1">Chainlink (LINK) Nedir?</h1>
 <blockquote cite="https://chain.link/">Chainlink merkezi olmayan oracle ağları, herhangi bir blok zincirinde gelişmiş akıllı sözleşmeleri desteklemek için kurcalamaya dayanıklı girdiler, çıktılar ve hesaplamalar sağlar.</blockquote>
@@ -104,5 +105,196 @@ Chainlink Ağının Güvenliği Nasıl Sağlanır?
 <h4 id="link10">Chainlink'e Son Bir Bakış</h4>
 <p>Chainlink, "oracle problemi" olarak bilinen sorunu çözdü. Oracle sorunu, blockchain ağlarındaki akıllı sözleşmelerle ilgili bir sorundan ve bunların dış dünyadan nasıl tamamen izole edildiğinden kaynaklanıyor. Akıllı sözleşmeler tipik olarak harici verilerini "Oracles" ten (veri noktaları, API'ler) alır - ve sorunun kaynağı budur. Akıllı sözleşmeler, onlara kahinler tarafından iletilen bilgiler kadar "akıllıdır". Akıllı bir sözleşme kötü amaçlı kod veya yanlış verilerle sağlanırsa, sözleşme bunu yine de işleyecektir çünkü bu sadece koddur - ve ortaya çıkan şey tahmin edilemez, yanlış veya daha kötü olacaktır. Chainlink, ekip akıllı sözleşmelerin üzerinde çalıştığı blockchain'in güvenliğini riske atmadan oracle'lardan bilgi alma ve paylaşma konusunda çalıştığında Oracle problemini tamamen çözdü. </p>
 <p>Bu, oracle'lar ve akıllı sözleşmeler arasında bir köprü görevi gören merkezi olmayan bir ağ oluşturarak yapıldı. Bu sistem, her biri kendi başına akıllı sözleşmeler olarak hareket eden, bilgi toplayan ve gerektiğinde sağlayan bireysel düğümlerin bir bağlantı noktasından oluşturulmuştur. Artık, bir kaynağa körü körüne güvenmek yerine, Chainlink ağı üzerinden yürütülen akıllı sözleşmeler, veri beslemeleri, geleneksel banka hesabı ödemeleri ve web API'leri gibi kaynaklara sınırsız erişime sahiptir. </p>
+&nbsp;
+<h4 id="ChainLink Link Coin Hangi Siteden / Borsadan Alınır?">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</h4>
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">TimeX</td>
+<td style="width: 48pt;" width="64">Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>Giottus</td>
+<td>OMGFIN</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Bitrue</td>
+<td>Exrates</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>ExMarkets</td>
+<td>Bitay</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>BtcTurk | Pro</td>
+<td>IndoEx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX</td>
+<td>BITEXLIVE</td>
+<td>Folgory</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Kraken</td>
+<td>CoinEx</td>
+<td>BitUBU</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>KickEX</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX US</td>
+<td>B2BX</td>
+<td>Blockchain.com</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>SecondBTC</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>CoinDCX</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinlist Pro</td>
+<td>MAX Exchange</td>
+<td>Hotcoin Global</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Liquid</td>
+<td>Narkasa</td>
+<td>GokuMarket</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>CoinJar</td>
+<td>BigONE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>Paribu</td>
+<td>Aryana</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>Bitexen</td>
+<td>Tokenlon</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>CoinCasso</td>
+<td>Bitazza</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>CEX.IO</td>
+<td>Azbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ProBit Global</td>
+<td>NovaDAX</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>COSS</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>Currency.com</td>
+<td>OpenOcean</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>Changelly PRO</td>
+<td>CoinZoom</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>DigiFinex</td>
+<td>KULAP</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Raydium</td>
+<td>P2PB2B</td>
+<td>DragonEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Serum DEX</td>
+<td>Hoo</td>
+<td>BingX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">50x</td>
+<td>Hotbit</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">TraderJoe</td>
+<td>Dcoin</td>
+<td>Decoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Deepcoin</td>
+<td>Bibox</td>
+<td>Mexo Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WhiteBIT</td>
+<td>LATOKEN</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Biconomy Exchange</td>
+<td>BKEX</td>
+<td>LocalTrade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitWell</td>
+<td>OceanEx</td>
+<td>Fatbtc</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Dex-Trade</td>
+<td>CoinTiger</td>
+<td>ProBit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AAX</td>
+<td>Bitget</td>
+<td>Bvnex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">XT.COM</td>
+<td>Coinsbit</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WOO Network</td>
+<td>AEX</td>
+<td>Unocoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitMart</td>
+<td>ABCC</td>
+<td>ZebPay</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BTCEX</td>
+<td>Pionex</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
 {% include how-to.html coinname="chainlink" coinlink="https://kripto.istanbul/chainlink-link-nedir/" step1text="chainlink link satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda chainlink link coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı chainlink link Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık chainlink link Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <p><a href="https://kripto.istanbul/ripple-xrp-nedir/" title="XRP Ripple Nedir" target="_blank">Ripple, kısa adıyla XRP coin nedir?</a></p>
