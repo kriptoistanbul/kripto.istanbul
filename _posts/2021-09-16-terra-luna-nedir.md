@@ -24,6 +24,7 @@ paginate: true
 			<li style="padding: 2px;"><a href="#luna7">Mirror Protocol</a></li>
 			<li style="padding: 2px;"><a href="#luna8">Anchor Protocol</a></li>
 			<li style="padding: 2px;"><a href="#luna9">Alice Finance</a></li>
+	<li style="padding: 2px;"><a href="#luna10">Luna Hangi Siteden / Borsadan Alınır</a></li>
 		</ul>
 	<li style="padding: 2px;"><a href="#luna10">Terra Blok Zinciri ve Luna Coin’e Son Bir Bakış</a></li>
 </ol>

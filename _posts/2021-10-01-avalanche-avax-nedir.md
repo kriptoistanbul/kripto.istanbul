@@ -20,6 +20,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#avax4">Avalanche (AVAX) İle Neler Yapılabilir?</a></li>
 	<li style="padding: 2px;"><a href="#avax5">Pangolin DEX Nedir?</a></li>
 	<li style="padding: 2px;"><a href="#avax6">Avalanche'ın (AVAX) Geleceği</a></li>
+	<li style="padding: 2px;"><a href="#avax7">AVAX Hangi Siteden / Borsadan Alınır</a></li>
 </ol>
 <h1 id="avax1">Avalanche (AVAX) Nedir?</h1>
 <blockquote cite="https://www.avax.network/">Avalanche, kesinleşme süresi ile ölçüldüğü üzere blok zinciri endüstrisindeki en hızlı akıllı sözleşmeler platformudur ve herhangi bir hisse ispatı protokolünün etkinliğinde en fazla doğrulayıcıya sahip ağdır.</blockquote>
@@ -63,3 +64,110 @@ paginate: true
 <p>Ana gelişmelerden biri, Avalanche'a bir dizi iyileştirme getirecek olan yaklaşan Apricot yükseltmesidir. Düğümlerin çok kısa bir süre içinde çevrimiçi olmasına izin veren 'doğrulanabilir budama' içerirler; jeton verenler için bir dondurma ve çözme işlevi; ve yerel ERC20 desteği. Şu anda Apricot yükseltmesi için tahmini bir çıkış tarihi yok. </p>
 <p>Bunun ötesinde, katman-2 merkezi olmayan değişim platformu Injective Protocol, platforma çeşitli birlikte çalışabilir türevler getirmek için Avalanche ile entegre olacak. </p>
 <p>Ufukta, daha sonra Avalanche yol haritasındaki en önemli yükseltmelerden biri olan Avalanche'de özel akıllı sözleşmelere izin verecek olan gizlilik odaklı bir sanal makine 'Privacy VM' ekleme planları var. Hayatımıza gireli çok uzun bir zaman olmamış olsa da kısa zamanda büyük işler başaran ve adından sıklıkla söz ettiren Avalanche, gelecekte de bu sektörün ol göstericilerinden birisi olacak gibi görünüyor. </p>
+<h4 id="id7">AVAX Hangi Siteden / Borsadan Alınır</h4>
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">AAX</td>
+<td style="width: 48pt;" width="64">Pionex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>XT.COM</td>
+<td>Bibox</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>BtcTurk | Pro</td>
+<td>Hotbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>Deepcoin</td>
+<td>AEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinbase Exchange</td>
+<td>Giottus</td>
+<td>Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>BitWell</td>
+<td>Bitget</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>KickEX</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX</td>
+<td>Paribu</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>BitMart</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinlist Pro</td>
+<td>CoinEx</td>
+<td>Bitazza</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>BabySwap</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>CoinDCX</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>HitBTC</td>
+<td>BingX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>DigiFinex</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>Bitay</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>BitForex</td>
+<td>ZebPay</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>LATOKEN</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>Hoo</td>
+<td>Folgory</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitrue</td>
+<td>CoinTiger</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WOO Network</td>
+<td>BKEX</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+{% include how-to.html coinname="avax" coinlink="https://kripto.istanbul/avalanche-avax-nedir/" step1text="AVAX Avalanche satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda AVAX Avalanche coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı AVAX Avalanche Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık AVAX Avalanche Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
