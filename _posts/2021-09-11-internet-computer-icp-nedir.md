@@ -76,4 +76,76 @@ paginate: true
 <p>Teknoloji şirketlerinin birincil amacı, her zaman, daha sonra büyük karların üretilmesine izin veren tekelci konumlar oluşturmak olmuştur. Başlangıçta strateji, Microsoft gibi işletim sistemi satıcıları tarafından takip edildi, ancak aynı zamanda internet platformları ve hizmetleri için de hedef haline geldi. Bu, çevrimiçi açık artırma sitelerinden sosyal oyun, daire kiralama, araç paylaşımı, e-posta, arama, çevrimiçi reklamcılık, bulut hizmetleri, SaaS iş sistemleri, sosyal ağlar ve çok daha fazlası aracılığıyla her şeyde görülmüştür. Girişim kapitalistleri, iyi yürütebileceklerine ve kendi alanlarında rekabeti neredeyse imkansız hale getiren bileşik ağ etkileri yaratabilecekleri yeterli kullanıcı ilişkisi ve verisi yakalayabileceklerine inandıkları girişimci girişimleri finanse ediyor, ancak son yıllarda sistem çözülüyor. Zorluk, Big Tech'deki en büyük oyuncuların, yeni internet hizmetleri yaratmanın giderek daha zor hale geldiği ve en büyük tekeller daha küçük tekelleri satın alırken konsolidasyonun durumu daha da kötüleştirdiği yeterli kullanıcı ilişkilerini ele geçirmesidir.</p>
 <p>Sorun, internet hizmetlerinin Programlanabilir Web üzerindeki API'ler aracılığıyla kullanıcı ilişkilerini, verilerini ve işlevlerini paylaşma biçiminden kaynaklanmaktadır. Son yıllarda, Big Tech tarafından sağlanan API'leri geliştirmeyi içeren birçok fırsat var. Örneğin, Zynga öncelikle Facebook üzerinden yayın yaparak en büyük sosyal oyun şirketi oldu, ancak bir gün Facebook kuralları değiştirdi ve 3 ay içinde Zynga'nın 15 milyar dolarlık değerinin %85'i kaybedildi. Daha yakın zamanlarda, LinkedIn binlerce yeni girişimin profesyonel profil veritabanını sorgulamasına ve bunları kendi hizmetlerine dahil etmesine izin veriyordu, ancak Microsoft tarafından satın alındığında Salesforce gibi birkaç Büyük Teknoloji oyuncusu dışında herkes için API erişimini iptal etti. Bunlar, oyundaki “platform riski” örnekleridir. Bu tür şeyler norm haline geldi ve daha küçük teknoloji tekelleri bile endişeli.</p>
 <p>Internet Computer, merkeziyetsiz İnternet yapısının bir parçası olarak çalışan yeni bir tür “açık internet hizmetinin” yaratılmasını destekleyen teknoloji sağlayarak bu sorunu giderir. Bunlar, kullanıcılara verilerinin nasıl işlendiği konusunda daha iyi garantiler sağlayabilir, ancak eşit derecede önemli bir süper güç, asla iptal edilmeyeceğini veya düşürülmeyeceğini garanti edebilecekleri “kalıcı” API'ler oluşturabilmeleridir. Internet Computer'in temel amacı, temel İnternet hizmetlerinin açık biçimde yeniden yapılandırılmasına güç vermektir ve çok daha dinamik, işbirlikçi, daha zengin ve nihayetinde daha başarılı bir internet ekosisteminin oluşumunu sağlamaktır. </p>
+&nbsp;
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">Bitrue</td>
+<td style="width: 48pt;" width="64">BKEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Deepcoin</td>
+<td>Pionex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>BitMart</td>
+<td>Bibox</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinbase Exchange</td>
+<td>CoinEx</td>
+<td>Bitget</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>XT.COM</td>
+<td>Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>WOO Network</td>
+<td>Hotbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Coinlist Pro</td>
+<td>CoinDCX</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>Giottus</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>DigiFinex</td>
+<td>BigONE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>AEX</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>VCC Exchange</td>
+<td>LocalTrade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>LATOKEN</td>
+<td>&nbsp;</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>Hoo</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+{% include how-to.html coinname="icp" coinlink="https://kripto.istanbul/internet-computer-icp-nedir/" step1text="icp satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda icp coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı icp Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık icp Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <p><a href="https://kripto.istanbul/usdc-nedir/" title="USD Coin USDC nedir?" target="_blank">USD Coin, kısa adıyla USDC nedir?</a></p>
