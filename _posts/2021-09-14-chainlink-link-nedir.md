@@ -24,7 +24,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#link8">Chainlink Nasıl Kullanılır?</a></li>
 	<li style="padding: 2px;"><a href="#link9">Chainlink Cüzdanı Nasıl Seçilir?</a></li>
 	<li style="padding: 2px;"><a href="#link10">Chainlink'e Son Bir Bakış</a></li>
-	<li style="padding: 2px;"><a href="ChainLink Link Coin Hangi Siteden / Borsadan Alınır?">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</a></li>
+	<li style="padding: 2px;"><a href="#link11">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</a></li>
 </ol>
 <h1 id="link1">Chainlink (LINK) Nedir?</h1>
 <blockquote cite="https://chain.link/">Chainlink merkezi olmayan oracle ağları, herhangi bir blok zincirinde gelişmiş akıllı sözleşmeleri desteklemek için kurcalamaya dayanıklı girdiler, çıktılar ve hesaplamalar sağlar.</blockquote>
@@ -106,7 +106,7 @@ Chainlink Ağının Güvenliği Nasıl Sağlanır?
 <p>Chainlink, "oracle problemi" olarak bilinen sorunu çözdü. Oracle sorunu, blockchain ağlarındaki akıllı sözleşmelerle ilgili bir sorundan ve bunların dış dünyadan nasıl tamamen izole edildiğinden kaynaklanıyor. Akıllı sözleşmeler tipik olarak harici verilerini "Oracles" ten (veri noktaları, API'ler) alır - ve sorunun kaynağı budur. Akıllı sözleşmeler, onlara kahinler tarafından iletilen bilgiler kadar "akıllıdır". Akıllı bir sözleşme kötü amaçlı kod veya yanlış verilerle sağlanırsa, sözleşme bunu yine de işleyecektir çünkü bu sadece koddur - ve ortaya çıkan şey tahmin edilemez, yanlış veya daha kötü olacaktır. Chainlink, ekip akıllı sözleşmelerin üzerinde çalıştığı blockchain'in güvenliğini riske atmadan oracle'lardan bilgi alma ve paylaşma konusunda çalıştığında Oracle problemini tamamen çözdü. </p>
 <p>Bu, oracle'lar ve akıllı sözleşmeler arasında bir köprü görevi gören merkezi olmayan bir ağ oluşturarak yapıldı. Bu sistem, her biri kendi başına akıllı sözleşmeler olarak hareket eden, bilgi toplayan ve gerektiğinde sağlayan bireysel düğümlerin bir bağlantı noktasından oluşturulmuştur. Artık, bir kaynağa körü körüne güvenmek yerine, Chainlink ağı üzerinden yürütülen akıllı sözleşmeler, veri beslemeleri, geleneksel banka hesabı ödemeleri ve web API'leri gibi kaynaklara sınırsız erişime sahiptir. </p>
 &nbsp;
-<h4 id="ChainLink Link Coin Hangi Siteden / Borsadan Alınır?">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</h4>
+<h4 id="#link11">ChainLink Link Coin Hangi Siteden / Borsadan Alınır?</h4>
 <table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 15.0pt;">
