@@ -21,6 +21,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#5">Litecoin (LTC) Nasıl Çalışır?</a></li>
 	<li style="padding: 2px;"><a href="#6">Litecoin'deki Spekülasyonlar</a></li>
 	<li style="padding: 2px;"><a href="#7">Litecoin'e Yatırım Yapmak Riskli Mi?</a></li>
+	<li style="padding: 2px;"><a href="#8">Litecoin LTC Hangi Siteden / Borsadan Alınır</a></li>
 </ol>
 <h1 id="ltc1">Litecoin (LTC) Nedir?</h1>
 <blockquote cite="https://litecoin.org/">Litecoin, dünyadaki herkese anında, sıfıra yakın maliyetle ödeme yapılmasını sağlayan eşler arası bir İnternet para birimidir. Litecoin, herhangi bir merkezi otorite olmaksızın tamamen merkezi olmayan, açık kaynaklı, küresel bir ödeme ağıdır. Matematik ağın güvenliğini sağlar ve bireylerin kendi mali durumlarını kontrol etmelerini sağlar. Litecoin, önde gelen matematik tabanlı para biriminden daha hızlı işlem onay süreleri ve gelişmiş depolama verimliliği sunar. Önemli endüstri desteği, ticaret hacmi ve likidite ile Litecoin, Bitcoin'i tamamlayan kanıtlanmış bir ticaret aracıdır.</blockquote>
@@ -62,4 +63,230 @@ paginate: true
 <p>Nihayetinde blockchain teknolojisinin nasıl kullanılacağını söylemek zor. Harvard Business Review'dan blockchain teknolojisinin öngörülen benimsenmesi hakkında bir görüş şu şekildedir: “Etki muazzam olsa da, blockchain'in ekonomik ve sosyal altyapımıza sızması onlarca yıl alacak. Teknolojik ve kurumsal değişim dalgaları ivme kazandıkça benimseme süreci ani değil aşamalı ve istikrarlı olacak." Yazarlar şöyle devam ediyor: "Teknolojik inovasyonla ilgili deneyimlerimiz bize bir blok zincir devrimi olacaksa teknolojik, yönetim, örgütsel ve hatta toplumsal olmak üzere birçok engelin ortadan kalkması gerektiğini söylüyor." Blockchain ve kripto para birimi, halihazırda bozmayı amaçladıkları ve devam edebilecekleri sistemlerden kaynaklanan büyük düzenleyici zorluklarla karşı karşıyadır. </p>
 <p>Risk, değişken varlıkları satın almanın doğal bir parçasıdır. Ancak, kripto paranın oynaklığı nedeniyle daha yüksek derecede risk taşıdığını bilmek önemlidir. Kripto para satın alırken, bir alıcı ne kadar kaybetmeyi göze alabileceğini bilmelidir. Kripto para birimi satın alırken, daha yerleşik başka yollardan tasarruf etmek ve yatırım yapmak da yararlı olabilir. Ve her zaman az miktarda kripto satın alma seçeneği vardır, bu da riski biraz azaltır. </p>
 <p>Örneğin, yatırımcılar ve spekülatörler, çeşitlendirilmiş fonlar kullanarak bir hisse senedi ve tahvil portföyü oluşturmayı düşünebilirler. Bu yatırım türleri de dalgalanma yaşayacak olsa da, yatırımcılara zaman içinde değer sağlama konusunda uzun bir geçmişe sahiptirler. Her zaman yatırım yapmanın, kaybetme riski de dahil olmak üzere risk taşıdığını unutmayın. </p>
-<p><a href="https://kripto.istanbul/avalanche-avax-nedir/" title="Avax Coin nedir?" target="_blank">Avalanche ya da kısa adıyla Avax Coin nedir?</a></p>
+<h4 id="ltc8">Litecoin LTC Hangi Siteden / Borsadan Alınır</h4>
+<table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt; width: 48pt;" width="64" height="20">Binance</td>
+<td style="width: 48pt;" width="64">Virtuse Exchange</td>
+<td style="width: 48pt;" width="64">Folgory</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Gate.io</td>
+<td>TimeX</td>
+<td>IndoEx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Huobi Global</td>
+<td>Cryptology</td>
+<td>Pionex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KuCoin</td>
+<td>BITEXLIVE</td>
+<td>CoinField</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bybit</td>
+<td>Biswap</td>
+<td>Nominex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX</td>
+<td>B2BX</td>
+<td>TOKOK</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">FTX US</td>
+<td>BtcTurk | Pro</td>
+<td>BitUBU</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Binance.US</td>
+<td>CoinDCX</td>
+<td>Zonda (BitBay)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Poloniex</td>
+<td>Bitbns</td>
+<td>Fatbtc</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Kraken</td>
+<td>CEX.IO</td>
+<td>STEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bittrex</td>
+<td>Bitsten</td>
+<td>VinDAX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">OKX</td>
+<td>MAX Exchange</td>
+<td>Unocoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ZB.COM</td>
+<td>MDEX(BSC)</td>
+<td>DeversiFi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">LBank</td>
+<td>Coinut</td>
+<td>Hotcoin Global</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Crypto.com Exchange</td>
+<td>Kuna</td>
+<td>Mandala Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">MEXC</td>
+<td>Bitexen</td>
+<td>CoinW</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitGlobal</td>
+<td>NovaDAX</td>
+<td>BigONE</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Phemex</td>
+<td>BitoPro</td>
+<td>Azbit</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AscendEX (Bitmax)</td>
+<td>ZebPay</td>
+<td>GokuMarket</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ProBit Global</td>
+<td>Changelly PRO</td>
+<td>Koinbazar</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Tokocrypto</td>
+<td>Dcoin</td>
+<td>Aryana</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WazirX</td>
+<td>DigiFinex</td>
+<td>NiceHash</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">50x</td>
+<td>AEX</td>
+<td>CoinZoom</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ProBit</td>
+<td>ATAIX</td>
+<td>Zipmex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitrue</td>
+<td>CBX</td>
+<td>bit4you</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Deepcoin</td>
+<td>P2PB2B</td>
+<td>Dove Wallet</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">StormGain</td>
+<td>Bitget</td>
+<td>Ecxx</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WhiteBIT</td>
+<td>ZBG</td>
+<td>DragonEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Biconomy Exchange</td>
+<td>Coinsbit</td>
+<td>BingX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Dex-Trade</td>
+<td>CoinTiger</td>
+<td>Jubi</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">XT.COM</td>
+<td>Hoo</td>
+<td>Decoin</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitWell</td>
+<td>Hotbit</td>
+<td>Mexo Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Paritex</td>
+<td>BKEX</td>
+<td>BitClover (Hotbit Korea)</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">WOO Network</td>
+<td>BW.com</td>
+<td>LocalTrade</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">BitMart</td>
+<td>Bibox</td>
+<td>Tidex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Bitfront</td>
+<td>BTC-Alpha</td>
+<td>Bvnex</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">AAX</td>
+<td>Bitay</td>
+<td>BITEXBOOK</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">ExMarkets</td>
+<td>Cat.Ex</td>
+<td>VCC Exchange</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Polyx</td>
+<td>BitForex</td>
+<td>Bgogo</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Emirex</td>
+<td>OceanEx</td>
+<td>VELIC</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">KickEX</td>
+<td>LATOKEN</td>
+<td>Birake Network</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Giottus</td>
+<td>OMGFIN</td>
+<td>Serenity</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">CoinEx</td>
+<td>YunEx</td>
+<td>BankCEX</td>
+</tr>
+<tr style="height: 15.0pt;">
+<td style="height: 15.0pt;" height="20">Alterdice</td>
+<td>Exrates</td>
+<td>MOV</td>
+</tr>
+</tbody>
+</table>
+{% include how-to.html coinname="litecoin" coinlink="https://kripto.istanbul/litecoin-ltc-nedir/" step1text="Litecoin LTC satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda Litecoin LTC coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı Litecoin LTC Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık Litecoin LTC Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
+<p><a href="https://kripto.istanbul/dogecoin-doge-nedir/" title="Doge Coin nedir?" target="_blank">Doge coin nedir?</a></p>
