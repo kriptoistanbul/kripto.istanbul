@@ -25,7 +25,7 @@ paginate: true
 			<li style="padding: 2px;"><a href="#icp8">Varsayılan Olarak Güvenli Olan Sistemlere Güç Vererek</a></li>
 			<li style="padding: 2px;"><a href="#icp9">Zayıflayan BT Karmaşıklığını, Maliyetleri ve Gecikmeleri Düzelterek</a></li>
 			<li style="padding: 2px;"><a href="#icp10">“Açık İnternet Hizmetlerini” Güçlendirmek ve Büyük Teknoloji Tekellerini Sonlandırmak</a></li>
-	<li style="padding: 2px;"><a href="ICP Hangi Siteden / Borsadan Alınır?">ICP Hangi Siteden / Borsadan Alınır?</a></li>
+	<li style="padding: 2px;"><a href="#icp11">ICP Hangi Siteden / Borsadan Alınır?</a></li>
 		</ul>
 </ol>
 <h1 id="icp1">Internet Computer (ICP) Nedir?</h1>
@@ -78,7 +78,7 @@ paginate: true
 <p>Sorun, internet hizmetlerinin Programlanabilir Web üzerindeki API'ler aracılığıyla kullanıcı ilişkilerini, verilerini ve işlevlerini paylaşma biçiminden kaynaklanmaktadır. Son yıllarda, Big Tech tarafından sağlanan API'leri geliştirmeyi içeren birçok fırsat var. Örneğin, Zynga öncelikle Facebook üzerinden yayın yaparak en büyük sosyal oyun şirketi oldu, ancak bir gün Facebook kuralları değiştirdi ve 3 ay içinde Zynga'nın 15 milyar dolarlık değerinin %85'i kaybedildi. Daha yakın zamanlarda, LinkedIn binlerce yeni girişimin profesyonel profil veritabanını sorgulamasına ve bunları kendi hizmetlerine dahil etmesine izin veriyordu, ancak Microsoft tarafından satın alındığında Salesforce gibi birkaç Büyük Teknoloji oyuncusu dışında herkes için API erişimini iptal etti. Bunlar, oyundaki “platform riski” örnekleridir. Bu tür şeyler norm haline geldi ve daha küçük teknoloji tekelleri bile endişeli.</p>
 <p>Internet Computer, merkeziyetsiz İnternet yapısının bir parçası olarak çalışan yeni bir tür “açık internet hizmetinin” yaratılmasını destekleyen teknoloji sağlayarak bu sorunu giderir. Bunlar, kullanıcılara verilerinin nasıl işlendiği konusunda daha iyi garantiler sağlayabilir, ancak eşit derecede önemli bir süper güç, asla iptal edilmeyeceğini veya düşürülmeyeceğini garanti edebilecekleri “kalıcı” API'ler oluşturabilmeleridir. Internet Computer'in temel amacı, temel İnternet hizmetlerinin açık biçimde yeniden yapılandırılmasına güç vermektir ve çok daha dinamik, işbirlikçi, daha zengin ve nihayetinde daha başarılı bir internet ekosisteminin oluşumunu sağlamaktır. </p>
 &nbsp;
-<h4 id="ICP Hangi Siteden / Borsadan Alınır?">ICP Hangi Siteden / Borsadan Alınır?</h4>
+<h4 id="icp11">ICP Hangi Siteden / Borsadan Alınır?</h4>
 <table style="border-collapse: collapse; width: 144pt;" border="0" width="192" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="height: 15.0pt;">
