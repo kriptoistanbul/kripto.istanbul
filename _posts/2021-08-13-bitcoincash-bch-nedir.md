@@ -3,7 +3,7 @@ date: 2021-08-13 16:26:40
 layout: post
 title: Bitcoin Cash -BCH- Nedir?
 subtitle: Bitcoin Cash Nedir? Bitcoin Cash Bir Ödeme Yöntemi Olarak Kullanılabilir Mi?
-description: Bitcoin Cash, Bitcoin'in "Eşler Arası Elektronik Nakit" olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor.
+description: Bitcoin Cash Bitcoin'in Eşler Arası Elektronik Nakit olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor
 image: /assets/img/posts-img/bch/bch-bitcoin-cash coin-nedir.webp
 category: Kripto Paralar
 tags:
