@@ -81,8 +81,8 @@ Bu uygulamalara ek olarak, yeni DeFi konseptleri de ortaya çıktı:
 Borç verme piyasaları, borçluları kripto para birimlerini borç verenlere bağlayan popüler bir DeFi biçimidir. Popüler bir platform olan Compound, kullanıcıların kripto para birimlerini ödünç almalarına veya kendi kredilerini sunmalarına olanak tanır. Kullanıcılar, paralarını ödünç vermek için faizden para kazanabilirler. Sistem, bileşik faiz oranlarını algoritmik olarak belirler, böylece bir kripto para birimini ödünç almak için daha yüksek talep varsa, faiz oranları daha da yükselir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/defi/defi-coin.webp">
-  <img src="/assets/img/posts-img/defi/defi-eth-btc.webp" alt="defi coin proje" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/defi/defi-eth-btc.webp">
+  <img src="/assets/img/posts-img/defi/defi-coin.webp" alt="defi coin proje" style="width:auto;">
 </picture>
 <p>
 DeFi kredisi teminat tabanlıdır, yani bir krediyi almak için bir kullanıcının teminat - genellikle Ethereum'a güç veren jeton olan ether - koyması gerekir. Bu, kullanıcıların kredi almak için kimliklerini veya ilişkili kredi puanlarını vermedikleri anlamına gelir; bu, DeFi kredilerin normal işleyiş şeklidir.
@@ -94,8 +94,8 @@ DeFi kredisi teminat tabanlıdır, yani bir krediyi almak için bir kullanıcın
 DeFi'nin başka bir biçimi de stabilcoindir. Kripto para birimleri genellikle fiat'tan yani itibari paralardan daha keskin fiyat dalgalanmaları yaşar ve bu, paralarının bir hafta sonra değerinin ne kadar olacağını bilmek isteyenler için sağlıklı bir durum değildir. Stablecoins, fiyatı kontrol altında tutmak için kripto para birimlerini ABD doları gibi kripto para olmayan para birimlerine bağlar. Adından da anlaşılacağı gibi, stabilcoinler fiyat "istikrarı" getirmeyi hedefler.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/defi/defi-ne-demek.webp">
-  <img src="/assets/img/posts-img/defi/defi-projeleri.webp" alt="defi ne demek coin" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/defi/defi-projeleri.webp">
+  <img src="/assets/img/posts-img/defi/defi-ne-demek.webp" alt="defi ne demek coin" style="width:auto;">
 </picture>
 <h4 id="6">Tahmin Piyasaları Nedir?</h4>
 <p>
