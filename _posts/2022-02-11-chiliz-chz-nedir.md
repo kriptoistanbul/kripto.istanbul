@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17 17:40:00
+date: 2022-02-17 15:15:00
 layout: post
 title: Chiliz (CHZ) Nedir?
 subtitle: Chiliz CHZ Coin Nedir? Amacı ve Geleceği Nedir? Fan Token Nedir? CHZ Projesi Nedir?

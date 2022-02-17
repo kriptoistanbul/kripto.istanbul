@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17 15:10:00
+date: 2022-02-17 11:10:00
 layout: post
 title: Cosmos (ATOM) Nedir?
 subtitle: Cosmos atom Nedir? Atom kimin? Kaç adet Atom coin var? Atom coin yorum
