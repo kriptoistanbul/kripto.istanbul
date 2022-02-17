@@ -78,7 +78,7 @@ Elrond’un geliştiricileri 2021’i blok zinciri için ileriye doğru büyük 
   <img src="/assets/img/posts-img/egld/elrond-coin-nedir-ne-ise-yarar.webp" alt="elrond egld coin yorum 2022" style="width:auto;">
 </picture>
 <p>
-Elrond ayrıca, gerçek dünya verilerini Elrond blok zincirine getirmek için zincirler arası oracle'ı uygulamak için Band Protokolü ile bir ortaklık duyurdu.
+Ayrıca Elrond,gerçek dünya verilerini Elrond blok zincirine getirmek için zincirler arası oracle'ı uygulamak için Band Protokolü ile bir ortaklık duyurdu.
 </p>
 <p>
 Elrond geliştirici ekibi 2021 yılından umutlular. Elrond'un gelecekte nasıl bir yol izleyeceğini görmek ilginç olacak.
