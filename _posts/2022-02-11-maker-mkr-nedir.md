@@ -38,8 +38,8 @@ kanıtlandı. MakerDAO, fiyat dalgalanmalarına karşı bir karşı ağırlık o
 hareket etmek için MKR belirtecini kullanır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/mkr/coin-al.webp">
-  <img src="/assets/img/posts-img/mkr/mkr-grafik-1-dolar.webp" alt="1 mkr kaç dolar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/mkr/mkr-grafik-1-dolar.webp">
+  <img src="/assets/img/posts-img/mkr/coin-al.webp" alt="1 mkr kaç dolar" style="width:auto;">
 </picture>
 <h2 id="2">Maker’ı (MKR) Özel Yapan Şey Nedir?</h2>
 <p>
@@ -65,8 +65,8 @@ bir senaryo için bir çözümdür. Teminat sistemi DAI'nin değerini karşılam
 yetmiyorsa, MKR oluşturulur ve ek teminat elde etmek için piyasaya satılır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/mkr/alt-coin-white-paper.webp">
-  <img src="/assets/img/posts-img/mkr/alt-coin-nft.webp" alt="maker coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/mkr/alt-coin-nft.webp">
+  <img src="/assets/img/posts-img/mkr/alt-coin-white-paper.webp" alt="maker coin nedir" style="width:auto;">
 </picture>
 <p>
 Daha önce MakerDAO olarak bilinen Maker Platformu, DAI ve ayrıca MKR için
