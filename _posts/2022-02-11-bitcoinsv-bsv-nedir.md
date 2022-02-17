@@ -32,9 +32,9 @@ Bitcoin'in 2009'da piyasaya sürülmesinden bu yana, blockchain ağı ve onun te
 Bitcoin'i iyileştirme çabasının dikkate değer bir örneği, 2017'de gerçekleşen Bitcoin Cash (BCH) çatalıydı. Bitcoin Cash, kurumsal ölçeklenebilirliği ve blok zinciri ve kripto para birimlerinin kitlesel olarak benimsenmesini teşvik etmek için Bitcoin'in işlem hızını ve genel işlem hacmini artırmaya çalıştı. 2018'de Bitcoin Cash'in hard fork'u, Bitcoin SV blok zincirini ve onun temelindeki varlık BSV'yi ortaya çıkardı. Bitcoin SV'nin belirtilen amacı, orijinal Bitcoin protokolünün teknolojik olarak daha gelişmiş bir devamı haline gelmektir - ağ işlem hızlarını artırmaya ve büyük ölçüde artırılmış ölçeklenebilirliği sağlamaya odaklanmıştır. Bunu akılda tutarak, Bitcoin SV, "Bitcoin Satoshi Vision" anlamına gelir çünkü blockchain projesi ve kripto para birimi, Bitcoin'in gizli kurucusu Satoshi Nakamoto'nun vizyonunu yürütmeyi amaçlamaktadır. Bitcoin SV'nin yaratıcısı Craig Wright'ın Nakamoto olduğunu iddia etmesi tesadüf değil.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bsv/bitcoin-sv-ne-zaman.webp">
-  <img src="/assets/img/posts-img/bsv/bsv-grafik.webp" alt="Bitcoin SV Nedir" style="width:auto;">
-</picture>
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bsv/bsv-grafik.webp">
+  <img src="/assets/img/posts-img/bsv/bitcoin-sv-ne-zaman.webp" alt="Bitcoin SV Nedir" style="width:auto;">
+</picture>bitcoin-sv-ne-zaman.webp
 <h2 id="2">Bitcoin SV (BSV) Ne Zaman Çıktı</h2>
 
 
@@ -60,8 +60,8 @@ Prensip olarak, Bitcoin SV'nin savunucuları, orijinal Bitcoin protokolünün so
 Bu mantıkla Bitcoin, yeni geliştirilen bir zincir dışı işleme çözümünü etkinleştirmek için SegWit'i uyguladığında kendi orijinal protokol tasarımını reddetti. Ayrıca, Bitcoin Cash (başlangıçta) orijinal Bitcoin protokolünün (yeni ticker sembolüne rağmen) gerçek bir devamı oldu çünkü net-yeni teknolojiler sunmadı ve blok boyutunu 1MB'den 32MB'ye yükselterek mevcut işlevsellikleri genişletti. Bununla birlikte, Bitcoin Cash, protokollerinde daha yapısal değişiklikler yapmaya devam etti ve bu, Bitcoin SV'yi oluşturan Bitcoin Cash'in hard fork yapmasına yol açtı. Bu nedenle, kendi topluluğunun inancı, Bitcoin SV'nin de farklı bir ticker sembolüne sahip olmasına rağmen, orijinal Bitcoin blok zinciri ağının tek gerçek devamıdır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bsv/kac-bsv-var.webp">
-  <img src="/assets/img/posts-img/bsv/bsv-fiyat.webp" alt="bsv grafik ve fiyat" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/bsv/bsv-fiyat.webp">
+  <img src="/assets/img/posts-img/bsv/kac-bsv-var.webp" alt="bsv grafik ve fiyat" style="width:auto;">
 </picture>
 <h3 id="3">Bitcoin SV Protokolü Teknik Yapısı</h3>
 

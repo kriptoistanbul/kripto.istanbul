@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17 14:10:00
+date: 2022-02-17 15:25:00
 layout: post
 title: Kusama (KSM) Nedir?
 subtitle: Kusama Coin Nedir? Nereden Alınır? Güvenli Mi? Polkadot ile Kusama Farkı Nedir? Kusama Coin yorum 2022
