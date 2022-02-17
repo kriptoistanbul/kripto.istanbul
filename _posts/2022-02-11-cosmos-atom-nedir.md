@@ -57,8 +57,8 @@ Cosmos, 2014 yılında Jae Kwon tarafından oluşturulan konsensüs protokolü T
 </li>
 </ul>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/2022-cosmos-coin.webp">
-  <img src="/assets/img/posts-img/atom/atom-grafik.webp" alt="atom ağı" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/atom-grafik.webp">
+  <img src="/assets/img/posts-img/atom/2022-cosmos-coin.webp" alt="atom ağı" style="width:auto;">
 </picture>
 <h2 id="3">Cosmos (ATOM) Ağını Özel Yapan Şey Nedir?</h2>
 
@@ -102,8 +102,8 @@ Cosmos, Tendermint konsensüs motoru etrafında oluşturulmuş birkaç platformd
 </ul>
 <p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/atom-al.webp">
-  <img src="/assets/img/posts-img/atom/atom-yorum-fiyat.webp" alt="cosmos ağı" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/atom-yorum-fiyat.webp">
+  <img src="/assets/img/posts-img/atom/atom-al.webp" alt="cosmos ağı" style="width:auto;">
 </picture>
 <h3 id="5">Cosmos Ağında ATOM’un Yeri</h3>
 </p>
@@ -117,8 +117,8 @@ Cosmos ağının yerel belirteçlerine ATOM'lar denir. ATOM'lara sahip olmak, sa
 Cosmos, bir teminat kanıtı (Proof of Stake - PoS) fikir birliği mekanizması üzerinde çalışır. Bu, ATOM sahiplerinin kendi onaylayıcı düğümlerini çalıştırarak veya ATOM paralarını bir doğrulayıcıya devrederek stake etme yoluyla ağın blok ödüllerinden ve işlem ücretlerinden bir pay kazanabilecekleri anlamına gelir. Doğrulayıcılar, ATOM'larını stake eder veya kilitler ve yeni bloklar önererek ve işlemleri doğrulayarak Cosmos ağını koruyan özel bir yazılım çalıştırır. ATOM sahipleri, onaylayıcı yazılımını kendileri çalıştırmak yerine ATOM coin'lerini doğrulayıcılarla devretmeyi de seçebilirler, bu da stake etme ödüllerinin bir kısmını yine de almalarına izin verir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/atom-coin-yorum.webp">
-  <img src="/assets/img/posts-img/atom/cosmos-nedir.webp" alt="dApp atom" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/cosmos-nedir.webp">
+  <img src="/assets/img/posts-img/atom/atom-coin-yorum.webp" alt="dApp atom" style="width:auto;">
 </picture>
 <h3 id="6">Cosmos Üzerine Kurulu dApp</h3>
 <p>
@@ -143,8 +143,8 @@ Akıllı sözleşmeleri barındırabilen birlikte çalışabilir, yüksek oranda
 Cosmos protokolündeki her değişiklik, yükseltme veya özellik etkinleştirmesi, ATOM sahiplerinin onayına bağlıdır. Cosmos ağı nispeten yakın zamanda piyasaya sürüldüğü ve hala geliştirme aşamasında olduğu için, whitepaper'ında ortaya konan vizyon henüz tam olarak anlaşılabilmiş değildir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/atom-ne-kadar.webp">
-  <img src="/assets/img/posts-img/atom/nasil-atom-alinir.webp" alt="atom cosmos yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/atom/nasil-atom-alinir.webp">
+  <img src="/assets/img/posts-img/atom/atom-ne-kadar.webp" alt="atom cosmos yorum" style="width:auto;">
 </picture>
 <p>
 Bununla birlikte, Stargate yükseltmesinin başlatılmasıyla birlikte, blok zincirleri artık geliştiricilerin inşa etmekte özgür oldukları Inter-Blockchain Communication (IBC) protokolü sayesinde birbirleriyle iletişim kurabilir. Bunun da ötesinde, Stargate yükseltmesi, otomatik yükseltmeleri, tam özellikli hafif istemcileri ve 100 kat verimlilik kazanımlarını beraberinde getirerek Cosmos'u hesaba katılması gereken bir güç haline getiriyor. Geleceği şekillendirecek kadar ileri görüşlü olan bu şirketin önümüzdeki yıllarda adından daha da çok bahsettirmesi olası.
