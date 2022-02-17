@@ -39,8 +39,8 @@ gerçekleştirmenin tek yolu olduğundan, bunlar kripto para birimi ekosistemini
 kritik bir parçasıdır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/wallet/kripto-cuzdan.webp">
-  <img src="/assets/img/posts-img/wallet/en-güvenli.webp" alt="kripto cüzdan nasıl oluşturulur" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/wallet/en-güvenli.webp">
+  <img src="/assets/img/posts-img/wallet/kripto-cuzdan.webp" alt="kripto cüzdan nasıl oluşturulur" style="width:auto;">
 </picture>
 <p>
 Daha çok "kripto cüzdanları" olarak bilinirler, blockchain arabasının
@@ -112,8 +112,8 @@ yalnızca bir sahibin telefonu, değişim cüzdanının kimlik doğrulama hizmet
 tarafından gönderilen bir erişim talebini onaylayabilir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/wallet/kripto-para-cuzdan.webp">
-  <img src="/assets/img/posts-img/wallet/kripto-para-soguk-cuzdan.webp" alt="en iyi soğuk cüzdan" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/wallet/kripto-para-soguk-cuzdan.webp">
+  <img src="/assets/img/posts-img/wallet/kripto-para-cuzdan.webp" alt="en iyi soğuk cüzdan" style="width:auto;">
 </picture>
 <p>
 Merkezi cüzdan hizmetleri geçmişte kazançlı hedeflerdi çünkü bilgisayar

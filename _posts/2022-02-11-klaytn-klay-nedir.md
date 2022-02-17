@@ -37,8 +37,8 @@ gerçekleştirmiştir. 4.000 TPS'lik (Saniyedeki İşlem) yüksek performansına
 ulaşmıştır. Bu performansın sürekli artması planlanıyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/klay/klaytn-nft-proje.webp">
-  <img src="/assets/img/posts-img/klay/klaytn-nft-ne.webp" alt="klaytn klay coin ne" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/klay/klaytn-nft-ne.webp">
+  <img src="/assets/img/posts-img/klay/klaytn-nft-proje.webp" alt="klaytn klay coin ne" style="width:auto;">
 </picture>
 <p>
 Şu anda, en büyük dapp bloglarondan birisi olan Dapp.com'da hem 24 saatlik hem
@@ -64,8 +64,8 @@ izlenebilirlik, değişmezlik ve anonimlik gibi kendine özgü özelliklerini
 kullanabilir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/klay/klay-geckoland.webp">
-  <img src="/assets/img/posts-img/klay/klay-coin-yorum-2022.webp" alt="klaytn klay coin proje" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/klay/klay-coin-yorum-2022.webp">
+  <img src="/assets/img/posts-img/klay/klay-geckoland.webp" alt="klaytn klay coin proje" style="width:auto;">
 </picture>
 <h2 id="3">Klaytn (KLAY) Nasıl Çalışır?</h2>
 <p>

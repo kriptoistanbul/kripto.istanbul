@@ -40,8 +40,8 @@ Kusama'nın önemli bir rol oynadığı adil ve merkezi olmayan bir internet
 oluşturmaya odaklanarak büyüyen Web 3.0 ekosistemini desteklemektedir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ksm/ksm-proje.webp">
-  <img src="/assets/img/posts-img/ksm/ksm-gelecegi.webp" alt="1 kusama kaç dolar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ksm/ksm-gelecegi.webp">
+  <img src="/assets/img/posts-img/ksm/ksm-proje.webp" alt="1 kusama kaç dolar" style="width:auto;">
 </picture>
 <p>
 Polkadot'a benzer şekilde Kusama, çeşitli işlevlere sahip farklı blok
@@ -91,8 +91,8 @@ uygulamalarını Polkadot'ta konuşlandırmadan önce test etmek için de kullan
 Foundation'ın en son teknoloji araçlarını sunar.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ksm/kus-para.webp">
-  <img src="/assets/img/posts-img/ksm/love-coin.webp" alt="kusama coin yorum 2022" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/ksm/love-coin.webp">
+  <img src="/assets/img/posts-img/ksm/kus-para.webp" alt="kusama coin yorum 2022" style="width:auto;">
 </picture>
 <p>
 2020 boyunca Kusama, Chainlink gibi bazı büyük blockchain projelerine dahil
