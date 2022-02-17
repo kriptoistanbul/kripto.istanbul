@@ -1,5 +1,5 @@
 ---
-date: 2021-09-07 22:26:40
+date: 2022-02-17 15:20:00
 layout: post
 title: USD Coin -USDC- Nedir?
 subtitle: USD Coin Nedir? USD Coin Gerçek Dolar Mıdır?
