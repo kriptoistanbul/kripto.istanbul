@@ -28,8 +28,8 @@ sistemdir. Filecoin protokolü, yerel bir belirteç ve dağıtılmış defter il
 oluşturulmuş, eşler arası dosya sistemi IPFS'nin üstünde bir teşvik katmanıdır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/to-moon.webp">
-  <img src="/assets/img/posts-img/fil/fil-coin.webp" alt="fil geleceği" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/fil-coin.webp">
+  <img src="/assets/img/posts-img/fil/to-moon.webp" alt="fil geleceği" style="width:auto;">
 </picture>
 <p>
 Filecoin, Protocol Labs ve CEO'su Juan Benet tarafından başlatılan bir projedir.
@@ -56,8 +56,8 @@ dış kaynaklı verilerin kararlaştırılan bir süre boyunca depolanması anla
 gelir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/köpekli-para.webp">
-  <img src="/assets/img/posts-img/fil/nedir-coin.webp" alt="file coin ne zaman kaç tane" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/nedir-coin.webp">
+  <img src="/assets/img/posts-img/fil/köpekli-para.webp" alt="file coin ne zaman kaç tane" style="width:auto;">
 </picture>
 <h2 id="2">Filecoin Ne Zaman ve Kaç Tane Üretildi</h2>
 <p>
@@ -80,8 +80,8 @@ ilk çeyreğinde devreye gireceği tahmin ediliyordu, ancak yol haritası 2.
 yapıldı.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/fil-coin-ne.webp">
-  <img src="/assets/img/posts-img/fil/filecoin-fil-coin-kimin.webp" alt="fil coin kimin" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/filecoin-fil-coin-kimin.webp">
+  <img src="/assets/img/posts-img/fil/fil-coin-ne.webp" alt="fil coin kimin" style="width:auto;">
 </picture>
 <h2 id="3">Filecoin Nasıl Çalışır?</h2>
 <p>
@@ -120,8 +120,8 @@ orantılıdır. Bir blok madenciliği yaparken, her madencinin ağa bir uzay zam
 kanıtı (PoSt) sunması gerekir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/grafik.webp">
-  <img src="/assets/img/posts-img/fil/filecoin-agi.webp" alt="fil coin ne kadar grafik" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fil/filecoin-agi.webp">
+  <img src="/assets/img/posts-img/fil/grafik.webp" alt="fil coin ne kadar grafik" style="width:auto;">
 </picture>
 <p>
 Kurtarma madencileri veri alışverişinde bulunur ve zincir dışı ödeme alır.

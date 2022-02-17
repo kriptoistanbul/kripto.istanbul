@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17 14:00:00
+date: 2022-02-17 15:22:00
 layout: post
 title: Klaytn (KLAY) Nedir?
 subtitle: Klaytn Nedir? KLAY Güvenli Mi? KLAY Coin Yorum 2022

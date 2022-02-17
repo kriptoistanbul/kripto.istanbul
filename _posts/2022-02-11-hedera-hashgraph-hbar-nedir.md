@@ -37,8 +37,8 @@ gerçekleştirmesine yardımcı olmak için tasarlanmıştır ve bu da onu Visa 
 toplu pazar ödeme sistemleri için gerçek bir rakip haline getirir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hbar/hbar-grafik.webp">
-  <img src="/assets/img/posts-img/hbar/hedera-gelecek.webp" alt="hbar yükselir mi" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hbar/hedera-gelecek.webp">
+  <img src="/assets/img/posts-img/hbar/hbar-grafik.webp" alt="hbar yükselir mi" style="width:auto;">
 </picture>
 <p>
 Hedera ağı şu anda 5 saniyelik ortalama işlem süresiyle günde 6,5 milyon işlem
@@ -100,8 +100,8 @@ işlemler paralel olarak işlenebilir. Bir işlemin ağ tarafından gönderilmes
 onaylanması (yüzde 100 kesinlikle) yalnızca birkaç saniye sürer.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hbar/hbar-proje.webp">
-  <img src="/assets/img/posts-img/hbar/hedera-kimin.webp" alt="hedera proje" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hbar/hedera-kimin.webp">
+  <img src="/assets/img/posts-img/hbar/hbar-proje.webp" alt="hedera proje" style="width:auto;">
 </picture>
 <p>
 Hedera Hashgraph platformu, akıllı sözleşmeler için yaygın olarak kullanılan

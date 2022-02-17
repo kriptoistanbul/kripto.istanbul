@@ -37,8 +37,8 @@ yapılan hata sert çatallanmaların (Hard Fork) yumuşak çatallanmalarla (Soft
 Fork) karıştırılmasıdır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/hard-fork-iyi-mi.webp">
-  <img src="/assets/img/posts-img/hard/bitcoin-hard-fork.webp" alt="hard fork nedir ne demek" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/bitcoin-hard-fork.webp">
+  <img src="/assets/img/posts-img/hard/hard-fork-iyi-mi.webp" alt="hard fork nedir ne demek" style="width:auto;">
 </picture>
 <h2 id="2">Hard Fork Fiyatı Nasıl Etkiler</h2>
 <p>
@@ -89,8 +89,8 @@ zincirinin tersine çevirmek için bir hard fork oluşturması gibi) bir hard fo
 uygulayabilmesinin birkaç nedeni vardır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/alonzo-sert-catallanma.webp">
-  <img src="/assets/img/posts-img/hard/ethereum-london.webp" alt="alonzo hard fork" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/ethereum-london.webp">
+  <img src="/assets/img/posts-img/hard/alonzo-sert-catallanma.webp" alt="alonzo hard fork" style="width:auto;">
 </picture>
 <p>
 Örneğin DAO’nun hack’lenmesinin ardından Ethereum topluluğu, isimsiz bir
@@ -123,8 +123,8 @@ ancak sert çatal iki blok zinciri oluşturur ve yumuşak çatalın bir sonuç v
 amaçlanır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/kripto-sert-catal.webp">
-  <img src="/assets/img/posts-img/hard/londra.webp" alt="2022 hard fork ethereum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/hard/londra.webp">
+  <img src="/assets/img/posts-img/hard/kripto-sert-catal.webp" alt="2022 hard fork ethereum" style="width:auto;">
 </picture>
 <p>
 Sert ve yumuşak çatallar arasındaki güvenlik farkları göz önünde

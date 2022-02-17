@@ -37,8 +37,8 @@ Bu tür bir hız ve ölçeklenebilirlik göz önüne alındığında, Elrond ken
 Elrond, ağ genelinde eGold (EGLD) belirtecini kullanır; Temmuz 2020 ana ağ lansmanı EGLD'yi hayata geçirmeden önce, Elrond artık kullanılmayan ERD jetonunu kullanıyordu. Elrond, kullanıcıların ana ağ devreye girdikten sonra 1000 ERD'yi 1 EGLD ile takas etmesine izin verdi.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/egld/defi.webp">
-  <img src="/assets/img/posts-img/egld/egld-nedir.webp" alt="egld nedir ne işe yarar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/egld/egld-nedir.webp">
+  <img src="/assets/img/posts-img/egld/defi.webp" alt="egld nedir ne işe yarar" style="width:auto;">
 </picture>
 <h2 id="2">Elrond (EGLD) Nasıl Çalışır?</h2>
 
@@ -74,8 +74,8 @@ EGLD belirteci; işlemler, doğrulayıcı ödülleri, yönetim, stake etme ve ak
 Elrond’un geliştiricileri 2021’i blok zinciri için ileriye doğru büyük bir sıçrama olarak görüyor. Ocak ayında bir "100 günlük hiper büyüme" kampanyası başlatan ekip, stake etme yeteneklerini geliştirme, DeFi işlevselliğini genişletme ve blok zincirinde merkezi olmayan bir değişim başlatma planlarıyla birlikte ana ağ yükseltmeleri yayınlıyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/egld/elrond-whitepaper.webp">
-  <img src="/assets/img/posts-img/egld/elrond-coin-nedir-ne-ise-yarar.webp" alt="elrond egld coin yorum 2022" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/egld/elrond-coin-nedir-ne-ise-yarar.webp">
+  <img src="/assets/img/posts-img/egld/elrond-whitepaper.webp" alt="elrond egld coin yorum 2022" style="width:auto;">
 </picture>
 <p>
 Ayrıca Elrond,gerçek dünya verilerini Elrond blok zincirine getirmek için zincirler arası oracle'ı uygulamak için Band Protokolü ile bir ortaklık duyurdu.

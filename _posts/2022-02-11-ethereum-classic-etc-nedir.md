@@ -37,8 +37,8 @@ tür uygulamaların örnekleri, sistem otomatik vezne makineleri (ATM) ve Bitcoi
 sistemini içerir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/etc-yüksel.webp">
-  <img src="/assets/img/posts-img/etc/eth-gelecek.webp" alt="etc geleceği" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/eth-gelecek.webp">
+  <img src="/assets/img/posts-img/etc/etc-yüksel.webp" alt="etc geleceği" style="width:auto;">
 </picture>
 <h2 id="2">Ethereum Classic (ETC) Ne İşe Yarar</h2>
 <p>
@@ -73,8 +73,8 @@ Ethereum'un kendisiydi. Bölme, çalınan fonları, hacklenmeden önceki kayıtl
 göre orijinal sahiplerine iade etmek için yapıldı.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/etc-kazilir-mi.webp">
-  <img src="/assets/img/posts-img/etc/eth.webp" alt="etc grafik" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/eth.webp">
+  <img src="/assets/img/posts-img/etc/etc-kazilir-mi.webp" alt="etc grafik" style="width:auto;">
 </picture>
 <p>
 Bu, iki versiyonun aynı anda var olmasına yol açan bir çatalla sonuçlandı. Yeni
@@ -123,8 +123,8 @@ ticareti yapmalarına izin verir, aynı zamanda ETH veya belki de diğer
 kriptolarda olağanüstü bir pozisyonu korumaya da olanak tanır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/etc-kazilir-mi.webp">
-  <img src="/assets/img/posts-img/etc/etc-alinir-mi.webp" alt="etc alınır mı" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/etc-alinir-mi.webp">
+  <img src="/assets/img/posts-img/etc/etc-kazilir-mi.webp" alt="etc alınır mı" style="width:auto;">
 </picture>
 <p>
 Yatırım topluluğunun, iki para birimine ne kadar sermaye veya yatırım doları
@@ -148,8 +148,8 @@ sözleşmeler kullanarak küresel bir ödeme ağı olma yolunda çalışmaya dev
 ediyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/etc-proje.webp">
-  <img src="/assets/img/posts-img/etc/ethereum.webp" alt="ethereum classic vs ethereum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/etc/ethereum.webp">
+  <img src="/assets/img/posts-img/etc/etc-proje.webp" alt="ethereum classic vs ethereum" style="width:auto;">
 </picture>
 <p>
 Diğer kripto para birimlerinde olduğu gibi, Ethereum Classic büyük olasılıkla

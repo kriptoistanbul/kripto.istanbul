@@ -42,8 +42,8 @@ zincirinde sınırlı bir şekilde depolandığı ve yönetildiği bir aracı si
 kullanarak küresel bir fikir birliği sağlamaktan kaçınır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/holo/holo-hot-coin.webp">
-  <img src="/assets/img/posts-img/holo/1-holo-kac-tl-grafik.webp" alt="hot holo coin nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/holo/1-holo-kac-tl-grafik.webp">
+  <img src="/assets/img/posts-img/holo/holo-hot-coin.webp" alt="hot holo coin nedir" style="width:auto;">
 </picture>
 <p>
 Holochain, blok zinciri çözümlerini rahatsız eden ölçeklenebilirlik sorunlarını
@@ -94,8 +94,8 @@ enerjiye ihtiyaç duyduğunu biliyor. Holochain, çevreye zarar veren blok
 zincirlerine yeşil bir çözüm olduğunu iddia ediyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/holo/holo-proje.webp">
-  <img src="/assets/img/posts-img/holo/holo-coin-yorum.webp" alt="holo gelecek proje" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/holo/holo-coin-yorum.webp">
+  <img src="/assets/img/posts-img/holo/holo-proje.webp" alt="holo gelecek proje" style="width:auto;">
 </picture>
 <p>
 Holochain'deki düğümler tüm blok zincirini depolamadığından ve

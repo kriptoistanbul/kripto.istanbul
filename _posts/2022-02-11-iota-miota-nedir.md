@@ -42,8 +42,8 @@ onayladığı bir düğüm sistemi olan Tangle ile değiştirerek Bitcoin ile te
 ölçeklenebilirlik ve performans sorunlarını çözmeyi hedefliyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/iota-proje.webp">
-  <img src="/assets/img/posts-img/iota/coin-grafik.webp" alt="iota ne" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/coin-grafik.webp">
+  <img src="/assets/img/posts-img/iota/iota-proje.webp" alt="iota ne" style="width:auto;">
 </picture>
 <h2 id="2">IOTA Nasıl Çalışır?</h2>
 <p>
@@ -71,8 +71,8 @@ etmenin ve işlemleri onaylamanın yeni bir yolu olan Tangle olarak yeniden
 yapılandırarak bu sorunları çözüyor.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/iota-gelecek.webp">
-  <img src="/assets/img/posts-img/iota/alt-coin.webp" alt="iota white paper" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/alt-coin.webp">
+  <img src="/assets/img/posts-img/iota/iota-gelecek.webp" alt="iota white paper" style="width:auto;">
 </picture>
 <h2 id="3">Tarihçesi</h2>
 <p>
@@ -109,8 +109,8 @@ yüksek değerlemeye ulaştı. Ancak, değeri daha sonra diğer çoğu kripto pa
 birimiyle birlikte düştü.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/iota-kaç.webp">
-  <img src="/assets/img/posts-img/iota/mioata.webp" alt="iota güvenli mi" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/iota/mioata.webp">
+  <img src="/assets/img/posts-img/iota/iota-kaç.webp" alt="iota güvenli mi" style="width:auto;">
 </picture>
 <h3 id="4">IOTA Hakkındaki Endişeler</h3>
 <p>
