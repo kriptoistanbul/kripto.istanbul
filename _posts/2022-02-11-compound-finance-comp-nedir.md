@@ -45,8 +45,8 @@ Buna karşılık, Compound, herhangi birinin teminat olarak zaten sahiplik altı
 Compound'a bakmanın bir başka ve belki de daha önemli yolu, zaten sahip olduklarınızdan daha fazla değer üreterek varlıklarınızı sizin için çalıştırmasıdır. Bileşik DeFi borç verme platformunu açıklamak için iki basit durumu kullanalım.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/comp/kripto.webp">
-  <img src="/assets/img/posts-img/comp/comp-grafik.webp" alt="comp nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/comp/comp-grafik.webp">
+  <img src="/assets/img/posts-img/comp/kripto.webp" alt="comp nedir" style="width:auto;">
 </picture>
 <ul>
 
@@ -65,10 +65,9 @@ Kredi teminatı olarak kullanmak için Compound protokolüne kripto para yatırd
 </li>
 </ul>
 <p>
-Kripto para kredisi alma niyetiniz olmasa bile, kripto para biriminizi Compound'a yatırmak, faiz getirmeyen bir kripto cüzdanında tutmaktan çok daha iyidir. Kripto para birimlerini Compound platformuna yatırdığınızda, hem yatırılan varlık hem de COMP tokenleri için ödenen APY faizi otomatik olarak tahakkuk etmeye başlar. Bu nedenle, kripto para varlıklarınız cüzdanınızda boşta durmak yerine çalışmaya başlar.
+Kripto para kredisi alma niyetiniz olmasa bile, kripto para biriminizi Compound'a yatırmak, faiz getirmeyen bir kripto cüzdanında tutmaktan çok daha iyidir. Kripto para birimlerini Compound platformuna yatırdığınızda, hem yatırılan varlık hem de COMP tokenleri için ödenen APY faizi otomatik olarak tahakkuk etmeye başlar. Bu nedenle, kripto para varlıklarınız cüzdanınızda boşta durmak yerine çalışmaya başlar.</p>
 <h2 id="3">Compound Kripto Kredileri Nasıl Çalışır ve Güvenlikleri Nasıl Sağlanır</h2>
-Compound Finance kullanarak Bitcoin kredisi veya desteklenen diğer kripto varlıklarından herhangi biri için kredi almak, son derece başlangıç dostu bir süreçtir.
-</p>
+<p>Compound Finance kullanarak Bitcoin kredisi veya desteklenen diğer kripto varlıklarından herhangi biri için kredi almak, son derece başlangıç dostu bir süreçtir.</p>
 <p>
 Esasen, yapmanız gereken tek şey, Compound uygulamasına cüzdanınızdan kripto para birimi sağlamak, onu teminat olarak etkinleştirmek ve ardından ödünç almaktır. Bunu yapmak, kredi başvurusunda bulunmaktan çok farklıdır. Bu durumda, yatırdığınız teminat nedeniyle, protokol geri ödeme araçlarınızı zaten güvence altına aldığından, kredi başvurusunda bulunmazsınız.
 </p>
@@ -118,8 +117,8 @@ Compound protokolünü kullanarak anında kripto kredisi almak için:
 Bu kadar! İkinci işlem onaylandıktan sonra ödünç aldığınız miktar kripto cüzdanınızda görünecektir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/comp/comp.webp">
-  <img src="/assets/img/posts-img/comp/comp-proje.webp" alt="comp nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/comp/comp-proje.webp">
+  <img src="/assets/img/posts-img/comp/comp.webp" alt="comp nedir" style="width:auto;">
 </picture>
 <h4 id="5">COMP Token Nedir?</h4>
 

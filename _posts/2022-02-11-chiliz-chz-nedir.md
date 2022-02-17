@@ -39,8 +39,8 @@ Chiliz ekibi, sporseverlerin ne kadar tutkulu ve özverili olabileceğinin fark�
 Chiliz, blockchain, hayran tokenları ve özel bir kripto para birimi değişiminin birleşimiyle, kripto dünyasını fırtınaya sürükleyen etkileyici bir hayran katılımı girişimini kanıtlıyor!
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/galatasaray-token.webp">
-  <img src="/assets/img/posts-img/chz/chz-gal-galatasaray-coin.webp" alt="chz galatasaray coin token" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/chz-gal-galatasaray-coin.webp">
+  <img src="/assets/img/posts-img/chz/galatasaray-token.webp" alt="chz galatasaray coin token" style="width:auto;">
 </picture>
 <h2 id="2">Chiliz Arka Planı</h2>
 
@@ -56,8 +56,8 @@ Bugün Chiliz, dünya çapında ofisleri ve operasyonları bulunan 80'den fazla 
 </p>
 <p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/sinan-güler-chz.webp">
-  <img src="/assets/img/posts-img/chz/fan-token.webp" alt="chz sinan güler" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/fan-token.webp">
+  <img src="/assets/img/posts-img/chz/sinan-güler-chz.webp" alt="chz sinan güler" style="width:auto;">
 </picture>
 <h2 id="3">Chiliz Token (CHZ) Ne İşe Yarar?</h2>
 </p>
@@ -100,8 +100,8 @@ Taraftar Token Teklifleri (FTO'lar), kripto fırlatma rampalarına benzer şekil
 İlgili token lansmanına ilişkin her bir Taraftar Token Teklifi (FTO), FTO başlangıç ve bitiş tarihi, açılış fiyatı ve tamamen seyreltilmiş piyasa değeri gibi önemli bilgileri içerir. Bu, yatırımcıların, diğer herhangi bir fungible token'a yatırım yapmayı düşündüklerinde olduğu gibi, nakitlerini ayırmadan önce bilinçli bir karar vermelerine olanak tanır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/basaksehir-token.webp">
-  <img src="/assets/img/posts-img/chz/bursa-coin.webp" alt="chz fan token bursa başakşehir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/bursa-coin.webp">
+  <img src="/assets/img/posts-img/chz/basaksehir-token.webp" alt="chz fan token bursa başakşehir" style="width:auto;">
 </picture>
 <h3 id="5">Binance Launchpool</h3>
 
@@ -148,8 +148,8 @@ Chiliz Blockchain Kampüsü, Asya ve Avrupa'da blok zincirinin benimsenmesini h�
 The Chiliz Blockchain Campus, dünyanın dört bir yanından blockchain girişimcilerini bir araya getirerek, gelecekteki hükümet blockchain tabanlı çerçeveleri etkilemek amacıyla blockchain inovasyonunun sınırlarını zorluyor. Bunu yaparak Chiliz, kripto para birimi ve kripto ödeme hizmetlerinin kurumsal, hükümet ve kurumsal olarak benimsenmesi için sorunsuz bir yol yaratıyor. Dahası, gelişmekte olan girişimcilerin işbirliği yapabileceği ve içgörü paylaşabileceği bir ortam yaratmaktadır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/fan-token.webp">
-  <img src="/assets/img/posts-img/chz/chz-alanya-coin.webp" alt="chz fan token alanya" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/chz-alanya-coin.webp">
+  <img src="/assets/img/posts-img/chz/fan-token.webp" alt="chz fan token alanya" style="width:auto;">
 </picture>
 <h4 id="9">Chiliz Blockchain Neden Kullanılır?</h4>
 <p>
