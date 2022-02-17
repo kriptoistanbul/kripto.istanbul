@@ -32,8 +32,8 @@ Dash, nakit, kredi kartı veya PayPal üzerinden kullanılabilen dijital para bi
 Hala güçlü şifreleme özelliklerine sahip olsa da, şirket o zamandan beri hırslarını yeniden şekillendirdi. Dash artık nakit, kredi kartı veya PayPal üzerinden kullanılabilen dijital para birimi olarak günlük işlemler için bir araç olmayı hedefliyor. Dash, merkezi olmayan bir ödeme ağı içeren açık kaynaklı bir projedir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-yorum.webp">
-  <img src="/assets/img/posts-img/dash/dash-almak.webp" alt="dash yorum" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-almak.webp">
+  <img src="/assets/img/posts-img/dash/dash-yorum.webp" alt="dash yorum" style="width:auto;">
 </picture>
 <h2 id="2">DASH Nasıl Çalışır?</h2>
 
@@ -51,8 +51,8 @@ CryptoSlate ile yaptığı röportajda Dash CEO'su Ryan Taylor, kripto para biri
 Dash ayrıca Arizona Eyalet Üniversitesi (ASU) ile ortaklaşa bir blok zinciri araştırma laboratuvarına fon sağlayarak araştırmaya yatırım yaptı. Dash, bu laboratuvar aracılığıyla, "araştırma, geliştirme ve eğitimi hızlandırmak için tasarlanan araştırmaları, blok zinciri işlem hızını, verimliliğini, güvenliğini artıracak ve kullanımlarını genişletecek şekilde finanse ediyor." Dash-ASU sözleşmesi ayrıca lisans ve lisansüstü araştırma bursları için burs sağlamaktadır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-proje.webp">
-  <img src="/assets/img/posts-img/dash/dash-hangi-ülke.webp" alt="dash atmak nedir" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-hangi-ülke.webp">
+  <img src="/assets/img/posts-img/dash/dash-proje.webp" alt="dash atmak nedir" style="width:auto;">
 </picture>
 <h2 id="3">DASH ve Bitcoin Neden Farklıdır?</h2>
 
@@ -70,8 +70,8 @@ Bu işlem zaman alıcıdır ve tıkanmayı önlemez. Yavaş işlem, Bitcoin'in b
 Dash, işlemleri işlemek için farklı bir sistem kullanır. Dash, kullanıcılarının "ana düğümler" adı verilen bir alt kümesi tarafından çalıştırılır. Ana düğümler, işlemlerin doğrulanmasını ve onaylanmasını basitleştirir. Tüm masternodların sistemlerinde 1.000 DASH'a eşit bir başlangıç ​​hissesi vardır. Kripto para biriminin whitepaper'ında, ortak kurucular bu sistemi haklı çıkarır: "Bu, kullanıcıların hizmetler için ödeme yapmasına ve yatırımlarından bir getiri elde etmesine olanak tanır." denilmiştir.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-ne-zaman.webp">
-  <img src="/assets/img/posts-img/dash/dash-whitepaper.webp" alt="dash coin ne kadar" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/dash-whitepaper.webp">
+  <img src="/assets/img/posts-img/dash/dash-ne-zaman.webp" alt="dash coin ne kadar" style="width:auto;">
 </picture>
 <p>
 Ayrıca işlemler için ölçeklenebilirlik sorununu da çözer. Bunun nedeni, bir işlemi başarıyla onaylamak için gereken düğüm sayısının yönetilebilir bir sayıya düşürülmesidir. Masternode'lar, madenci ağından gelen işlemleri onaylamaktan ve Dash ağına ödeme ve gizlilik gibi hizmetler sağlamaktan sorumludur.
@@ -80,8 +80,8 @@ Ayrıca işlemler için ölçeklenebilirlik sorununu da çözer. Bunun nedeni, b
 Dash’in ekosistemindeki ikinci yenilik, yönetişim modelinde yatmaktadır. Dash ile benzer istekleri olan iki kripto para birimi olan Bitcoin ve Litecoin, akademik kurumlardan çıktı. Büyük ölçüde, bu kripto para birimlerinin gelecekteki gelişimi, bu kurumların cömertliğine bağlıdır.
 </p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/koin-al.webp">
-  <img src="/assets/img/posts-img/dash/grafik.webp" alt="dash alt coin fiyat" style="width:auto;">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/grafik.webp">
+  <img src="/assets/img/posts-img/dash/koin-al.webp" alt="dash alt coin fiyat" style="width:auto;">
 </picture>
 <p>
 Dash, Bitcoin ve Litecoin'in aksine, blok ödüllerini üç paydaş (masternodlar, madenciler ve hazine) arasında bölerek kendi kendini finanse eden bir modele öncülük etti. İlk ikisi% 45 pay alıyor. Hazineye tahakkuk eden% 10'luk pay, Dash'ta gelecekteki kalkınma projelerini finanse etmek için kullanılır. Ana düğümler burada da önemli bir rol oynar: oyları, kripto para birimi için gelecekteki gelişim yönlerini belirler.
