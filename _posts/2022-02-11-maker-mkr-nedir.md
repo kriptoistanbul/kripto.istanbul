@@ -1,5 +1,5 @@
 ---
-date: 2022-02-17 14:15:00
+date: 2022-03-12 12:15:00
 layout: post
 title: Maker (MKR) Nedir?
 subtitle: MKR Nedir, Güvenli Midir? Maker coin projesi nedir? MKR Geleceği Var Mı? MKR Coin yorum 2022 Maker Coin haber
