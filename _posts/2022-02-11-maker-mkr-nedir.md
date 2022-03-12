@@ -1,7 +1,7 @@
 ---
 date: 2022-03-12 12:15:00
 layout: post
-title: Maker (MKR) Nedir?
+title: Maker MKR Nedir?
 subtitle: MKR Nedir, Güvenli Midir? Maker coin projesi nedir? MKR Geleceği Var Mı? MKR Coin yorum 2022 Maker Coin haber
 description: Maker (MKR) jetonu, MakerDAO tarafından oluşturulmuştur ve temel amacı, MakerDAO’nun DAI belirtecinin kararlılığını desteklemek ve Dai Kredi Sistemi için yönetişimi sağlamaktır.
 image: /assets/img/posts-img/mkr/maker-mkr-coin-nedir.webp
