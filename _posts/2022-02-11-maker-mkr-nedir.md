@@ -179,7 +179,7 @@ açmak, DAI'nin kripto varlıklara karşı likidite sağlayabileceği anlamına 
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Maker Coin en yüksek kaç oldu?</h3>
+        <h5 itemprop="name" class="faq-q">Maker Coin en yüksek kaç oldu?</h5>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">MKR Maker coin son 1 yılda en yüksek ₺93,592.52 oldu.</p>
         </div>
