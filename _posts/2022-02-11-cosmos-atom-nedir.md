@@ -2,7 +2,7 @@
 date: 2022-02-17 11:10:00
 layout: post
 title: Cosmos (ATOM) Nedir?
-subtitle: Cosmos atom Nedir? Atom kimin? Kaç adet Atom coin var? Atom coin yorum
+subtitle: Cosmos atom Nedir? Atom kimin? Kaç adet Atom coin var? ATOM coin yorumları
 description: Cosmos, farklı blok zincirlerinin birbirine bağlanmasına ve verileri paylaşmasına izin vermenin ötesine geçen benzersiz bir teknolojik çabadır.
 image: /assets/img/posts-img/atom/atom-cosmos-coin-nedir.webp
 category: Kripto Paralar
@@ -19,9 +19,11 @@ paginate: true
 	<li style="padding: 2px;"><a href="#4">Tendermint Nedir?</a></li>
 	<li style="padding: 2px;"><a href="#5">Cosmos Ağında ATOM’un Yeri</a></li>
 	<li style="padding: 2px;"><a href="#6">Cosmos Üzerine Kurulu dApp</a></li>
-	<li style="padding: 2px;"><a href="#7">Cosmos Ağının Geleceği</a></li>
-	<li style="padding: 2px;"><a href="#8">Cosmos Atom Sıkça Sorulan Sorular</a></li>
-	<li style="padding: 2px;"><a href="#9">Atom Nasıl Alınır</a></li>
+	<li style="padding: 2px;"><a href="#7">Cosmos Coin Geleceği</a></li>
+	<li style="padding: 2px;"><a href="#8">Atom Nasıl Alınır</a></li>
+	<li style="padding: 2px;"><a href="#9">Cosmos Atom Sıkça Sorulan Sorular</a></li>
+  <li style="padding: 2px;"><a href="#10">ATOM Coin Yorumları</a></li>
+
 </ol>
 <h1 id="1">Cosmos (ATOM) Nedir?</h1>
 
@@ -40,6 +42,15 @@ Nispeten kolay bir blok zinciri geliştirme sürecinin, yeni ve eski blok zincir
 
 <p>
 Cosmos, 2014 yılında Jae Kwon tarafından oluşturulan konsensüs protokolü Tendermint'e dayanmaktadır. Tam Cosmos birlikte çalışabilir ekosistemi geliştirmek için Kwon'a Zarko Milosevic ve Ethan Buchman katıldı. Ancak 2020 yılında ekip dağıldı ve Kwon projeden ayrıldı.
+<div itemscope itemtype="http://schema.org/Person">
+<a itemprop="url" href="https://www.linkedin.com/in/yjkwon/"><div itemprop="name"><strong>Jae Kwon</strong></div>
+</a>
+<div itemprop="occupationalCategory" itemtype="http://schema.org/JobPosting">CEO, Interchain Foundation</div>
+<div itemprop="url">https://twitter.com/jaekwon</div>
+<div itemprop="description">Jae Kwon, bir blockchain yazılım mimarı ve Tendermint'in kurucu ortağı ve Interchain Foundation'ın başkanıdır. </div>
+<div itemprop="birthPlace">San Francisco</div>
+<div itemprop="homeLocation" content="San Francisco">Home Location: San Francisco</div>
+</div>
 </p>
 <ul>
 
@@ -138,7 +149,8 @@ Akıllı sözleşmeleri barındırabilen birlikte çalışabilir, yüksek oranda
 <li>Chainweaver - birlikte çalışabilir çoklu blok zinciri cüzdanı ve akıllı sözleşme geliştirme ortamı.
 </li>
 </ul>
-<h4 id="7">Cosmos Ağının Geleceği</h4>
+<h4 id="7">Cosmos Atom Coin Geleceği Cosmos Ağı 2022</h4>
+
 <p>
 Cosmos protokolündeki her değişiklik, yükseltme veya özellik etkinleştirmesi, ATOM sahiplerinin onayına bağlıdır. Cosmos ağı nispeten yakın zamanda piyasaya sürüldüğü ve hala geliştirme aşamasında olduğu için, whitepaper'ında ortaya konan vizyon henüz tam olarak anlaşılabilmiş değildir.
 </p>
@@ -147,9 +159,52 @@ Cosmos protokolündeki her değişiklik, yükseltme veya özellik etkinleştirme
   <img src="/assets/img/posts-img/atom/atom-ne-kadar.webp" alt="atom cosmos yorum" style="width:auto;">
 </picture>
 <p>
-Bununla birlikte, Stargate yükseltmesinin başlatılmasıyla birlikte, blok zincirleri artık geliştiricilerin inşa etmekte özgür oldukları Inter-Blockchain Communication (IBC) protokolü sayesinde birbirleriyle iletişim kurabilir. Bunun da ötesinde, Stargate yükseltmesi, otomatik yükseltmeleri, tam özellikli hafif istemcileri ve 100 kat verimlilik kazanımlarını beraberinde getirerek Cosmos'u hesaba katılması gereken bir güç haline getiriyor. Geleceği şekillendirecek kadar ileri görüşlü olan bu şirketin önümüzdeki yıllarda adından daha da çok bahsettirmesi olası.
+Bununla birlikte, Stargate yükseltmesinin başlatılmasıyla birlikte, blok zincirleri artık geliştiricilerin inşa etmekte özgür oldukları Inter-Blockchain Communication (IBC) protokolü sayesinde birbirleriyle iletişim kurabilir. Bunun da ötesinde, Stargate yükseltmesi, otomatik yükseltmeleri, tam özellikli hafif istemcileri ve 100 kat verimlilik kazanımlarını beraberinde getirerek Cosmos'u hesaba katılması gereken bir güç haline getiriyor. Geleceği şekillendirecek kadar ileri görüşlü olan bu şirketin önümüzdeki yıllarda adından daha da çok bahsettirmesi olası. Kısacası Cosmos coin geleceği cosmos ağındaki geliştirmelerle paralel olacaktır.
 </p>
 {% include youtube.html width="560" height="315" id="3ohaGWMYgSY" start="0" title="ATOM Cosmos Nedir" %}
-<h4 id="8">Cosmos Atom Sıkça Sorulan Sorular</h4>
+<h4 id="8">Atom Nasıl Alınır</h4>
 
-<h4 id="9">Atom Nasıl Alınır</h4>
+<h4 id="9">Cosmos Atom Sıkça Sorulan Sorular</h4>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Cosmos Hangi Ülkenin</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">MakerDAO, benimsenmeye yardımcı olan bir dizi yüksek profilli ortaklık sayesinde DeFi hareketinin amiral gemisi projelerinden biri haline geldi. MKR'nin benzersiz önerisi, sahiplerinin DAI'nin yönetimine katılmalarına izin vermesi gerçeğinde yatmaktadır. 2020 ve 2021 boyunca DAI, piyasadaki önde gelen sabit paralardan biri olarak ortaya çıktı. Maker platformunda hala büyüme için yer var.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Cosmos ATOM Kimin</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Jae Kwon, Cosmos ATOM coinin sahibidir. All in Bits Inc (dba Tendermint Inc), Cosmos Ağı'nı geliştirmek için ICF tarafından sözleşmeli bir yazılım geliştirme şirketidir. Tendermint Inc ekibine göz atın. IRIS Foundation Ltd., dağıtılmış iş uygulamalarının oluşturulmasını kolaylaştıran bir Cosmos Merkezi olan IRISnet'i oluşturmak için ICF tarafından desteklenmektedir.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">ATOM Coin yatırım yapılır mı?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Cosmos, gelecek için iyi planları olan, hayranlık uyandıran bir projedir. Ağın yerel tokeni ATOM, mevcut tüm zamanların en yüksek seviyesini geçme olasılığı vardır.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">ATOM Coin en yüksek kaçı gördü?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Cosmos ATOM coin bu yıl içerisinde en yüksek ₺659.89 seviyesini gördü.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Cosmos Ethereum üzerine mi inşa edildi?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Ethermint, Cosmos Ağında uygulanan Tendermint'in üstündeki Ethereum blok zincirinin bir uygulamasıdır. Ethermint, sürekli olarak onunla senkronize olan Ethereum ağının mevcut bir durumuna sahiptir.</p>
+        </div>
+    </div>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Cosmos'un akıllı sözleşmeleri var mı?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Solidity kullanımı ile Cosmos blok zincirinde çalışacak akıllı sözleşmeler geliştirmek mümkündür.</p>
+        </div>
+    </div>
+</div>
+<h6 id="10">ATOM Coin Yorumları</h6>
