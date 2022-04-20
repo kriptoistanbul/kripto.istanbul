@@ -40,7 +40,7 @@ paginate: true
 <h2 id="bnb2">Binance Coin Gerçek Para Mıdır?</h2>
 <p>BNB'nin temel amacı, kripto para borsası işlemlerini desteklemek ve Binance ekosistemini güçlendirmektir. Şu anda, token ticaret indirimleri için de kullanılabilir. Ancak, önümüzdeki birkaç yıl içinde bu promosyon artık olmayacak. Seyahat ve ağırlama hizmetleri için ödeme yapmak için kullanılabilir, ancak şu ana kadar geçerli bir para birimi olarak kabulü düşüktür. En azından henüz gerçek para olarak kabul edilmemesinin nedeni budur. </p>
 <p>Binance Exchange, tokeni yıllarca ayakta tutabilecek çok sayıda finansal ve stratejik desteğe sahiptir. Bu, baskın alternatif para birimlerinin görünümünün önümüzdeki yıllarda değişebileceği anlamına geliyor. Her ay milyarlarca dolar kripto işlemi gerçekleştiren bir borsa tarafından desteklenen bir tokene karşı bahis oynamak akıllıca bir fikir olmayacaktır. </p>
-<p>Şu anda, BNB geçerli bir para birimi ikamesi değildir; hatta piyasa kabulü açısından Bitcoin veya Ripple'a yakın bile değil. Ticaret veya başka bir amaç için yüksek likidite arıyorsanız, başka bir dijital para birimi almak isteyebilirsiniz. </p>
+<p>Şu anda, BNB geçerli bir para birimi ikamesi değildir; hatta piyasa kabulü açısından Bitcoin veya <a href="https://kripto.istanbul/ripple-xrp-nedir/" title="ripple Nedir?" target="_blank">Ripple</a> yakın bile değil. Ticaret veya başka bir amaç için yüksek likidite arıyorsanız, başka bir dijital para birimi almak isteyebilirsiniz. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bnb/binance-coin.webp">
   <img src="/assets/img/posts-img/bnb/bnb-coin.webp" alt="bnb coin" style="width:auto;">

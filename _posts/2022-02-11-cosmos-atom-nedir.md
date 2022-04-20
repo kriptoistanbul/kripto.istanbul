@@ -169,7 +169,7 @@ Bununla birlikte, Stargate yükseltmesinin başlatılmasıyla birlikte, blok zin
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h5 itemprop="name" class="faq-q">Cosmos Hangi Ülkenin</h5>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a">MakerDAO, benimsenmeye yardımcı olan bir dizi yüksek profilli ortaklık sayesinde DeFi hareketinin amiral gemisi projelerinden biri haline geldi. MKR'nin benzersiz önerisi, sahiplerinin DAI'nin yönetimine katılmalarına izin vermesi gerçeğinde yatmaktadır. 2020 ve 2021 boyunca DAI, piyasadaki önde gelen sabit paralardan biri olarak ortaya çıktı. Maker platformunda hala büyüme için yer var.</p>
+             <p itemprop="text" class="faq-a">MakerDAO, benimsenmeye yardımcı olan bir dizi yüksek profilli ortaklık sayesinde DeFi hareketinin amiral gemisi projelerinden biri haline geldi. MKR'nin benzersiz önerisi, sahiplerinin DAI'nin yönetimine katılmalarına izin vermesi gerçeğinde yatmaktadır. 2020 ve 2021 boyunca DAI, piyasadaki önde gelen sabit paralardan biri olarak ortaya çıktı. <a href="https://kripto.istanbul/maker-mkr-nedir/" title="Maker Nedir?" target="_blank">Maker</a> platformunda hala büyüme için yer var.</p>
         </div>
     </div>
 

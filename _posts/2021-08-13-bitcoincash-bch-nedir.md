@@ -26,7 +26,7 @@ paginate: true
 </ol>
 <h1 id="bch1">Bitcoin Cash (BCH) Nedir?</h1>
 <blockquote cite="https://bitcoincash.org/">Bitcoin Cash, Bitcoin'in "Eşler Arası Elektronik Nakit" olarak orijinal vaadini yerine getirerek dünyaya sağlam para getiriyor. Tüccarlar ve kullanıcılar, düşük ücretler ve güvenilir onaylarla desteklenir. Sınırsız büyüme, küresel benimseme, izinsiz yenilik ve merkezi olmayan geliştirme ile gelecek parlak bir şekilde parlıyor.</blockquote>
-<p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan hard fork sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p>
+<p>Resmi bitcoin cash web sitesi, kripto para birimini "internet için eşler arası elektronik bir nakit olarak tanımlıyor. Merkez bankası olmadan tamamen merkezi olmayan bir sistemdir ve çalışmak için güvenilir üçüncü şahıslar gerektirmez." şeklinde tanımlamaktadır. Aralık 2017’de bitcoin ile yapılan <a href="https://kripto.istanbul/hard-fork-nedir/" title="hard Nedir?" target="_blank">hard fork</a> sonucunda işlenebilecek işlem sayısını artırmak amacıyla oluşturulmuş olan Bitcoin Cash (BCH), hem bir kripto para birimi hem de bir ödeme ağıdır.</p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/bch/1-bitcoin-cash.webp">
   <img src="/assets/img/posts-img/bch/bch-cash.webp" alt="bch nedir" style="width:auto;">

@@ -76,7 +76,7 @@ güncelleyebilir.
 </p>
 <p>
 Bitcoin'e benzer isimlere sahip çeşitli dijital para birimleri, bu çatallanma
-süreciyle ortaya çıktı: bitcoin cash, bitcoin gold ve diğerleri. Sıradan bir
+süreciyle ortaya çıktı: <a href="https://kripto.istanbul/bitcoincash-bch-nedir/" title="bitcoincash Nedir?" target="_blank">bitcoincash</a>, bitcoin gold ve diğerleri. Sıradan bir
 kripto para birimi yatırımcısı için, bu kripto para birimleri arasındaki farkı
 söylemek ve çeşitli çatalları bir zaman çizelgesine eşlemek zor olabilir.
 </p>

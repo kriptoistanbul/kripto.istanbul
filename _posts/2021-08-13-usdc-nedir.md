@@ -23,7 +23,7 @@ paginate: true
 </ol>
 <h1 id="usdc1">USD Coin (USDC) Nedir?</h1>
 <blockquote cite="https://www.circle.com/en/usdc">USDC, dünyanın en hızlı büyüyen, tamamen düzenlenmiş dolar dijital sabit parasıdır.</blockquote>
-<p>USD Coin (USDC), ABD dolarına sabitlenmiş nispeten taze bir stabilcoindir. 26 Eylül 2018'de Circle ve Coinbase işbirliği ile başlatılmıştır. USDC, Tether (USDT) veya TrueUSD (TUSD) gibi USD destekli diğer kripto para birimlerine bir alternatiftir.</p>
+<p>USD Coin (USDC), ABD dolarına sabitlenmiş nispeten taze bir stabilcoindir. 26 Eylül 2018'de Circle ve Coinbase işbirliği ile başlatılmıştır. USDC, <a href="https://kripto.istanbul/tether-usdt-nedir/" title="tether Nedir?" target="_blank">tether</a> (USDT) veya TrueUSD (TUSD) gibi USD destekli diğer kripto para birimlerine bir alternatiftir.</p>
 <p>Özetle, USD Coin, ABD dolarını belirtmek ve internet ve halka açık blok zincirleri üzerinden kullanımlarını kolaylaştırmak için bir hizmettir. Ayrıca, USDC jetonları herhangi bir zamanda USD'ye geri çevrilebilir. USDC belirteçlerinin çıkarılması ve kullanılması, ERC-20 akıllı sözleşmesi ile sağlanır. Blok zincirine ABD doları getirmek, onları dakikalar içinde dünyanın herhangi bir yerine taşımaya izin verir ve kripto para birimlerine çok ihtiyaç duyulan istikrarı getirir. Ayrıca ticaret, borç verme, riskten korunma ve daha fazlası için yeni fırsatlar sunar. </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/usdc/usd-coin-nedir.webp">

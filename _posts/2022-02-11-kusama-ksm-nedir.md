@@ -109,7 +109,7 @@ kaynaklar, ağa fayda sağlayabilecek topluluk üyeleri tarafından önerilen
 projeleri finanse etmek için kullanılabilir. 2020'de Kusama Hazinesi tarafından
 finanse edilen projeler arasında, teknik olmayan kullanıcılar için blockchain
 erişilebilirliğini artırmayı amaçlayan LocalCoinSwap ve Kusama ve Polkadot
-sahipleri için alternatif cüzdanlar sunan Polkawallet ve Soramitsu'nun Cüzdanı
+sahipleri için alternatif <a href="https://kripto.istanbul/kripto-cüzdan-nedir/" title="kripto cüzdan Nedir?" target="_blank">kripto cüzdan</a> sunan Polkawallet ve Soramitsu'nun Cüzdanı
 bulunmaktadır.
 </p>
 <p>

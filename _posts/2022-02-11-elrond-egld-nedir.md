@@ -71,7 +71,7 @@ EGLD belirteci; işlemler, doğrulayıcı ödülleri, yönetim, stake etme ve ak
 
 
 <p>
-Elrond’un geliştiricileri 2021’i blok zinciri için ileriye doğru büyük bir sıçrama olarak görüyor. Ocak ayında bir "100 günlük hiper büyüme" kampanyası başlatan ekip, stake etme yeteneklerini geliştirme, DeFi işlevselliğini genişletme ve blok zincirinde merkezi olmayan bir değişim başlatma planlarıyla birlikte ana ağ yükseltmeleri yayınlıyor.
+Elrond’un geliştiricileri 2021’i blok zinciri için ileriye doğru büyük bir sıçrama olarak görüyor. Ocak ayında bir "100 günlük hiper büyüme" kampanyası başlatan ekip, stake etme yeteneklerini geliştirme, <a href="https://kripto.istanbul/defi-nedir-projeleri-nelerdir/" title="Defi Nedir?" target="_blank">DeFi</a> işlevselliğini genişletme ve blok zincirinde merkezi olmayan bir değişim başlatma planlarıyla birlikte ana ağ yükseltmeleri yayınlıyor.
 </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/egld/elrond-coin-nedir-ne-ise-yarar.webp">

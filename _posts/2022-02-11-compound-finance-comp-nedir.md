@@ -160,7 +160,7 @@ Bazen, Compound'dan ödünç aldığınızda bile kendinizi kârlı bulabilirsin
 Compound, Ethereum üzerinde çalışır. Bu, ağ tıkanıklığı ve yüksek gaz ücretlerinin bir sorun olduğu anlamına gelir. Ek olarak, Ethereum birlikte çalışmayan bir blok zinciri olduğundan Compound, ERC-20 tokenleri ile çalışmakla sınırlıdır.
 </p>
 <p>
-Bu nedenlerden ve daha fazlasından dolayı, Compound geliştirme ekibi, zincirler arası varlık uyumluluğu için bağımsız bir blok zinciri olan Compound Zinciri oluşturuyor. Polkadot, Cosmos ve Solana gibi diğer blok zinciri protokolleriyle entegre olmanın yanı sıra, Compound Zincir ayrıca Facebook'un Diem ve merkez bankası dijital para birimleri gibi stabilcoinlere de odaklanacak.
+Bu nedenlerden ve daha fazlasından dolayı, Compound geliştirme ekibi, zincirler arası varlık uyumluluğu için bağımsız bir blok zinciri olan Compound Zinciri oluşturuyor. <a href="https://kripto.istanbul/polkadot-nedir/" title="dot Nedir?" target="_blank">Polkadot</a> Polkadot, <a href="https://kripto.istanbul/cosmos-atom-nedir/" title="cosmos Nedir?" target="_blank">Cosmos</a> ve <a href="https://kripto.istanbul/solana-nedir/" title="solana Nedir?" target="_blank">Solana</a> gibi diğer blok zinciri protokolleriyle entegre olmanın yanı sıra, Compound Zincir ayrıca Facebook'un Diem ve merkez bankası dijital para birimleri gibi stabilcoinlere de odaklanacak.
 </p>
 <p>
 Yakın tarihli bir yönetişim çağrısı sırasında, Compound ekibi, Compound Zincirin kendi belirtecine ($ CASH) sahip olacağını ve tüm ekosistemin yönetim belirteci olarak COMP'u koruyacağını doğruladı.

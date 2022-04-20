@@ -236,9 +236,7 @@ spekülatif jetonlar gibi büyük artışlara ve çökmelere maruz kalmaz.
 <p>
 Sonuçta bu, Holofuel'i bir barındırma yardımcı programı jetonu yapar ve
 halihazırda geliştirmede çok daha ileride olan birkaç rakip vardır. Sia, Storj
-ve Filecoin gibi projelerin tümü, kullanıcıları bilgi işlem güçlerini, sabit
-disk alanlarını veya bant genişliği kapasitelerini paylaştıkları için
-ödüllendirir.
+ve <a href="https://kripto.istanbul/filecoin-fil-nedir/" title="filecoin Nedir?" target="_blank">Filecoin</a> gibi projelerin tümü, kullanıcıları bilgi işlem güçlerini, sabit disk alanlarını veya bant genişliği kapasitelerini paylaştıkları için ödüllendirir.
 </p>
 {% include youtube.html width="560" height="315" id="EUfyHNGvnDo" start="0" title="HOT Holochain Nedir" %}
 <h5 id="10">Sıkça Sorulan Sorular</h5>

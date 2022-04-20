@@ -77,7 +77,7 @@ Dash, işlemleri işlemek için farklı bir sistem kullanır. Dash, kullanıcıl
 Ayrıca işlemler için ölçeklenebilirlik sorununu da çözer. Bunun nedeni, bir işlemi başarıyla onaylamak için gereken düğüm sayısının yönetilebilir bir sayıya düşürülmesidir. Masternode'lar, madenci ağından gelen işlemleri onaylamaktan ve Dash ağına ödeme ve gizlilik gibi hizmetler sağlamaktan sorumludur.
 </p>
 <p>
-Dash’in ekosistemindeki ikinci yenilik, yönetişim modelinde yatmaktadır. Dash ile benzer istekleri olan iki kripto para birimi olan Bitcoin ve Litecoin, akademik kurumlardan çıktı. Büyük ölçüde, bu kripto para birimlerinin gelecekteki gelişimi, bu kurumların cömertliğine bağlıdır.
+Dash’in ekosistemindeki ikinci yenilik, yönetişim modelinde yatmaktadır. Dash ile benzer istekleri olan iki kripto para birimi olan Bitcoin ve <a href="https://kripto.istanbul/litecoin-ltc-nedir/" title="litecoin Nedir?" target="_blank">litecoin</a>, akademik kurumlardan çıktı. Büyük ölçüde, bu kripto para birimlerinin gelecekteki gelişimi, bu kurumların cömertliğine bağlıdır.
 </p>
 <picture>
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/dash/grafik.webp">

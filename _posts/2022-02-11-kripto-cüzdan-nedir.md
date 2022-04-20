@@ -171,9 +171,7 @@ yapma amacına hizmet ediyor," dedi.
 <h4 id="6">Dijital Para Biriminin Ötesinde Kripto Cüzdanlarının Diğer Kullanım Alanları
 </h4>
 <p>
-Kripto cüzdanı uygulamalarının büyük çoğunluğu Bitcoin, Ethereum, Ripple veya
-Litecoin gibi kripto para birimlerini depolamak için kullanılmaktadır. Ancak bu
-yazılımlar  sahibi olduğunuz malları, finansal varlıkları, menkul kıymetleri ve
+Kripto cüzdanı uygulamalarının büyük çoğunluğu Bitcoin, Ethereum, <a href="https://kripto.istanbul/ripple-xrp-nedir/" title="ripple Nedir?" target="_blank">Ripple</a> veya <a href="https://kripto.istanbul/litecoin-ltc-nedir/" title="litecoin Nedir?" target="_blank">Litecoin</a> gibi kripto para birimlerini depolamak için kullanılmaktadır. Ancak bu yazılımlar  sahibi olduğunuz malları, finansal varlıkları, menkul kıymetleri ve
 değiştirilebilir veya değiştirilemez dijital belirteçlerin anahtarlarını
 saklamak için de kullanılabilir. Örneğin, bir kripto cüzdanında saklanan bir
 jeton, konser veya uçak biletlerini, benzersiz sanat eserlerini veya tedarik
@@ -188,6 +186,8 @@ diyor bu konuda. Bitcoin için işlemler, Bitcoinleri başka bir şifreleme
 anahtarına ve dolayısıyla başka bir sahibe aktarır. Tedarik zinciri gibi şeyler
 için, yönetilmekte olan varlığı izleyen işlemleri imzalarlar (ör. Elektronik
 parçalar, hammaddeler vb.).
+</p>
+<p><a href="https://kripto.istanbul/decred-dcr-nedir/" title="decred Nedir?" target="_blank">Decred DCR Coin Nedir</a>
 </p>
 <p>
 Gelecekte, yeni, "güvensiz" bir küresel ekonomi, bireysel finansal veya mesleki

@@ -107,7 +107,7 @@ Taraftar Token Teklifleri (FTO'lar), kripto fırlatma rampalarına benzer şekil
 
 
 <p>
-İlk yatırımcılardan biri olan Binance, Taraftar Token tekliflerinin (FTO'lar) tanıtımı ve dağıtımında önemli bir rol oynadı. 2020'nin sonlarına doğru Binance, Chiliz ile karşılıklı fayda sağlayan stratejik bir ortaklık kurdu. Ocak 2021'in ortasına kadar Binance Launchpool kullanıcıları, Taraftar Token ödülleri kazanmak için Binance Coin (BNB), Binance Stablecoin (BUSD) veya Chiliz Token'larını (CHZ) yatırabilirler! Paris Saint-Germain (PSG jetonu) ve İtalyan şampiyonları Juventus (JUV jetonu) Taraftar Tokenları, Binance Launchpool üzerinden 30 gün boyunca farm yapmak için uygundu.
+İlk yatırımcılardan biri olan Binance, Taraftar Token tekliflerinin (FTO'lar) tanıtımı ve dağıtımında önemli bir rol oynadı. 2020'nin sonlarına doğru Binance, Chiliz ile karşılıklı fayda sağlayan stratejik bir ortaklık kurdu. Ocak 2021'in ortasına kadar Binance Launchpool kullanıcıları, Taraftar Token ödülleri kazanmak için Binance Coin (<a href="https://kripto.istanbul/binance-coin-bnb-nedir/" title="binance Nedir?" target="_blank">BNB</a>), Binance Stablecoin (BUSD) veya Chiliz Token'larını (CHZ) yatırabilirler! Paris Saint-Germain (PSG jetonu) ve İtalyan şampiyonları Juventus (JUV jetonu) Taraftar Tokenları, Binance Launchpool üzerinden 30 gün boyunca farm yapmak için uygundu.
 </p>
 <p>
 Ortaklık hakkında sorulduğunda, Binance CEO'su Changpeng Zhao (veya halk dilinde “CZ”) şunları söyledi; "Chiliz'i Binance ekosistemine davet etmekten mutluluk duyuyoruz ve milyarlarca tutkulu izleyicinin olduğu bir kitle arasında hem hayran katılımını hem de kripto benimsemesini güçlendirmeyi dört gözle bekliyoruz”.
