@@ -170,7 +170,7 @@ gelecekte de Ar-Ge yatırımları sayesinde ayakta duracak gibi görünüyor.
 </div>
 <h5 id="6">KSM Nasıl Alınır</h5>
 {% include how-to.html coinname="kusama" coinlink="https://kripto.istanbul/kusama-nedir/" step1text="kusama satın almanın en kolay yolu bir kripto para borsasındandır. Aşağıdaki tabloda kusama KSM coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı KSM Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık kusama KSM Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
-<h6 id="7">Hangi Borsadan Kusama Alabilirim?</h5>
+<h5 id="7">Hangi Borsadan Kusama Alabilirim?</h5>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
 .tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
