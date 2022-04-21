@@ -146,5 +146,216 @@ gelecekte de Ar-Ge yatırımları sayesinde ayakta duracak gibi görünüyor.
 </p>
 {% include youtube.html width="560" height="315" id="VmSoHbVGo4k" start="0" title="KSM Kusama Nedir" %}
 <h4 id="5">Sıkça Sorulan Sorular</h4>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Kusama, Polkadot'a Rakip Mi?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Hayır. Kusama, Polkadot'u tamamlamak ve gerçek DOT ağında daha kararlı bir platforma geçmeden önce dApp geliştirme için bir "kanıtlama alanı" olarak hizmet etmek üzere oluşturuldu. Bununla birlikte, Kusama'daki Parachains'in düşük maliyeti, aktif bir kullanıcı tabanı ve daha hızlı geliştirme nedeniyle, birçok proje KSM'de kalmayı tercih edebilir.</p>
+        </div>
+    </div>
 
-<h4 id="6">KSM Nasıl Alınır</h4>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Kusama'da Ne Yapabilirsiniz?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kusama ağında katılabileceğiniz birçok farklı aktivite var. Kullanıcılar yönetişime veya zincir üstü politikalara katılabilir, bir doğrulayıcı kurma alıştırması yapabilir, bir parachain dağıtabilir, siber topluluklara katılabilir, Parachain L1'lerde verim çiftliği ve çok daha fazlasını yapabilir!</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h5 itemprop="name" class="faq-q">Dolaşımda Kaç Kusama (KSM) Coin Var?</h5>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Kasım 2020 itibariyle, Kusama'nın dolaşımdaki 8.47 milyon jeton arzı ve toplam 10 milyon jeton arzı var.</p>
+        </div>
+    </div>
+</div>
+<h5 id="6">KSM Nasıl Alınır</h5>
+{% include how-to.html coinname="kusama" coinlink="https://kripto.istanbul/kusama-nedir/" step1text="kusama satın almanın en kolay yolu bir kripto para borsasındandır. Aşağıdaki tabloda kusama KSM coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı KSM Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık kusama KSM Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
+<h6 id="7">Hangi Borsadan Kusama Alabilirim?</h5>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#C44D58;border-spacing:0;}
+.tg td{background-color:#F9CDAD;border-color:#C44D58;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#FE4365;border-color:#C44D58;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
+.tg .tg-hsat{background-color:#fe4365;border-color:inherit;color:#333;text-align:left;vertical-align:middle}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hsat" colspan="3"><span style="font-weight:bold;text-decoration:underline">Kusama Listelenen Borsalar</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pvk6">Binance</td>
+    <td class="tg-7zrl">OKX</td>
+    <td class="tg-7zrl">CEX.IO</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Gate.io</td>
+    <td class="tg-7zrl">OKX</td>
+    <td class="tg-7zrl">HitBTC</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Kraken</td>
+    <td class="tg-7zrl">MEXC</td>
+    <td class="tg-7zrl">Bibox</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">KuCoin</td>
+    <td class="tg-7zrl">Phemex</td>
+    <td class="tg-7zrl">DigiFinex</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Binance</td>
+    <td class="tg-7zrl">MEXC</td>
+    <td class="tg-7zrl">Hoo</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Binance</td>
+    <td class="tg-7zrl">Crypto.com Exchange</td>
+    <td class="tg-7zrl">Pionex</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Huobi Global</td>
+    <td class="tg-7zrl">ZB.COM</td>
+    <td class="tg-7zrl">HitBTC</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Kraken</td>
+    <td class="tg-7zrl">ZB.COM</td>
+    <td class="tg-7zrl">BKEX</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Bybit</td>
+    <td class="tg-7zrl">Indodax</td>
+    <td class="tg-7zrl">Bitget</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Bithumb</td>
+    <td class="tg-7zrl">Tokocrypto</td>
+    <td class="tg-7zrl">Pionex</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Kraken</td>
+    <td class="tg-7zrl">WazirX</td>
+    <td class="tg-7zrl">OceanEx</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Binance</td>
+    <td class="tg-7zrl">WazirX</td>
+    <td class="tg-7zrl">AEX</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">KuCoin</td>
+    <td class="tg-7zrl">Tokocrypto</td>
+    <td class="tg-7zrl">Bibox</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Kraken</td>
+    <td class="tg-7zrl">Bitrue</td>
+    <td class="tg-7zrl">Bibox</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Huobi Global</td>
+    <td class="tg-7zrl">Deepcoin</td>
+    <td class="tg-7zrl">ZBG</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Kraken</td>
+    <td class="tg-7zrl">AAX</td>
+    <td class="tg-7zrl">CoinTiger</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Huobi Global</td>
+    <td class="tg-7zrl">XT.COM</td>
+    <td class="tg-7zrl">Korbit</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Bitfinex</td>
+    <td class="tg-7zrl">Bitrue</td>
+    <td class="tg-7zrl">Liquid</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6">Binance</td>
+    <td class="tg-7zrl">WhiteBIT</td>
+    <td class="tg-7zrl">Crypto.com Exchange</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Huobi Global</td>
+    <td class="tg-7zrl">WOO Network</td>
+    <td class="tg-7zrl">Hotcoin Global</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bitfinex</td>
+    <td class="tg-7zrl">BitMart</td>
+    <td class="tg-7zrl">CoinW</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Kraken</td>
+    <td class="tg-7zrl">Bitkub</td>
+    <td class="tg-7zrl">BitWell</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bittrex</td>
+    <td class="tg-7zrl">Bitvavo</td>
+    <td class="tg-7zrl">BigONE</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Coinone</td>
+    <td class="tg-7zrl">Bitrue</td>
+    <td class="tg-7zrl">Zipmex</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bittrex</td>
+    <td class="tg-7zrl">CoinDCX</td>
+    <td class="tg-7zrl">Zipmex</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bittrex</td>
+    <td class="tg-7zrl">CoinEx</td>
+    <td class="tg-7zrl">LiteBit.eu</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Kraken</td>
+    <td class="tg-7zrl">Giottus</td>
+    <td class="tg-7zrl">NovaDAX</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bithumb</td>
+    <td class="tg-7zrl">CoinEx</td>
+    <td class="tg-7zrl">Vauld</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Bittrex</td>
+    <td class="tg-7zrl">CoinDCX</td>
+    <td class="tg-7zrl">BingX</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">ZB.COM</td>
+    <td class="tg-7zrl">CEX.IO</td>
+    <td class="tg-7zrl">Hotbit</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">OKX</td>
+    <td class="tg-7zrl">NovaDAX</td>
+    <td class="tg-7zrl">LocalTrade</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">LBank</td>
+    <td class="tg-7zrl">BitTurk</td>
+    <td class="tg-7zrl">LocalTrade</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Crypto.com Exchange</td>
+    <td class="tg-7zrl">ZebPay</td>
+    <td class="tg-7zrl">Jubi</td>
+  </tr>
+  <tr>
+    <td class="tg-7zrl">Hotbit</td>
+    <td class="tg-7zrl" colspan="2">VCC Exchange</td>
+  </tr>
+</tbody>
+</table>
