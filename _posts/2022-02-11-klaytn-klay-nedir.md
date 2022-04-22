@@ -174,9 +174,9 @@ söz ettireceğini öngörebiliriz.
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wr11">Bithumb</td>
-    <td class="tg-za14">Indodax</td>
-    <td class="tg-za14">Pionex</td>
+    <td class="tg-7zrl">Bithumb</td>
+    <td class="tg-7zrl">Indodax</td>
+    <td class="tg-7zrl">Pionex</td>
   </tr>
   <tr>
     <td class="tg-7zrl">Binance</td>
