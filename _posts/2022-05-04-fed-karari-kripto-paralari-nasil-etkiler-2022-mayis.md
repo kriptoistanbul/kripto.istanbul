@@ -6,7 +6,7 @@ subtitle: FED Faiz Kararı Ne Oldu? FED Faiz Kararı Kripto Para Piyasalarını 
 description: FED 2022 kararı kripto para piyasalarını etkiledi. İşte kripto para piyasaları için FED'e dayalı muhtemel senaryolar.
 image: /assets/img/posts-img/fed/fed-karari.webp
 category: Kripto Paralar
-slug: /fed-karari-kripto-paralari-nasil-etkiler-2022-mayis
+permalink: /fed-karari-kripto-paralari-nasil-etkiler-2022-mayis
 tags:
   - bitcoin
   - kripto paralar
