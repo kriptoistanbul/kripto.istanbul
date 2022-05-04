@@ -1,5 +1,5 @@
 ---
-date: 2022-03-12 11:15:00
+date: 2022-05-04 16:15:00
 layout: post
 title: Fed Kararı Kripto Paraları Nasıl Etkiler 2022 Mayıs
 subtitle: FED Faiz Kararı Ne Oldu? FED Faiz Kararı Kripto Para Piyasalarını Nasıl Etkiler?
