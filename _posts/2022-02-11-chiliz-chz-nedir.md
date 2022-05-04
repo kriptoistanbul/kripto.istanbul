@@ -207,7 +207,7 @@ Küresel kilitlenmeler nedeniyle geçen yıl spor takımlarının ürettiği gel
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h6 itemprop="name" class="faq-q">Chiliz hangi borsada?</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"Chiliz Binance, OKX, MEXC ve Bybit borsalarında listelenir. Bu büyük borsalar haricinde irili ufaklı birçok borsada da chiliz ile işlem yapabilirsiniz.</p>
+             <p itemprop="text" class="faq-a">Chiliz Binance, OKX, MEXC ve Bybit borsalarında listelenir. Bu büyük borsalar haricinde irili ufaklı birçok borsada da chiliz ile işlem yapabilirsiniz.</p>
         </div>
     </div>
 
