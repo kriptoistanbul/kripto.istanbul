@@ -103,6 +103,7 @@ Taraftar Token Teklifleri (FTO'lar), kripto fırlatma rampalarına benzer şekil
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/chz/bursa-coin.webp">
   <img src="/assets/img/posts-img/chz/basaksehir-token.webp" alt="chz fan token bursa başakşehir" style="width:auto;">
 </picture>
+<a href="https://kripto.istanbul/fed-karari-kripto-piyasa-etkisi-2022-mayis/" title="FED Kripto" target="_blank">FED Faiz Kararı Kripto Para Piyasalarını Nasıl Etkiler</a>
 <h3 id="5">Binance Launchpool</h3>
 
 
