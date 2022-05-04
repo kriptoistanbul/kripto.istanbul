@@ -1,5 +1,5 @@
 ---
-date: 2022-05-04 19:00:00
+date: 2022-05-04 18:00:00
 layout: post
 title: Fed Kararı Kripto Paraları Nasıl Etkiler 2022 Mayıs
 subtitle: FED Faiz Kararı Ne Oldu? FED Faiz Kararı Kripto Para Piyasalarını Nasıl Etkiler?
@@ -13,7 +13,14 @@ tags:
   - faiz Kararı
 paginate: true
 ---
-<h2>FED Faiz Kararı 4 Mayıs 2022</h2>
+<b style="text-align:center; font-size: 150%;">İçindekiler</b>
+<ol style="margin: 0;">
+	<li style="padding: 2px;"><a href="#1">FED Faiz Kararı 4 Mayıs 2022</a></li>
+	<li style="padding: 2px;"><a href="#2">FED faiz arttırımı kripto piyasalarını nasıl etkileyecek?</a></li>
+	<li style="padding: 2px;"><a href="#3">fed kararı sonrası kripto ne olur</a></li>
+	<li style="padding: 2px;"><a href="#4">FED Kripto Etkisi</a></li>
+</ol>
+<h2 id="1">FED Faiz Kararı 4 Mayıs 2022</h2>
 <p>Küresel kripto endüstrisi, Fed'in 4 Mayıs 2022 Çarşamba günü yayınlanacak iki günlük politika toplantısının sonucunu bekliyor. Fed'in şahin duruşu ve 2022'de dört faiz artırımı sinyali son dönemde küresel piyasaları epey korkuttu.</p>
 <p>Buna rağmen, kripto para piyasalarında bazı iyileşme belirtileri görünüyor, ancak yatırımcılar Fed'in konuyla ilgili yorumunu izlerken temkinli yaklaşıyorlar bu durum ise hacimlerde durgunluğa sebep oluyor. Bununla birlikte toplantının hemen ardından hacimlerde sert hareketler olması da muhtemel senaryolar arasında.</p>
 <p>Fed'in faiz oranlarını 50 baz puan (0,5 puan) artırması bekleniyor, bu 22 yılın ilk yarı puan artışı olacak. Ve önümüzdeki birkaç toplantıda Fed, enflasyonun hızını yavaşlatmak için oranları hızla yükseltebilir.</p>
@@ -25,13 +32,13 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/fed/fed-btc.webp">
   <img src="/assets/img/posts-img/fed/fed-btc.webp" alt="fed faiz arttırdı" style="width:auto;">
 </picture>
-<h2>FED faiz arttırımı kripto piyasalarını nasıl etkileyecek?<h2>
+<h2 id="2">FED faiz arttırımı kripto piyasalarını nasıl etkileyecek?<h2>
 <p>iğer iki ana varlık sınıfı, daha yüksek oranlar karşısında farklı tepkiler aldı. Kripto para fiyatları diğer riskli varlıklarla birlikte düşerken, petrol, buğday ve nikel dahil olmak üzere birçok emtia yükseldi. Bu hamleler kısa ömürlü mü olacak?</p>
 <p>Enflasyon, düşük faiz oranları, satın alma gücü eksikliği, doların devalüasyonu vb. Görünüşe göre diğer varlıklardan bağımsız olarak, kripto yükseldiği sürece bu pozitiflere inanmak kolaydı.</p>
 <p>Tucker, "Kripto varlıklar bir enflasyon riskinden korunma aracı olarak görülüyordu, ancak son zamanlarda daha çok hisse senetleri gibi diğer risk varlıkları gibi davrandılar" diyor. “Daha yüksek oranlar, kripto varlıkları için ileriye dönük bir rüzgar olacak.”</p>
 <p>Gerçekten de kripto para birimleri, diğer riskli varlıklar gibi azalan likiditeye yanıt verdi, Fed Kasım ayında tahvil alımlarını azaltmaya başlayacağını ve daha yüksek faiz oranlarının yakında yolda olduğunun sinyalini verdiğinde düşerek tepki verdi.</p>
 
-<h3>fed kararı sonrası kripto ne olur</h3>
+<h3 id="3">fed kararı sonrası kripto ne olur</h3>
 <p>Yükselen oranlar, ani yükselen enflasyon, uluslararası çatışmalar - bunların hepsi yatırımcılar için bir tür oynaklık yaratıyor. Ancak bu risk faktörleri, en azından ABD'de, güçlü ekonomik temelleri gölgede bırakıyor olabilir. Örneğin, tüketiciler dışarı çıkmaya, seyahat etmeye ve son iki yılda biriktirdikleri paranın bir kısmını harcamaya hazır – ve bu seyahat için iyiye işaret olabilir. hisse senetleri.
 </p>
 <p>Tucker, “Bütün odak noktası Fed ve şimdi Ukrayna'da” diyor. "Her iki faktör de dikkatimizi hak ediyor, ancak işgücü piyasası son derece güçlü ve ekonomik temeller uzun vadede getirileri yönlendiriyor."
@@ -55,6 +62,6 @@ paginate: true
 <p>Düşüşler, portföyünüze indirimli fiyatlarla eklemek için cazip bir zaman olabilir. Yatırım efsanesi Warren Buffett'in bir keresinde dediği gibi, "Borsada neşeli bir fikir birliği için çok yüksek bir fiyat ödüyorsunuz." Yani, çok az kişi çekici bir yatırım oldukları konusunda hemfikir olduğunda hisse senetleri daha ucuzdur.
 </p>
 {% include youtube.html width="560" height="315" id="dp8PhLsUcFE" start="0" title="FED Kararı Kripto Piyasalarını Nasıl Etkiler" %}
-<h3>FED Kripto Etkisi</h3>
+<h3 id="4">FED Kripto Etkisi</h3>
 <p>Faiz oranları 2022'de yükselmeye hazırlanıyor ve şu anda asıl soru ne kadar yükseğe çıkabilecekleri. Ekonominin altında yatan güçlü temeller ile, uzun vadeli yatırım ufku olan yatırımcılar, bazı kaliteli yatırımları uygun fiyatlarla almak için ideal bir zaman olarak görebilirler.</p>
 <p>Ya fiyatlar düşmeye devam ederse? Buffett'ın da bu durum için biraz bilgeliği var: "Fırsatlar nadiren gelir. Altın yağdığında yüksüğü değil kovayı söndürün.”</p>
