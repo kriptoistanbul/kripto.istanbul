@@ -175,5 +175,48 @@ Küresel kilitlenmeler nedeniyle geçen yıl spor takımlarının ürettiği gel
 </p>
 {% include youtube.html width="560" height="315" id="bo8u1iHcN44" start="0" title="CHZ Chiliz Nedir" %}
 <h5 id="11">Chiliz Sıkça Sorulan Sorular</h5>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">CHZ coin hangi coin?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">CHZ coin Chiliz Coin'in kısaltmasıdır.</p>
+        </div>
+    </div>
 
-<h5 id="12">Chiliz Nasıl Alınır</h5>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Chiliz ne için kullanılır?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Chiliz, spor ve eğlence platformları dünyasında kullanılmak için oluşturulmuş bir dijital para birimidir.</p>
+             <p>Örneğin;</p>
+             <ul>
+              <li>CHZ, spor ve eğlence için bir yardımcı program simgesidir.</li>
+              <li>CHZ, taraftarların en iyi spor ve e-spor organizasyonları ile nüfuzunu paylaşmasına izin veren Taraftar Tokenları satın almak için kullanılır.</li>
+              <li>Taraftar Tokenları, Yetki Kanıtı Ethereum tabanlı bir zincir (Chiliz Zinciri) kullanır.</li>
+              <li>Chiliz coinin amacı taraftar odaklı olmak ve seyircilerin spor kulüplerine aktif olarak katkıda bulunmalarını sağlamaktır.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Chiliz halka arz olacak mı?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Hayır. Chiliz halka arz olmayacak. Çünkü, 2018'de tüm fonları özel yerleşim yoluyla toplandı, bu nedenle halka açık bir satış olmadı ve olmayacak.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Chiliz hangi borsada?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a"Chiliz Binance, OKX, MEXC ve Bybit borsalarında listelenir. Bu büyük borsalar haricinde irili ufaklı birçok borsada da chiliz ile işlem yapabilirsiniz.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Toplam kaç chiliz var?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Toplam 8,888,888,888 (8.8 Milyar) chiliz var.</p>
+        </div>
+    </div>
+</div>
+<h6 id="12">Chiliz Nasıl Alınır</h6>
+{% include how-to.html coinname="chz" coinlink="https://kripto.istanbul/chz-nedir/" step1text="chz satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda chz coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı chz Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık chz Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
