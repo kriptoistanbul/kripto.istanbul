@@ -1,17 +1,16 @@
 ---
-date: 2022-05-04 18:00:00
+date: 2022-03-12 11:15:00
 layout: post
 title: Fed Kararı Kripto Paraları Nasıl Etkiler 2022 Mayıs
 subtitle: FED Faiz Kararı Ne Oldu? FED Faiz Kararı Kripto Para Piyasalarını Nasıl Etkiler?
 description: FED 2022 kararı kripto para piyasalarını etkiledi. İşte kripto para piyasaları için FED'e dayalı muhtemel senaryolar.
-image: /assets/img/posts-img/fed/fed-karari.webp
+image: /assets/img/posts-img/mkr/maker-mkr-coin-nedir.webp
 category: Kripto Paralar
-permalink: /fed-karari-kripto-paralari-nasil-etkiler-2022-mayis
 tags:
-  - bitcoin
-  - kripto paralar
-  - Fed
-  - faiz Kararı
+- bitcoin
+- kripto paralar
+- Fed
+- faiz Kararı
 paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
