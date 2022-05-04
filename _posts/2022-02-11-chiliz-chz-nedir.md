@@ -85,7 +85,7 @@ Chiliz'in benimsenmesi, 2021'in başlarında görülen Chiliz tokeninin muazzam 
 <li>Pazarlama Operasyonları – 1.333.333.333</li>
 
 <li>Stratejik Satın Alma – 1.333.333.333</li>
-</li>
+
 </ul>
 <p>
 Gördüğünüz gibi, projenin sürdürülebilir olmasını ve gelecekteki kripto pazarlarında başarılı olmasını sağlamak için CHZ'nin token dağıtımında çok fazla dala ayrılmıştır.
