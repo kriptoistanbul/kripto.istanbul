@@ -32,7 +32,7 @@ paginate: true
   <img src="/assets/img/posts-img/fed/fed-btc.webp" alt="fed faiz arttırdı" style="width:auto;">
 </picture>
 <h2 id="2">FED faiz arttırımı kripto piyasalarını nasıl etkileyecek?<h2>
-<p>iğer iki ana varlık sınıfı, daha yüksek oranlar karşısında farklı tepkiler aldı. Kripto para fiyatları diğer riskli varlıklarla birlikte düşerken, petrol, buğday ve nikel dahil olmak üzere birçok emtia yükseldi. Bu hamleler kısa ömürlü mü olacak?</p>
+<p>Diğer iki ana varlık sınıfı, daha yüksek oranlar karşısında farklı tepkiler aldı. Kripto para fiyatları diğer riskli varlıklarla birlikte düşerken, petrol, buğday ve nikel dahil olmak üzere birçok emtia yükseldi. Bu hamleler kısa ömürlü mü olacak?</p>
 <p>Enflasyon, düşük faiz oranları, satın alma gücü eksikliği, doların devalüasyonu vb. Görünüşe göre diğer varlıklardan bağımsız olarak, kripto yükseldiği sürece bu pozitiflere inanmak kolaydı.</p>
 <p>Tucker, "Kripto varlıklar bir enflasyon riskinden korunma aracı olarak görülüyordu, ancak son zamanlarda daha çok hisse senetleri gibi diğer risk varlıkları gibi davrandılar" diyor. “Daha yüksek oranlar, kripto varlıkları için ileriye dönük bir rüzgar olacak.”</p>
 <p>Gerçekten de kripto para birimleri, diğer riskli varlıklar gibi azalan likiditeye yanıt verdi, Fed Kasım ayında tahvil alımlarını azaltmaya başlayacağını ve daha yüksek faiz oranlarının yakında yolda olduğunun sinyalini verdiğinde düşerek tepki verdi.</p>
