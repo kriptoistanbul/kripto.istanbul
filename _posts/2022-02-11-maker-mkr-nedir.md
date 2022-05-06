@@ -161,7 +161,7 @@ açmak, DAI'nin kripto varlıklara karşı likidite sağlayabileceği anlamına 
 <h4 id="7">MKR Coin yorum</h4>
 <p>Maker, uzun zamandır uygulama geliştiricileri için her derde deva olmuştur. Para transferleri ve dağıtılmış finans gibi gerçek dünya sorunlarına yönelik çözümler Maker'da bulundu ve bulunmaya da devam edecek gibi görünüyor</p>
 <h4 id="8">MKR Nasıl Alınır</h4>
-{% include how-to.html coinname="mkr" coinlink="https://kripto.istanbul/maker-mkr-nedir/" step1text="MKR satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tabloda MKR coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı MKR Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık MKR Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
+{% include how-to.html coinname="mkr" coinlink="https://kripto.istanbul/maker-mkr-nedir/" step1text="MKR satın almanın en kolay yolu bir kripto para borsasındandır. Yukarıdaki tableda MKR coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı MKR Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık MKR Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <h4 id="9">Sıkça Sorulan Sorular</h4>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
@@ -249,8 +249,8 @@ açmak, DAI'nin kripto varlıklara karşı likidite sağlayabileceği anlamına 
 <p>Standart ZRC1 / ERC-721, NFT'ler Zilliqa ve Ethereum blok zincirinde yayınlanacak</p>
 <h6>XCAD&nbsp;TOKEN EKONOMİSİ</h6>
 <h6>XCAD&nbsp;AYRINTILI TOKEN METRİKLERİ</h6>
-<tablo>
-<vücut>
+<table>
+<tbody>
 <tr>
 <td>Kasa:</td>
 <td>XCAD</td>
@@ -280,5 +280,5 @@ açmak, DAI'nin kripto varlıklara karşı likidite sağlayabileceği anlamına 
 <td>3.940.250$</td>
 </tr>
 </tbody>
-</tablo>
+</table>
 <a href="https://kripto.istanbul/cardano-ada-nedir/" title="ADA Coin neden düşüyor" target="_blank">ADA Coin hakkında detaylı bilgi neden düşüyor neden yükseliyor?</a>
