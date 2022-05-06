@@ -13,14 +13,14 @@ paginate: true
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
 	<li style="padding: 2px;"><a href="#1">ZCash (ZEC) Nedir?</a></li>
-	<li style="padding: 2px;"><a href="#2">>ZCash (ZEC) Nasıl Çalışır?</a></li>
+	<li style="padding: 2px;"><a href="#2">ZCash (ZEC) Nasıl Çalışır?</a></li>
 	<li style="padding: 2px;"><a href="#3">ZCash (ZEC) Yorum</a></li>
 	<li style="padding: 2px;"><a href="#4">ZEC Nasıl Alınır</a></li>
-  <li style="padding: 2px;"><a href="#5">ZEC Hangi Borsalarda Listeleniyor</a></li>
-  <li style="padding: 2px;"><a href="#6">Sıkça Sorulan Sorular</a></li>
-  <li style="padding: 2px;"><a href="#7">Monero Nedir?</a></li>
-  <li style="padding: 2px;"><a href="#8">Monero ve Zcash</a></li>
-  <li style="padding: 2px;"><a href="#9">Zcash ve DASH</a></li>
+  	<li style="padding: 2px;"><a href="#5">ZEC Hangi Borsalarda Listeleniyor</a></li>
+  	<li style="padding: 2px;"><a href="#6">Sıkça Sorulan Sorular</a></li>
+  	<li style="padding: 2px;"><a href="#7">Monero Nedir?</a></li>
+  	<li style="padding: 2px;"><a href="#8">Monero ve Zcash</a></li>
+  	<li style="padding: 2px;"><a href="#9">Zcash ve DASH</a></li>
 </ol>
   <blockquote cite="https://z.cash/technology/">Zcash, güçlü bilim üzerine kurulmuş, gizliliği koruyan, dijital bir para birimidir. Zcash ile insanlar düşük ücretlerle verimli ve güvenli bir şekilde işlem yapabilirler. Korumalı Zcash, kişilerin denetim veya mevzuata uygunluk için adres ve işlem bilgilerini seçici olarak paylaşmasına izin verirken işlemlerin gizli kalmasını sağlar.</blockquote>
 <h2 id="1">ZCash (ZEC) Nedir?</h2>
@@ -36,7 +36,7 @@ Altın gibi değiştirilebilir enstrümanlar dolandırıcılık ve hırsızlığ
 Zaman içinde yapılan yeterli işlemle, bunların genel adresleri bu işlemlere bağlanabilir, bu da ilgili tarafların genel adres sahibini tanımlamasını kolaylaştırır. Buna ek olarak, bir ürünün satıcısı, alıcının önceki işlemlerini genel adreslerine göre (alıcı tarafından satıcıya verilir) takip edebiliyorsa, satıcı, alıcıdan gelen bir ödemeyi, ya da satın almaları -tarih, ahlaki görüş veya davranışta bir farklılık yüzünden- durumunda reddetme eğiliminde olabilir.</p>
 <p>ZCash, Sıfır Bilgi Kanıtı anlamına gelen zk-SNARKs adlı bir kriptografik araç kullanır. Bu araç, iki kullanıcının herhangi bir tarafın ödeme adreslerini birbirine açıklamadan işlem yapmasına olanak tanır. Bu araç ayrıca, her iki tarafın ödeme adreslerini ve her işlemde yer alan miktarı gizleyerek ZCash işlemlerini ZCash'in blok zincirinde izlenemez hale getirir.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fed/fed-btc.webp">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/zec/zec-ontology.webp">
   <img src="/assets/img/posts-img/zec/zec-ontology.webp" alt="ontology zcash fark" style="width:auto;">
 </picture>
 <h3 id="3">ZCash (ZEC) Yorum</h3>
@@ -377,7 +377,7 @@ Monero ve diğer yüksek oranda anonimleştirilmiş kripto para birimleri gibi, 
 </tbody>
 </table>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fed/fed-btc.webp">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/zec/zec-al.webp">
   <img src="/assets/img/posts-img/zec/zec-al.webp" alt="zec coin nasıl nereden alınır" style="width:auto;">
 </picture>
 <h4 id="6">Sıkça Sorulan Sorular</h4>
@@ -464,7 +464,7 @@ Monero ve diğer yüksek oranda anonimleştirilmiş kripto para birimleri gibi, 
 <p>Zcash, Dash'e karşı mı? Her iki kripto para birimi de Bitcoin'e kıyasla üstün gizlilik ve anonimlik sundukları için çok popülerdir. Ama nasıl farklılar? Nasıl karşılaştırırlar? Hangisi daha iyi performans gösterecek? Bu sorular bize defalarca soruldu, dolayısıyla bu Zcash ve <a href="https://kripto.istanbul/dash-nedir/" title="Zcash ve DASH<" target="_blank">DASH</a> karşılaştırma kılavuzu.</p>
 <p>Şu anda, farklı çevrimiçi forumlarda bu iki mahremiyet madeni parasından hangisinin daha anonim olduğu konusunda hararetli bir tartışma var. Her ikisi de en çok karşılaştırılan olsa da, her birinin kendi artıları ve eksileri vardır. Bu Zcash ve Dash kılavuzunda, hangi altcoinlerin daha fazla anonimlik sunduğuna karar vermenize yardımcı olacak değerli bilgileri ortaya çıkarmak için bu altcoinlerin her birini derinlemesine inceleyeceğiz.</p>
 <picture>
-  <source media="(min-width: 650px" srcset="/assets/img/posts-img/fed/fed-btc.webp">
+  <source media="(min-width: 650px" srcset="/assets/img/posts-img/zec/zec-dash.webp">
   <img src="/assets/img/posts-img/zec/zec-dash.webp" alt="zec vs dash" style="width:auto;">
 </picture>
 <p>Bu karşılaştırma kılavuzu, bunlardan birine veya her ikisine de yatırım yapmak isteyenlerin bilinçli bir karar vermelerine yardımcı olacaktır. Bu, bilmeniz gereken her şeyi içeren eksiksiz bir Zcash vs Dash karşılaştırma kılavuzudur. Bu nedenle, her iki madeni para için de derinlemesine araştırma yaptığımız için, bunlara yatırım yapmayı düşünüyorsanız, önce bu kılavuzu okumalısınız.</p>
