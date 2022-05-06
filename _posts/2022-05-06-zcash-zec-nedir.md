@@ -1,7 +1,7 @@
 ---
 date: 2022-05-06 14:15:00
 layout: post
-title: ZCash ZEC Nedir Ne İşe Yarar? ZEC Yorumlar
+title: ZCash ZEC Nedir
 subtitle: ZCash projesi nedir? ZCash ZEC coin en yüksek kaçı gördü? Kaç adet var?
 description: ZCash, kullanıcıları ve işlemleri için anonimlik sağlamayı amaçlayan merkezi olmayan bir blok zincirine sahip bir kripto para birimidir.
 image: /assets/img/posts-img/zec/zcash-nedir.webp
