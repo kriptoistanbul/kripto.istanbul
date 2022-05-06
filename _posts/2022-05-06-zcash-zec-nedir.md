@@ -23,6 +23,7 @@ paginate: true
   <li style="padding: 2px;"><a href="#8">Monero ve Zcash</a></li>
   <li style="padding: 2px;"><a href="#9">Zcash ve DASH</a></li>
 </ol>
+  <blockquote cite="https://z.cash/technology/">Zcash, güçlü bilim üzerine kurulmuş, gizliliği koruyan, dijital bir para birimidir. Zcash ile insanlar düşük ücretlerle verimli ve güvenli bir şekilde işlem yapabilirler. Korumalı Zcash, kişilerin denetim veya mevzuata uygunluk için adres ve işlem bilgilerini seçici olarak paylaşmasına izin verirken işlemlerin gizli kalmasını sağlar.</blockquote>
 <h2 id="1">ZCash (ZEC) Nedir?</h2>
 <p>ZCash, kullanıcıları ve işlemleri için anonimlik sağlamayı amaçlayan merkezi olmayan bir blok zincirine sahip bir kripto para birimidir. Dijital para birimi olarak ZCash, Bitcoin'e benzer. Bitcoin gibi, ZCash de bir açık kaynak koduna sahiptir, ancak temel farklılıkları, her birinin sağladığı gizlilik ve değiştirilebilirlik seviyesinde yatmaktadır.</p>
 {% include youtube.html width="560" height="315" id="J1Nr1VL5dGU" start="0" title="Zcash ZEC nedir" %}
