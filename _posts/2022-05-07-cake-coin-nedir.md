@@ -131,8 +131,8 @@ paginate: true
 <li><strong>Web sitesi:</strong> https://ceek.io</li>
 <li><strong>Uygulama:</strong> https://ceek.com</li>
 <li><strong>Twitter:</strong> https://twitter.com/CEEK</li>
-<li><strong>Telgraf:</strong> https://t.me/ceekmetaverse</li>
-<li><strong>Orta:</strong> https://ceek.medium.com</li>
+<li><strong>Telegram:</strong> https://t.me/ceekmetaverse</li>
+<li><strong>Medium:</strong> https://ceek.medium.com</li>
 <li><strong>Topluluk:</strong> https://ceek.io/community</li>
 </ul>
 <h6 id="19">Baby Cake Coin Nedir?</h6>
