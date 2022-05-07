@@ -334,3 +334,4 @@ paginate: true
 						 <p itemprop="text" class="faq-a">Coin stake etme, jetonları tutma ve onları cüzdanınızda tutmak için ödüller kazanma sürecidir. Farklı jetonlar, bahis yapmak için farklı süreler gerektirir, ancak tipik olarak, yatırdığınız jeton sayısı üzerinden yıllık %1-14 arasında kazanmayı bekleyebilirsiniz.</p>
 				</div>
 		</div>
+</div>
