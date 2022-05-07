@@ -305,7 +305,7 @@ paginate: true
         </div>
     </div>
 		<div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-				<h6 itemprop="name" class="faq-q"CAKE bir ER20 jetonu mu?</h6>
+				<h6 itemprop="name" class="faq-q">CAKE bir ER20 jetonu mu?</h6>
 				<div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 						 <p itemprop="text" class="faq-a">CAKE bir ERC20 jetonudur ve bazı standart borsalarda işlem görebilir. Ancak Pancake Swap, işlemleri yönetmek için akıllı bir sözleşme veya Ethereum blok zinciri kullanmaz. Tüm işlemler, Komodo blok zincirinde yerleşik olan atomik takaslar aracılığıyla yönetilir.</p>
 				</div>
