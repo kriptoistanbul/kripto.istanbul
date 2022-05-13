@@ -105,6 +105,7 @@ kanıtına (PoSt) uyarak filecoin madenciliği protokolüne katılmalıdır. PoS
 kullanıcının bir depolama sağlayıcısının dış kaynaklı verileri gerçekten belirli
 bir süre boyunca depolayıp depolamadığını kontrol etmesine olanak tanır.
 </p>
+<a href="https://kripto.istanbul/monero-xmr-nedir/" title="XMR MONERO Nedir?" target="_blank">XMR MONERO Nedir?</a>
 <p>
 Bu şemada madenciler tarafından sunulan depolamayı denetlemek için belirlenmiş
 bir doğrulayıcı yoktur, ancak ağın herhangi bir üyesi madencinin
