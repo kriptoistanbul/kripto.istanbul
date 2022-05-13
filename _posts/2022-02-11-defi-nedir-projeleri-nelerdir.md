@@ -3,7 +3,7 @@ date: 2022-02-17 13:05:00
 layout: post
 title: Defi Nedir?
 subtitle: Defi Ne demek? Defi projeleri hangileri? Ne zaman yaygınlaşacak? Defi coinleri hangileri?
-description: DeFi, blok zincirindeki çeşitli finansal uygulamalar için bir şemsiye terim olan "merkeziyetsiz finans"ın kısaltmasıdır.
+description: DeFi, blok zincirindeki çeşitli finansal uygulamalar için bir şemsiye terim olan merkeziyetsiz finansın kısaltmasıdır.
 image: /assets/img/posts-img/defi/defi-nedir.webp
 category: Kripto Paralar
 tags:
@@ -33,7 +33,7 @@ DeFi, dijital para birimi Bitcoin'in arkasındaki teknoloji olan Blockchain'den 
 Bitcoin ve diğer birçok dijital yerel varlık, tüm aracıları işlemlerden kaldırmaları bakımından Visa ve PayPal tarafından yürütülenler gibi eski dijital ödeme yöntemlerinden farklıdır. Bir kafede kahve içmek için kredi kartıyla ödeme yaptığınızda, bir finans kurumu sizinle işletme arasında oturur ve işlemi kontrol ederek durdurma veya duraklatma ve özel defterine kaydetme yetkisini elinde tutar. Bitcoin ve Blockchain teknolojisiyle merkezi finans kurumlarının bu yetkisi ortadan kalkmış olur.
 </p>
 <p>
-Doğrudan satın almalar, büyük şirketler tarafından denetlenen tek işlem veya sözleşme türü değildir; Krediler, sigorta, kitle fonlaması, türevler, bahis ve daha fazlası gibi finansal uygulamalar da kontrollerindedir. Aracıları her türlü işlemden ayırmak, DeFi'nin temel avantajlarından biridir. Yaygın olarak “merkeziyetsiz finans” olarak bilinmeden önce, DeFi fikrine genellikle "açık finans" deniliyordu.
+Doğrudan satın almalar, büyük şirketler tarafından denetlenen tek işlem veya sözleşme türü değildir; Krediler, sigorta, kitle fonlaması, türevler, bahis ve daha fazlası gibi finansal uygulamalar da kontrollerindedir. Aracıları her türlü işlemden ayırmak, DeFi'nin temel avantajlarından biridir. Yaygın olarak “merkeziyetsiz finans” olarak bilinmeden önce DeFi fikrine genellikle "açık finans" deniliyordu.
 </p>
 <h2 id="2">Ethereum Uygulamaları</h2>
 
