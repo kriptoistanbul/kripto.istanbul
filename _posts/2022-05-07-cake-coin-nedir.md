@@ -23,7 +23,7 @@ paginate: true
   	<li style="padding: 2px;"><a href="#22">Cake Hangi Borsalarda Listeleniyor?</a></li>
   	<li style="padding: 2px;"><a href="#23">Sıkça Sorulan Sorular</a></li>
 </ol>
-<h2 id="1">PancakeSwap (CAKE) Nedir?</h2>
+<h1 id="1">PancakeSwap (CAKE) Nedir?</h1>
 <p>PancakeSwap, Ethereum'a hızlı ve ucuz bir alternatif olan Binance Smart Chain &uuml;zerine inşa edilmiş merkezi olmayan bir borsadır.</p>
 <p>Ethereum'da &ccedil;alışan &uuml;nl&uuml; Uniswap DeFi AMM protokol&uuml;ne &ccedil;ok benzer şekilde, PancakeSwap, kullanıcıların kullanıcı tarafından oluşturulan likidite havuzlarına girerek kripto para birimi varlıkları arasında ge&ccedil;iş yapmasını sağlar. S&ouml;z konusu likidite havuzlarını oluşturmak i&ccedil;in PancakeSwap, likidite sağlayıcıları i&ccedil;in &ccedil;ok sayıda DeFi farming fırsatı sunar. Likidite oluşturmak şimdiye kadar bir cazibe olarak g&ouml;r&uuml;nd&uuml; kullanıcılara. Kapılarını a&ccedil;tığından beri PancakeSwap'e Kilitli toplam değerde (TVL) 1 milyar doların &uuml;zerinde para taşındı.</p>
 <p>Bununla birlikte, Uniswap'in aksine, PancakeSwap, CAKE adlı yerel BEP-20 jetonuna sahip olanları &ouml;d&uuml;llendirir. CAKE bahis yaptığınızda, 1: 1 oranında syrup elde edersiniz. syrup tutmak size, sahiplerine orantılı olarak dağıtılan CAKE emisyonlarının% 25'ini verir.</p>

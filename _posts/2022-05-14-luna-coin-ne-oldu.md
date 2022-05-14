@@ -24,7 +24,7 @@ paginate: true
   	<li style="padding: 2px;"><a href="#9">Nereden Luna Coin Alınır</a></li>
 </ol>
 
-<h2 id="1">Luna Coin Ne Oldu?</h2>
+<h1 id="1">Luna Coin Ne Oldu?</h1>
 
 <p>Yatırımcılar <a href="https://kripto.istanbul/terra-luna-nedir/" title="Luna Nedir" target="_blank">Terra Luna</a> gibi sabit paralara yatırımlarının neredeyse tüm değerini kaybettikçe, Hintli borsalar WazirX ve CoinDCX bile yeni yatırımcıların satın almasınlar diye bu para birimlerini platformlarından çıkardı.</p>
 
@@ -44,7 +44,7 @@ Geçen hafta, UST 1 dolardan yaklaşık 0,45 dolara düştükten sonra, Luna'nı
 
 <p>Şiddetli çöküş, yatırımcıların kripto piyasasına olan güvenini azaltabilir. Yatırımcılar Terra ve Luna'daki yatırımlarının neredeyse tüm değerini kaybettikçe, WazirX ve CoinDCX gibi Hintli borsalar da dahil olmak üzere borsalar, yeni yatırımcıların satın almasınlar diye para birimlerini platformlarından çıkardı. çökme ayrıca Perşembe günü yüzde 16'dan fazla düşen kripto pazarında dalgalanmalar yarattı. En popüler kripto para birimi olan Bitcoin, kripto piyasasındaki kan banyosunun ortasında değerinin Aralık 2020'den bu yana en düşük seviyesi olan 27.000$'ın altına düştüğünü gördü. Ancak o zamandan beri, küçük de olsa istikrar belirtileri gösterdi.</p>
 
-<h3 id="4">Luna Coin Düşüşü Yorum</h3>
+<h2 id="4">Luna Coin Düşüşü Yorum</h2>
 
 <p>Düzenleyiciler, stablecoin'lere yapılan yatırımlarla ilgili normları sıkılaştırmak için harekete geçebilir. Daha önce sabit paraları poker çiplerine benzeten ABD Menkul Kıymetler ve Borsa Komisyonu başkanı Gary Gensler, kripto varlık sınıfıyla ilgili düzenleme çağrılarını yeniledi. Terra ve Luna kazasının ortasında, "Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrar için riskler olduğunu gösteriyor" dedi. Bir WSJ raporuna göre, ABD Hazine Bakanı Janet Yellen, ABD Kongresi'nin stablecoin'ler için düzenlemelere izin vermesi çağrısını yineledi. Terra gelişmeleri hakkında yorum yapan Yellen, &ldquo;Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrara yönelik riskler olduğunu gösteriyor. Gerçekten tutarlı bir federal çerçeveye ihtiyacımız var&rdquo;. Raporda, Hazine liderliğindeki bir düzenleyiciler panelinin geçen yıl Kongre'nin stabilcoin ihraççılarını bankalara benzer şekilde düzenleyecek mevzuat yazmasını tavsiye ettiği belirtildi.</p>
 {% include youtube.html width="560" height="315" id="LVanuXZedbs" start="0" title="monero geleceği" %}
@@ -95,7 +95,7 @@ Geçen hafta, UST 1 dolardan yaklaşık 0,45 dolara düştükten sonra, Luna'nı
 <p>Son birkaç günümü Terra topluluk üyelerini telefonla arayarak geçirdim - inşaatçılar, topluluk üyeleri, çalışanlar, arkadaşlar ve aile, UST depegging tarafından harap oldu. Buluşumun hepinize verdiği acıdan dolayı kalbim kırıldı. H&acirc;l&acirc; ademi merkeziyetçi ekonomilerin ademi merkeziyetçi parayı hak ettiğine inanıyorum - ancak şu anki haliyle $UST'nin o para olmayacağı açık. Bu olaydan ne ben ne de mensubu olduğum herhangi bir kurum hiçbir şekilde k&acirc;r etmedi. Kriz sırasında ne luna ne de us sattım.&nbsp;Şu anda depegging etkinliği sırasında LFG BTC rezervlerinin kullanımını belgelemek için çalışıyoruz. Ekiplerimiz aynı anda birden fazla görevi üstlendiği için lütfen sabırlı olun.&nbsp;Agora'da topluluk için ilerlemek için en iyi adımlar konusunda birden fazla öneri var - birçoğunu okuduktan sonra, en iyi adımların ne olduğuna dair düşüncelerimi yazdım.&nbsp;Şimdi korumaya bakmamız gereken şey, Terra'nın blok alanını değerli kılan topluluk ve geliştiricilerdir - eminim topluluğumuz, kendisi için en iyi yol konusunda fikir birliği oluşturacak ve yeniden yükselmenin bir yolunu bulacaktır.</p>
 </blockquote>
 
-<h4 id="8">Nasıl Luna Coin Alınır</h4>
+<h3 id="8">Nasıl Luna Coin Alınır</h3>
 {% include how-to.html coinname="luna" coinlink="https://kripto.istanbul/terra-luna-nedir/" step1text="terra luna satın almanın en kolay yolu bir kripto para borsasındandır. Aşağıdaki tabloda terra luna coin'in listendiği kripto para borsalarını görebilirsiniz. Aralarında karşılaştırma yaparak, düşük ücretler, kullanım kolaylığı veya 24 saat müşteri desteği gibi istediğiniz özelliklere sahip birini bulun. Çoğu borsanın kaydolmak için bir e-posta adresi, telefon numarası ve kimlik belgesi gerektirdiğini unutmayın." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Onaylandıktan sonra size en uygun ödeme yöntemini kullanarak TL, dolar ya da tercih ettiğiniz başka bir para birimi yatırabilirsiniz – kredi kartı, banka kartı, neteller ve paypal ödemeleri yaygın olarak kabul edilmektedir." step4text="Artık paranızı terra luna Coin ile değiştirebilirsiniz. Kullanımı daha kolay borsalarda bu, satın almak istediğiniz tutarı girmek ve satın almak kadar kolaydır. İsterseniz artık terra luna Coin'inizi kişisel cüzdanınıza çekebilirsiniz." %}
 <h4 id="9">Nereden Luna Coin Alınır</h4>
 <table>

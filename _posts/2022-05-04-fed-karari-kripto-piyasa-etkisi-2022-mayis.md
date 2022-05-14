@@ -19,7 +19,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#3">fed kararı sonrası kripto ne olur</a></li>
 	<li style="padding: 2px;"><a href="#4">FED Kripto Etkisi</a></li>
 </ol>
-<h2 id="1">FED Faiz Kararı 4 Mayıs 2022</h2>
+<h1 id="1">FED Faiz Kararı 4 Mayıs 2022</h1>
 <p>Küresel kripto endüstrisi, Fed'in 4 Mayıs 2022 Çarşamba günü yayınlanacak iki günlük politika toplantısının sonucunu bekliyor. Fed'in şahin duruşu ve 2022'de dört faiz artırımı sinyali son dönemde küresel piyasaları epey korkuttu.</p>
 <p>Buna rağmen, kripto para piyasalarında bazı iyileşme belirtileri görünüyor, ancak yatırımcılar Fed'in konuyla ilgili yorumunu izlerken temkinli yaklaşıyorlar bu durum ise hacimlerde durgunluğa sebep oluyor. Bununla birlikte toplantının hemen ardından hacimlerde sert hareketler olması da muhtemel senaryolar arasında.</p>
 <p>Fed'in faiz oranlarını 50 baz puan (0,5 puan) artırması bekleniyor, bu 22 yılın ilk yarı puan artışı olacak. Ve önümüzdeki birkaç toplantıda Fed, enflasyonun hızını yavaşlatmak için oranları hızla yükseltebilir.</p>
@@ -37,7 +37,7 @@ paginate: true
 <p>Tucker, "Kripto varlıklar bir enflasyon riskinden korunma aracı olarak görülüyordu, ancak son zamanlarda daha çok hisse senetleri gibi diğer risk varlıkları gibi davrandılar" diyor. “Daha yüksek oranlar, kripto varlıkları için ileriye dönük bir rüzgar olacak.”</p>
 <p>Gerçekten de kripto para birimleri, diğer riskli varlıklar gibi azalan likiditeye yanıt verdi, Fed Kasım ayında tahvil alımlarını azaltmaya başlayacağını ve daha yüksek faiz oranlarının yakında yolda olduğunun sinyalini verdiğinde düşerek tepki verdi.</p>
 
-<h3 id="3">fed kararı sonrası kripto ne olur</h3>
+<h2 id="3">fed kararı sonrası kripto ne olur</h2>
 <p>Yükselen oranlar, ani yükselen enflasyon, uluslararası çatışmalar - bunların hepsi yatırımcılar için bir tür oynaklık yaratıyor. Ancak bu risk faktörleri, en azından ABD'de, güçlü ekonomik temelleri gölgede bırakıyor olabilir. Örneğin, tüketiciler dışarı çıkmaya, seyahat etmeye ve son iki yılda biriktirdikleri paranın bir kısmını harcamaya hazır – ve bu seyahat için iyiye işaret olabilir. hisse senetleri.
 </p>
 <p>Tucker, “Bütün odak noktası Fed ve şimdi Ukrayna'da” diyor. "Her iki faktör de dikkatimizi hak ediyor, ancak işgücü piyasası son derece güçlü ve ekonomik temeller uzun vadede getirileri yönlendiriyor."

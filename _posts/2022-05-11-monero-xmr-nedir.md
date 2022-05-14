@@ -14,17 +14,17 @@ paginate: true
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
 	<li style="padding: 2px;"><a href="#1">Monero (XMR) Nedir?</a></li>
+	<li style="padding: 2px;"><a href="#6">Monero XMR Yorum</a></li>
 	<li style="padding: 2px;"><a href="#2">Monero (XMR) Bitcoinden Neden Farklıdır?</a></li>
 	<li style="padding: 2px;"><a href="#3">Monero Gizliliğini Nasıl Geliştirir?</a></li>
 	<li style="padding: 2px;"><a href="#4">Moneronun Karşılaştığı Zorluklar</a></li>
   	<li style="padding: 2px;"><a href="#5">Monero Mining Nasıl Yapılır?</a></li>
-  	<li style="padding: 2px;"><a href="#6">Monero XMR Yorum</a></li>
   	<li style="padding: 2px;"><a href="#10">Monero XMR Mining 2Miners</a></li>
   	<li style="padding: 2px;"><a href="#11">Monero XMR Coin Nasıl Alınır?</a></li>
   	<li style="padding: 2px;"><a href="#12">Nereden XMR Alınır?</a></li>
 </ol>
 
-<h2 id="1">Monero (XMR) Nedir?</h2>
+<h1 id="1">Monero (XMR) Nedir?</h1>
 <p>Monero, 2014 yılında piyasaya sürülen açık kaynaklı, gizlilik odaklı bir kripto para birimidir. Blok zinciri opaktır ve katılımcılar tarafından kullanılan adresleri gizleyerek işlem ayrıntılarını ve her işlemin miktarını anonim hale getirir.</p>
 <p>Yatırımcılar kendi CPU'larını kullanarak Monero madenciliği yapabilirler, bu da özel donanım için ödeme yapmalarına gerek olmadığı anlamına gelir. Gizlilik özellikleri, Monero'nun yasadışı faaliyetler için ve karanlık web'de kullanımını kolaylaştırır.</p>
 <picture>
@@ -33,6 +33,9 @@ paginate: true
 </picture>
 <p>Monero (XMR) gizliliği temel alan bir konsept üzerine inşa edilmiş ve çalışmaktadır. Dijital para birimlerinin altında yatan teknolojiyi oluşturan bu blok zincirleri, ağdaki tüm işlemleri gösteren katılımcıların faaliyetlerinin halka açık defterleridir. Fakat Monero'nun blok zinciri kasıtlı olarak opak olacak şekilde yapılandırılmıştır. Katılımcılar tarafından kullanılan adresleri gizleyerek gönderenlerin ve alıcıların kimliği ve her işlemin miktarı gibi işlem ayrıntılarını anonim hale getirir. İsimsizliğin yanı sıra, Monero için madencilik süreci eşitlikçi bir konsepte dayanıyor. Bu, tüm insanların eşit olduğu ve eşit fırsatları hak ettiği ilkesidir. Geliştiricileri, Monero'yu piyasaya sürdüklerinde kendileri için herhangi bir hisse tutmadılar, ancak sanal para birimini daha da geliştirmek için katkılara ve topluluk desteğine güvendiler.</p>
   <blockquote cite="https://www.getmonero.org/get-started/what-is-monero/">Monero, özel ve sansüre dayanıklı işlemlere odaklanan lider kripto para birimidir. Bitcoin ve Ethereum dahil olmak üzere mevcut kripto para birimlerinin çoğunluğu şeffaf blok zincirlerine sahiptir. İşlemler, dünyadaki herhangi biri tarafından doğrulanabilir ve/veya izlenebilir. Bu, bu işlemlerin gönderen ve alan adreslerinin potansiyel olarak gerçek dünya kimlikleriyle bağlantılı olabileceği anlamına gelir. Monero ise kullanıcılarının anonimliğini sağlamak için çeşitli gizliliği artıran teknolojiler kullanır.</blockquote>
+<h2 id="6">Monero XMR Yorum</h2>
+<p>Kripto para birimleri, birçok insan için çok popüler bir yatırımdır. Ancak Bitcoin'in popülaritesi ve fiyatı bir sapma olabilir. Ancak satın alabileceğiniz ve takas edebileceğiniz birçok sanal para birimi vardır, bunlar yatırım yapmak daha kolay olabilir, özellikle Monero.&nbsp;</p>
+<p>CoinMarketCap'e göre, gizlilik açısından zengin özellikler, Monero'nun piyasa değerine dayalı olarak dünyanın en büyük kripto para birimlerinden biri olmasına yardımcı oldu. Yatırımcılar Kraken, Poloniex ve Bitfinex gibi önde gelen kripto para borsalarında Monero ile işlem yapabilirler. Ancak, Monero'yu bu kadar popüler yapan şeyin - yani gizlilik özelliklerinin - yasa dışı faaliyetlerde kullanılması gibi bazı büyük zorluklara da yol açabileceğini unutmamak önemlidir.</p>
 <h2 id="2">Monero (XMR) Bitcoinden Neden Farklıdır?</h2>
 <p>Bitcoin piyasadaki en popüler kripto para birimidir. Sözde ad adresleri kullanarak katılımcının kimliğini korumaya çalışan bir protokol üzerinde çalışır. Bu sözde isimler, rastgele oluşturulmuş alfabe ve sayı kombinasyonlarıdır. Ancak bu yaklaşım, hem Bitcoin adresleri hem de işlemler blok zincirinde kayıtlı olduğundan ve onları halka açık erişime açtığından sınırlı bir gizlilik sunar. Sahte adresler bile tamamen özel değildir. Bir katılımcının zaman içinde yürüttüğü birkaç işlem aynı adrese bağlanabilir, bu da başkalarının bir adres sahibinin eğilimlerinden ve kimliğinden haberdar olmasına olanak tanır.</p>
 <p>Her bitcoin'in işlem geçmişi blok zincirine kaydedilir. Dolandırıcılık, kumar veya hırsızlık gibi belirli olaylarla bağlantılı olabilecek bitcoin birimlerinin tanımlanmasına olanak tanır ve bu tür birimleri tutan hesapları engelleme, askıya alma veya kapatma yolunu açar. Bugün daha önce kumar oynamak için kullanılan ve gelecekte yasaklanarak bir kayba yol açan birkaç bitcoin aldığınızı hayal edin. Bunun için Monero, katılımcılara, tutulan birimlerinin başkaları tarafından reddedilme veya kara listeye alınma riskini taşımadıkları çok daha güvenli bir ağ sunan, izlenemeyen bir işlem geçmişine sahiptir.&nbsp;</p>
@@ -58,9 +61,6 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xmr/xmr-fil.webp">
   <img src="/assets/img/posts-img/xmr/xmr-fil.webp" alt="xmr usdt" style="width:auto;">
 </picture>
-<h3 id="6">Monero XMR Yorum</h3>
-<p>Kripto para birimleri, birçok insan için çok popüler bir yatırımdır. Ancak Bitcoin'in popülaritesi ve fiyatı bir sapma olabilir. Ancak satın alabileceğiniz ve takas edebileceğiniz birçok sanal para birimi vardır, bunlar yatırım yapmak daha kolay olabilir, özellikle Monero.&nbsp;</p>
-<p>CoinMarketCap'e göre, gizlilik açısından zengin özellikler, Monero'nun piyasa değerine dayalı olarak dünyanın en büyük kripto para birimlerinden biri olmasına yardımcı oldu. Yatırımcılar Kraken, Poloniex ve Bitfinex gibi önde gelen kripto para borsalarında Monero ile işlem yapabilirler. Ancak, Monero'yu bu kadar popüler yapan şeyin - yani gizlilik özelliklerinin - yasa dışı faaliyetlerde kullanılması gibi bazı büyük zorluklara da yol açabileceğini unutmamak önemlidir.</p>
 <h4 id="7">Ontology Coin ONT Nedir?</h4>
 <p>Ontology (ONT), Web 3.0'a güven, gizlilik ve güvenlik getirmek için merkezi olmayan kimlik ve veri çözümlerini kullanan bir projedir. Web 3.0'a güvenilir erişim sağlamak için altyapıyı inşa ediyor ve bireylerin ve işletmelerin, düzenleyici uyumlu dijital kimlik çözümleri aracılığıyla kullanıcılara ve gizliliklerine öncelik verildiğinden emin olmalarını sağlıyor.</p>
 <p>Ontology (ONT), kurumsal blok zinciri teknolojisinin, özellikle kimlik ve veri tabanlı kullanım durumları için verimlilik ve güvenlik açısından çoğu işletmeye fayda sağlayabileceğine inanmaktadır. Ontology (ONT), blok zincirinin genellikle zaman alıcı ve maliyet düşürücü doğasının üstesinden gelmek için çok çeşitli işletmeler ve kuruluşlar için daha kullanıcı dostu ve verimli işe alım sağlamak için özel bir dağıtılmış veri alışverişi çerçevesi sunar. Bu çerçeve, kurumsal müşterilerin güvenli, şeffaf ve uygun maliyetli bir şekilde veri aktarımı ve alışverişi yapmalarını sağlar.</p>
