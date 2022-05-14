@@ -40,14 +40,14 @@ Geçen hafta, UST 1 dolardan yaklaşık 0,45 dolara düştükten sonra, Luna'nı
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/luna-ne-oldu/luna-delist.webp">
   <img src="/assets/img/posts-img/luna-ne-oldu/luna-delist.webp" alt="delist" style="width:auto;">
 </picture>
+<h2 id="4">Luna Coin Düşüşü Yorum</h2>
+
+<p>Düzenleyiciler, stablecoin'lere yapılan yatırımlarla ilgili normları sıkılaştırmak için harekete geçebilir. Daha önce sabit paraları poker çiplerine benzeten ABD Menkul Kıymetler ve Borsa Komisyonu başkanı Gary Gensler, kripto varlık sınıfıyla ilgili düzenleme çağrılarını yeniledi. Terra ve Luna kazasının ortasında, "Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrar için riskler olduğunu gösteriyor" dedi. Bir WSJ raporuna göre, ABD Hazine Bakanı Janet Yellen, ABD Kongresi'nin stablecoin'ler için düzenlemelere izin vermesi çağrısını yineledi. Terra gelişmeleri hakkında yorum yapan Yellen, &ldquo;Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrara yönelik riskler olduğunu gösteriyor. Gerçekten tutarlı bir federal çerçeveye ihtiyacımız var&rdquo;. Raporda, Hazine liderliğindeki bir düzenleyiciler panelinin geçen yıl Kongre'nin stabilcoin ihraççılarını bankalara benzer şekilde düzenleyecek mevzuat yazmasını tavsiye ettiği belirtildi.</p>
+{% include youtube.html width="560" height="315" id="LVanuXZedbs" start="0" title="luna coin delist mi oldu" %}
 <h3 id="3">Luna Krizinin Piyasaya Etkileri</h3>
 
 <p>Şiddetli çöküş, yatırımcıların kripto piyasasına olan güvenini azaltabilir. Yatırımcılar Terra ve Luna'daki yatırımlarının neredeyse tüm değerini kaybettikçe, WazirX ve CoinDCX gibi Hintli borsalar da dahil olmak üzere borsalar, yeni yatırımcıların satın almasınlar diye para birimlerini platformlarından çıkardı. çökme ayrıca Perşembe günü yüzde 16'dan fazla düşen kripto pazarında dalgalanmalar yarattı. En popüler kripto para birimi olan Bitcoin, kripto piyasasındaki kan banyosunun ortasında değerinin Aralık 2020'den bu yana en düşük seviyesi olan 27.000$'ın altına düştüğünü gördü. Ancak o zamandan beri, küçük de olsa istikrar belirtileri gösterdi.</p>
 
-<h2 id="4">Luna Coin Düşüşü Yorum</h2>
-
-<p>Düzenleyiciler, stablecoin'lere yapılan yatırımlarla ilgili normları sıkılaştırmak için harekete geçebilir. Daha önce sabit paraları poker çiplerine benzeten ABD Menkul Kıymetler ve Borsa Komisyonu başkanı Gary Gensler, kripto varlık sınıfıyla ilgili düzenleme çağrılarını yeniledi. Terra ve Luna kazasının ortasında, "Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrar için riskler olduğunu gösteriyor" dedi. Bir WSJ raporuna göre, ABD Hazine Bakanı Janet Yellen, ABD Kongresi'nin stablecoin'ler için düzenlemelere izin vermesi çağrısını yineledi. Terra gelişmeleri hakkında yorum yapan Yellen, &ldquo;Bence bu, bunun hızla büyüyen bir ürün olduğunu ve finansal istikrara yönelik riskler olduğunu gösteriyor. Gerçekten tutarlı bir federal çerçeveye ihtiyacımız var&rdquo;. Raporda, Hazine liderliğindeki bir düzenleyiciler panelinin geçen yıl Kongre'nin stabilcoin ihraççılarını bankalara benzer şekilde düzenleyecek mevzuat yazmasını tavsiye ettiği belirtildi.</p>
-{% include youtube.html width="560" height="315" id="LVanuXZedbs" start="0" title="monero geleceği" %}
 
 <h3 id="5">Luna Coin Geri Gelecek Mi? Luna Alınır Mı?</h3>
 
