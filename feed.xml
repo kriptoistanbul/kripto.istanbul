@@ -22,7 +22,7 @@ layout: null
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
         <category>{{ post.category | xml_escape }}</category>
-        <media>{{ post.image | xml_escape }}
+        <media>{{ post.image | xml_escape }}</media>
       </item>
     {% endfor %}
   </channel>
