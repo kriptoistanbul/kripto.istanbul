@@ -71,7 +71,7 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/xmr/xmr-filecoin.webp">
   <img src="/assets/img/posts-img/xmr/xmr-filecoin.webp" alt="monero ne kadar" style="width:auto;">
 </picture>
-<a href="https://kripto.istanbul/monero-xmr-nedir/" title="Filecoin Nedir?" target="_blank">Filecoin Nedir?</a>
+<a href="https://kripto.istanbul/filecoin-fil-nedir/" title="Filecoin Nedir?" target="_blank">Filecoin Nedir?</a>
 <p>Web 3.0 çağına girdiğinden beri, bazı kriptolar, özellikle blok zincirinin artan popülaritesi ışığında, günümüzde önemli ve ilgili bir konu olmaya devam ettiği için veri gizliliği konusunu ele almaya çalıştı. Web 3.0'a geçerken, farklı platformlar arasındaki çapraz iletişim, Web 2.0'ın sınırlamalarının üstesinden gelmede önemli bir faktör olacaktır. Ancak, belirli ürünlere, hizmetlere ve içeriğe erişmek için kullanıcıların yine de kimliklerini çevrimiçi olarak kanıtlamaları gerekir. Sonuç olarak, büyük miktarda veri üretilecek ve blok zinciri ağlarında saklanacaktır.</p>
 <p>Blok zincirinde depolanan veriler, merkezi sunucularda depolanan verilerden çok daha güvenli olsa da, Web 3.0 platformları, tam kanıtlı bir veri güvenliği çözümü mevcut değilse, bozmak ve değiştirmek için tasarlanmış özellikleri kademeli olarak taklit edecektir. Monero (XMR), Ontology (ONT) ve yeni gelen Secure Crypto Token (SECR)'nin sorunu nasıl çözmeyi amaçladığına bir göz atalım.</p>
 <h5 id="9">Güvenli Kripto Token (SECR)</h5>
