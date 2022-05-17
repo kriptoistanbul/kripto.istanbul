@@ -8,9 +8,6 @@ permalink: /gizlilik/
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Kripto İstanbul" width="200">
 
-# gizlilik
-
-
 <h1>Gizlilik</h1>
 kripto.istanbul olarak hiçbir kişisel bilginizi toplamıyoruz. Dolayısıyla kişisel bilgilerinizin hiçbir kişi veya kurumla paylaşılması mümkün değildir. Ayrıca, bu site üzerinde herhangi bir üyelik ya da abonelik seçeneği mevcut değildir. Dolayısıyla kripto.istanbul aracılığıyla sizlerden kişisel bilgi ya da ödeme bilgileri talep eden kişi veya kişilere itibar etmeyiniz.
 Google reklam çerezleri
