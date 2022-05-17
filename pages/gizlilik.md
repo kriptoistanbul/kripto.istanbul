@@ -9,13 +9,6 @@ permalink: /gizlilik/
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Kripto İstanbul" width="200">
 
 <h1>Gizlilik</h1>
-kripto.istanbul olarak hiçbir kişisel bilginizi toplamıyoruz. Dolayısıyla kişisel bilgilerinizin hiçbir kişi veya kurumla paylaşılması mümkün değildir. Ayrıca, bu site üzerinde herhangi bir üyelik ya da abonelik seçeneği mevcut değildir. Dolayısıyla kripto.istanbul aracılığıyla sizlerden kişisel bilgi ya da ödeme bilgileri talep eden kişi veya kişilere itibar etmeyiniz.
-Google reklam çerezleri
-Google, iş ortaklarının web sitelerinde (Google reklamları yayınlayan veya Google sertifikalı reklam ağlarına katılan web siteleri gibi) reklam yayınlanmak için çerez kullanır. Kullanıcılar bir Google iş ortağının web sitesini ziyaret ettiğinde son kullanıcının tarayıcısına bir çerez bırakılabilir.
-
-Gizlilik politikası
-Gizlilik politikanızın aşağıdaki bilgileri içermesi gerekir:
-
 Google dahil üçüncü taraf tedarikçiler, kullanıcıların web sitenize veya diğer web sitelerine yaptığı önceki ziyaretleri temel alan reklamlar yayınlamak için çerez kullanmaktadır.
 Google'ın reklam çerezlerini kullanması, Google ve iş ortaklarının kullanıcılara siteniz ve/veya internetteki diğer sitelere yaptıkları ziyaretleri temel alan reklamlar sunmasına olanak tanır.
 Kullanıcılar Reklam Ayarları sayfasını ziyaret ederek kişiselleştirilmiş reklamcılığı devre dışı bırakabilir. (Alternatif olarak, üçüncü taraf tedarikçilerin kişiselleştirilmiş reklamcılık için çerezleri kullanmasını devre dışı bırakmak isteyen kullanıcıları www.aboutads.info adresine yönlendirebilirsiniz.)
