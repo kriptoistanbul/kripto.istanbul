@@ -1,5 +1,5 @@
 ---
-date: 2022-05-07 09:15:00
+date: 2022-06-27 17:15:00
 layout: post
 title: Cake Coin Nedir
 subtitle: Cake Pancake projesi nedir? Pancake cake coin en yüksek kaçı gördü? Kaç adet var?
@@ -24,7 +24,7 @@ paginate: true
   	<li style="padding: 2px;"><a href="#23">Sıkça Sorulan Sorular</a></li>
 </ol>
 <h1 id="1">PancakeSwap (CAKE) Nedir?</h1>
-<p>PancakeSwap, Ethereum'a hızlı ve ucuz bir alternatif olan Binance Smart Chain &uuml;zerine inşa edilmiş merkezi olmayan bir borsadır.</p>
+<p><a href="https://cryptocurrencynewspro.com/what/cake/" title="What is Cake coin Pancake Swap" target="_blank">PancakeSwap</a>, Ethereum'a hızlı ve ucuz bir alternatif olan Binance Smart Chain &uuml;zerine inşa edilmiş merkezi olmayan bir borsadır.</p>
 <p>Ethereum'da &ccedil;alışan &uuml;nl&uuml; Uniswap DeFi AMM protokol&uuml;ne &ccedil;ok benzer şekilde, PancakeSwap, kullanıcıların kullanıcı tarafından oluşturulan likidite havuzlarına girerek kripto para birimi varlıkları arasında ge&ccedil;iş yapmasını sağlar. S&ouml;z konusu likidite havuzlarını oluşturmak i&ccedil;in PancakeSwap, likidite sağlayıcıları i&ccedil;in &ccedil;ok sayıda DeFi farming fırsatı sunar. Likidite oluşturmak şimdiye kadar bir cazibe olarak g&ouml;r&uuml;nd&uuml; kullanıcılara. Kapılarını a&ccedil;tığından beri PancakeSwap'e Kilitli toplam değerde (TVL) 1 milyar doların &uuml;zerinde para taşındı.</p>
 <p>Bununla birlikte, Uniswap'in aksine, PancakeSwap, CAKE adlı yerel BEP-20 jetonuna sahip olanları &ouml;d&uuml;llendirir. CAKE bahis yaptığınızda, 1: 1 oranında syrup elde edersiniz. syrup tutmak size, sahiplerine orantılı olarak dağıtılan CAKE emisyonlarının% 25'ini verir.</p>
 <picture>
@@ -114,10 +114,10 @@ paginate: true
 </ul>
 <h5 id="16">Cüzdan Başına Maksimum Bahis:</h5>
 <p>syrup Havuzu başlatıldıktan sonra ilk 57.600 blok (yaklaşık 48 saat) için 100 CAKE, ardından sınırsız CAKE stake.</p>
-<p>Sınır, herkese çiftliğin başlangıcında yüksek bir APY'de çiftlik ödülleri için eşit fırsat vermektir.</p>
+<p>Sınır, herkese farming başlangıcında yüksek bir APY'de farming ödülleri için eşit fırsat vermektir.</p>
 <h5 id="17">Farming:</h5>
-<p>$CEEK syrup Havuzuna ev sahipliği yapmak için bir CEEK-BNB çiftliği sağlamamız gerekecek. Çiftlikte ilk 48 saat için 1 kat CAKE ödülü, ardından 0,5 kat ödül olacak.</p>
-<p>Lütfen şu metrikler aracılığıyla emsallerinden daha düşük performans gösteriyorsa, çiftliğin artırma dönemi sırasında veya sonrasında çarpan ayarlamalarına tabi olduğunu unutmayın: ortalama günlük hacim, 14 günlük hacim, BSC'deki benzersiz jeton sahipleri, temel jeton sorunları vb.< /p>
+<p>$CEEK syrup Havuzuna ev sahipliği yapmak için bir CEEK-BNB farmingi sağlamamız gerekecek. Farmin'te ilk 48 saat için 1 kat CAKE ödülü, ardından 0,5 kat ödül olacak.</p>
+<p>Lütfen şu metrikler aracılığıyla emsallerinden daha düşük performans gösteriyorsa, farming artırma dönemi sırasında veya sonrasında çarpan ayarlamalarına tabi olduğunu unutmayın: ortalama günlük hacim, 14 günlük hacim, BSC'deki benzersiz jeton sahipleri, temel jeton sorunları vb.< /p>
 <h5 id="18">CEEK nedir?</h5>
 <p>Ekipten: &ldquo;CEEK, kullanıcıların ortak sosyal alanlarda birlikte oynayabilecekleri, öğrenebilecekleri ve birlikte yaşayabilecekleri, test sürüşlerinden ev satın almaya ve konserlere ve spor oyunlarına kadar her şeye katılabilecekleri sanal bir topluluktur. CEEK meta veri tabanına Oculus, HTC Vive gibi VR başlıkları ve kendi <strong>CEEK Mobile VR başlığımız</strong> aracılığıyla da erişilebilir.</p>
 <p>CEEK'in mevcut ortakları arasında Meta, Apple ve Microsoft yer alıyor ve platform çok çeşitli yıldızları ağırladı: Lady Gaga, Katy Perry, Ziggy Marley, Bon Jovi ve Demi Lovato gibi sanatçılar; Dwayne Wade ve Francis Ngannuo gibi spor yıldızları; ve daha birçok içerik oluşturucu ve kişilik.</p>
@@ -136,7 +136,7 @@ paginate: true
 <li><strong>Topluluk:</strong> https://ceek.io/community</li>
 </ul>
 <h6 id="19">Baby Cake Coin Nedir?</h6>
-<p>Baby Cake, sahiplerinin yansıma yoluyla pasif gelir kaynağı olarak düzenli olarak KEK kazanmalarını sağlayan bir projedir. Yansıma, SafeMoon ve Shiba Inu gibi memecoin'ler arasında popüler bir kazanç mekanizmasıdır. Her işlemden ücretlerin bir kısmını alır ve ücretlerden tokenları sahiplerine geri dağıtır. Baby Cake web sitesi, jeton sahiplerinin her saat KEK şeklinde pasif gelir elde edeceklerini ilan eder.</p>
+<p>Baby Cake, sahiplerinin yansıma yoluyla pasif gelir kaynağı olarak düzenli olarak CAKE kazanmalarını sağlayan bir projedir. Yansıma, SafeMoon ve Shiba Inu gibi memecoin'ler arasında popüler bir kazanç mekanizmasıdır. Her işlemden ücretlerin bir kısmını alır ve ücretlerden tokenları sahiplerine geri dağıtır. Baby Cake web sitesi, jeton sahiplerinin her saat CAKE şeklinde pasif gelir elde edeceklerini ilan eder.</p>
 <h6 id="20">Pancakeswap sahipleri RACA'nın syrup Havuzu ve Farming'e katılmasına oy verecek</h6>
 <p>Pancakeswap ekibi, token sahiplerinin RACA'nın syrup havuzuna ve farminge katılmasına oy verebileceklerini duyurdu. Kullanıcılar, CAKE jetonlarını stake edebilir ve RACA kazanabilir veya CAKE jetonlarını kazanmak için RACA'larını stake edebilirler. PancakeSwap, BEP-20 jetonlarını takas etmek için otomatik bir piyasa yapıcı (AMM) modeline sahip Binance Akıllı Zincir tabanlı merkezi olmayan bir borsadır (DEX). CAKE, son 24 saatte %2'den fazla düşüşle 7 dolardan işlem görüyor.</p>
 <picture>
@@ -335,3 +335,13 @@ paginate: true
 				</div>
 		</div>
 </div>
+<h6>Cake Coin Mining</h6>
+<p><strong>Yield Farming on PancakeSwap</strong>
+<p>Muhtemelen, CAKE jetonları Kazanmanın en kolay yolu, platformun ticaret havuzlarına likidite sağlamaktır. Mutfağa girmek ve PancakeSwap'ta likidite sağlayıcısı olmak i&ccedil;in tek ihtiyacınız olan Trust Wallet gibi bir Binance Akıllı Zincir c&uuml;zdanı ve mevcut ticaret havuzlarına yatırmak istediğiniz BEP20 varlıkları.</p>
+<ul>
+<li>Likiditeye katkıda bulunmak istediğiniz bir havuz bulduğunuzda, havuzda bulunan iki varlığı yatırmalısınız.</li>
+<li>Bir varlığın sahip olduğu miktarın yarısını diğerine d&ouml;n&uuml;şt&uuml;r&uuml;n ve halihazırda iki varlığa sahip değilseniz, her ikisini de bir likidite havuzuna yatırın.</li>
+<li>LP jetonları, iki varlık yatırıldıktan ve işlem imzalandıktan sonra verilecektir.</li>
+<li>CAKE kazanmak i&ccedil;in, şu anda mevcut olan verim &ccedil;iftliklerinde LP jetonlarınızı stake edersiniz.</li>
+</ul>
+<p>Hepsi bu kadar! Artık, verim farmingi yaptığınız ticaret &ccedil;iftinde ge&ccedil;erli olan Nisan ayına g&ouml;re CAKE kazanıyorsunuz</p>
