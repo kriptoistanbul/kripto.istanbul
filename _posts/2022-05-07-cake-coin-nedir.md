@@ -1,7 +1,7 @@
 ---
-date: 2022-06-27 17:15:00
+date: 2023-03-16 17:15:00
 layout: post
-title: Cake Coin Nedir
+title: Cake Coin Nedir? Pancake Coin 2023
 subtitle: Cake Pancake projesi nedir? Pancake cake coin en yüksek kaçı gördü? Kaç adet var?
 description: PancakeSwap, Ethereum'a hızlı ve ucuz bir alternatif olan Binance Smart Chain üzerine inşa edilmiş merkezi olmayan bir borsadır.
 image: /assets/img/posts-img/cake/cake-coin-nedir.webp
