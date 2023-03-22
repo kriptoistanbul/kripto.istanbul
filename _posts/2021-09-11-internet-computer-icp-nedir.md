@@ -1,7 +1,7 @@
 ---
 date: 2023-03-22 20:26:40
 layout: post
-title: Internet Computer -ICP- Nedir?
+title: Internet Computer -ICP- Nedir? 2023 ICP Yorumları
 subtitle: Internet Computer Nedir? Internet Computer İnternet'in Geleceğini Şekillendirebilir Mi?
 description: Internet Computer,ICP, arka uç yazılımını barındırarak genel İnternet'in işlevselliğini geliştiren ve onu küresel bir hesaplama platformuna dönüştüren devrimci bir protokoldür.
 image: /assets/img/posts-img/icp/icp-coin-internet-computer-coin-nedir.webp
