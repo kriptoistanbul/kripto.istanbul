@@ -1,5 +1,5 @@
 ---
-date: 2021-09-11 22:26:40
+date: 2023-03-22 20:26:40
 layout: post
 title: Internet Computer -ICP- Nedir?
 subtitle: Internet Computer Nedir? Internet Computer İnternet'in Geleceğini Şekillendirebilir Mi?
