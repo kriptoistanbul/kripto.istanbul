@@ -220,4 +220,3 @@ için iddialı olduğunu söylemek gerekir.
     </div>
   </div>
 </div>
-<h5 id="10">HBAR Nasıl Alınır</h5>
