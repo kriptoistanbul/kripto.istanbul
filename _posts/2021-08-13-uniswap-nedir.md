@@ -1,9 +1,9 @@
 ---
-date: 2021-08-13 14:26:40
+date: 2023-03-23 19:06:40
 layout: post
-title: Uniswap -UNI- Nedir?
+title: Uniswap (UNI) Hakkında Bilinmesi Gerekenler 2023
 subtitle: Uniswap Nedir? Merkeziyetsiz Borsa Nedir? Uniswap En İyi Merkeziyetsiz Borsa Mı?
-description: Uniswap, likidite oluşturmak ve Ethereum'da ERC-20 token ticareti yapmak için bir protokoldür. Güvenilir aracıları ve gereksiz masraf çıkarma biçimlerini ortadan kaldırarak hızlı ve verimli ticarete olanak tanır.
+description: Uniswap, Ethereum tabanlı ERC-20 tokenlerin alım satımını kolaylaştıran merkeziyetsiz bir borsa protokolüdür. Güvenilir aracıları ve ekstra masrafları ortadan kaldırarak hızlı, verimli ve güvenli ticaret deneyimi sunar.
 image: /assets/img/posts-img/uni/uniswap-coin-uni-coin-nedir.webp
 category: Kripto Paralar
 tags:
@@ -328,3 +328,26 @@ paginate: true
 </table>
 <p>&nbsp;</p>
 {% include how-to.html coinname="uniswap" coinlink="https://kripto.istanbul/uniswap-nedir/" step1text="Uniswap Uni Coin'i bir veya daha fazla kripto para birimi eşleşmesinde listeleyen bir borsa bulun. Ardından e-posta adresiniz ve şifrenizle kaydolun. En düşük ücretleri ve en yeni döviz kurlarını bulmak için Uniswap Uni Coin satın alırken borsaları karşılaştırın. Not: Birçok borsa, ticaret yapmanıza izin vermeden önce tam adınızı, iletişim bilgilerinizi ve kimlik belgenizi ister." step2text="Bir borsada hesap oluşturmak için e-posta adresinizi ve kimliğinizi doğrulamanız gerekir. Fotoğraflı kimliğinizi ve telefonunuzu hazır bulundurun." step3text="Borsanız Uniswap Uni Coin'i destekliyorsa, doğrudan TL, dolar, euro, sterlin ya da dilediğiniz başka bir para birimi ile Uniswap Uni Coin satın alabilirsiniz. Bazı borsalar, satın aldığınız Uniswap Uni Coin miktarına bağlı olarak değişen komisyon ücretleri alır, bu nedenle işleminizin maliyetine dikkat edin.Not: Bazı ödeme yöntemleri daha yüksek ücretlere sahiptir ve kredi kartı ödemeleri genellikle en pahalı olanıdır." step4text="İstediğiniz Uniswap Uni Coin eşleşmesini bulmak için seçtiğiniz borsadaki piyasalar bölümüne gidin. Uniswap Uni Coin satın alma bölümüne bakın ve harcamak istediğiniz eşleştirilmiş kripto para birimi miktarını veya satın almak istediğiniz Uniswap Uni Coin miktarını yazın. Not: İşlemi tamamlamadan önce satın aldığınız Uniswap Uni Coin miktarı ve satın almanın toplam maliyeti dahil olmak üzere işlem ayrıntılarınızı dikkatlice inceleyin." %}
+
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">1. Uniswap Coin (UNI) nedir?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">Uniswap Coin (UNI), merkeziyetsiz bir kripto para borsası olan Uniswap platformunun yerel yönetim token'ıdır. Bu token, platformun gelecekteki gelişimi ve yönetimine katılım sağlamak amacıyla kullanılır.</p>
+    </div>
+  </div>
+
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">2. UNI token'ı nasıl satın alabilirim?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">UNI token'ını, Uniswap başta olmak üzere popüler kripto para borsaları ve merkeziyetsiz borsalardan (DEX) satın alabilirsiniz. İşlem yapmak için önce bir kripto cüzdan oluşturmanız ve ardından bu cüzdanı borsa hesabınızla bağlamanız gerekmektedir.</p>
+    </div>
+  </div>
+
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">3. UNI token'larını nerede saklayabilirim?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">UNI, ERC-20 uyumlu olduğu için Ethereum tabanlı cüzdanlarda saklanabilir. MyEtherWallet, MetaMask ve Ledger Nano S gibi popüler cüzdanlar UNI token'larını saklamak için kullanılabilir.</p>
+    </div>
+  </div>
+</div>
