@@ -1,9 +1,9 @@
 ---
-date: 2022-02-17 13:40:00
+date: 2023-03-23 20:40:00
 layout: post
-title: Hedera Hashgraph (HBAR) Nedir?
-subtitle: Hedera Nedir? HBAR Kimin? HBAR Yorum 2022
-description: Hashgraph, bir blok zinciri üzerine kurulmuş bir platform değildir. Ağa daha fazla işlem eklendikçe işlemleri doğrulama hızının arttığı bir grafik olarak hayal etmek en iyisidir.
+title: Hedera Hashgraph (HBAR) Nedir? 2023
+subtitle: Hedera Nedir? HBAR Kimin? HBAR Yorum 2023
+description: Hedera Hashgraph (HBAR) nedir, kimin ve neden önemli? 2023 yılı HBAR yorum ve değerlendirmeleri. Hızlı işlem ve güvenliği ile öne çıkan Hedera ağı hakkında bilgi edinin.
 image: /assets/img/posts-img/hbar/hbar-coin-hedera-nedir.webp
 category: Kripto Paralar
 tags:
