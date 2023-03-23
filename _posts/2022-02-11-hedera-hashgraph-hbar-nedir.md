@@ -1,5 +1,5 @@
 ---
-date: 2023-03-23 20:40:00
+date: 2023-03-23 19:00:00
 layout: post
 title: Hedera Hashgraph (HBAR) Nedir? 2023
 subtitle: Hedera Nedir? HBAR Kimin? HBAR Yorum 2023
