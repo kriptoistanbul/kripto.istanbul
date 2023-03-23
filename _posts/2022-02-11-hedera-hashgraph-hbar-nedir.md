@@ -200,5 +200,24 @@ için iddialı olduğunu söylemek gerekir.
 </p>
 {% include youtube.html width="560" height="315" id="0cdRLRPOX30" start="0" title="HBAR Hedera Nedir" %}
 <h5 id="9">Sıkça Sorulan Sorular</h5>
-
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">HBAR nedir?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">HBAR, Hedera Hashgraph platformunun yerel kripto para birimidir. Bu platform, dağıtık defter teknolojisi olan hashgraph üzerine kurulmuş ve ölçeklenebilir, güvenli ve hızlı işlem gerçekleştirme hedeflemektedir.</p>
+    </div>
+  </div>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">HBAR'ın avantajları nelerdir?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">HBAR, düşük işlem ücretleri, yüksek işlem hızı ve ölçeklenebilirlik sunar. Ayrıca, enerji verimli hashgraph konsensüs algoritması sayesinde çevreye daha az zarar verir ve daha güvenlidir.</p>
+    </div>
+  </div>
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <h2 itemprop="name">HBAR nasıl satın alabilirim?</h2>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <p itemprop="text">HBAR'ı, kripto para borsalarında (Binance, Bitrex, Okex vb.) veya HBAR destekli cüzdanlarda (örn. MyHbarWallet) satın alabilirsiniz. HBAR'ı satın almak için, önce başka bir kripto para (örn. Bitcoin, Ethereum) satın almanız ve ardından HBAR'a dönüştürmeniz gerekmektedir.</p>
+    </div>
+  </div>
+</div>
 <h5 id="10">HBAR Nasıl Alınır</h5>
