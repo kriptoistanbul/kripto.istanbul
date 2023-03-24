@@ -89,40 +89,32 @@ paginate: true
   <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
     <h2 itemprop="name">USDC Coin nedir?</h2>
     <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        <p>USDC Coin, Ethereum blok zinciri üzerinde çalışan bir stabilcoin'dir. Dolar karşılığı bulunan USDC Coin, fiat para birimleri ile kripto para birimleri arasında geçiş yapmak için kullanılabilir.</p>
-      </div>
+      <p itemprop="text">USDC Coin, Ethereum blok zinciri üzerinde çalışan bir stabilcoin'dir. Dolar karşılığı bulunan USDC Coin, fiat para birimleri ile kripto para birimleri arasında geçiş yapmak için kullanılabilir.</p>
+      </p>
     </div>
   </div>
   <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
     <h2 itemprop="name">USDC Coin nasıl kullanılır?</h2>
     <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        <p>USDC Coin, birçok kripto para borsası ve cüzdanı tarafından desteklenir. USDC Coin almak veya satmak için bir borsa kullanabilirsiniz. Ayrıca USDC Coin'i kullanarak ödemeler yapabilir veya diğer kripto para birimleri ile takas yapabilirsiniz.</p>
-      </div>
+<p itemprop="text">USDC Coin, birçok kripto para borsası ve cüzdanı tarafından desteklenir. USDC Coin almak veya satmak için bir borsa kullanabilirsiniz. Ayrıca USDC Coin'i kullanarak ödemeler yapabilir veya diğer kripto para birimleri ile takas yapabilirsiniz.</p>
     </div>
   </div>
   <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
     <h2 itemprop="name">USDC Coin'in fiyatı nedir?</h2>
     <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        <p>USDC Coin'in fiyatı, dolar karşılığı olarak 1 USDC Coin = 1 dolar olarak belirlenmiştir. USDC Coin'in fiyatı, doların değerine göre değişebilir.</p>
+<p itemprop="text">USDC Coin'in fiyatı, dolar karşılığı olarak 1 USDC Coin = 1 dolar olarak belirlenmiştir. USDC Coin'in fiyatı, doların değerine göre değişebilir.</p>
       </div>
     </div>
-  </div>
   <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
     <h2 itemprop="name">USDC Coin güvenli midir?</h2>
     <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        <p>USDC Coin, güvenli bir kripto para birimidir. USDC Coin'in arkasındaki şirket, Circle, finansal düzenleyiciler tarafından düzenlenir ve denetlenir. Ayrıca, USDC Coin, ERC-20 standardını kullanır ve akıllı sözleşmelerle desteklenir.</p>
+<p itemprop="text">USDC Coin, güvenli bir kripto para birimidir. USDC Coin'in arkasındaki şirket, Circle, finansal düzenleyiciler tarafından düzenlenir ve denetlenir. Ayrıca, USDC Coin, ERC-20 standardını kullanır ve akıllı sözleşmelerle desteklenir.</p>
       </div>
     </div>
-  </div>
   <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
     <h2 itemprop="name">USDC Coin nedir ve neden kullanılır?</h2>
     <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
-      <div itemprop="text">
-        <p>USDC Coin, Ethereum blok zinciri üzerinde çalışan bir stabilcoin'dir. Dolar karşılığı bulunan USDC Coin, fiat para birimleri ile kripto para birimleri arasında geçiş yapmak için kullanılabilir. Ayrıca, birçok kripto para borsası ve cüzdanı tarafından desteklenir, böylece USDC Coin'i kullanarak ödemeler yapabilir veya diğer kripto para birimleri ile takas yapabilirsiniz. USDC Coin, güvenli bir kripto para birimi olarak kabul edilir çünkü ERC-20 standardını kullanır ve akıllı sözleşmelerle desteklenir. Ayrıca, USDC Coin'in arkasındaki şirket, Circle, finansal düzenleyiciler tarafından düzenlenir ve denetlenir. USDC Coin'in fiyatı dolar karşılığı olarak 1 USDC Coin = 1 dolar olarak belirlenmiştir, ancak doların değerine göre değişebilir.</p>
+<p itemprop="text">USDC Coin, Ethereum blok zinciri üzerinde çalışan bir stabilcoin'dir. Dolar karşılığı bulunan USDC Coin, fiat para birimleri ile kripto para birimleri arasında geçiş yapmak için kullanılabilir. Ayrıca, birçok kripto para borsası ve cüzdanı tarafından desteklenir, böylece USDC Coin'i kullanarak ödemeler yapabilir veya diğer kripto para birimleri ile takas yapabilirsiniz. USDC Coin, güvenli bir kripto para birimi olarak kabul edilir çünkü ERC-20 standardını kullanır ve akıllı sözleşmelerle desteklenir. Ayrıca, USDC Coin'in arkasındaki şirket, Circle, finansal düzenleyiciler tarafından düzenlenir ve denetlenir. USDC Coin'in fiyatı dolar karşılığı olarak 1 USDC Coin = 1 dolar olarak belirlenmiştir, ancak doların değerine göre değişebilir.</p>
       </div>
     </div>
   </div>
