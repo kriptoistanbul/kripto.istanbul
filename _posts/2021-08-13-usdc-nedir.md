@@ -1,5 +1,5 @@
 ---
-date: 2023-03-24 20:20:00
+date: 2023-03-24 20:10:00
 layout: post
 title: USD Coin - USDC Nedir? | 2023 Yorumları
 subtitle: USD Coin Nedir? USD Coin Gerçek Dolar Mıdır?
