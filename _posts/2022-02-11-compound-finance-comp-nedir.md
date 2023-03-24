@@ -1,9 +1,9 @@
 ---
-date: 2022-02-17 12:45:00
+date: 2023-03-24 18:45:00
 layout: post
-title: Compound Finance (COMP) Nedir?
-subtitle: Compound finance ne demek? Compound ne işe yarar? Compound ile kripto borç almak için ne yapmanız gerekir? Compound Yönetim Sistemi nedir?
-description: Compound Finance, herkesin kripto para varlıklarını ödünç vermesini veya ödünç almasını sağlayan öncü bir merkezi olmayan finans protokolüdür.
+title: Compound Finance (COMP) Nedir? - 2023 Güncel Rehber
+subtitle: Compound Finance ne demek? Compound ne işe yarar? Kripto para borç ve yönetim sistemi ile Compound nasıl kullanılır?
+description: Compound Finance, kullanıcıların kripto para varlıklarını değerlendirebilecekleri, merkezi olmayan finans (DeFi) sektörünün öncü protokollerinden biridir. COMP token ile borç alabilir, ödünç verebilir ve platformun yönetimine katılabilirsiniz. 
 image: /assets/img/posts-img/comp/compound-finance-comp-coin-nedir.webp
 category: Kripto Paralar
 tags:
@@ -166,6 +166,32 @@ Bu nedenlerden ve daha fazlasından dolayı, Compound geliştirme ekibi, zincirl
 Yakın tarihli bir yönetişim çağrısı sırasında, Compound ekibi, Compound Zincirin kendi belirtecine ($ CASH) sahip olacağını ve tüm ekosistemin yönetim belirteci olarak COMP'u koruyacağını doğruladı.
 </p>
 {% include youtube.html width="560" height="315" id="jRLOG8fLwuA" start="0" title="COMP Compund Finance Nedir" %}
-<h5 id="8">Compound Finance Sıkça Sorulan Sorular</h5>
+<div itemscope itemtype="https://schema.org/FAQPage">
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h2 itemprop="name">COMP token nedir?</h2>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <p itemprop="text">COMP token, Compound protokolünün yerel yönetişim tokenidir. Kullanıcılar, COMP tokenleri sayesinde protokol üzerindeki önerilere oy vererek yönetişime katılabilirler.</p>
+        </div>
+    </div>
 
-<h5 id="9">Compound Finance Nasıl Alınır</h5>
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h2 itemprop="name">COMP tokenlerinin temel amacı nedir?</h2>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <p itemprop="text">COMP tokenlerinin temel amacı, Compound protokolünün merkezi olmayan yönetişim sürecini sağlamaktır. COMP token sahipleri, protokolün gelecekteki gelişimine ve parametrelerine etki eden önerilere oy vererek yönetişime katılabilirler.</p>
+        </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h2 itemprop="name">COMP tokenleri nasıl kazanılır?</h2>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <p itemprop="text">COMP tokenleri, Compound protokolünde borç verme ve borç alma işlemleri gerçekleştirerek kazanılabilir. Kullanıcılar, protokoldeki faaliyetlerine bağlı olarak COMP tokenleri kazanarak yönetişim sürecine katılım hakkı elde ederler.</p>
+        </div>
+    </div>
+
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h2 itemprop="name">COMP tokenlerini nasıl saklayabilirim?</h2>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+            <p itemprop="text">COMP tokenlerini saklamak için, ERC-20 uyumlu bir cüzdan kullanmanız gerekmektedir. Örneğin, Metamask, Ledger, Trezor ve MyEtherWallet gibi popüler cüzdanlar kullanılabilir.</p>
+        </div>
+    </div>
+ </div>
