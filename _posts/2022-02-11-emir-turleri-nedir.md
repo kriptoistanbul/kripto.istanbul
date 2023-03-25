@@ -10,6 +10,7 @@ tags:
   - strateji
   - kripto paralar
 paginate: true
+permalink: "emir-turleri/"
 ---
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
