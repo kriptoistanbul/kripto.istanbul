@@ -13,12 +13,17 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">Kusama (KSM) Nedir?</a></li>
-	<li style="padding: 2px;"><a href="#2">Kusama (KSM) Nasıl Çalışır?</a></li>
-	<li style="padding: 2px;"><a href="#3">Nasıl Kullanılır?</a></li>
-	<li style="padding: 2px;"><a href="#4">KSM Coin Geleceği</a></li>
-	<li style="padding: 2px;"><a href="#5">Sıkça Sorulan Sorular</a></li>
-	<li style="padding: 2px;"><a href="#6">KSM Nasıl Alınır</a></li>
+<li style="padding: 2px;"><a href="#1">Kripto Para Piyasalarında Emir Türleri</a></li>
+<li style="padding: 2px;"><a href="#2">Piyasalardaki Emir Türleri</a></li>
+<li style="padding: 2px;"><a href="#3">1. Piyasa Emri</a></li>
+<li style="padding: 2px;"><a href="#4">2. Sınır Emri</a></li>
+<li style="padding: 2px;"><a href="#5">3. Stop Loss Emri</a></li>
+<li style="padding: 2px;"><a href="#6">4. Stop Limit Emri</a></li>
+<li style="padding: 2px;"><a href="#7">5. Takip Eden Stop Emri</a></li>
+<li style="padding: 2px;"><a href="#8">6. Buz Dağı Emri</a></li>
+<li style="padding: 2px;"><a href="#9">7. TWAP Emri</a></li>
+<li style="padding: 2px;"><a href="#10">8. VWAP Emir</a></li>
+<li style="padding: 2px;"><a href="#11">Sonuç</a></li>
 </ol>
 <h1 id="1">Kripto Para Piyasalarında Emir Türleri</h1>
 <p>
@@ -134,7 +139,7 @@ Zeynep, borsa platformunda TWAP Emri seçeneğini kullanarak, 2000 XLM satın al
 TWAP Emri sayesinde, Zeynep kripto para alımı konusunda hem işlemin piyasa üzerindeki etkisini azaltarak daha stratejik bir yatırım yapabilir, hem de zaman ağırlıklı ortalama fiyatı kullanarak işlemin maliyetini kontrol edebilir. Ayrıca, bu yöntemle, Zeynep alım satım işlemlerini daha kontrollü ve planlı bir şekilde gerçekleştirebilir.
 </samp>
 </p>
-<h2 id="10"8. VWAP Emir</h2>
+<h2 id="10">8. VWAP Emir</h2>
 <p>VWAP (Volume Weighted Average Price) emri, bir varlığın ortalama fiyatını, işlem hacmine göre hesaplar. Bu emir türü, alıcı ve satıcıların piyasada mevcut fiyatın üzerinde veya altında işlem yapmalarını sağlamak için kullanılır.</p>
 <p>VWAP emri, bir gün boyunca işlem gören toplam hacmin %10'undan fazlası olan büyük işlemler için özellikle faydalıdır. Bu tür işlemler, piyasa fiyatını önemli ölçüde etkileyebilir, bu nedenle VWAP emri, piyasa fiyatından daha iyi bir fiyata işlem yapmak için kullanılabilir.</p>
 <p>
