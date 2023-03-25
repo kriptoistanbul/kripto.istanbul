@@ -1,7 +1,7 @@
 ---
 date: 2023-03-25 21:25:00
 layout: post
-title: Kripto Para Piyasalarında Emir Türleri Stratejik İşlem Yöntemleri 2023
+title: Kripto Para Piyasalarında Emir Türleri
 subtitle: Kripto Para İşlemlerinde Başarıya Götüren Emir Türleri: Piyasa, Limit, Stop-Loss ve Diğerleri
 description: Kripto para piyasalarında kullanılan emir türlerini öğrenin, alım satım işlemlerinde daha kontrollü ve stratejik kararlar verin. Piyasa, Limit, Stop-Loss ve daha fazlası.
 image: /assets/img/posts-img/emir/emir-turleri.webp
@@ -10,7 +10,6 @@ tags:
   - strateji
   - kripto paralar
 paginate: true
-permalink: "emir-turleri/"
 ---
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
