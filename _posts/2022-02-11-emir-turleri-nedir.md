@@ -60,10 +60,10 @@ paginate: true
 <h2 id="3">1. Piyasa Emri</h2>
 <p>Kripto para piyasalarında işlem yaparken kullanılan emir türlerinden biri piyasa emridir. Piyasa emri, anlık fiyatlar üzerinden işlem yapılmasını sağlar ve en hızlı işlem yapma yöntemlerinden biridir. Piyasa emri veren yatırımcı, alım veya satım işlemi gerçekleştirmek istediği kripto para birimini seçer ve piyasa fiyatından işlemi gerçekleştirir.</p>
 <p>Piyasa emri, yatırımcıların hızlı bir şekilde işlem yapmalarına olanak tanırken, fiyat dalgalanmalarından da etkilenir. Piyasa emri verildiği anda işlem gerçekleşir ve fiyat değişiklikleri nedeniyle beklenen fiyatın altında veya üstünde gerçekleşebilir. Bu nedenle, piyasa emri verirken yatırımcıların fiyat dalgalanmalarını dikkate almaları önemlidir.</p>
-<br> <p><samp>Örnek Senaryo:
+<br><samp>Örnek Senaryo:
 Ali, kripto para borsasında işlem yapmaya karar verir ve popüler bir kripto para olan Bitcoin (BTC) almak istemektedir. BTC'nin mevcut piyasa fiyatı 50.000 USD'dir ve Ali, hızlı bir şekilde 1 BTC almak istiyor. Bu durumda, piyasa emri kullanarak anında işlem yapabilir.
 <br>
-Ali, Paribu borsa platformunda piyasa emri seçeneğini kullanarak, 1 <a href="https://kripto.istanbul/bitcoin-nedir/" title="Bitcoin Nedir?" target="_blank">BTC</a> almak istediğini belirtir ve emri onaylar. Piyasa emri, mevcut en iyi fiyatla eşleşen satış emirleriyle hızlıca eşleşir ve Ali'nin alım işlemi gerçekleşir. Bu süreç, Ali'nin hızlı ve kolay bir şekilde kripto paralarla işlem yapmasını sağlar.</samp></p>
+Ali, Paribu borsa platformunda piyasa emri seçeneğini kullanarak, 1 <a href="https://kripto.istanbul/bitcoin-nedir/" title="Bitcoin Nedir?" target="_blank">BTC</a> almak istediğini belirtir ve emri onaylar. Piyasa emri, mevcut en iyi fiyatla eşleşen satış emirleriyle hızlıca eşleşir ve Ali'nin alım işlemi gerçekleşir. Bu süreç, Ali'nin hızlı ve kolay bir şekilde kripto paralarla işlem yapmasını sağlar.</samp>
 <h2 id="4">2. Sınır Emri</h2>
 <p>
 Kripto para piyasalarında kullanılan bir diğer emir türü ise sınır emridir. Bu emir türü, yatırımcıların belirli bir fiyattan işlem yapmasını sağlar. Yani, yatırımcılar sınır emri vererek, belirledikleri bir fiyattan alım ya da satım işlemi gerçekleştirebilirler.
