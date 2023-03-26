@@ -1,5 +1,5 @@
 ---
-date: 2022-03-12 11:15:00
+date: 2023-03-26 15:15:00
 layout: post
 title: Maker (MKR) Nedir? MKR Geleceği ve Yorumları 2023 - MakerDAO Projesi
 subtitle: MKR Nedir, Güvenli Midir? Maker coin projesi nedir? MKR Geleceği Var Mı? MKR Coin yorum 2023 Maker Coin haber
