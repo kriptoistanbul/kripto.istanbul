@@ -184,41 +184,41 @@ açmak, DAI'nin kripto varlıklara karşı likidite sağlayabileceği anlamına 
              <p itemprop="text" class="faq-a">MKR Maker coin son 1 yılda en yüksek ₺93,592.52 oldu.</p>
         </div>
     </div>
-      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <h5 itemprop="name">Maker Coin nedir?</h5>
-        <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <p>Maker Coin, MakerDAO adı verilen bir merkeziyetsiz finans (DeFi) protokolü tarafından oluşturulan bir kripto para birimidir. Maker Coin, Dai adı verilen başka bir kripto para birimi ile desteklenir ve kullanıcıların DAI tokenlerini MakerDAO'nun platformunda teminat olarak kullanmalarını sağlar.</p>
-        </div>
-      </div>
+    <div itemprop="mainEntity" itemtype="https://schema.org/Question" itemscope>
+<h5 itemprop="name">Maker Coin nedir?</h5>
+<div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" itemscope>
+  <p itemprop="text">Maker Coin, MakerDAO adı verilen bir merkeziyetsiz finans (DeFi) protokolü tarafından oluşturulan bir kripto para birimidir. Maker Coin, Dai adı verilen başka bir kripto para birimi ile desteklenir ve kullanıcıların DAI tokenlerini MakerDAO'nun platformunda teminat olarak kullanmalarını sağlar.</p>
+</div>
+</div>
 
-      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <h5 itemprop="name">Maker Coin nereden alınır?</h5>
-        <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <p>Maker Coin, Türkiye'de faaliyet gösteren kripto para borsalarından alınabilir. Örneğin Paribu, BTCTürk, Binance ve Bitci gibi borsalar Maker Coin işlemi yapmaktadır.</p>
-        </div>
-      </div>
+<div itemprop="mainEntity" itemtype="https://schema.org/Question" itemscope>
+<h5 itemprop="name">Maker Coin nereden alınır?</h5>
+<div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" itemscope>
+  <p itemprop="text">Maker Coin, Türkiye'de faaliyet gösteren kripto para borsalarından alınabilir. Örneğin Paribu, BTCTürk, Binance ve Bitci gibi borsalar Maker Coin işlemi yapmaktadır.</p>
+</div>
+</div>
 
-      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <h5 itemprop="name">Maker Coin ne kadar değerlidir?</h5>
-        <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <p>Maker Coin'in değeri, kripto para piyasasının dalgalanmasına bağlı olarak değişebilir. Türkiye'deki kripto para borsalarında Maker Coin fiyatları da diğer ülkelerdeki borsalarla benzer şekilde değişebilir.</p>
-        </div>
-      </div>
+<div itemprop="mainEntity" itemtype="https://schema.org/Question" itemscope>
+<h5 itemprop="name">Maker Coin ne kadar değerlidir?</h5>
+<div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" itemscope>
+  <p itemprop="text">Maker Coin'in değeri, kripto para piyasasının dalgalanmasına bağlı olarak değişebilir. Türkiye'deki kripto para borsalarında Maker Coin fiyatları da diğer ülkelerdeki borsalarla benzer şekilde değişebilir.</p>
+</div>
+</div>
 
-      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <h5 itemprop="name">Maker Coin nasıl kullanılır?</h5>
-        <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <p>Maker Coin, MakerDAO'nun platformunda kullanılan bir kripto para birimidir. Kullanıcılar, MakerDAO'nun platformunda Dai tokenlerini teminat olarak kullanarak Maker Coin satın alabilirler. Maker Coin ayrıca başka kripto para birimleriyle takas edilebilir.</p>
-        </div>
-      </div>
+<div itemprop="mainEntity" itemtype="https://schema.org/Question" itemscope>
+<h5 itemprop="name">Maker Coin nasıl kullanılır?</h5>
+<div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" itemscope>
+  <p itemprop="text">Maker Coin, MakerDAO'nun platformunda kullanılan bir kripto para birimidir. Kullanıcılar, MakerDAO'nun platformunda Dai tokenlerini teminat olarak kullanarak Maker Coin satın alabilirler. Maker Coin ayrıca başka kripto para birimleriyle takas edilebilir.</p>
+</div>
+</div>
 
-      <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-        <h5 itemprop="name">Maker Coin'in geleceği nedir?</h5>
-        <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-          <p>Maker Coin, merkeziyetsiz finansın hızla büyüyen ekosisteminde önemli bir rol oynamaktadır. MakerDAO'nun platformu, Ethereum blok zincirinde yer alır ve Ethereum ağının büyümesiyle birlikte Maker Coin de daha da değer kazanabilir. MakerDAO, platformunun geliştirilmesine devam etmek ve kullanıcıların daha fazla seçenek sunmak için yeni kripto para birimleri eklemek gibi çeşitli planları vardır.</p>
-    </div>
+<div itemprop="mainEntity" itemtype="https://schema.org/Question" itemscope>
+<h5 itemprop="name">Maker Coin'in geleceği nedir?</h5>
+<div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" itemscope>
+<p itemprop="text">Maker Coin, merkeziyetsiz finansın hızla büyüyen ekosisteminde önemli bir rol oynamaktadır. MakerDAO'nun platformu, Ethereum blok zincirinde yer alır ve Ethereum ağının büyümesiyle birlikte Maker Coin de daha da değer kazanabilir. MakerDAO, platformunun geliştirilmesine devam etmek ve kullanıcıların daha fazla seçenek sunmak için yeni kripto para birimleri eklemek gibi çeşitli planları vardır.</p>
+</div>
 
-      </div>
+  </div>
 </div>
 <h6>XCAD AĞI NEDİR?</h6>
 <p>Xcad Network, bu i&ccedil;erik oluşturucuların kendilerini ve i&ccedil;eriklerini simgeleştirmelerine izin vererek mevcut i&ccedil;erik oluşturuculardan daha fazla para kazanıyor.</p>
