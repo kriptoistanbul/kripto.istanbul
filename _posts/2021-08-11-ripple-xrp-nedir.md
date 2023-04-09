@@ -1,5 +1,5 @@
 ---
-date: 2021-08-11 13:26:40
+date: 2023-04-09 10:26:40
 layout: post
 title: Ripple -XRP- Nedir?
 subtitle: Ripple Nedir? Ripple-SEC Davası Nedir? Ripple Neden Davalık Oldu?
