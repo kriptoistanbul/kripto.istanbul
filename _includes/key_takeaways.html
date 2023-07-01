@@ -1,0 +1,11 @@
+<section id="key-takeaways" itemscope itemtype="https://schema.org/ItemList">
+  <meta itemprop="name" content="Key Takeaways Section" />
+  <h1 class="header">Key Takeaways</h1>
+  {% for takeaway in include.takeaways %}
+    <div itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <h2 itemprop="name" class="sub-header">{{ takeaway.title }}</h2>
+      <p itemprop="description" class="description">{{ takeaway.description }}</p>
+      <meta itemprop="position" content="{{ forloop.index }}" />
+    </div>
+  {% endfor %}
+</section>

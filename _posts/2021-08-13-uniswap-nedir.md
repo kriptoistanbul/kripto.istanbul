@@ -40,6 +40,16 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-uni-coin-kim.webp">
   <img src="/assets/img/posts-img/uni/uniswap-coin-nedir.webp" alt="uniswap yorum" style="width:auto;">
 </picture>
+{% include key_takeaways.html takeaways=[
+{title: "Uniswap Nedir?", description: "Uniswap, Ethereum tabanlı ERC-20 tokenlerin alım satımını kolaylaştıran merkeziyetsiz bir borsa protokolüdür. Güvenilir aracıları ve ekstra masrafları ortadan kaldırarak hızlı ve verimli ticarete olanak tanır."},
+{title: "UNI Token Nedir?", description: "Uniswap’ın yerel belirteci olan UNI, yönetişim belirteci olarak bilinir. Bu, sahiplere, platformdaki yeni gelişmeler ve değişiklikler üzerinde oy kullanma hakkı verir."},
+{title: "Uniswap Nasıl Kullanılır?", description: "Uniswap'e başlamak için MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olmanız gerekir. Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir."},
+{title: "Neden Uniswap Tercih Edilebilir?", description: "Uniswap, tamamen merkezi olmayan, yani tek bir kuruluşa ait olmayan ve işletilmeyen tamamen farklı bir borsa türüdür ve otomatik likidite protokolü adı verilen nispeten yeni bir ticaret modeli kullanır."},
+{title: "Uniswap Nasıl Çalışır?", description: "Uniswap iki akıllı sözleşme ile çalışır; bir "Değişim" sözleşmesi ve bir "Fabrika" sözleşmesi. Bunlar, belirli koşullar karşılandığında belirli işlevleri yerine getirmek üzere tasarlanmış otomatik bilgisayar programlarıdır."},
+{title: "Uniswap'in Otomatik Likidite Protokolü", description: "Uniswap'in merkezi borsaların likidite problemini çözme yöntemi otomatik bir likidite protokolüdür. Bu, borsada işlem yapan kişileri likidite sağlayıcıları (LP'ler) olmaya teşvik ederek çalışır."},
+{title: "Uniswap'teToken Fiyatı Nasıl Belirlenir?", description: "Uniswap otomatik bir piyasa yapıcı sistemi kullanır. Bir varlığın fiyatını arz ve talebe göre ayarlamaya yönelik bu alternatif yöntem, uzun süredir devam eden matematiksel bir denklem kullanır."},
+{title: "Uniswap'te Arbitraj", description: "Arbitraj tüccarları, Uniswap ekosisteminin önemli bir bileşenidir. Bunlar, birden fazla borsada fiyat farklılıkları bulmada uzmanlaşmış ve bunları kar elde etmek için kullanan tüccarlardır."}
+] %}
 <h2 id="uni3">Uniswap Nasıl Kullanılır?</h2>
 <p>Uniswap'e başlamak nispeten kolaydır, ancak MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olduğunuzdan emin olmanız gerekir.  Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir - buna Ethereum işlem ücretleri denir. Gas ücreti, ağı kaç kişinin kullandığına bağlı olarak değişir. Çoğu ERC-20 uyumlu cüzdan hizmeti, Ethereum blok zinciri üzerinden ödeme yaparken size üç seçenek sunar: yavaş, orta veya hızlı. Yavaş en ucuz seçenektir, hızlı en pahalıdır ve orta, ikisinin arasında bir yerdedir. Bu, işleminizin Ethereum ağ madencileri tarafından ne kadar hızlı işlendiğini belirler.</p>
 <h3 id="uni4">Adım Adım Uniswap Kullanımı</h3>
