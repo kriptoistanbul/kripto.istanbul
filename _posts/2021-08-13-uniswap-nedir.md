@@ -125,7 +125,18 @@ paginate: true
     }
   </style>
 
-
+  <script>
+    const detailsElements = document.querySelectorAll("details");
+    detailsElements.forEach((details) => {
+      details.addEventListener("click", () => {
+        detailsElements.forEach((otherDetails) => {
+          if (otherDetails !== details) {
+            otherDetails.removeAttribute("open");
+          }
+        });
+      });
+    });
+  </script>
 
 
 
