@@ -11,16 +11,8 @@ tags:
   - uniswap
   - kripto paralar
 paginate: true
-takeaways:
-  - title: "Uniswap Nedir?"
-    description: "Uniswap, Ethereum tabanlı ERC-20 tokenlerin alım satımını kolaylaştıran merkeziyetsiz bir borsa protokolüdür. Güvenilir aracıları ve ekstra masrafları ortadan kaldırarak hızlı ve verimli ticarete olanak tanır."
-  - title: "UNI Token Nedir?"
-    description: "Uniswap’ın yerel belirteci olan UNI, yönetişim belirteci olarak bilinir. Bu, sahiplere, platformdaki yeni gelişmeler ve değişiklikler üzerinde oy kullanma hakkı verir."
-  - title: "Uniswap Nasıl Kullanılır?"
-    description: "Uniswap'e başlamak için MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olmanız gerekir. Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir."
-  - title: "Neden Uniswap Tercih Edilebilir?"
-    description: "Uniswap, tamamen merkezi olmayan, yani tek bir kuruluşa ait olmayan ve işletilmeyen tamamen farklı bir borsa türüdür ve otomatik likidite protokolü adı verilen nispeten yeni bir ticaret modeli kullanır."
 ---
+
 <b style="text-align:center; font-size: 150%;">İçindekiler</b>
 <ol style="margin: 0;">
 	<li style="padding: 2px;"><a href="#uni1">Uniswap (UNI) Nedir?</a></li>
@@ -49,6 +41,110 @@ takeaways:
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/uni/uniswap-uni-coin-kim.webp">
   <img src="/assets/img/posts-img/uni/uniswap-coin-nedir.webp" alt="uniswap yorum" style="width:auto;">
 </picture>
+
+<section id="key-takeaways" itemscope itemtype="https://schema.org/ItemList" style="max-width: 900px; margin: 20px auto;">
+  <h1 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
+    <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
+    Key Takeaways
+  </h1>
+
+  <details open>
+    <summary class="accordion-title">Uniswap Nedir?</summary>
+    <div class="accordion-content">
+      <p>Uniswap, Ethereum tabanlı ERC-20 tokenlerin alım satımını kolaylaştıran merkeziyetsiz bir borsa protokolüdür. Güvenilir aracıları ve ekstra masrafları ortadan kaldırarak hızlı ve verimli ticarete olanak tanır.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Uniswap Nasıl Kullanılır?</summary>
+    <div class="accordion-content">
+      <p>Uniswap'e başlamak için MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olmanız gerekir. Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Neden Uniswap Tercih Edilebilir?</summary>
+    <div class="accordion-content">
+      <p>Uniswap, tamamen merkezi olmayan, yani tek bir kuruluşa ait olmayan ve işletilmeyen tamamen farklı bir borsa türüdür ve otomatik likidite protokolü adı verilen nispeten yeni bir ticaret modeli kullanır.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Uniswap Nasıl Çalışır?</summary>
+    <div class="accordion-content">
+      <p>Uniswap iki akıllı sözleşme ile çalışır; bir "Değişim" sözleşmesi ve bir "Fabrika" sözleşmesi. Bunlar, belirli koşullar karşılandığında belirli işlevleri yerine getirmek üzere tasarlanmış otomatik bilgisayar programlarıdır.</p>
+    </div>
+  </details>
+  <details>
+    <summary class="accordion-title">Uniswap'in Otomatik Likidite Protokolü</summary>
+    <div class="accordion-content">
+      <p>Uniswap'in merkezi borsaların likidite problemini çözme yöntemi otomatik bir likidite protokolüdür. Bu, borsada işlem yapan kişileri likidite sağlayıcıları (LP'ler) olmaya teşvik ederek çalışır.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Uniswap'teToken Fiyatı Nasıl Belirlenir?</summary>
+    <div class="accordion-content">
+      <p>Uniswap otomatik bir piyasa yapıcı sistemi kullanır. Bir varlığın fiyatını arz ve talebe göre ayarlamaya yönelik bu alternatif yöntem, uzun süredir devam eden matematiksel bir denklem kullanır.</p>
+    </div>
+  </details>
+  <details>
+    <summary class="accordion-title">Uniswap'te Arbitra</summary>
+    <div class="accordion-content">
+      <p>Arbitraj tüccarları, Uniswap ekosisteminin önemli bir bileşenidir. Bunlar, birden fazla borsada fiyat farklılıkları bulmada uzmanlaşmış ve bunları kar elde etmek için kullanan tüccarlardır.</p>
+    </div>
+  </details></section>
+
+<style>
+  .accordion-title {
+    cursor: pointer;
+    color: #e50914;
+    font-size: 1.5em;
+    margin: 20px 0;
+  }
+
+  .accordion-content {
+    margin-left: 20px;
+    display: none;
+  }
+
+  details[open] .accordion-content {
+    display: block;
+  }
+
+  details summary::marker {
+    content: "►";
+  }
+
+  details[open] summary::marker {
+    content: "▼";
+  }
+</style>
+
+<script>
+  const detailsElements = document.querySelectorAll("details");
+  detailsElements.forEach((details) => {
+    details.addEventListener("click", () => {
+      detailsElements.forEach((otherDetails) => {
+        if (otherDetails !== details) {
+          otherDetails.removeAttribute("open");
+        }
+      });
+    });
+  });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 id="uni3">Uniswap Nasıl Kullanılır?</h2>
 <p>Uniswap'e başlamak nispeten kolaydır, ancak MetaMask, WalletConnect, Coinbase cüzdanı, Portis veya Fortmatic gibi ERC-20 destekli bir cüzdan kurulumuna sahip olduğunuzdan emin olmanız gerekir.  Bu cüzdanlardan birine sahip olduğunuzda, Uniswap'te işlem yapmak ve gas ücreti için ona Ether eklemeniz gerekir - buna Ethereum işlem ücretleri denir. Gas ücreti, ağı kaç kişinin kullandığına bağlı olarak değişir. Çoğu ERC-20 uyumlu cüzdan hizmeti, Ethereum blok zinciri üzerinden ödeme yaparken size üç seçenek sunar: yavaş, orta veya hızlı. Yavaş en ucuz seçenektir, hızlı en pahalıdır ve orta, ikisinin arasında bir yerdedir. Bu, işleminizin Ethereum ağ madencileri tarafından ne kadar hızlı işlendiğini belirler.</p>
 <h3 id="uni4">Adım Adım Uniswap Kullanımı</h3>
