@@ -95,48 +95,46 @@ paginate: true
     </div>
   </details></section>
 
-  <style>
-    .accordion {
-      padding: 0 5px;
-    }
+<style>
+  .accordion-title {
+    cursor: pointer;
+    color: #e50914;
+    font-size: 1.5em;
+    margin: 20px 0;
+  }
 
-    .accordion-item {
-      display: none;
-    }
+  .accordion-content {
+    margin-left: 20px;
+    display: none;
+  }
 
-    .accordion-title {
-      cursor: pointer;
-      color: #e50914;
-      font-size: 1.5em;
-      margin: 0;
-      padding: 10px;
-      background-color: #ffffff;
-      border: 1px solid #e50914;
-      border-radius: 5px;
-    }
+  details[open] .accordion-content {
+    display: block;
+  }
 
-    .accordion-content {
-      display: none;
-      padding: 10px;
-    }
+  details summary::marker {
+    content: "►";
+  }
 
-    .accordion-item:checked ~ .accordion-content {
-      display: block;
-    }
-  </style>
+  details[open] summary::marker {
+    content: "▼";
+  }
+</style>
 
-  <script>
-    const detailsElements = document.querySelectorAll("details");
-    detailsElements.forEach((details) => {
-      details.addEventListener("click", () => {
-        detailsElements.forEach((otherDetails) => {
-          if (otherDetails !== details) {
-            otherDetails.removeAttribute("open");
-          }
-        });
+<script>
+  const detailsElements = document.querySelectorAll("details");
+  detailsElements.forEach((details) => {
+    details.addEventListener("click", () => {
+      detailsElements.forEach((otherDetails) => {
+        if (otherDetails !== details) {
+          otherDetails.removeAttribute("open");
+        }
       });
     });
-  </script>
+  });
+</script>
+
+
 
 
 
