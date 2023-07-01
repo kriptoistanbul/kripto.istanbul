@@ -95,31 +95,36 @@ paginate: true
     </div>
   </details></section>
 
-<style>
-  .accordion-title {
-    cursor: pointer;
-    color: #e50914;
-    font-size: 1.5em;
-    margin: 20px 0;
-  }
+  <style>
+    .accordion {
+      padding: 0 5px;
+    }
 
-  .accordion-content {
-    margin-left: 20px;
-    display: none;
-  }
+    .accordion-item {
+      margin-bottom: 10px;
+      background-color: #ffffff;
+      border: 1px solid #e50914;
+      border-radius: 5px;
+      overflow: hidden;
+    }
 
-  details[open] .accordion-content {
-    display: block;
-  }
+    .accordion-title {
+      cursor: pointer;
+      color: #e50914;
+      font-size: 1.5em;
+      margin: 0;
+      padding: 10px;
+    }
 
-  details summary::marker {
-    content: "►";
-  }
+    .accordion-content {
+      display: none;
+      padding: 10px;
+    }
 
-  details[open] summary::marker {
-    content: "▼";
-  }
-</style>
+    .accordion-item[open] .accordion-content {
+      display: block;
+    }
+  </style>
 
 <script>
   const detailsElements = document.querySelectorAll("details");
