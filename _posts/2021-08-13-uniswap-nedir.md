@@ -89,7 +89,7 @@ paginate: true
     </div>
   </details>
   <details>
-    <summary class="accordion-title">Uniswap'te Arbitra</summary>
+    <summary class="accordion-title">Uniswap'te Arbitraj</summary>
     <div class="accordion-content">
       <p>Arbitraj tüccarları, Uniswap ekosisteminin önemli bir bileşenidir. Bunlar, birden fazla borsada fiyat farklılıkları bulmada uzmanlaşmış ve bunları kar elde etmek için kullanan tüccarlardır.</p>
     </div>
