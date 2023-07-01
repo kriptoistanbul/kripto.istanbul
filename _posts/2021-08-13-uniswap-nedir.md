@@ -101,11 +101,7 @@ paginate: true
     }
 
     .accordion-item {
-      margin-bottom: 10px;
-      background-color: #ffffff;
-      border: 1px solid #e50914;
-      border-radius: 5px;
-      overflow: hidden;
+      display: none;
     }
 
     .accordion-title {
@@ -114,6 +110,9 @@ paginate: true
       font-size: 1.5em;
       margin: 0;
       padding: 10px;
+      background-color: #ffffff;
+      border: 1px solid #e50914;
+      border-radius: 5px;
     }
 
     .accordion-content {
@@ -121,23 +120,10 @@ paginate: true
       padding: 10px;
     }
 
-    .accordion-item[open] .accordion-content {
+    .accordion-item:checked ~ .accordion-content {
       display: block;
     }
   </style>
-
-<script>
-  const detailsElements = document.querySelectorAll("details");
-  detailsElements.forEach((details) => {
-    details.addEventListener("click", () => {
-      detailsElements.forEach((otherDetails) => {
-        if (otherDetails !== details) {
-          otherDetails.removeAttribute("open");
-        }
-      });
-    });
-  });
-</script>
 
 
 
