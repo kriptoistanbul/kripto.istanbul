@@ -43,10 +43,10 @@ paginate: true
 </picture>
 
 <section id="key-takeaways" itemscope itemtype="https://schema.org/ItemList" style="max-width: 900px; margin: 20px auto;">
-  <h1 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
+  <h2 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
     <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
     Key Takeaways
-  </h1>
+  </h2>
 
   <details open>
     <summary class="accordion-title">Uniswap Nedir?</summary>
