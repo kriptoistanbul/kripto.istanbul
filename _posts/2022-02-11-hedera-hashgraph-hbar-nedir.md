@@ -222,13 +222,13 @@ için iddialı olduğunu söylemek gerekir.
   <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
     <h2 itemprop="name">Hedera Coin nerede kullanılabilir?</h2>
     <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-      <p>Hedera Coin, birçok farklı endüstri ve kullanım alanında kullanılabilir. Örneğin, finansal hizmetler, oyunlar, sağlık hizmetleri, dijital varlık yönetimi ve daha birçok alanda kullanılabilir.</p>
+      <p itemprop="text">Hedera Coin, birçok farklı endüstri ve kullanım alanında kullanılabilir. Örneğin, finansal hizmetler, oyunlar, sağlık hizmetleri, dijital varlık yönetimi ve daha birçok alanda kullanılabilir.</p>
     </div>
   </div>
   <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
     <h2 itemprop="name">Hedera Coin gelecekte ne kadar değerli olacak?</h2>
     <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-      <p>Hedera Coin'in gelecekteki değeri tahmin edilemez. Kripto para birimleri genellikle volatil olduklarından, gelecekteki değeri değişkenlik gösterebilir. Ancak, Hedera Hashgraph'ın teknolojisi ve ortaklıkları nedeniyle, Hedera Coin'in gelecekte daha değerli hale gelebileceği tahmin edilmektedir.</p>
+      <p itemprop="text">Hedera Coin'in gelecekteki değeri tahmin edilemez. Kripto para birimleri genellikle volatil olduklarından, gelecekteki değeri değişkenlik gösterebilir. Ancak, Hedera Hashgraph'ın teknolojisi ve ortaklıkları nedeniyle, Hedera Coin'in gelecekte daha değerli hale gelebileceği tahmin edilmektedir.</p>
 </div>
 
   </div>
