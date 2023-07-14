@@ -91,7 +91,7 @@ paginate: true
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/doge/dogecoin-son-dakika.webp">
   <img src="/assets/img/posts-img/doge/kripto-para-fiyatlari.webp" alt="doge ne olur" style="width:auto;">
 </picture>
-<h3 id="doge4">Dogecoin İle Alım Satım Yapılabilir Mi?<h3>
+<h3 id="doge4">Dogecoin İle Alım Satım Yapılabilir Mi?</h3>
 <p>Dogecoin ödemeler ve satın alımlar için dünyanın birçok yerinde kullanılabilir. Ülkemizde kripto paralar aracılığı ile alış-veriş yapmak yasaklanmıştır. Her ne kadar DOGE ile alım satımyapılabilse de çok etkili bir değer deposu değildir. Bunun başlıca nedeni, madencilikle yaratılabilecek Dogecoinlerin sayısında ömür boyu sınır olmaması, yani kripto para biriminin tasarım gereği yüksek oranda enflasyona sahip olmasıdır. Blok zinciri, madencileri her gün milyonlarca yeni Dogecoin yaratarak ödüllendiriyor, bu da Dogecoin'deki spekülatif fiyat artışlarının zamanla ayakta kalmasını çok zorlaştırıyor. </p>
 <h3 id="doge5">Dogecoin Nasıl Satın Alınır?</h3>
 <p>Dogecoin'i Binance veya Kraken gibi bir kripto para borsasında satın alabilirsiniz. Değişimler, ABD doları veya kripto para birimi ile bir hesap oluşturmanızı ve finanse etmenizi gerektirir. Ardından, Dogecoin'i sistemine dahil eden kripto para piyasalarında satın alabilir ve takas edebilirsiniz. Özellikle, önde gelen kripto borsası Coinbase fiyat dalgalanmaları yüzünden, Dogecoin satın alımlarını desteklemiyor. </p>
