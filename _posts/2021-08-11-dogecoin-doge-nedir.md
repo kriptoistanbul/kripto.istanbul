@@ -1,5 +1,5 @@
 ---
-date: 2021-08-11 15:26:40
+date: 2023-07-15 00:06:40
 layout: post
 title: Dogecoin -DOGE- Nedir?
 subtitle: Dogecoin Nedir? Meme Coin Ne Demektir? Dogecoin Neden Bu Kadar Çok Yükseldi?
@@ -35,6 +35,54 @@ paginate: true
 <h2 id="doge2">Dogecoin Nasıl Çalışır?</h2>
 <p>Dogecoin, Bitcoin ve Ethereum'a benzer şekilde blockchain teknolojisi üzerinde çalışan bir kripto para birimidir. Blockchain, merkezi olmayan bir dijital para birimi kullanılarak yapılan tüm işlemleri depolayan, dağıtılmış, güvenli bir dijital defterdir. Tüm sahipler, kripto para birimindeki tüm yeni işlemlerle sık sık güncellenen Dogecoin blok zinciri defterinin aynı bir kopyasını taşır. Diğer kripto para birimleri gibi Dogecoin'in blok zinciri ağı da tüm işlemlerin güvenliğini sağlamak için kriptografi kullanır. </p>
 <p>Madenciler işlemleri işlemek ve bunları "iş kanıtı" adı verilen Dogecoin blok zincirine kaydetmek için karmaşık matematiksel denklemleri çözmek için bilgisayarları kullanırlar. İşlemleri işleme koyma ve blok zinciri defterine destek verme karşılığında madenciler, daha sonra açık piyasada tutabilecekleri veya satabilecekleri ek Dogecoin kazanırlar. </p>
+<section id="key-takeaways" itemscope itemtype="https://schema.org/ItemList" style="max-width: 900px; margin: 20px auto;">
+  <h2 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
+    <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
+    Key Takeaways
+  </h2>
+
+  <details open>
+    <summary class="accordion-title">What is Dogecoin?</summary>
+    <div class="accordion-content">
+      <p>Dogecoin was created as a joke by software engineers Billy Markus and Jackson Palmer. It uses the image of a Shiba Inu dog from a popular meme as its logo.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">How Does Dogecoin Work?</summary>
+    <div class="accordion-content">
+      <p>Dogecoin operates on blockchain technology, similar to Bitcoin and Ethereum. It uses cryptography to secure transactions and miners earn Dogecoin by solving complex mathematical equations.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Dogecoin vs Bitcoin</summary>
+    <div class="accordion-content">
+      <p>Unlike Bitcoin, which has a lifetime limit of 21 million coins, there is no limit to the number of Dogecoins that can be created. This unlimited supply has implications for its value.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">How to Buy Dogecoin?</summary>
+    <div class="accordion-content">
+      <p>Dogecoin can be bought on cryptocurrency exchanges like Binance or Kraken. However, due to price fluctuations, some exchanges like Coinbase do not support Dogecoin purchases.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Where to Store Dogecoin?</summary>
+    <div class="accordion-content">
+      <p>After purchasing Dogecoin, it's recommended to store the coins in a crypto wallet for added security.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary class="accordion-title">Is Dogecoin a Good Investment?</summary>
+    <div class="accordion-content">
+      <p>Whether Dogecoin is a good investment is debatable. While it has seen significant gains, the unlimited supply of coins and other factors create downward pressure on its value.</p>
+    </div>
+  </details>
+</section>
 
 <h2 id="doge3">Dogecoin vs. Bitcoin</h2>
 <p>Dogecoin, Bitcoin ile karşılaştırıldığında birkaç önemli farklılığa sahiptir. Birincisi, madencilerin işlemlerle ilgili işlemleri tamamlayan ve kaydeden matematiksel denklemleri tamamlaması daha hızlı ve daha kolaydır, bu da Dogecoin'i ödemeleri işlemek için biraz daha verimli hale getirir. Katten Finansal Piyasalar ve Düzenleme grubu Başkanı Gary DeWaal, "Bitcoin blok zincirinde yeni blokların onaylanması 10 dakika sürdüğünde, Dogecoin blok zincirinde sadece bir dakika sürüyor" şeklinde bir açıklama yapmıştır bu konuda.</p>
