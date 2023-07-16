@@ -1,5 +1,5 @@
 ---
-date: 2021-08-12 12:26:40
+date: 2023-07-16 12:26:40
 layout: post
 title: Polkadot -DOT- Nedir?
 subtitle: Polkadot Nedir? Neden Büyük Firmalar Polkadot'a Yatırım Yapıyor? Polkadot, Ethereum Katili Mi?
@@ -73,6 +73,109 @@ paginate: true
   <img src="/assets/img/posts-img/dot/polkadot-coin-yorum.webp" alt="dot kaç tl" style="width:auto;">
 </picture>
 <p>Polkadot kendi başına akıllı bir sözleşme platformu değildir. Bunun yerine, merkezi olmayan uygulama (dApp) geliştiricilerinin akıllı sözleşmeleri geniş kapsamlı işlevsellikten oluşan bir ağ üzerinden entegre etmeleri için altyapı sağlar ve sonuç olarak büyük protokollerin aktif geliştiricilerinde en büyük artışa tanık olur. </p>
+<div itemscope itemtype="https://schema.org/DefinedTermSet" itemid="https://kripto.istanbul/polkadot-nedir/">
+  <h2 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
+    <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
+    Ana Noktalar
+  </h2>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot Nedir">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PDN">
+    <details open>
+      <summary class="accordion-title"><span itemprop="name">Polkadot Nedir</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot, birden çok blockchaini bir araya getirerek operasyonları daha verimli hale getiren bir blockchain ağıdır.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot Ağı Nasıl İşler">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PANI">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot Ağı Nasıl İşler</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot ağı, çeşitli bağımsız blockchainleri bir araya getirerek işlem verimliliğini artırır. Kendine özgü tasarımı sayesinde, bu blockchainlerin birlikte çalışabilmesini sağlar.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot'un Kurucuları">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PK">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot'un Kurucuları</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot'un kurucuları arasında Ethereum'un kurucularından olan Gavin Wood da bulunmaktadır. Wood, Polkadot'un da arkasındaki Web3 Vakfı'nın başkanıdır.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot’un Özellikleri">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PO">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot’un Özellikleri</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot, yüksek ölçeklenebilirlik, yüksek güvenlik ve çeşitli blockchainler arasındaki bağlantı gibi özellikleri ile ön plana çıkmaktadır.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot Token Arzı">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PTA">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot Token Arzı</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot'un (DOT) toplam arzı 1 milyar token'dir. Bu tokenlerin bir kısmı halka arz edilmiştir, bir kısmı ise Web3 Vakfı tarafından tutulmaktadır.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot Ağının Güvenliği">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PAG">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot Ağının Güvenliği</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot ağı, kullanıcıların DOT tokenlarını stake etmesiyle güvende tutulur. Ayrıca, ağın güvenliğini sağlamak için çeşitli teknik önlemler alınmıştır.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot Kullanımı">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PK">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot Kullanımı</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot, kullanıcıların çeşitli blockchainler arasında işlem yapmalarını sağlar. Ayrıca, kullanıcılar Polkadot'u kullanarak kendi özel blockchainlerini oluşturabilirler.</p>
+      </div>
+    </details>
+  </div>
+
+  <div itemscope itemtype="https://schema.org/DefinedTerm" itemprop="hasDefinedTerm">
+    <meta itemprop="name" content="Polkadot İçin Hangi Kripto Para Cüzdanını Seçmeliyim?">
+    <meta itemprop="url" content="https://kripto.istanbul/polkadot-nedir/">
+    <meta itemprop="termCode" content="PCP">
+    <details>
+      <summary class="accordion-title"><span itemprop="name">Polkadot İçin Hangi Kripto Para Cüzdanını Seçmeliyim?</span></summary>
+      <div class="accordion-content">
+        <p itemprop="description">Polkadot (DOT) tokenlerini saklamak için çeşitli cüzdanlar bulunmaktadır. Kullanıcıların ihtiyaçlarına en uygun cüzdanı seçmeleri önemlidir.</p>
+      </div>
+    </details>
+</div>
+
+
 <h3 id="dot7">Polkadot Neden Değerlidir?</h3>
 <p>Polkadot şu anda önde gelen stake platformlarından biridir ve 20 milyar doların üzerinde stake değeri ile yıllık% 13'ün üzerinde tahmini ödüller sunmaktadır. 30 milyar doların üzerinde bir piyasa değerine sahip ve uygun tokenlerin% 50'den fazlası stake edilmiş durumda. </p>
 <p>Kullanıcılar, DOT'u stake ederek, enflasyon oranını sadece elde tutmaya kıyasla dengeleyebilir ve herhangi bir sermaye değerine ek olarak yatırımlarından yıllık bir getiri sağlayabilir. DOT ayrıca katılımcılara, stake ettikleri DOT miktarıyla orantılı olarak ağ yükseltmeleri ve gelecekteki özellik setleri için oylama olanağı sağlar. </p>
