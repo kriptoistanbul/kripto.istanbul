@@ -73,6 +73,24 @@ paginate: true
   <img src="/assets/img/posts-img/dot/polkadot-coin-yorum.webp" alt="dot kaç tl" style="width:auto;">
 </picture>
 <p>Polkadot kendi başına akıllı bir sözleşme platformu değildir. Bunun yerine, merkezi olmayan uygulama (dApp) geliştiricilerinin akıllı sözleşmeleri geniş kapsamlı işlevsellikten oluşan bir ağ üzerinden entegre etmeleri için altyapı sağlar ve sonuç olarak büyük protokollerin aktif geliştiricilerinde en büyük artışa tanık olur. </p>
+<style>
+  .accordion-title {
+    font-size: 2em;
+    color: #e50914;
+    margin-bottom: 20px;
+    position: relative;
+  }
+
+  .accordion-title::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background-color: #e50914;
+  }
+</style>
 <div itemscope itemtype="https://schema.org/DefinedTermSet" itemid="https://kripto.istanbul/polkadot-nedir/">
   <h2 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
     <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
