@@ -80,17 +80,8 @@ paginate: true
     margin-bottom: 20px;
     position: relative;
   }
-
-  .accordion-title::after {
-    content: "";
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    height: 4px;
-    background-color: #e50914;
-  }
 </style>
+
 <div itemscope itemtype="https://schema.org/DefinedTermSet" itemid="https://kripto.istanbul/polkadot-nedir/">
   <h2 class="header" style="color: #e50914; font-size: 2em; margin-bottom: 20px; position: relative;">
     <span class="underline" style="position: absolute; bottom: -5px; left: 0; width: 100%; height: 4px; background-color: #e50914;"></span>
