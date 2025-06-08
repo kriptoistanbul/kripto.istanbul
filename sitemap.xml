@@ -1,34 +1,35 @@
 ---
 layout: null
+sitemap: false
 ---
+{%- assign root_url = site.url | default: 'https://kripto.istanbul' -%}
+{%- if root_url contains 'localhost' -%}
+  {%- assign root_url = 'https://kripto.istanbul' -%}
+{%- endif -%}
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            {% if page.layout == 'main' %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-                <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-            {% else %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-            {% endif %}
-        </url>
-    {% endfor %}
-    {% for post in site.posts %}
-        <url>
-            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>daily</changefreq>
-            <priority>1</priority>
-            <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
-        </url>
-    {% endfor %}
-    {% for author in site.authors %}
-        <url>
-            <loc>{{ author.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>yearly</changefreq>
-            <priority>0.0</priority>
-        </url>
-    {% endfor %}
+{%- for page in site.pages -%}
+  {%- unless page.sitemap == false or page.noindex == true -%}
+  <url>
+    <loc>{{ page.url | prepend: site.baseurl | prepend: root_url }}</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  {%- endunless -%}
+{%- endfor -%}
+{%- for post in site.posts -%}
+  <url>
+    <loc>{{ post.url | prepend: site.baseurl | prepend: root_url }}</loc>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+{%- endfor -%}
+{%- for author in site.authors -%}
+  <url>
+    <loc>{{ author.url | prepend: site.baseurl | prepend: root_url }}</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.0</priority>
+  </url>
+{%- endfor -%}
 </urlset>
