@@ -8,5 +8,8 @@ gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
 gem "gemoji"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 gem "webrick", "~> 1.8"
