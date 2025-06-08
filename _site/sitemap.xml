@@ -59,6 +59,10 @@
     <changefreq>yearly</changefreq>
     <priority>0.1</priority>
   </url><url>
+    <loc>https://kripto.istanbul/assets/css/styles.css</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.1</priority>
+  </url><url>
     <loc>https://kripto.istanbul/polkadot-nedir/</loc>
     <changefreq>daily</changefreq>
     <priority>1</priority>
