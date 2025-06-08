@@ -4,17 +4,13 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for page in site.pages %}
+        {% unless page.sitemap == false or page.noindex == true %}
         <url>
             <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            {% if page.layout == 'main' %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-                <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-            {% else %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-            {% endif %}
+            <changefreq>yearly</changefreq>
+            <priority>0.1</priority>
         </url>
+        {% endunless %}
     {% endfor %}
     {% for post in site.posts %}
         <url>
