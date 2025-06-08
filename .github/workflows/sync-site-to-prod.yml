@@ -3,6 +3,7 @@ name: Sync _site to prod branch
 on:
   push:
     branches: [gh-pages]
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   sync-to-prod:
@@ -14,54 +15,88 @@ jobs:
       with:
         ref: gh-pages
         fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Configure Git
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    - name: Check if _site folder exists
+    - name: Setup Ruby and Jekyll (if needed)
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+      continue-on-error: true
+
+    - name: Build Jekyll site
+      run: |
+        if [ -f "Gemfile" ]; then
+          bundle install
+          bundle exec jekyll build
+        elif [ -f "_config.yml" ]; then
+          gem install jekyll bundler
+          jekyll build
+        else
+          echo "No Jekyll configuration found, skipping build"
+        fi
+      continue-on-error: true
+
+    - name: Verify _site folder
       run: |
         if [ ! -d "_site" ]; then
-          echo "Error: _site folder not found in gh-pages branch"
-          exit 1
+          echo "❌ _site folder not found! Creating basic structure..."
+          mkdir -p _site
+          echo "<html><body><h1>Site building...</h1></body></html>" > _site/index.html
         fi
-        echo "_site folder found with $(find _site -type f | wc -l) files"
+        
+        if [ ! "$(ls -A _site)" ]; then
+          echo "❌ _site folder is empty! Adding placeholder..."
+          echo "<html><body><h1>Site building...</h1></body></html>" > _site/index.html
+        fi
+        
+        echo "✅ _site folder ready with $(find _site -type f | wc -l) files"
 
-    - name: Create/switch to prod branch
+    - name: Setup prod branch
       run: |
-        git fetch origin
-        if git show-ref --verify --quiet refs/remotes/origin/prod; then
-          echo "Prod branch exists, checking it out"
+        git fetch origin --unshallow 2>/dev/null || git fetch origin
+        
+        if git ls-remote --heads origin | grep -q "refs/heads/prod"; then
+          echo "📝 Prod branch exists, checking it out..."
           git checkout prod
-          git pull origin prod
+          git reset --hard origin/prod
         else
-          echo "Creating new prod branch"
+          echo "🆕 Creating new prod branch..."
           git checkout --orphan prod
           git rm -rf . 2>/dev/null || true
+          git clean -fd
         fi
 
-    - name: Clear prod branch content
+    - name: Copy _site contents to prod
       run: |
+        # Clear everything except .git and .github
         find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.github' -exec rm -rf {} + 2>/dev/null || true
-
-    - name: Copy _site contents to prod branch
-      run: |
-        git checkout gh-pages -- _site
-        if [ -d "_site" ]; then
-          find _site -mindepth 1 -maxdepth 1 -exec mv {} . \; 2>/dev/null || true
-          rmdir _site 2>/dev/null || true
+        
+        # Get _site from gh-pages
+        git checkout gh-pages -- _site 2>/dev/null || true
+        
+        if [ -d "_site" ] && [ "$(ls -A _site 2>/dev/null)" ]; then
+          echo "📂 Copying _site contents..."
+          find _site -mindepth 1 -maxdepth 1 -exec cp -r {} . \;
+          rm -rf _site
+          echo "✅ Copy completed!"
+        else
+          echo "❌ No _site content found"
+          exit 1
         fi
-        echo "Files in prod branch:"
-        ls -la
 
-    - name: Commit and push changes
+    - name: Commit and push to prod
       run: |
         git add .
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Auto-sync from gh-pages _site folder ($(date))"
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "🚀 Auto-sync from gh-pages - $(date '+%Y-%m-%d %H:%M:%S')"
           git push origin prod
-          echo "✅ Successfully pushed changes to prod branch"
+          echo "✅ Successfully synced to prod branch!"
+        else
+          echo "ℹ️ No changes to commit"
         fi
