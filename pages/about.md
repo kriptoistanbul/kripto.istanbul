@@ -4,6 +4,7 @@ title: Hakkımızda
 noindex: true
 description: Some description.
 permalink: /about/
+sitemap: false
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">

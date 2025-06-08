@@ -5,6 +5,7 @@ date: '2020-02-27 01:53:59'
 title: About
 permalink: /about/
 description: Some description.
+sitemap: false
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="kripto istanbul yazar" width="200">
