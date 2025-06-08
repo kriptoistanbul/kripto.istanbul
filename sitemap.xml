@@ -1,6 +1,5 @@
 ---
 layout: null
-sitemap: false
 ---
 {% assign root_url = site.url | default: 'https://kripto.istanbul' %}
 {% if root_url contains 'localhost' %}
