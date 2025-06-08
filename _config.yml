@@ -107,3 +107,12 @@ version: v3.1.1
 sass:
   style: compressed
   sass_dir: _sass
+
+# Site URL configuration
+url: "https://kripto.istanbul"
+baseurl: ""
+
+# Asset configuration
+sass:
+  style: compressed
+  sass_dir: _sass
