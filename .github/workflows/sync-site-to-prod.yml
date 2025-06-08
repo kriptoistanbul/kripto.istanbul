@@ -1,0 +1,53 @@
+name: Sync _site to prod branch
+
+on:
+  push:
+    branches: [gh-pages]
+
+jobs:
+  sync-to-prod:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout gh-pages branch
+      uses: actions/checkout@v4
+      with:
+        ref: gh-pages
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Check if _site folder exists
+      run: |
+        if [ ! -d "_site" ]; then
+          echo "Error: _site folder not found in gh-pages branch"
+          exit 1
+        fi
+
+    - name: Switch to prod branch
+      run: |
+        git checkout -B prod origin/prod || git checkout -b prod
+
+    - name: Clear prod branch content
+      run: |
+        find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.github' -exec rm -rf {} +
+
+    - name: Copy _site contents to prod branch
+      run: |
+        git checkout gh-pages -- _site
+        mv _site/* . 2>/dev/null || true
+        mv _site/.[^.]* . 2>/dev/null || true
+        rmdir _site
+
+    - name: Commit and push changes
+      run: |
+        git add .
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-sync from gh-pages _site folder"
+          git push origin prod
+        fi
