@@ -28,3 +28,4 @@ sitemap: false
     {% endfor %}
   </channel>
 </rss>
+sitemap: false
