@@ -4,4 +4,5 @@ kripto.istanbul site dosyaları
 ## Deployment
 
 Updates to the `gh-pages` branch automatically sync the contents of the `_site`
-folder to the `prod` branch using a GitHub Actions workflow.
+folder to the `prod` branch using a GitHub Actions workflow. The action copies
+the generated site to `prod` whenever `gh-pages` changes.

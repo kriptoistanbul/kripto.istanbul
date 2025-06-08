@@ -17,14 +17,16 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          cp -r _site ../_site_copy
           if git rev-parse --verify origin/prod >/dev/null 2>&1; then
             git checkout prod
           else
             git checkout --orphan prod
-            git reset --hard
           fi
-          git rm -rf .
-          cp -r _site/* .
+          git reset --hard
+          git clean -fdx
+          cp -r ../_site_copy/* .
+          rm -rf ../_site_copy
           git add .
           if git diff --cached --quiet; then
             echo "No changes to commit"
