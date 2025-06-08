@@ -7,7 +7,7 @@ sitemap:
 {%- if root_url contains 'localhost' -%}
   {%- assign root_url = 'https://kripto.istanbul' -%}
 {%- endif -%}
-<?xml version="1.0" encoding="UTF-8"?>
+{%- capture sitemap_content -%}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {%- for page in site.pages -%}
   {%- unless page.sitemap == false or page.noindex == true -%}
@@ -34,3 +34,5 @@ sitemap:
   </url>
 {%- endfor -%}
 </urlset>
+{%- endcapture -%}
+<?xml version="1.0" encoding="UTF-8"?>{{ sitemap_content }}
