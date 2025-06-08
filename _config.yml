@@ -103,3 +103,7 @@ exclude: [
 
 # Theme
 version: v3.1.1
+
+sass:
+  style: compressed
+  sass_dir: _sass
