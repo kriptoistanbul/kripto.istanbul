@@ -42,7 +42,7 @@ faq:
   <source media="(min-width: 650px" srcset="/assets/img/posts-img/eth/ethereum-bitcoin-fark.webp">
   <img src="/assets/img/posts-img/eth/eth-yorum-2022.webp" alt="Ethereumun Bitcoinden Farkı Nedir" style="width:auto;">
 </picture>
-<h2 id="eth3">Ethereum ve Bitcoin Arasındaki Fark Nedir?</h2>
+<h2 id="eth3">Ethereum (ETH) ve Bitcoin (BTC) Arasındaki Fark Nedir?</h2>
 <p>Bitcoin ve Ethereum arasındaki en büyük fark, ETH'nin deflasyonist olmamasıdır. Bitcoin, kodunda yalnızca 21 milyon BTC'nin çıkarılmasına izin verecek sabit bir limite sahipken, ETH'nin toplam arz üzerinde bir sınırı yok ve her yıl büyümeye devam ediyor. Bununla ilgili çelişkili düşünceler olsa ve bazıları bir tedarik sınırı uygulamayı önermiş olsa da, Ethereum'un geliştiricileri mevcut sistemi "sabit bir güvenlik bütçesine" sahip olmak istememekle gerekçelendiriyor. ETH’nin ihraç oranını fikir birliği yoluyla ayarlayabilmek, Ethereum pazarının arz üzerinde sabit bir sınır olmadan güvenliğini korumasına olanak tanır. </p>
 <h2 id="eth4">Ethereum Nasıl Kullanılır?</h2>
 <p>Ethereum, blok zincirini başka projeler inşa etmek için bir platform olarak sunarak kripto sektörüne muazzam miktarda fayda sağlar. Mevcut ekosistemi <a href="https://kripto.istanbul/chainlink-link-nedir/" title="chainlink Nedir?" target="_blank">chainlink</a>, <a href="https://kripto.istanbul/uniswap-nedir/" title="uniswap Nedir?" target="_blank">uniswap</a>, Wrapped Bitcoin, DAI vb. DeFi devlerini içerdiğinden, diğer projelere ev sahipliği yapma kabiliyetinin değerinden daha fazlasını kanıtlamıştır. </p>
