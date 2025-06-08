@@ -30,10 +30,7 @@ jobs:
 
     - name: Create/switch to prod branch
       run: |
-        # Fetch all branches
         git fetch origin
-        
-        # Check if prod branch exists on remote
         if git show-ref --verify --quiet refs/remotes/origin/prod; then
           echo "Prod branch exists, checking it out"
           git checkout prod
@@ -44,33 +41,23 @@ jobs:
           git rm -rf . 2>/dev/null || true
         fi
 
-    - name: Clear prod branch content (keep .git and .github)
+    - name: Clear prod branch content
       run: |
-        # Remove all files except .git and .github
         find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name '.github' -exec rm -rf {} + 2>/dev/null || true
 
     - name: Copy _site contents to prod branch
       run: |
-        # Get _site folder from gh-pages branch
         git checkout gh-pages -- _site
-        
-        # Move everything from _site to root
         if [ -d "_site" ]; then
-          # Move visible files
           find _site -mindepth 1 -maxdepth 1 -exec mv {} . \; 2>/dev/null || true
-          # Remove empty _site directory
           rmdir _site 2>/dev/null || true
         fi
-        
-        # List what we have now
-        echo "Files in prod branch root:"
+        echo "Files in prod branch:"
         ls -la
 
     - name: Commit and push changes
       run: |
         git add .
-        
-        # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
